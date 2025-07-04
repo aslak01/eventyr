@@ -1,14 +1,14 @@
-import { join, basename, } from "path";
+import { basename, join } from "path";
 import { marked } from "marked";
-import { readdir, stat, writeFile, mkdir } from "fs/promises";
+import { mkdir, readdir, stat, writeFile } from "fs/promises";
 
-import type { GeneratorConfig, BookData, Chapter } from "./src/types/types";
+import type { BookData, Chapter, GeneratorConfig } from "./src/types/types.ts";
 
-import { optimizeImages } from "./src/image_processing/image";
-import { generateMainIndexHTML } from "./src/components/index-front";
-import { generateBookIndexHTML } from "./src/components/index-book";
-import { generateChapterHTML } from "./src/components/chapter";
-
+import { optimizeImages } from "./src/image_processing/image.ts";
+import { generateMainIndexHTML } from "./src/components/index-front.ts";
+import { generateBookIndexHTML } from "./src/components/index-book.ts";
+import { generateChapterHTML } from "./src/components/chapter.ts";
+import { processCSS } from "./src/css/process.ts";
 
 marked.setOptions({
   breaks: true,
@@ -19,10 +19,12 @@ const defaultConfig: GeneratorConfig = {
   booksDir: "./src/lib/books",
   distDir: "./dist",
   imageSizes: [400, 800, 1200],
-  imageFormats: ['webp', 'avif', 'jpeg']
+  imageFormats: ["webp", "avif", "jpeg"],
 };
 
-function createGenerator(config: Partial<GeneratorConfig> = {}): GeneratorConfig {
+function createGenerator(
+  config: Partial<GeneratorConfig> = {},
+): GeneratorConfig {
   return { ...defaultConfig, ...config };
 }
 
@@ -50,7 +52,7 @@ async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
 
         if (stats.isDirectory()) {
           const mdFiles = await readdir(bookPath);
-          const markdownFiles = mdFiles.filter(file => file.endsWith('.md'));
+          const markdownFiles = mdFiles.filter((file) => file.endsWith(".md"));
 
           if (markdownFiles.length > 0) {
             const book = await loadBook(entry, bookPath, markdownFiles);
@@ -69,33 +71,39 @@ async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
   }
 }
 
-async function loadBook(bookName: string, bookPath: string, mdFiles: string[]): Promise<BookData> {
+async function loadBook(
+  bookName: string,
+  bookPath: string,
+  mdFiles: string[],
+): Promise<BookData> {
   console.log(`📚 Loading book: ${bookName}`);
 
   const bookData: BookData = {
     name: bookName,
     path: bookPath,
-    chapters: []
+    chapters: [],
   };
 
   const sortedFiles = mdFiles.sort();
 
   for (const mdFile of sortedFiles) {
     const filePath = join(bookPath, mdFile);
-    const chapterName = basename(mdFile, '.md');
+    const chapterName = basename(mdFile, ".md");
 
     try {
       const fileContent = await Bun.file(filePath).text();
 
       const titleMatch = fileContent.match(/^#\s+(.+)/m);
-      const title = titleMatch ? titleMatch[1] : chapterName.replace(/[-_]/g, ' ')
+      const title = titleMatch
+        ? titleMatch[1]
+        : chapterName.replace(/[-_]/g, " ");
 
       const chapter: Chapter = {
         name: chapterName,
-        title: title || 'Tittel ikke funnet',
+        title: title || "Tittel ikke funnet",
         content: fileContent,
         path: `/${bookName}/${chapterName}`,
-        htmlPath: `/${bookName}/${chapterName}.html`
+        htmlPath: `/${bookName}/${chapterName}.html`,
       };
 
       bookData.chapters.push(chapter);
@@ -108,7 +116,6 @@ async function loadBook(bookName: string, bookPath: string, mdFiles: string[]): 
   return bookData;
 }
 
-
 async function generateSite(config: GeneratorConfig): Promise<void> {
   console.log("🚀 Starting static site generation...");
 
@@ -120,10 +127,12 @@ async function generateSite(config: GeneratorConfig): Promise<void> {
     return;
   }
 
+  await processCSS(config)
+
   const optimizedImages = await optimizeImages(books, config);
 
   const mainIndexHTML = generateMainIndexHTML(books);
-  await writeFile(join(config.distDir, 'index.html'), mainIndexHTML);
+  await writeFile(join(config.distDir, "index.html"), mainIndexHTML);
   console.log("📄 Generated main index.html");
 
   for (const book of books) {
@@ -131,7 +140,7 @@ async function generateSite(config: GeneratorConfig): Promise<void> {
     await mkdir(bookDir, { recursive: true });
 
     const bookIndexHTML = generateBookIndexHTML(book);
-    await writeFile(join(bookDir, 'index.html'), bookIndexHTML);
+    await writeFile(join(bookDir, "index.html"), bookIndexHTML);
     console.log(`📄 Generated ${book.name}/index.html`);
 
     for (const chapter of book.chapters) {
@@ -151,7 +160,7 @@ async function build(config: Partial<GeneratorConfig> = {}): Promise<void> {
 }
 
 export { build, createGenerator, generateSite };
-export type { GeneratorConfig, BookData, Chapter };
+export type { BookData, Chapter, GeneratorConfig };
 
 if (import.meta.main) {
   build();
