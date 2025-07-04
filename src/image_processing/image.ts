@@ -1,11 +1,24 @@
 import { join, extname, basename, } from "path";
-import { readdir, mkdir, copyFile } from "fs/promises";
+import { readdir, mkdir, copyFile, stat } from "fs/promises";
 import sharp from "sharp";
 
 import type { BookData, GeneratorConfig, OptimizedImage } from "../types/types";
+import { writeFile } from "fs/promises";
+
+
+type ImageCache = {
+  [key: string]: {
+    mtime: number;
+    sizes: { width: number; path: string }[];
+    webpPath: string;
+    avifPath: string;
+  };
+}
 
 export async function optimizeImages(books: BookData[], config: GeneratorConfig): Promise<Map<string, OptimizedImage>> {
   const optimizedImages = new Map<string, OptimizedImage>();
+  const cache = await loadImageCache(config);
+  let cacheUpdated = false;
 
   console.log("🖼️  Optimizing images...");
 
@@ -13,12 +26,49 @@ export async function optimizeImages(books: BookData[], config: GeneratorConfig)
     const imageFiles = await findImages(book.path);
 
     for (const imagePath of imageFiles) {
-      const optimized = await processImage(imagePath, book.name, config);
-      if (optimized) {
-        optimizedImages.set(imagePath, optimized);
-        console.log(`  ✨ Optimized: ${basename(imagePath)}`);
+      const needsUpdate = await needsProcessing(imagePath, cache);
+
+      if (needsUpdate) {
+        const optimized = await processImage(imagePath, book.name, config);
+        if (optimized) {
+          optimizedImages.set(imagePath, optimized);
+
+          // Update cache
+          const stats = await stat(imagePath);
+          cache[imagePath] = {
+            mtime: stats.mtime.getTime(),
+            sizes: optimized.sizes,
+            webpPath: optimized.webpPath,
+            avifPath: optimized.avifPath
+          };
+          cacheUpdated = true;
+
+          console.log(`  ✨ Optimized: ${basename(imagePath)}`);
+        }
+      } else {
+        // Use cached data
+        const cachedData = cache[imagePath];
+
+        if (!cachedData) {
+          throw new Error("weird state achieved, thought there were cached images but didn't find any")
+        }
+
+        optimizedImages.set(imagePath, {
+          originalPath: imagePath,
+          webpPath: cachedData.webpPath,
+          avifPath: cachedData.avifPath,
+          sizes: cachedData.sizes
+        });
+
+        console.log(`  💾 Cached: ${basename(imagePath)}`);
       }
     }
+  }
+
+  // Save cache if updated
+  if (cacheUpdated) {
+    await saveImageCache(config, cache);
+    console.log("💾 Updated image cache");
   }
 
   return optimizedImages;
@@ -144,3 +194,40 @@ export function processMarkdownImages(content: string, bookName: string, optimiz
   );
 }
 
+
+async function loadImageCache(config: GeneratorConfig): Promise<ImageCache> {
+  const cacheFile = join(config.distDir, '.image-cache.json');
+
+  try {
+    const cacheContent = await Bun.file(cacheFile).text();
+    return JSON.parse(cacheContent);
+  } catch {
+    return {};
+  }
+}
+
+// Save image cache to disk
+async function saveImageCache(config: GeneratorConfig, cache: ImageCache): Promise<void> {
+  const cacheFile = join(config.distDir, '.image-cache.json');
+  await writeFile(cacheFile, JSON.stringify(cache, null, 2));
+}
+
+// Check if image needs processing based on modification time
+async function needsProcessing(imagePath: string, cache: ImageCache): Promise<boolean> {
+  const cacheKey = imagePath;
+
+  try {
+    const stats = await stat(imagePath);
+    const currentMtime = stats.mtime.getTime();
+
+    // If not in cache or file is newer, needs processing
+    if (!cache[cacheKey] || cache[cacheKey].mtime < currentMtime) {
+      return true;
+    }
+
+    return false;
+  } catch {
+    // If we can't stat the file, assume it needs processing
+    return true;
+  }
+}
