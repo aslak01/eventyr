@@ -1,0 +1,32 @@
+{
+  "name": "eventyr",
+  "version": "1.0.0",
+  "description": "Static site generator for books with TypeScript and Sharp image optimization",
+  "main": "static-site-generator.ts",
+  "scripts": {
+    "build": "bun run static-generator.ts",
+    "setup": "bun run setup.js",
+    "serve": "bun run server.ts",
+    "dev": "bun run setup && bun run build && bun run serve"
+  },
+  "keywords": [
+    "bun",
+    "static-site-generator",
+    "markdown",
+    "books",
+    "typescript",
+    "sharp"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "marked": "^12.0.0",
+    "sharp": "^0.32.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "engines": {
+    "bun": ">=1.0.0"
+  }
+}
