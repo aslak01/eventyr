@@ -27,7 +27,9 @@ interface RequestContext {
 }
 
 type RouteHandler = (ctx: RequestContext) => Response | Promise<Response>;
-type Middleware = (request: Request) => Response | Promise<Response | void> | void;
+type Middleware = (
+  request: Request,
+) => Response | Promise<Response | void> | void;
 
 interface RouterState {
   routes: Map<string, RouteHandler>;
@@ -41,7 +43,7 @@ marked.setOptions({
   breaks: true,
   gfm: true,
   headerIds: true,
-  mangle: false
+  mangle: false,
 });
 
 // Create initial router state
@@ -50,15 +52,18 @@ function createRouter(booksDir = "./src/lib/books"): RouterState {
     routes: new Map(),
     bookStructure: new Map(),
     middlewares: [],
-    booksDir
+    booksDir,
   };
 }
 
 // Add middleware
-function addMiddleware(state: RouterState, middleware: Middleware): RouterState {
+function addMiddleware(
+  state: RouterState,
+  middleware: Middleware,
+): RouterState {
   return {
     ...state,
-    middlewares: [...state.middlewares, middleware]
+    middlewares: [...state.middlewares, middleware],
   };
 }
 
@@ -91,10 +96,15 @@ async function loadBooks(state: RouterState): Promise<RouterState> {
         if (stats.isDirectory()) {
           // Get markdown files in this directory
           const mdFiles = await readdir(bookPath);
-          const markdownFiles = mdFiles.filter(file => file.endsWith('.md'));
+          const markdownFiles = mdFiles.filter((file) => file.endsWith(".md"));
 
           if (markdownFiles.length > 0) {
-            newState = await registerBook(newState, entry, bookPath, markdownFiles);
+            newState = await registerBook(
+              newState,
+              entry,
+              bookPath,
+              markdownFiles,
+            );
           }
         }
       } catch (e) {
@@ -115,14 +125,14 @@ async function registerBook(
   state: RouterState,
   bookName: string,
   bookPath: string,
-  mdFiles: string[]
+  mdFiles: string[],
 ): Promise<RouterState> {
   console.log(`📚 Registering book: ${bookName}`);
 
   const bookData: BookData = {
     name: bookName,
     path: bookPath,
-    chapters: []
+    chapters: [],
   };
 
   // Sort markdown files for consistent ordering
@@ -132,25 +142,29 @@ async function registerBook(
   // Read each markdown file
   for (const mdFile of sortedFiles) {
     const filePath = join(bookPath, mdFile);
-    const chapterName = basename(mdFile, '.md');
+    const chapterName = basename(mdFile, ".md");
 
     try {
       const fileContent = await Bun.file(filePath).text();
 
       // Extract title from first heading or use filename
       const titleMatch = fileContent.match(/^#\s+(.+)/m);
-      const title = titleMatch ? titleMatch[1] : chapterName.replace(/[-_]/g, ' ');
+      const title = titleMatch
+        ? titleMatch[1]
+        : chapterName.replace(/[-_]/g, " ");
 
       bookData.chapters.push({
         name: chapterName,
         title: title,
         content: fileContent,
-        path: `/${encodeURIComponent(bookName)}/${encodeURIComponent(chapterName)}`
+        path: `/${encodeURIComponent(bookName)}/${encodeURIComponent(chapterName)}`,
       });
 
       // Register route for individual chapter
       const routeKey = `GET:/${bookName}/${chapterName}`;
-      newRoutes.set(routeKey, (ctx) => renderMarkdown(bookData, chapterName, ctx));
+      newRoutes.set(routeKey, (ctx) =>
+        renderMarkdown(bookData, chapterName, ctx),
+      );
 
       console.log(`  📄 Added chapter: ${chapterName} -> ${title}`);
     } catch (error) {
@@ -171,12 +185,16 @@ async function registerBook(
   return {
     ...state,
     routes: newRoutes,
-    bookStructure: newBookStructure
+    bookStructure: newBookStructure,
   };
 }
 
 // Serve static images from book directories
-async function serveImage(state: RouterState, bookName: string, imagePath: string): Promise<Response | null> {
+async function serveImage(
+  state: RouterState,
+  bookName: string,
+  imagePath: string,
+): Promise<Response | null> {
   const book = state.bookStructure.get(bookName);
   if (!book) return null;
 
@@ -187,19 +205,19 @@ async function serveImage(state: RouterState, bookName: string, imagePath: strin
     if (await imageFile.exists()) {
       const ext = extname(imagePath).toLowerCase();
       const mimeTypes: Record<string, string> = {
-        '.png': 'image/png',
-        '.jpg': 'image/jpeg',
-        '.jpeg': 'image/jpeg',
-        '.gif': 'image/gif',
-        '.svg': 'image/svg+xml',
-        '.webp': 'image/webp'
+        ".png": "image/png",
+        ".jpg": "image/jpeg",
+        ".jpeg": "image/jpeg",
+        ".gif": "image/gif",
+        ".svg": "image/svg+xml",
+        ".webp": "image/webp",
       };
 
       return new Response(imageFile, {
         headers: {
-          'Content-Type': mimeTypes[ext] || 'application/octet-stream',
-          'Cache-Control': 'public, max-age=31536000'
-        }
+          "Content-Type": mimeTypes[ext] || "application/octet-stream",
+          "Cache-Control": "public, max-age=31536000",
+        },
       });
     }
   } catch (error) {
@@ -277,16 +295,20 @@ function renderBookIndex(bookData: BookData, ctx: RequestContext): Response {
 </head>
 <body>
     <div class="header">
-        <h1 class="book-title">${bookData.name.replace(/[-_]/g, ' ')}</h1>
-        <p>${bookData.chapters.length} chapter${bookData.chapters.length !== 1 ? 's' : ''}</p>
+        <h1 class="book-title">${bookData.name.replace(/[-_]/g, " ")}</h1>
+        <p>${bookData.chapters.length} chapter${bookData.chapters.length !== 1 ? "s" : ""}</p>
     </div>
     
     <ul class="chapters">
-        ${bookData.chapters.map(chapter => `
+        ${bookData.chapters
+          .map(
+            (chapter) => `
             <li class="chapter-item">
                 <a href="${chapter.path}" class="chapter-link">${chapter.title}</a>
             </li>
-        `).join('')}
+        `,
+          )
+          .join("")}
     </ul>
     
     <div class="nav">
@@ -296,25 +318,35 @@ function renderBookIndex(bookData: BookData, ctx: RequestContext): Response {
 </html>`;
 
   return new Response(html, {
-    headers: { 'Content-Type': 'text/html' }
+    headers: { "Content-Type": "text/html" },
   });
 }
 
 // Render individual markdown chapter
-function renderMarkdown(bookData: BookData, chapterName: string, ctx: RequestContext): Response {
-  const chapter = bookData.chapters.find(ch => ch.name === chapterName);
+function renderMarkdown(
+  bookData: BookData,
+  chapterName: string,
+  ctx: RequestContext,
+): Response {
+  const chapter = bookData.chapters.find((ch) => ch.name === chapterName);
 
   if (!chapter) {
-    return new Response('Chapter not found', { status: 404 });
+    return new Response("Chapter not found", { status: 404 });
   }
 
   // Convert markdown to HTML
   const htmlContent = marked(chapter.content);
 
   // Find current chapter index for navigation
-  const currentIndex = bookData.chapters.findIndex(ch => ch.name === chapterName);
-  const prevChapter = currentIndex > 0 ? bookData.chapters[currentIndex - 1] : null;
-  const nextChapter = currentIndex < bookData.chapters.length - 1 ? bookData.chapters[currentIndex + 1] : null;
+  const currentIndex = bookData.chapters.findIndex(
+    (ch) => ch.name === chapterName,
+  );
+  const prevChapter =
+    currentIndex > 0 ? bookData.chapters[currentIndex - 1] : null;
+  const nextChapter =
+    currentIndex < bookData.chapters.length - 1
+      ? bookData.chapters[currentIndex + 1]
+      : null;
 
   const html = `
 <!DOCTYPE html>
@@ -427,7 +459,7 @@ function renderMarkdown(bookData: BookData, chapterName: string, ctx: RequestCon
 </head>
 <body>
     <div class="header">
-        <p class="book-name">${bookData.name.replace(/[-_]/g, ' ')}</p>
+        <p class="book-name">${bookData.name.replace(/[-_]/g, " ")}</p>
         <h1 class="chapter-title">${chapter.title}</h1>
     </div>
     
@@ -437,20 +469,20 @@ function renderMarkdown(bookData: BookData, chapterName: string, ctx: RequestCon
     
     <div class="navigation">
         <div>
-            ${prevChapter ? `<a href="${prevChapter.path}" class="nav-link">← ${prevChapter.title}</a>` : '<span></span>'}
+            ${prevChapter ? `<a href="${prevChapter.path}" class="nav-link">← ${prevChapter.title}</a>` : "<span></span>"}
         </div>
         <div>
             <a href="/${encodeURIComponent(bookData.name)}" class="book-link">📚 Back to ${bookData.name}</a>
         </div>
         <div>
-            ${nextChapter ? `<a href="${nextChapter.path}" class="nav-link">${nextChapter.title} →</a>` : '<span></span>'}
+            ${nextChapter ? `<a href="${nextChapter.path}" class="nav-link">${nextChapter.title} →</a>` : "<span></span>"}
         </div>
     </div>
 </body>
 </html>`;
 
   return new Response(html, {
-    headers: { 'Content-Type': 'text/html' }
+    headers: { "Content-Type": "text/html" },
   });
 }
 
@@ -546,40 +578,53 @@ function renderMainIndex(state: RouterState): Response {
 <body>
     <div class="header">
         <h1 class="main-title">📚 Book Library</h1>
-        <p class="subtitle">${books.length} book${books.length !== 1 ? 's' : ''} available</p>
+        <p class="subtitle">${books.length} book${books.length !== 1 ? "s" : ""} available</p>
     </div>
     
     <div class="books-grid">
-        ${books.map(book => `
+        ${books
+          .map(
+            (book) => `
             <div class="book-card">
                 <a href="/${encodeURIComponent(book.name)}" class="book-link">
-                    <h2 class="book-title">${book.name.replace(/[-_]/g, ' ')}</h2>
+                    <h2 class="book-title">${book.name.replace(/[-_]/g, " ")}</h2>
                 </a>
                 <div class="book-meta">
-                    ${book.chapters.length} chapter${book.chapters.length !== 1 ? 's' : ''}
+                    ${book.chapters.length} chapter${book.chapters.length !== 1 ? "s" : ""}
                 </div>
                 <div class="chapter-preview">
                     <h4>Chapters:</h4>
                     <ul class="chapter-list">
-                        ${book.chapters.slice(0, 5).map(chapter => `
+                        ${book.chapters
+                          .slice(0, 5)
+                          .map(
+                            (chapter) => `
                             <li>• ${chapter.title}</li>
-                        `).join('')}
-                        ${book.chapters.length > 5 ? `<li>• ... and ${book.chapters.length - 5} more</li>` : ''}
+                        `,
+                          )
+                          .join("")}
+                        ${book.chapters.length > 5 ? `<li>• ... and ${book.chapters.length - 5} more</li>` : ""}
                     </ul>
                 </div>
             </div>
-        `).join('')}
+        `,
+          )
+          .join("")}
     </div>
 </body>
 </html>`;
 
   return new Response(html, {
-    headers: { 'Content-Type': 'text/html' }
+    headers: { "Content-Type": "text/html" },
   });
 }
 
 // Match route with parameters
-function matchRoute(state: RouterState, method: string, path: string): { handler: RouteHandler; params: Record<string, string> } | null {
+function matchRoute(
+  state: RouterState,
+  method: string,
+  path: string,
+): { handler: RouteHandler; params: Record<string, string> } | null {
   // Decode URL components to handle special characters
   const decodedPath = decodeURIComponent(path);
 
@@ -599,7 +644,10 @@ function matchRoute(state: RouterState, method: string, path: string): { handler
 }
 
 // Main request handler
-async function handleRequest(state: RouterState, request: Request): Promise<Response> {
+async function handleRequest(
+  state: RouterState,
+  request: Request,
+): Promise<Response> {
   const url = new URL(request.url);
   const method = request.method;
   // Decode the pathname to handle special characters properly
@@ -614,15 +662,17 @@ async function handleRequest(state: RouterState, request: Request): Promise<Resp
   }
 
   // Handle static image files
-  const imageMatch = path.match(/^\/([^\/]+)\/(.+\.(png|jpg|jpeg|gif|svg|webp))$/i);
-  if (imageMatch && method === 'GET') {
+  const imageMatch = path.match(
+    /^\/([^\/]+)\/(.+\.(png|jpg|jpeg|gif|svg|webp))$/i,
+  );
+  if (imageMatch && method === "GET") {
     const [, bookName, imagePath] = imageMatch;
     const response = await serveImage(state, bookName, imagePath);
     if (response) return response;
   }
 
   // Handle root path - show all books
-  if (path === '/') {
+  if (path === "/") {
     return renderMainIndex(state);
   }
 
@@ -630,7 +680,7 @@ async function handleRequest(state: RouterState, request: Request): Promise<Resp
   const match = matchRoute(state, method, path);
 
   if (!match) {
-    return new Response('Page not found', { status: 404 });
+    return new Response("Page not found", { status: 404 });
   }
 
   try {
@@ -641,14 +691,14 @@ async function handleRequest(state: RouterState, request: Request): Promise<Resp
       query: Object.fromEntries(url.searchParams),
       url,
       method,
-      path
+      path,
     };
 
     // Call route handler
     return await match.handler(context);
   } catch (error) {
-    console.error('Route handler error:', error);
-    return new Response('Internal Server Error', { status: 500 });
+    console.error("Route handler error:", error);
+    return new Response("Internal Server Error", { status: 500 });
   }
 }
 
@@ -667,7 +717,10 @@ async function listen(state: RouterState, port = 3000): Promise<Server> {
 }
 
 // Main function to create and start the router
-async function createBookRouter(booksDir = "./src/lib/books", port = 3000): Promise<Server> {
+async function createBookRouter(
+  booksDir = "./src/lib/books",
+  port = 3000,
+): Promise<Server> {
   let router = createRouter(booksDir);
 
   // Add logging middleware
@@ -686,5 +739,5 @@ export type { RouterState, Middleware, RequestContext, BookData, Chapter };
 
 // Auto-start if this is the main module
 if (import.meta.main) {
-  createBookRouter('./src/lib/books', 3000);
+  createBookRouter("./src/lib/books", 3000);
 }

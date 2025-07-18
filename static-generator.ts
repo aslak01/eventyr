@@ -127,7 +127,7 @@ async function generateSite(config: GeneratorConfig): Promise<void> {
     return;
   }
 
-  await processCSS(config)
+  await processCSS(config);
 
   const optimizedImages = await optimizeImages(books, config);
 

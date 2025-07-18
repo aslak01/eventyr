@@ -1,14 +1,16 @@
-import type { GeneratorConfig } from '../types/types';
+import { transform, browserslistToTargets } from "lightningcss";
 import { readdir, writeFile, mkdir } from "fs/promises";
+import browserslist from "browserslist";
 import { join } from "path";
 
+import type { GeneratorConfig } from "../types/types";
+
 export async function processCSS(config: GeneratorConfig): Promise<void> {
-  const { transform } = await import('lightningcss');
-  const srcCSSDir = join(process.cwd(), 'src/css');
-  const distCSSDir = join(config.distDir, 'css');
+  const srcCSSDir = join(process.cwd(), "src/css");
+  const distCSSDir = join(config.distDir, "css");
+  const targets = browserslistToTargets(browserslist(">= 0.25%"));
 
   try {
-    // Check if src/css exists
     await readdir(srcCSSDir);
   } catch {
     console.log("⚠️  No src/css directory found, skipping CSS processing");
@@ -17,9 +19,8 @@ export async function processCSS(config: GeneratorConfig): Promise<void> {
 
   await mkdir(distCSSDir, { recursive: true });
 
-  // Get all CSS files from src/css
   const cssFiles = await readdir(srcCSSDir);
-  const cssFilesToProcess = cssFiles.filter(file => file.endsWith('.css'));
+  const cssFilesToProcess = cssFiles.filter((file) => file.endsWith(".css"));
 
   for (const cssFile of cssFilesToProcess) {
     const srcPath = join(srcCSSDir, cssFile);
@@ -28,18 +29,11 @@ export async function processCSS(config: GeneratorConfig): Promise<void> {
     try {
       const cssContent = await Bun.file(srcPath).text();
 
-      // Process with Lightning CSS
       const result = transform({
         filename: cssFile,
         code: Buffer.from(cssContent),
         minify: true,
-        targets: {
-          // Support modern browsers (last 2 versions)
-          chrome: 100 << 16,
-          firefox: 100 << 16,
-          safari: 15 << 16,
-          edge: 100 << 16,
-        },
+        targets,
       });
 
       await writeFile(distPath, result.code);
@@ -49,4 +43,3 @@ export async function processCSS(config: GeneratorConfig): Promise<void> {
     }
   }
 }
-

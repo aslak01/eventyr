@@ -1,21 +1,19 @@
-import { join, extname, basename, } from "path";
+import { join, extname, basename } from "path";
 import { readdir, mkdir, copyFile, stat } from "fs/promises";
 import sharp from "sharp";
 
-import type { BookData, GeneratorConfig, OptimizedImage } from "../types/types";
+import type {
+  BookData,
+  GeneratorConfig,
+  OptimizedImage,
+  ImageCache,
+} from "../types/types";
 import { writeFile } from "fs/promises";
 
-
-type ImageCache = {
-  [key: string]: {
-    mtime: number;
-    sizes: { width: number; path: string }[];
-    webpPath: string;
-    avifPath: string;
-  };
-}
-
-export async function optimizeImages(books: BookData[], config: GeneratorConfig): Promise<Map<string, OptimizedImage>> {
+export async function optimizeImages(
+  books: BookData[],
+  config: GeneratorConfig,
+): Promise<Map<string, OptimizedImage>> {
   const optimizedImages = new Map<string, OptimizedImage>();
   const cache = await loadImageCache(config);
   let cacheUpdated = false;
@@ -39,7 +37,7 @@ export async function optimizeImages(books: BookData[], config: GeneratorConfig)
             mtime: stats.mtime.getTime(),
             sizes: optimized.sizes,
             webpPath: optimized.webpPath,
-            avifPath: optimized.avifPath
+            avifPath: optimized.avifPath,
           };
           cacheUpdated = true;
 
@@ -50,14 +48,16 @@ export async function optimizeImages(books: BookData[], config: GeneratorConfig)
         const cachedData = cache[imagePath];
 
         if (!cachedData) {
-          throw new Error("weird state achieved, thought there were cached images but didn't find any")
+          throw new Error(
+            "weird state achieved, thought there were cached images but didn't find any",
+          );
         }
 
         optimizedImages.set(imagePath, {
           originalPath: imagePath,
           webpPath: cachedData.webpPath,
           avifPath: cachedData.avifPath,
-          sizes: cachedData.sizes
+          sizes: cachedData.sizes,
         });
 
         console.log(`  💾 Cached: ${basename(imagePath)}`);
@@ -82,7 +82,7 @@ export async function findImages(bookPath: string): Promise<string[]> {
 
     for (const file of files) {
       const ext = extname(file).toLowerCase();
-      if (['.png', '.jpg', '.jpeg', '.gif', '.svg', '.webp'].includes(ext)) {
+      if ([".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"].includes(ext)) {
         imageFiles.push(join(bookPath, file));
       }
     }
@@ -93,23 +93,29 @@ export async function findImages(bookPath: string): Promise<string[]> {
   return imageFiles;
 }
 
-export async function processImage(imagePath: string, bookName: string, config: GeneratorConfig): Promise<OptimizedImage | null> {
+export async function processImage(
+  imagePath: string,
+  bookName: string,
+  config: GeneratorConfig,
+): Promise<OptimizedImage | null> {
   const ext = extname(imagePath).toLowerCase();
   const baseName = basename(imagePath, ext);
-  const outputDir = join(config.distDir, 'images', bookName);
+  const outputDir = join(config.distDir, "images", bookName);
 
   try {
     await mkdir(outputDir, { recursive: true });
 
     // Skip SVG files - just copy them
-    if (ext === '.svg') {
+    if (ext === ".svg") {
       const svgPath = join(outputDir, basename(imagePath));
       await copyFile(imagePath, svgPath);
       return {
         originalPath: imagePath,
         webpPath: svgPath,
         avifPath: svgPath,
-        sizes: [{ width: 0, path: `/images/${bookName}/${basename(imagePath)}` }]
+        sizes: [
+          { width: 0, path: `/images/${bookName}/${basename(imagePath)}` },
+        ],
       };
     }
 
@@ -118,9 +124,9 @@ export async function processImage(imagePath: string, bookName: string, config: 
 
     const optimized: OptimizedImage = {
       originalPath: imagePath,
-      webpPath: '',
-      avifPath: '',
-      sizes: []
+      webpPath: "",
+      avifPath: "",
+      sizes: [],
     };
 
     for (const size of config.imageSizes) {
@@ -138,10 +144,10 @@ export async function processImage(imagePath: string, bookName: string, config: 
         const webPath = `/images/${bookName}/${fileName}`;
         optimized.sizes.push({ width: size, path: webPath });
 
-        if (format === 'webp' && !optimized.webpPath) {
+        if (format === "webp" && !optimized.webpPath) {
           optimized.webpPath = webPath;
         }
-        if (format === 'avif' && !optimized.avifPath) {
+        if (format === "avif" && !optimized.avifPath) {
           optimized.avifPath = webPath;
         }
       }
@@ -154,49 +160,61 @@ export async function processImage(imagePath: string, bookName: string, config: 
   }
 }
 
-export function processMarkdownImages(content: string, bookName: string, optimizedImages: Map<string, OptimizedImage>): string {
+export function processMarkdownImages(
+  content: string,
+  bookName: string,
+  optimizedImages: Map<string, OptimizedImage>,
+): string {
   return content.replace(
     /!\[([^\]]*)\]\(\.\/(.*?\.(png|jpg|jpeg|gif|svg|webp))\s*(?:"([^"]*)")?\)/gi,
     (match, alt, imagePath, ext, title) => {
-      const fullImagePath = join(process.cwd(), 'src/lib/books', bookName, imagePath);
+      const fullImagePath = join(
+        process.cwd(),
+        "src/lib/books",
+        bookName,
+        imagePath,
+      );
       const optimized = optimizedImages.get(fullImagePath);
 
-      if (!optimized || optimized?.sizes?.length < 1 || !optimized?.sizes[0]?.path) {
+      if (
+        !optimized ||
+        optimized?.sizes?.length < 1 ||
+        !optimized?.sizes[0]?.path
+      ) {
         console.warn(`No optimized image found for: ${imagePath}`);
         return match;
       }
 
-      if (ext.toLowerCase() === 'svg') {
-        return `<img src="${optimized.sizes[0].path}" alt="${alt}"${title ? ` title="${title}"` : ''} />`;
+      if (ext.toLowerCase() === "svg") {
+        return `<img src="${optimized.sizes[0].path}" alt="${alt}"${title ? ` title="${title}"` : ""} />`;
       }
 
       const webpSources = optimized.sizes
-        .filter(s => s.path.includes('.webp'))
-        .map(s => `${s.path} ${s.width}w`)
-        .join(', ');
+        .filter((s) => s.path.includes(".webp"))
+        .map((s) => `${s.path} ${s.width}w`)
+        .join(", ");
 
       const avifSources = optimized.sizes
-        .filter(s => s.path.includes('.avif'))
-        .map(s => `${s.path} ${s.width}w`)
-        .join(', ');
+        .filter((s) => s.path.includes(".avif"))
+        .map((s) => `${s.path} ${s.width}w`)
+        .join(", ");
 
       const jpegSources = optimized.sizes
-        .filter(s => s.path.includes('.jpeg'))
-        .map(s => `${s.path} ${s.width}w`)
-        .join(', ');
+        .filter((s) => s.path.includes(".jpeg"))
+        .map((s) => `${s.path} ${s.width}w`)
+        .join(", ");
 
       return `<picture>
-        ${avifSources ? `<source srcset="${avifSources}" type="image/avif" sizes="(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px" />` : ''}
-        ${webpSources ? `<source srcset="${webpSources}" type="image/webp" sizes="(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px" />` : ''}
-        <img src="${optimized.sizes[0].path}" srcset="${jpegSources}" alt="${alt}"${title ? ` title="${title}"` : ''} sizes="(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px" />
+        ${avifSources ? `<source srcset="${avifSources}" type="image/avif" sizes="(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px" />` : ""}
+        ${webpSources ? `<source srcset="${webpSources}" type="image/webp" sizes="(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px" />` : ""}
+        <img src="${optimized.sizes[0].path}" srcset="${jpegSources}" alt="${alt}"${title ? ` title="${title}"` : ""} sizes="(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px" />
       </picture>`;
-    }
+    },
   );
 }
 
-
 async function loadImageCache(config: GeneratorConfig): Promise<ImageCache> {
-  const cacheFile = join(config.distDir, '.image-cache.json');
+  const cacheFile = join(config.distDir, ".image-cache.json");
 
   try {
     const cacheContent = await Bun.file(cacheFile).text();
@@ -207,13 +225,19 @@ async function loadImageCache(config: GeneratorConfig): Promise<ImageCache> {
 }
 
 // Save image cache to disk
-async function saveImageCache(config: GeneratorConfig, cache: ImageCache): Promise<void> {
-  const cacheFile = join(config.distDir, '.image-cache.json');
+async function saveImageCache(
+  config: GeneratorConfig,
+  cache: ImageCache,
+): Promise<void> {
+  const cacheFile = join(config.distDir, ".image-cache.json");
   await writeFile(cacheFile, JSON.stringify(cache, null, 2));
 }
 
 // Check if image needs processing based on modification time
-async function needsProcessing(imagePath: string, cache: ImageCache): Promise<boolean> {
+async function needsProcessing(
+  imagePath: string,
+  cache: ImageCache,
+): Promise<boolean> {
   const cacheKey = imagePath;
 
   try {

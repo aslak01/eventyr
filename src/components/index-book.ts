@@ -1,7 +1,7 @@
 import type { BookData } from "../types/types";
 
 export function generateBookIndexHTML(book: BookData): string {
-    return `<!DOCTYPE html>
+  return `<!DOCTYPE html>
 <html lang="nb-NO">
 <head>
     <meta charset="UTF-8">
@@ -11,16 +11,20 @@ export function generateBookIndexHTML(book: BookData): string {
 </head>
 <body>
     <div class="header">
-        <h1 class="book-title">${book.name.replace(/[-_]/g, ' ')}</h1>
-        <p>${book.chapters.length} chapter${book.chapters.length !== 1 ? 's' : ''}</p>
+        <h1 class="book-title">${book.name.replace(/[-_]/g, " ")}</h1>
+        <p>${book.chapters.length} chapter${book.chapters.length !== 1 ? "s" : ""}</p>
     </div>
     
     <ul class="chapters">
-        ${book.chapters.map(chapter => `
+        ${book.chapters
+          .map(
+            (chapter) => `
             <li class="chapter-item">
                 <a href="/${book.name}/${chapter.name}.html" class="chapter-link">${chapter.title}</a>
             </li>
-        `).join('')}
+        `,
+          )
+          .join("")}
     </ul>
     
     <div class="nav">
@@ -29,5 +33,3 @@ export function generateBookIndexHTML(book: BookData): string {
 </body>
 </html>`;
 }
-
-

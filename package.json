@@ -7,7 +7,8 @@
     "build": "bun run static-generator.ts",
     "setup": "bun run setup.js",
     "serve": "bun run server.ts",
-    "dev": "bun run setup && bun run build && bun run serve"
+    "dev": "bun run setup && bun run build && bun run serve",
+    "format": "prettier -w ."
   },
   "keywords": [
     "bun",
@@ -25,7 +26,11 @@
     "sharp": "^0.32.0"
   },
   "devDependencies": {
-    "@types/bun": "latest"
+    "@prettier/plugin-oxc": "^0.0.4",
+    "@types/bun": "latest",
+    "browserslist": "^4.25.1",
+    "oxlint": "^1.7.0",
+    "prettier": "^3.6.2"
   },
   "engines": {
     "bun": ">=1.0.0"

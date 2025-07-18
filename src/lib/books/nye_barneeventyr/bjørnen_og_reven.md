@@ -40,4 +40,3 @@ den andre hadde vært borte i smørholken, mens han sjøl lå og sov.
 Ja, den prøven vilde bjørnen gjerne gå inn på; han visste med sig sjøl at han ikke hadde smakt smøret engang, og la sig trygt til å sove i sola. Så lusket Mikkel bort til holken efter et smørgrand som satt igjen i en sprekk, og tilbake til bjørnen og smurte ham bak med det; så la han sig til å sove, som ingenting hadde hendt. Da nå begge våknet, så hadde sola smeltet smøret, og så blev bjørnen den som hadde ett smøret, likevel han.
 
 ![Reven](./bjørnen_og_reven_2.png "Reven")
-
