@@ -13,8 +13,9 @@ export function generateChapterHTML(
 ): string {
   const processedContent = processMarkdownImages(
     chapter.content,
-    book.name,
+    book.slug,
     optimizedImages,
+    chapter.path,
   );
   const htmlContent = marked(processedContent);
 

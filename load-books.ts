@@ -106,7 +106,7 @@ async function loadBook(
         name: chapterName,
         title: title || "Tittel ikke funnet",
         content: fileContent,
-        path: `/${bookName}/${chapterName}`,
+        path: join(chaptersPath, chapterName),
         htmlPath: `/${bookName}/${chapterName}.html`,
         wordCount: getWordCount(fileContent),
         book: bookData.name,

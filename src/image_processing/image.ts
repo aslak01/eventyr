@@ -78,12 +78,39 @@ export async function findImages(bookPath: string): Promise<string[]> {
   const imageFiles: string[] = [];
 
   try {
-    const files = await readdir(bookPath);
+    const chaptersPath = join(bookPath, "chapters");
+    
+    try {
+      const chapters = await readdir(chaptersPath);
+      
+      for (const chapter of chapters) {
+        const chapterPath = join(chaptersPath, chapter);
+        
+        try {
+          const chapterStat = await stat(chapterPath);
+          if (chapterStat.isDirectory()) {
+            const files = await readdir(chapterPath);
+            
+            for (const file of files) {
+              const ext = extname(file).toLowerCase();
+              if ([".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"].includes(ext)) {
+                imageFiles.push(join(chapterPath, file));
+              }
+            }
+          }
+        } catch (error) {
+          console.error(`Error reading chapter ${chapter}:`, error);
+        }
+      }
+    } catch (error) {
+      // No chapters directory, try the book root
+      const files = await readdir(bookPath);
 
-    for (const file of files) {
-      const ext = extname(file).toLowerCase();
-      if ([".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"].includes(ext)) {
-        imageFiles.push(join(bookPath, file));
+      for (const file of files) {
+        const ext = extname(file).toLowerCase();
+        if ([".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"].includes(ext)) {
+          imageFiles.push(join(bookPath, file));
+        }
       }
     }
   } catch (error) {
@@ -162,18 +189,14 @@ export async function processImage(
 
 export function processMarkdownImages(
   content: string,
-  bookName: string,
+  bookSlug: string,
   optimizedImages: Map<string, OptimizedImage>,
+  chapterPath: string,
 ): string {
   return content.replace(
     /!\[([^\]]*)\]\(\.\/(.*?\.(png|jpg|jpeg|gif|svg|webp))\s*(?:"([^"]*)")?\)/gi,
     (match, alt, imagePath, ext, title) => {
-      const fullImagePath = join(
-        process.cwd(),
-        "src/lib/books",
-        bookName,
-        imagePath,
-      );
+      const fullImagePath = join(chapterPath, imagePath);
       const optimized = optimizedImages.get(fullImagePath);
 
       if (
