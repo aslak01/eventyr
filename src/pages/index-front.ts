@@ -14,7 +14,7 @@ export function generateMainIndexHTML(books: BookData[]): string {
       .map(
         (book) => `
             <div class="book-card">
-                <a href="/${book.name}/" class="book-link">
+                <a href="/${book.slug}/" class="book-link">
                     <h2 class="book-title">${book.name.replace(/[-_]/g, " ")}</h2>
                 </a>
                 <div class="book-meta">

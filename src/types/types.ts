@@ -10,6 +10,7 @@ export type Chapter = {
 
 export type BookData = {
   name: string;
+  slug: string;
   path: string;
   chapters: Chapter[];
 };

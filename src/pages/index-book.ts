@@ -15,7 +15,7 @@ export function generateBookIndexHTML(book: BookData): string {
       .map(
         (chapter) => `
             <li class="chapter-item">
-                <a href="/${book.name}/${chapter.name}.html" class="chapter-link">${chapter.title} - ${chapter.wordCount}</a>
+                <a href="/${book.slug}/${chapter.name}.html" class="chapter-link">${chapter.title} - ${chapter.wordCount}</a>
             </li>
         `,
       )

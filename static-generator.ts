@@ -1,6 +1,6 @@
-import { basename, join } from "path";
 import { marked } from "marked";
-import { mkdir, readdir, stat, writeFile } from "fs/promises";
+import { join } from "path";
+import { mkdir, writeFile } from "fs/promises";
 
 import type { BookData, Chapter, GeneratorConfig } from "./src/types/types.ts";
 
@@ -9,6 +9,7 @@ import { generateMainIndexHTML } from "./src/pages/index-front.ts";
 import { generateBookIndexHTML } from "./src/pages/index-book.ts";
 import { generateChapterHTML } from "./src/pages/chapter.ts";
 import { processCSS } from "./src/css/process.ts";
+import { loadBooks } from "./load-books.ts";
 
 marked.setOptions({
   breaks: true,
@@ -26,105 +27,6 @@ function createGenerator(
   config: Partial<GeneratorConfig> = {},
 ): GeneratorConfig {
   return { ...defaultConfig, ...config };
-}
-
-function getWordCount(chapter: string): number {
-  return (
-    chapter
-      ?.replace(/\n/g, " ")
-      .trim()
-      .split(/\s+/)
-      .filter((word) => word.length > 0)?.length || 0
-  );
-}
-
-async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
-  const booksPath = join(process.cwd(), config.booksDir);
-  const books: BookData[] = [];
-
-  try {
-    try {
-      await readdir(booksPath);
-    } catch {
-      console.log(`📁 Books directory not found: ${booksPath}`);
-      return books;
-    }
-
-    const entries = await readdir(booksPath);
-
-    for (const entry of entries) {
-      const bookPath = join(booksPath, entry);
-
-      try {
-        const stats = await stat(bookPath);
-
-        if (stats.isDirectory()) {
-          const mdFiles = await readdir(bookPath);
-          const markdownFiles = mdFiles.filter((file) => file.endsWith(".md"));
-
-          if (markdownFiles.length > 0) {
-            const book = await loadBook(entry, bookPath, markdownFiles);
-            books.push(book);
-          }
-        }
-      } catch {
-        console.log(`reading book ${entry} failed`);
-        continue;
-      }
-    }
-
-    return books;
-  } catch (error) {
-    console.error("Error loading books:", error);
-    return books;
-  }
-}
-
-async function loadBook(
-  bookName: string,
-  bookPath: string,
-  mdFiles: string[],
-): Promise<BookData> {
-  console.log(`📚 Loading book: ${bookName}`);
-
-  const bookData: BookData = {
-    name: bookName,
-    path: bookPath,
-    chapters: [],
-  };
-
-  const sortedFiles = mdFiles.sort();
-
-  for (const mdFile of sortedFiles) {
-    const filePath = join(bookPath, mdFile);
-    const chapterName = basename(mdFile, ".md");
-
-    try {
-      const fileContent = await Bun.file(filePath).text();
-
-      const titleMatch = fileContent.match(/^#\s+(.+)/m);
-      const title = titleMatch
-        ? titleMatch[1]
-        : chapterName.replace(/[-_]/g, " ");
-
-      const chapter: Chapter = {
-        name: chapterName,
-        title: title || "Tittel ikke funnet",
-        content: fileContent,
-        path: `/${bookName}/${chapterName}`,
-        htmlPath: `/${bookName}/${chapterName}.html`,
-        wordCount: getWordCount(fileContent),
-        book: bookData.name,
-      };
-
-      bookData.chapters.push(chapter);
-      console.log(`  📄 Loaded chapter: ${chapterName} -> ${title}`);
-    } catch (error) {
-      console.error(`Error reading ${mdFile}:`, error);
-    }
-  }
-
-  return bookData;
 }
 
 async function generateSite(config: GeneratorConfig): Promise<void> {
@@ -147,7 +49,7 @@ async function generateSite(config: GeneratorConfig): Promise<void> {
   console.log("📄 Generated main index.html");
 
   for (const book of books) {
-    const bookDir = join(config.distDir, book.name);
+    const bookDir = join(config.distDir, book.slug);
     await mkdir(bookDir, { recursive: true });
 
     const bookIndexHTML = generateBookIndexHTML(book);
