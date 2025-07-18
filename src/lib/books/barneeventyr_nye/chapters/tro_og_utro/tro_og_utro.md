@@ -20,11 +20,13 @@ Da Utro hørte det, slo han sig sint, røk like på broren og stakk ut begge øi
 
 Tro, stakkar, han gikk nå der og trevlet sig fram midt i tykke skogen; blind og alene var han, og ikke visste han hva han skulde ta sig til. Men så fikk han tak i et stort tykt lindetre, og så tenkte han at det fikk han klyve op i og sette sig der natten over, for villdyrene. «Når fuglene tar på å synge, så er det dag, og så får jeg vel friste å trevle mig videre fram,» tenkte han, og så kløv han op i linden.
 
-Da han hadde sittet der en stund, hørte han det kom en bjørn, en ulv, en rev og en hare. De hilste på hverandre og satte seg under treet.
+Da han hadde sittet der en stund, hørte han det kom noen og tok til å koke og stelle nedunder treet, og straks efter kom det flere, og da de hilste på hverandre, hørte han det var bjørnen og gråbeinen, reven og haren, som kom og skulle holde jonsokleiek der. De gav seg til å ete og leve godt, og da de var ferdige med det, satte de sig til å snakke sammen.
 
-«Skal vi ikke fortelle historier mens vi sitter her?» sa reven.
+Så sa reven: «Skal vi ikke fortelle en liten stubb hver, mens vi sitter her?»
 
-«Ja, la oss det,» sa de andre.
+Jo, det syntes de andre godt om, det kunde være morosamt, sa de, og så la bjørnen i vei - for han var nå den fornemste -: «Kongen av Engeland har så dårlige øine,» sa bamsen, «han kan næsten ikke se et kvart i været; men dersom han kom op i denne linden om morgenen, mens det var dugg på bladene, og han fikk av duggen og smurte på øinene sine, så fikk han synet sitt igjen, så godt som han noen tid har hatt det.»
+
+«Ja,» sa gråbeinen, «kongen av Engeland har en døvstum datter også; men visste han det jeg vet, så fant han snart råd for henne. Ifjor da hun gikk til alters, så spyttet hun ut igjen brødet, og det kom ei stor padde og slukte; men når de bare grov under gulvet, så fant de padda, hun sitter bent under knefallet, og brødet sitter i halsen på henne ennu. Når de skar op padda og tok brødet og gav kongsdatteren, så blev hun som andre folk igjen både til å høre og tale.»
 
 «Ja, ja,» sa reven, «når kongen av Engeland visste det jeg vet, så hadde han ikke vondt for vann i kongsgården sin; under den store steinen midt i gården hans er det klareste kildevann noen kan ønske sig, bare han visste å grave der.»
 

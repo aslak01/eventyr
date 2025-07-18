@@ -3,6 +3,8 @@ import { marked } from "marked";
 import type { BookData, Chapter, OptimizedImage } from "../types/types";
 
 import { processMarkdownImages } from "../image_processing/image";
+import { htmlHead } from "../components/htmlHead";
+import { safeString } from "../utils/strings";
 
 export function generateChapterHTML(
   book: BookData,
@@ -25,18 +27,10 @@ export function generateChapterHTML(
       ? book.chapters[currentIndex + 1]
       : null;
 
-  const safeTitle = chapter.title.replace(/"/g, "&quot;");
-  const safeBookName = book.name.replace(/"/g, "&quot;");
+  const safeTitle = safeString(chapter.title);
 
-  return `<!DOCTYPE html>
-<html lang="nb-NO">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>${safeTitle} - ${safeBookName}</title>
-    <link rel="stylesheet" href="/css/chapter.css">
-</head>
-<body>
+  const head = htmlHead(`${safeTitle} - ${safeString(book.name)}`, ["chapter"]);
+  return `${head}
     <div class="header">
         <p class="book-name">${book.name.replace(/[-_]/g, " ")}</p>
         <h1 class="chapter-title">${safeTitle}</h1>

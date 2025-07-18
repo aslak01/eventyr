@@ -4,6 +4,8 @@ export type Chapter = {
   content: string;
   path: string;
   htmlPath: string;
+  wordCount: number;
+  book: string;
 };
 
 export type BookData = {

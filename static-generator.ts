@@ -5,9 +5,9 @@ import { mkdir, readdir, stat, writeFile } from "fs/promises";
 import type { BookData, Chapter, GeneratorConfig } from "./src/types/types.ts";
 
 import { optimizeImages } from "./src/image_processing/image.ts";
-import { generateMainIndexHTML } from "./src/components/index-front.ts";
-import { generateBookIndexHTML } from "./src/components/index-book.ts";
-import { generateChapterHTML } from "./src/components/chapter.ts";
+import { generateMainIndexHTML } from "./src/pages/index-front.ts";
+import { generateBookIndexHTML } from "./src/pages/index-book.ts";
+import { generateChapterHTML } from "./src/pages/chapter.ts";
 import { processCSS } from "./src/css/process.ts";
 
 marked.setOptions({
@@ -26,6 +26,16 @@ function createGenerator(
   config: Partial<GeneratorConfig> = {},
 ): GeneratorConfig {
   return { ...defaultConfig, ...config };
+}
+
+function getWordCount(chapter: string): number {
+  return (
+    chapter
+      ?.replace(/\n/g, " ")
+      .trim()
+      .split(/\s+/)
+      .filter((word) => word.length > 0)?.length || 0
+  );
 }
 
 async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
@@ -103,6 +113,8 @@ async function loadBook(
         content: fileContent,
         path: `/${bookName}/${chapterName}`,
         htmlPath: `/${bookName}/${chapterName}.html`,
+        wordCount: getWordCount(fileContent),
+        book: bookData.name,
       };
 
       bookData.chapters.push(chapter);
