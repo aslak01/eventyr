@@ -33,10 +33,8 @@ async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
   const books: BookData[] = [];
 
   try {
-    let exists = false;
     try {
       await readdir(booksPath);
-      exists = true;
     } catch {
       console.log(`📁 Books directory not found: ${booksPath}`);
       return books;
@@ -59,7 +57,8 @@ async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
             books.push(book);
           }
         }
-      } catch (e) {
+      } catch {
+        console.log(`reading book ${entry} failed`);
         continue;
       }
     }
