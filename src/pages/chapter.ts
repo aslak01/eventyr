@@ -43,13 +43,13 @@ export function generateChapterHTML(
 
     <div class="navigation">
         <div>
-            ${prevChapter ? `<a href="/${book.name}/${prevChapter.name}.html" class="nav-link">← ${prevChapter.title.replace(/"/g, "&quot;")}</a>` : "<span></span>"}
+            ${prevChapter ? `<a href="/${book.slug}/${prevChapter.name}.html" class="nav-link">← ${prevChapter.title.replace(/"/g, "&quot;")}</a>` : "<span></span>"}
         </div>
         <div>
-            <a href="/${book.name}/" class="book-link">📚 Back to ${book.name}</a>
+            <a href="/${book.slug}/" class="book-link">📚 Back to ${book.name}</a>
         </div>
         <div>
-            ${nextChapter ? `<a href="/${book.name}/${nextChapter.name}.html" class="nav-link">${nextChapter.title.replace(/"/g, "&quot;")} →</a>` : "<span></span>"}
+            ${nextChapter ? `<a href="/${book.slug}/${nextChapter.name}.html" class="nav-link">${nextChapter.title.replace(/"/g, "&quot;")} →</a>` : "<span></span>"}
         </div>
     </div>
 </body>
