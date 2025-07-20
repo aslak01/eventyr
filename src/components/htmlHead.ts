@@ -8,8 +8,8 @@ export function htmlHead(title: string, cssFiles?: string[]): string {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>${title}</title>
-    <link rel="stylesheet" href="/css/shared.css">
-    ${cssFiles && cssFiles.map(cssFileLink)}
+    <link rel="stylesheet" href="/css/main.css">
+    ${cssFiles ? cssFiles.map(cssFileLink) : ""}
 </head>
 <body>
 `;

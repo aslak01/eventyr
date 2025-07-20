@@ -30,7 +30,7 @@ export function generateChapterHTML(
 
   const safeTitle = safeString(chapter.title);
 
-  const head = htmlHead(`${safeTitle} - ${safeString(book.name)}`, ["chapter"]);
+  const head = htmlHead(`${safeTitle} - ${safeString(book.name)}`);
   return `${head}
     <div class="header">
         <p class="book-name">${book.name.replace(/[-_]/g, " ")}</p>

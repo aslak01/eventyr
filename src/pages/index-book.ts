@@ -2,7 +2,7 @@ import { htmlHead } from "../components/htmlHead";
 import type { BookData } from "../types/types";
 
 export function generateBookIndexHTML(book: BookData): string {
-  const head = htmlHead(`${book.name}`, ["book_index"]);
+  const head = htmlHead(`${book.name}`);
   return `${head}
 <body>
     <div class="header">
@@ -22,8 +22,8 @@ export function generateBookIndexHTML(book: BookData): string {
       .join("")}
     </ul>
 
-    <div class="nav">
-        <a href="/">← Back to all books</a>
+    <div class="navigation">
+        <a class="book-link" href="/">← Back to all books</a>
     </div>
 </body>
 </html>`;

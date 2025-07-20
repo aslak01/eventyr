@@ -2,7 +2,7 @@ import { htmlHead } from "../components/htmlHead";
 import type { BookData } from "../types/types";
 
 export function generateMainIndexHTML(books: BookData[]): string {
-  const head = htmlHead(`Eventyr`, ["main"]);
+  const head = htmlHead(`Eventyr`);
   return `${head}
     <div class="header">
         <h1 class="main-title">📚 Book Library</h1>
