@@ -1,0 +1,5 @@
+# Løgneventyr
+
+Nå skal jeg fortelle noe rart; jeg så to stekte høns flyve med brystet mot himmelen og ryggen mot jorden, og en ambolt og en møllestein svømme over Rhinen, langsomt og sagte, og en frosk satt på isen ved St. Hansider og spiste et plogjern. Der var fire gutter som ville fange en hare; de gikk på træben og krykker, den ene var døv og den andre var blind, den tredje var stum og den fjerde kunne ikke røre en fot. Vil I vite hvorledes det gikk til? Den blinde så først haren springe over marken, den stumme ropte på den lamme, og den lamme tok den ved kragen.
+
+Noen ville seile over land, og de utspente sine seil for vinden, og de seilte hen over store åkrer, men så måtte de ro over et stort berg, der druknet de ynkelig. En krabbe jaget en hare på flukt, og høyt oppe på taket lå det en ku som var klatret der opp, der i Ullands er fluene like så store som gjeterne hos oss.
