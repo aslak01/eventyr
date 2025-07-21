@@ -6,6 +6,7 @@ export type Chapter = {
   htmlPath: string;
   wordCount: number;
   book: string;
+  bookSlug: string;
 };
 
 export type BookData = {

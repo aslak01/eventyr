@@ -5,7 +5,7 @@ import { mkdir, writeFile } from "fs/promises";
 import type { BookData, Chapter, GeneratorConfig } from "./src/types/types.ts";
 
 import { optimizeImages } from "./src/image_processing/image.ts";
-import { generateMainIndexHTML } from "./src/pages/index-front.ts";
+import { generateMainIndexHTML } from "./src/pages/index-tales.ts";
 import { generateBookIndexHTML } from "./src/pages/index-book.ts";
 import { generateChapterHTML } from "./src/pages/chapter.ts";
 import { processCSS } from "./src/css/process.ts";

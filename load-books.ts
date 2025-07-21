@@ -107,9 +107,10 @@ async function loadBook(
         title: title || "Tittel ikke funnet",
         content: fileContent,
         path: join(chaptersPath, chapterName),
-        htmlPath: `/${bookName}/${chapterName}.html`,
+        htmlPath: `/${bookData.slug}/${chapterName}.html`,
         wordCount: getWordCount(fileContent),
         book: bookData.name,
+        bookSlug: bookData.slug,
       };
 
       bookData.chapters.push(chapter);
