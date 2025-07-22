@@ -14,6 +14,14 @@ export type BookData = {
   slug: string;
   path: string;
   chapters: Chapter[];
+  author: string[];
+  published: number;
+};
+
+export type BookInfo = {
+  title: string;
+  author: string[];
+  published: number;
 };
 
 export type OptimizedImage = {

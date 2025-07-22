@@ -33,7 +33,8 @@
 
 body {
   font-family:
-    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans", Arial,
+    sans-serif;
   max-width: 800px;
   color-scheme: light dark;
   margin: 0 auto;
@@ -105,9 +106,9 @@ body {
 }
 
 .content {
-  margin: 2rem 0;
   text-wrap: pretty;
   hyphens: auto;
+  max-width: 55ch;
 
   h1,
   h2,
@@ -115,7 +116,7 @@ body {
   h4,
   h5,
   h6 {
-    color: light-dark(var(--text), var(--d-text));
+    color: light-dark(var(--text-muted), var(--d-text-muted));
     margin-top: 2rem;
     margin-bottom: 1rem;
     text-wrap: balanced;
@@ -130,8 +131,8 @@ body {
     font-size: 1.3rem;
   }
   p {
-    margin: 1rem 0;
-    max-width: 60ch;
+    margin-block: 1rem;
+    font-size: 1.1rem;
   }
   code {
     background: light-dark(var(--bg-dark), var(--d-bg-dark));
@@ -247,5 +248,21 @@ body {
 
   .book-link:hover {
     color: light-dark(var(--secondary), var(--d-secondary));
+  }
+}
+
+.tale-table {
+  thead {
+    text-align: left;
+  }
+  a {
+    color: light-dark(var(--secondary), var(--d-secondary));
+  }
+  a:hover,
+  a:visited:hover {
+    color: light-dark(var(--primary), var(--d-primary));
+  }
+  a:visited {
+    color: light-dark(var(--info), var(--d-info));
   }
 }

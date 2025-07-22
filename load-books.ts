@@ -2,7 +2,12 @@ import { basename, join } from "path";
 import { readdir, stat } from "fs/promises";
 import { readFile } from "fs/promises";
 
-import type { BookData, Chapter, GeneratorConfig } from "./src/types/types.ts";
+import type {
+  BookData,
+  BookInfo,
+  Chapter,
+  GeneratorConfig,
+} from "./src/types/types.ts";
 
 export async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
   const booksPath = join(process.cwd(), config.booksDir);
@@ -32,12 +37,7 @@ export async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
               const chapters = await readdir(chaptersPath);
 
               if (chapters.length > 0) {
-                const book = await loadBook(
-                  info.title,
-                  entry,
-                  bookPath,
-                  chapters,
-                );
+                const book = await loadBook(info, entry, bookPath, chapters);
                 books.push(book);
               }
             } catch {
@@ -63,15 +63,18 @@ export async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
 }
 
 async function loadBook(
-  bookName: string,
+  info: BookInfo,
   slug: string,
   bookPath: string,
   chapterDirs: string[],
 ): Promise<BookData> {
-  console.log(`📚 Loading book: ${bookName}`);
+  const { title, author, published } = info;
+  console.log(`📚 Loading book: ${title}`);
 
   const bookData: BookData = {
-    name: bookName,
+    name: title,
+    author,
+    published,
     slug,
     path: bookPath,
     chapters: [],

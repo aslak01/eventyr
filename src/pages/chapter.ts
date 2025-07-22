@@ -5,6 +5,7 @@ import type { BookData, Chapter, OptimizedImage } from "../types/types";
 import { processMarkdownImages } from "../image_processing/image";
 import { htmlHead } from "../components/htmlHead";
 import { safeString } from "../utils/strings";
+import { headerGenerator } from "../components/header";
 
 export function generateChapterHTML(
   book: BookData,
@@ -23,19 +24,18 @@ export function generateChapterHTML(
     (ch) => ch.name === chapter.name,
   );
   const prevChapter = currentIndex > 0 ? book.chapters[currentIndex - 1] : null;
+
   const nextChapter =
     currentIndex < book.chapters.length - 1
       ? book.chapters[currentIndex + 1]
       : null;
 
-  const safeTitle = safeString(chapter.title);
-
-  const head = htmlHead(`${safeTitle} - ${safeString(book.name)}`);
+  const head = htmlHead(
+    `${safeString(chapter.title)} - ${safeString(book.name)}`,
+  );
+  const header = headerGenerator(book);
   return `${head}
-    <div class="header">
-        <p class="book-name">${book.name.replace(/[-_]/g, " ")}</p>
-        <h1 class="chapter-title">${safeTitle}</h1>
-    </div>
+${header}
 
     <div class="content">
         ${htmlContent}

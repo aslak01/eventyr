@@ -13,9 +13,8 @@ export function generateMainIndexHTML(books: BookData[]): string {
         <p class="subtitle">${books.length} book${books.length !== 1 ? "s" : ""} available</p>
     </div>
 
-    <div class="books-grid">
-            <div class="book-card">
-<table>
+<main>
+<table class="tale-table">
 <thead>
 <tr>
 <th>Tittel</th>
@@ -24,26 +23,26 @@ export function generateMainIndexHTML(books: BookData[]): string {
 </tr>
 </thead>
 <tbody>
-
-        ${tales
+${tales
       .map(
         (tale) => `
 <tr>
 <td>
-                <a href="${tale.htmlPath}" class="book-link">
-                    ${tale.title}
-                </a>
+<a href="${tale.htmlPath}">
+    ${tale.title}
+</a>
 </td>
-<td><a href="${tale.bookSlug}/">${tale.book}</a></td>
+<td>
+<a href="${tale.bookSlug}/">${tale.book}</a>
+</td>
 <td>${tale.wordCount}</td>
 </tr>
-        `,
+  `,
       )
       .join("")}
 </tbody>
 </table>
-            </div>
-    </div>
+</main>
 </body>
 </html>`;
 }
