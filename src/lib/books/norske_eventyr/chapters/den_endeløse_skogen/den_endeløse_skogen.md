@@ -1,0 +1,61 @@
+# Den endeløse skogen
+
+En vakker kveld gikk Vesle-Kvinten og slang på vidda og hadde ikke annet fore enn å plukke einebær og ta livet med ro. Best som han gikk der fikk han se en gammel skikkelse av en kall som kom luskende mot ham, men det rare var det, at rundt omkring ham grodde tjukke olderskogen etter hvert som han gikk. Det må være både rart og hardt å ha en slik lagnad for livet, tenkte Vesle-Kvinten. Da de endelig møttes, kunne ikke Kvinten dy seg for å spørre:
+
+— Hvem er du for en kar som plages slik da?
+
+— En stakkars fredløs husmann, gubære, som har gjort galmannsverk ved å hogge ved på olderskogtrollets skogteig. Og nå er jeg pent nødt til å gå slik hele mitt liv og plages i denne stygge skogen hvis lauv er fullt av grådige bladlus som eter meg på kroppen. De jeg har spurt om råd har vært like usle alle sammen, ingen kan hjelpe meg, jeg har bare døden til trøst.
+
+— Det var trist lagnad det, svarte Vesle-Kvinten. Men jeg lurer på hvordan skogen tar det dersom du springer under Storfossen, jeg skal følge deg, jeg!
+
+— Under Storfossen sa du? Ja, ja, la oss prøve det da, gutten min.
+
+De maste og gikk til Storfossen alt de orket, skogen grodde så det knaket verre omkring dem jo fortere de labbet på.
+
+— Lukk øyne og steng for ører og fly det forteste du kan gjennom fossekavet!
+
+Da de kom opp på den andre siden av fossen var det bare like galt igjen.
+
+— Hau, hau, ropte Vesle-Kvinten, det var da en innpåsliten skog da!
+
+Men som han hadde stått slik en stund og pønset på nye ulveiger, fikk han øye på en diger brann borte på en haug — det var en gård som brente.
+
+— La oss friste varmen da! ropte han.
+
+Dermed la de avgårde så det smalt omkring dem igjen.
+
+— Lukk øynene og pass på håret ditt, stakkar, og gå dønn igjennom, så skal du se! sa Kvinten.
+
+Han hadde ikke før sagt det før de tok gyven gjennom varmen så det svei av mørje både i lår og lender. Men det ble ikke bedre av det heller gubære. Skogen sto der den, bare litt tjukkere og enda mer bustete enn før.
+
+— Det var da en innpåsliten skog da! ropte Vesle-Kvinten og ble riktig harm i holdet. No har vi gått gjennom både ild og vann, men like trassig er den. Men det er det samme, no tar jeg beinvegen til selve olderskogtrollet, jeg, mens du står her og venter. Det tar ikke lange økta!
+
+Vesle-Kvinten la i veg, og han gjorde ikke vegen gammel før han endelig sto midt inne i skogteigen til selveste olderskogtrollet. Der fikk han se et lite oldertre som liksom sto der og sukket etter liv borti et nakent hull i berget.
+
+— Jeg vil plante deg i saftigere jord, jeg, stakkar. Dette svarte hullet gir deg hverken næring eller tæring, sa han.
+
+Han tok olderbusken riktig vakkert opp med roten og flyttet den over i saftigere jordsmonn på solsiden. Da han hadde pyntet og stelt om den både vel og lenge, kom det et stort og buskete troll bort til ham.
+
+— Hvem er du for en kar som steller så vakkert med trærne mine? spurte han.
+
+— Å, jeg er en stakkars liten trollunge, som er så gla i olderskog. Men denne lille, pene olderbusken hadde lite sol og mager jord der den sto, derfor flyttet jeg den hit. Her vil den trives og bli et stort, vakkert tre.
+
+— Det var da en makalaus snill kar det da, og kan jeg gjøre deg en gjentjeneste så gjør eg det, svarte olderskogtrollet. Han var så smellende blid i målet.
+
+— Å, det er ikke noe å snakke om. Men heime hos oss skygger olderskogen for solen, men ikke har jeg hjerte til å hogge den ned heller. Hva skal jeg gjøre med det da?
+
+— Se her, gutten min, ta denne kvisten med deg, den skal du bare slå på skogen med, så vil den forsvinne like fort som slaget er slått. Men vil du plante en ny skog, så graver du denne stokken ned i jorda, og da får du skogen der du vil ha den. Lykke til da, gutten min, og ha det godt! 
+
+Dermed ruslet olderskogtrollet sin veg.
+
+Det tok ikke så lang tiden før Vesle-Kvinten råkte borti den gamle kallen igjen.
+
+— Du sitter og venter du, sa Kvinten.
+
+— Ja, på døden, gubære, klaget gamlingen.
+
+Vesle-Kvinten slo på skogen med kvisten, og dermed forsvant hele greia.
+
+— He! ropte kallen, det var trollmann det! Men hvordan skal jeg annet enn takke deg, jeg eier ikke hverken gods eller gull, men min evige velsignelse skal du ha, gutten min, det er det beste jeg kan gi deg.
+
+— Takk for det, og slit friheten med helsa, svarte Vesle-Kvinten og strøk beinvegen til Storheia.
