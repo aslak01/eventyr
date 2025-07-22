@@ -9,8 +9,8 @@ export function generateMainIndexHTML(books: BookData[]): string {
     .sort((a, b) => a.wordCount - b.wordCount);
   return `${head}
     <div class="header">
-        <h1 class="main-title">📚 Book Library</h1>
-        <p class="subtitle">${books.length} book${books.length !== 1 ? "s" : ""} available</p>
+        <h1 class="main-title">📚 Eventyrsamling</h1>
+        <p class="subtitle">${books.length} ${books.length !== 1 ? "bøker" : "bok"} tilgjengelig${books.length !== 1 ? "e" : ""}</p>
     </div>
 
 <main>

@@ -12,11 +12,15 @@ export function generateChapterHTML(
   chapter: Chapter,
   optimizedImages: Map<string, OptimizedImage>,
 ): string {
+  const chapterDir = chapter.path.includes(".md")
+    ? chapter.path.substring(0, chapter.path.lastIndexOf("/"))
+    : chapter.path;
+
   const processedContent = processMarkdownImages(
     chapter.content,
     book.slug,
     optimizedImages,
-    chapter.path,
+    chapterDir,
   );
   const htmlContent = marked(processedContent);
 

@@ -27,7 +27,7 @@ export async function optimizeImages(
       const needsUpdate = await needsProcessing(imagePath, cache);
 
       if (needsUpdate) {
-        const optimized = await processImage(imagePath, book.name, config);
+        const optimized = await processImage(imagePath, book.slug, config);
         if (optimized) {
           optimizedImages.set(imagePath, optimized);
 
@@ -122,12 +122,12 @@ export async function findImages(bookPath: string): Promise<string[]> {
 
 export async function processImage(
   imagePath: string,
-  bookName: string,
+  bookSlug: string,
   config: GeneratorConfig,
 ): Promise<OptimizedImage | null> {
   const ext = extname(imagePath).toLowerCase();
   const baseName = basename(imagePath, ext);
-  const outputDir = join(config.distDir, "images", bookName);
+  const outputDir = join(config.distDir, "images", bookSlug);
 
   try {
     await mkdir(outputDir, { recursive: true });
@@ -141,7 +141,7 @@ export async function processImage(
         webpPath: svgPath,
         avifPath: svgPath,
         sizes: [
-          { width: 0, path: `/images/${bookName}/${basename(imagePath)}` },
+          { width: 0, path: `/images/${bookSlug}/${basename(imagePath)}` },
         ],
       };
     }
@@ -168,7 +168,7 @@ export async function processImage(
           .toFormat(format as any, { quality: 85 })
           .toFile(outputPath);
 
-        const webPath = `/images/${bookName}/${fileName}`;
+        const webPath = `/images/${bookSlug}/${fileName}`;
         optimized.sizes.push({ width: size, path: webPath });
 
         if (format === "webp" && !optimized.webpPath) {
