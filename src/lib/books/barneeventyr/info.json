@@ -4,5 +4,24 @@
     "Peter Christen Asbjørnsen",
     "Moltke Moe"
   ],
-  "published": 1930
+  "published": 1930,
+  "illustrator": [
+    "Theodor Kittelsen"
+  ],
+  "chapter_index": {
+    "hanen_og_høna": "Hanen og høna",
+    "jomfru_maria_som_gudmor": "Jomfru Maria som gudmor",
+    "de_tre_monstrene": "De tre monstrene",
+    "høna_tripper_i_berget": "Høna tripper i berget",
+    "per_og_pål_og_espen_askeladd": "Per og Pål og Espen Askeladd",
+    "kari_trestakk": "Kari Trestakk",
+    "askeladden_som_stjal_sølvendene_sengeteppet_og_gullharpen_til_trollet": "Askeladden som stjal sølvendene, sengeteppet og gullharpen til trollet",
+    "jomfruen_på_glassberget": "Jomfruen på glassberget",
+    "de_syv_folene": "De syv folene",
+    "hanen_gjøken_og_århanen": "Hanen, gjøken og århanen",
+    "de_tre_prinsesser_i_hvittenland": "De tre prinsesser i Hvittenland",
+    "kjetta_på_dovre": "Kjetta på dovre",
+    "grisen_og_levemåten_hans": "Grisen og levemåten hans",
+    "reveenka": "Reve-enka"
+  }
 }

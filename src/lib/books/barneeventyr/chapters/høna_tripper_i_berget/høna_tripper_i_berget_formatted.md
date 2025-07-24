@@ -2,6 +2,8 @@
 
 Det var engang en gammel enke som bodde i en avgrend av bygda, langt opunder en ås, med de tre døtrene sine. Hun var så fattig at hun ikke eide annet enn ei høne, og den hadde hun så kjær som øiestenen sin; den kaklet hun for, og den stelte hun med, både tidlig og sent.
 
+![Høna](./høna.png)
+
 Men en dag, rett som det var, så blev høna borte. Konen gikk da ut, rundt om stua, og lette og lokket; men høna var og blev borte. «Du får ut og prøve å se efter høna vår du,» sa konen til den eldste datteren; «ha den igjen må vi, om vi så skal ta den ut av berget.»
 
 Ja, datteren skulde da ut og se efter den; hun gikk både hit og dit og lette og lokket, og ingen høne fant hun. Men aller best det var, så hørte hun det sa borte i en bergvegg:
@@ -51,6 +53,8 @@ Men da hun hadde vært der en tid, var det en dag hun var enda mere stur og stil
 
 Ja, det takket hun for, det skulde hun gjøre, sa hun; men på bunnen av sekken hadde hun en mengde gull og sølv, og så la hun litt mat ovenpå, og sa så til trollet, at nå var sekken ferdig, men han måtte slett ikke se ned i den, og det lovte han også han ikke skulde gjøre.
 
+![Vil du være kjæresten min du?](./kjæresten_min.png)
+
 Da så bergmannen gikk, kikket hun ut efter ham i et lite hull som var på lemmen; da han hadde kommet et stykke på veien, sa han: «Den er så tung denne sekken, jeg vil nok se hva som er i den, jeg,» og vilde løse op sekkebandet; men så ropte jenta: «Jeg ser deg nok! Jeg ser deg nok!»
 
 «Det er da pokker til øier i hodet på deg også da,» sa trollet, og så torde han ikke prøve på det mere.
@@ -87,7 +91,7 @@ Da så jenta hadde vært der enda en god tid, skulle trollet ut en gang; så lot
 
 Da nå trollet vel hadde gått, stoppet hun ut klærne sine med halm og satte denne halmjenta borti kroken ved peisen, med en tvare i hånden, så det så ut som det var hun sjøl som stod der. Så skyndte hun seg hjem og fikk med seg en skytter til å være i stua hjemme hos moren.
 
-«Jeg ser deg nok!»
+![Jeg ser dig nok!](./ser_deg.png)
 
 Da klokken var tolv eller vel det, kom trollet hjem.
 

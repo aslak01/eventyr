@@ -64,6 +64,8 @@ Så reiste de i lang tid og gjennem mange land, og kongsdatteren visste slett ik
 
 Her gikk det like ens som i kobberskogen og sølvskogen. Stuten sa til kongsdatteren, at hun slett ikke på noen måte måtte røre ved den, for det var et troll med ni hoder som eide skogen; det var mye større og sterkere enn begge de andre til sammen, og stuten trodde slett ikke at han kunde rå med det. Nei, hun skulde nok passe seg og ikke røre ved skogen, det kunde han nok vite. Men da de kom inn i den, så var den enda tettere enn sølvskogen, og dess lengere de kom, dess verre blev det; skogen blev tettere og tettere og trangere og trangere, og til sist syntes hun de ikke på noe sett eller vis kunde komme frem; hun var så redd for å rive av noe, at hun satt og snudde og bøide seg både hit og dit for kvistene og skjøv dem bort fremfor seg med hendene; men alt i ett slo de henne i øinene, så hun ikke kunde se hvor hun grep henne, og før hun visste av det, hadde hun et gulleple i hånden. Hun var så hjertelig redd at hun gråt, og vilde kaste det igjen; men stuten sa hun skulde ikke, men gjemme det vel, og trøstet henne så godt han kunde; men han trodde det blev et hardt basketak, og han tvilte på det vilde gå godt.
 
+![Langt om lenge kom de til en gullskog.](./gullskog.png)
+
 Rett som det var, så kom trollet med ni hoder; det var så fælt at kongsdatteren næsten ikke torde se på det.
 
 «Hvem er det som rører min skog?» skreik det.
@@ -124,6 +126,8 @@ I det samme hun gikk ut av kirken, sprang prinsen efter og drog kirkedøren til 
 
 Prinsen hadde aldri sett make til hanske, og han for både vidt og bredt og spurte efter det landet, den stolte damen som reiste fra hansken sin, hadde sagt hun var fra, men det var ingen som kunde si ham hvor det lå.
 
+![Jeg skal nok bære vaskevann til Dere, jeg.](./vaskevann.png)
+
 Om søndagen skulde én gå op til prinsen med håndklæ.
 
 «Å, får jeg lov til å gå op med det,» sa Kari.
@@ -161,6 +165,8 @@ Da prekenen var ute, og kongsdatteren skulde gå av kirken, hadde prinsen slått
 «Lyst fore og mørkt bak, så prinsen ikke ser hvor jeg rir hen idag!»
 
 Prinsen kunde da ikke vite hvor det hadde blitt av henne denne gangen heller, og så for han i langsommelig tid omkring i verden og spurte efter Kammeland; men da ingen kunde si ham hvor det var, lot han kunngjøre, at den som kunde passe gullskoen, vilde han gifte seg med. Det kom da sammen både vakre og stygge fra alle kanter; men det var ingen som hadde så liten fot at hun kunde få på gullskoen. Langt om lenge kom den slemme stemoren til Kari Trestakk med datter si også, og henne passet skoen til; men stygg var hun, og så lei så hun ut, at prinsen nødig gjorde det han hadde lovt. Likevel blev det laget til bryllups, og hun blev pyntet til brud, men da de red til kirken, så satt det en liten fugl i et tre og sang:
+
+![Et stykke av en hæl og et stykke av en tå; Kari Trestakkens sko er full av blod!](./liten_fugl.png)
 
 «Et stykke, av en hæl og et stykke av en tå; Kari Trestakkens sko er full av blod!»
 

@@ -1,5 +1,7 @@
 # De syv folene.
 
+![Folene](./folene.png)
+
 Det var engang et par fattige folk; de bodde i en ussel stue langt borti skogen, og det var ikke mer enn fra hånden og i munnen, og med nød og neppe det; men de hadde tre sønner, og den yngste av dem var da Askeladden, for han gjorde ikke annet enn lå og grov i oska.
 
 En dag sa den eldste gutten at han vilde ut å tjene; det fikk han straks lov til, og han vandret da ut i verden. Han gikk og han gikk hele dagen, og da det led mot kvelden, kom han til en kongsgård; der stod kongen ute på trappa, og spurte hvor han skulde hen.
@@ -34,7 +36,9 @@ Men så skjønte kongen nok hvordan han hadde gjætt, og han blev så harm, at h
 
 Da gutten kom hjem igjen, kan du nok vite hvordan han var til mote; én gang hadde han gått ut for å få tjeneste, sa han, men det gjorde han aldri mere.
 
-Dagen efter sa den andre sønnen at han vilde ut i verden og friste lykken. Foreldrene sa nei, og bad ham se på ryggen til bror sin, men gutten gav seg ikke, han blev ved sitt, og langt om lenge fikk han da lov, og la i veien. Da han hadde gått hele dagen, kom han også til kongsgården; der Der satt ei gammal kjerring og spant på hånd-tén. stod kongen ute på trammen og spurte hvor han skulde hen, og da gutten svarte at han gikk og hørte efter tjeneste, sa kongen han kunde få tjene hos ham og gjete de syv folene hans; og så satte kongen samme straff og samme lønn for han, som han hadde satt for broren. Ja, gutten var straks villig til det; han stedde seg i tjeneste hos kongen, for han skulde nok passe folene og si kongen hva de åt og drakk, mente han.
+![Der satt ei gammal kjerring og spant på hånd-tén](./spant.png)
+
+Dagen efter sa den andre sønnen at han vilde ut i verden og friste lykken. Foreldrene sa nei, og bad ham se på ryggen til bror sin, men gutten gav seg ikke, han blev ved sitt, og langt om lenge fikk han da lov, og la i veien. Da han hadde gått hele dagen, kom han også til kongsgården; der stod kongen ute på trammen og spurte hvor han skulde hen, og da gutten svarte at han gikk og hørte efter tjeneste, sa kongen han kunde få tjene hos ham og gjete de syv folene hans; og så satte kongen samme straff og samme lønn for han, som han hadde satt for broren. Ja, gutten var straks villig til det; han stedde seg i tjeneste hos kongen, for han skulde nok passe folene og si kongen hva de åt og drakk, mente han.
 
 I grålysningen om morgenen slapp stallmesteren de syv folene; de avsted igjen over berg og dal, og gutten bakefter. Men det gikk like ens med han som med broren; da han hadde sprunget efter folene en lang, lang stund, så han både var svett og trett, kom han forbi ei bergskorte; der satt det ei gammal kjerring og spant på en hånd-tén, og hun ropte til gutten: «Kom hit, kom hit, min vene sønn, skal jeg lyske deg!» Det syntes gutten vel om; han lot folene renne sin vei og satte seg i bergskorta hos kjerringa. Så satt han og så lå han, og late seg gjorde han hele dagen.
 

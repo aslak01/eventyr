@@ -1,5 +1,7 @@
 # Jomfru Maria som gudmor.
 
+![Langt, langt, borti skogen](./borti_skogen.png)
+
 Langt, langt borti en stor skog bodde engang et par fattigfolk. Konen kom i barselseng og fødte et barn, en vakker datter. Men de var så fattige, at de visste ikke hvordan de skulde få barnet til dåpen. Mannen måtte da en dag ut for å se å få fadderer som selv kunde ofre; han gikk hele dagen både til den ene og til den andre; men alle sa de, at de nok vilde være fadder, men ingen syntes han hadde råd til å ofre selv.
 
 Da han gikk hjem om kvelden, møtte han en vakker frue, som var så prektig klædd, og så så inderlig snild og god ut; hun bød seg til å skaffe barnet til dåpen; men siden vilde hun ha det. Mannen svarte at han først måtte spørre konen sin, hva hun vilde; men da han kom hjem og fortalte det, sa konen feent ut nei. Andre dagen gikk mannen ut igjen; men ingen vilde være fadder, når de skulde ofre selv, og alt han bad, så hjalp det ikke.
@@ -13,6 +15,8 @@ Da jenta var blitt så stor at hun lærte å skjønne, laget fostermoren seg til
 Om en tid skulde fostermoren reise bort igjen, og så forbød hun jenta å gå inn i de to kammersene hun ikke hadde vært i. Hun lovte å ta seg i vare; men da hun hadde gått alene en stund og tenkt og grundet på hva som vel kunde være inne i det andre kammerset, kunde hun ikke holde seg fra å gløtte litt på døren og kikke inn, og husj! så fløi månen ut. Da fostermoren kom igjen, og så at månen hadde sloppet ut, blev hun sørgmodig, og sa at nå kunde hun slett ikke ha henne hos seg lenger, nå måtte hun bort. Men jenta gråt så hjertelig og bad så vakkert for seg, og så fikk hun da lov til å bli denne gangen også.
 
 Om noen tid skulde fostermoren reise igjen — jenta var alt halvvoksen den gang — og da la hun henne alvorlig på hjerte, at hun slett ikke måtte prøve på å gå inn i eller se inn i det tredje kammerset. Men da fostermoren hadde vært borte en stund, og jenta hadde gått alene og kjedet seg i langsommelig tid, så tenkte hun: «Nei så morsomt det skulde være å se litt inn i det tredje kammerset!» Hun tenkte først at hun ikke vilde gjøre det like fullt, for fostermorens skyld; men da hun andre gangen kom på det, kunde hun ikke bare seg lenger, hun syntes hun skulde og måtte se inn i kammerset; hun gløttet litt på døren, og husj! så fløi solen ut.
+
+![Husj! så fløi månen ut.](./maanen.png)
 
 Da fostermoren nå kom tilbake, og så at solen hadde fløiet ut, blev hun rent ille ved, og sa at nå kunde hun slett ikke få lov å være hos henne lenger. Fosterdatteren gråt og bad enda vakrere enn før, men det hjalp ikke. «Nei, nå må jeg straffe deg,» sa moren; «men du kan ha valget: enten du vil bli den aller vakreste av alle og ikke kunne tale, eller du vil bli den aller styggeste og kunne tale. Men bort fra meg må du.»
 

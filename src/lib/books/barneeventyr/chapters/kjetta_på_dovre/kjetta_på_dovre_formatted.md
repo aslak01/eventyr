@@ -8,6 +8,8 @@ Det var engang en mann oppi Finnmark, som hadde fanget en stor kvitbjørn; den s
 
 Ja, så lenge bad han da, at han fikk lov. Så flyttet folkene ut, og da var det laget til for trollene med dekkete bord, både med rømmegraut og lutefisk og pølse, og ellers alt det som godt var, like som til et annet gildt gjestebud.
 
+![Kjette, vil du ha kurv?](./kjette.png)
+
 Rett som det var, så kom trollene. Noen var store, og noen var små, noen var langrumpet, og noen var rumpeløse, og noen hadde lange, lange neser, og de åt og de drakk og smakte på all ting. Men så fikk en av trollungene se kvitbjørnen som lå under ovnen, og så tok han et stykke pølse og satte på en gaffel og stekte, gikk så sta og stakk det bort i nesa på kvitbjørnen, så han brente seg. «Kjette, vil du ha kurv?» skreik han. Så for kvitbjørnen op og brummet og jaget ut alle ihop, både store og små.
 
 Året efter var Halvor i skogen julekveldseftermiddagen og skulde hente ved til helgen, for han ventet trollene igjen.

@@ -30,6 +30,8 @@ Da dagen kom som kongen hadde satt, var det så tykt av ridderer og prinser ved 
 
 «Ja, jeg går likeså godt alene, som for meg sjøl jeg,» sa Askeladden.
 
+![Øverst oppe på glassberget satt kongsdatteren.](./kongsdatteren.png)
+
 Da de to brødrene kom til glassberget, holdt alle prinsene og ridderne på å ri, så det skummet av hestene deres; men det nyttet ikke stort, skal jeg tro, for bare hestene satte hoven på berget, så gled de, og det var ikke én som kom så mye som et par alen opefter. Det var heller ikke å undres på, for berget var glatt som en glassrute og bratt som en stuevegg. Men kongsdatteren og halve riket vilde alle gjerne ha, og de rei og de glei, og det blev aldri annet. Til sist var alle hestene så trette at de ikke orket mer, og så svette var de at skummet valt av dem, og så måtte ridderne gi seg. Kongen tenkte alt på, at han skulde lyse op at ridningen begynte på nytt næste dag, om det skulde gå bedre da; men med det samme kom det en ridder på en hest så gild at ingen hadde sett slik hest før, og kobberrustning og kobberbigsel hadde han, alt så blankt at det lyste i det. De andre ropte til ham, at han gjerne kunde spare seg for å prøve å ri opefter glassberget, for det nyttet så ikke likevel. Men han hørte ikke på det øret; han red like bort imot glassberget og opefter det som ingen ting, og det et godt stykke, det kunde vel være som en tredjepart; da han kom der, snudde han hesten og red ned igjen. Men så vakker en ridder syntes kongsdatteren hun aldri hadde sett før, og mens han red, satt hun og tenkte: «Gid han bare kom op!» og da hun så han snudde hesten, kastet hun det ene gulleplet, efter ham, og det trillet ned i skoen hans. Men vel han var kommet ned av berget, red han sin vei, og det så fort at ingen visste hvor det blev av ham. Den kvelden skulde alle prinsene og ridderne frem for kongen, så den som hadde ridd så langt opefter glassberget, kunde vise frem gulleplet kongsdatteren hadde kastet. Men det var ingen som hadde noe; den ene kom efter den andre, og ingen kunde vise eplet.
 
 Om kvelden kom brødrene til Askeladden også hjem igjen, og fortalte både vidt og bredt om ridningen opefter glassberget, at først så var det slett ingen som orket komme så mye som et steg opover; «men så kom det én som hadde kobberrustning og kobberbigsel, så blankt at det lyste lang vei av ham,» sa de, «og det var gutt som kunde ri; han red over en tredjepart opefter glassberget, og han kunde nok ridd helt op, hadde han bare villet; men der snudde han, for han syntes vel det var nok for den gangen.»
@@ -57,6 +59,8 @@ Da de to brødrene kom hjem igjen om kvelden, fortalte de både vel og lenge om 
 «Å han skulde jeg hatt moro av å se, jeg også!» sa Askeladden.
 
 «Ja, det glor nå ikke fullt så mye i kullhaugen du ligger og roter i, ditt stygge svarte beist!» sa brødrene.
+
+![Han føk opefter som en fjær i et vindkast.](./ridder.png)
 
 Dagen efter skulde alle ridderne og prinsene frem for kongen og kongsdatteren — det var nok blitt for sent om kvelden, tror jeg, — så den som hadde gulleplet, kunde vise det frem; men den ene kom efter den andre, først prinsene og så ridderne, og ingen hadde noe gulleple.
 

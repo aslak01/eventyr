@@ -1,5 +1,7 @@
 # Grisen og levemåten hans.
 
+![Grisen](./grisen.png)
+
 Det var engang grisen var lei av levemåten sin, og så fikk han for seg at han skulde til tings og få dom for en annen levemåte — han fikk friste lykken han som andre, enten det blev til det tynne eller det tykke.
 
 «Hva er det du har å klage over?» spurte skriveren.

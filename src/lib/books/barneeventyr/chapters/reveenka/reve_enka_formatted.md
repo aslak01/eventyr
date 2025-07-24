@@ -12,6 +12,8 @@ Men da han var kommet godt i jorden, og gravølet vel var over, så tok det på 
 
 «Hun sitter inne,» svarte jenta.
 
+![Godkveld, hilste bjørnen.](./bjørnen.png)
+
 «Hva tar hun seg til i kveld,
 låter hun ille eller vel?»
 spurte bjørnen.
@@ -118,3 +120,5 @@ Så gikk Korse inn.
 «Send meg hit mine sokker små, jeg vil gjerne med ham gå; send meg hit mine sko å knappe, jeg vil gjerne med ham lakke.»
 
 Han vilde hun ha, og så blev det bedt lag og bryllup hos reveenka med det samme. Og dersom han ikke har vært i hønsegården, han også, så lever de i revehuset den dag idag.
+
+![Reven](./reven.png)

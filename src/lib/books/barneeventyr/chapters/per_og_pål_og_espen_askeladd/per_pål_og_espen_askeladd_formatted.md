@@ -2,6 +2,8 @@
 
 Det var engang en mann som hadde tre sønner, Per og Pål og Espen Askeladd; men annet enn de tre sønnene hadde han ikke heller, for han var så fattig at han eide ikke nåla på kroppen, og derfor sa han titt og ofte til dem, at de fikk ut i verden og se å tjene sitt brød; hjemme hos han blev det så ikke annet enn svelt ihjel likevel.
 
+![Han var så fattig at han eide ikke nåla på kroppen](./fattig.png)
+
 Et godt stykke borte fra stua hans lå kongsgarden, og like utenfor vinduene til kongen hadde det vokset op en eik, som var så stor og diger at den skygde for lyset i kongsgården; kongen hadde lovt ut mange, mange penger til den som kunde hogge ned eika; men ingen var god for det, for så fort en skåret en flis av eikeleggen, vokste det to i steden. Så vilde kongen også ha gravd en brønn, som skulde holde vann hele året; for alle grannene hans hadde brønn, men han hadde ingen, og det syntes kongen var skam. Til den som kunde grave slik en brønn at den holdt vann hele året rundt, hadde kongen lovt ut både penger og annet. Men det var ingen som kunde få gjort det; for kongsgården lå høit, høit oppe på en bakke, aldri før hadde de gravd noen tommer, så kom de til harde berget. Men da nå kongen hadde fått i hodet at han vilde ha gjort disse arbeidene, så lot han lyse op på alle kirkebakker både vidt og bredt, at den som kunde hogge ned den store eika i kongsgarden og skaffe ham en slik brønn at den holdt vann hele året rundt, han skulde få kongsdatteren og halve riket.
 
 Det var nok av dem som vilde prøve seg, kan du vel vite, men alt de knartet og hogg, og alt de rotet og grov, så hjalp det ikke, eika blev tykkere og tykkere for hvert hogg, og berget blev ikke bløtere det heller. Om en stund så vilde de tre brødrene i veien og prøve seg også, og det var faren vel nøgd med, for vant de ikke kongsdatteren og halve riket, så kunde det da hende, de fikk tjeneste ensteds hos en bra mann, tenkte faren, og mer ønsket ikke han; og da brødrene slo på det at de vilde til kongsgarden, sa faren ja på flekken, og så la Per og Pål og Espen Askeladd av gårde.
@@ -13,6 +15,8 @@ Da de nå hadde gått et stykke, kom de til en Granli, og like op for den var en
 «Du er nå støtt så klok med undringene dine du,» sa han Per og han Pål; «det er da noe å undre seg over også, at det står en vedhugger og knarter oppi heia!»
 
 «Jeg har nok moro av å se hva det er likevel jeg,» sa Espen Askeladd, og dermed gikk han.
+
+![Ligger du her og sildrer og renner så alene?](./sildrer.png)
 
 «Å ja, er du slikt et barn, har du godt av å lære å gå med!» ropte brødrene hans efter ham, men han brydde seg ikke om det, han Espen; han la avsted opover bakkene, dit han hørte det hogg, og da han kom der, så han det var en øks som stod og hogg og hogg på en furulegg.
 
@@ -71,6 +75,8 @@ Men de to brødrene lot seg ikke skremme av det, de trodde nok de skulde få ned
 Så vilde Espen Askeladd til.
 
 «Vil du endelig se ut som en merket sau, skal vi gjerne klippe av deg ørene med en gang, så slipper du å bry deg,» sa kongen, han var sint på ham for brødrenes skyld.
+
+![Den store eika utenfor kongsgården](./eika.png)
 
 «Jeg hadde nok moro av å prøve først likevel,» sa Espen, og det måtte han da få lov til.
 

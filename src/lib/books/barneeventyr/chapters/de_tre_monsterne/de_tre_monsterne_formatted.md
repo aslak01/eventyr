@@ -46,15 +46,21 @@ Ja, hun var da det.
 
 «Ja, så får hun vel sette seg inn til bordet da,» sa prinsen; men både han og de andre syntes hun var fæl å sitte til bords med.
 
+![Så kom det ei gammal kjerring med ei lang nese.](./lang_nese.png)
+
 Men rett som det var, så kom det igjen ei gammal stygg kjerring inn; hun hadde en bak så tykk og bred at hun med nød og neppe fikk klemt seg inn gjennem døren. Straks reiste bruden seg op og hilste: «God dag, moster!» og prinsen spurte igjen, om det var moster til hans brud. Begge svarte ja, og prinsen sa, at når så var, så fikk hun vel sette seg inn til bordet, hun også.
 
 Men aldri før hadde hun satt seg, så kom det igjen ei gammal stygg kjerring, med øine så store som tallerkener, og så røde og rinnende at det var fælt å se. Bruden reiste seg igjen og hilste: «God dag, moster!» og prinsen bad henne også sette seg inn til bordet; men glad var han ikke, og han tenkte ved seg sjøl: «Gud hjelpe meg for mostre min brud har!»
+
+![Så kom ei gammal kjerring med en bak så tykk og bred.](./tykk_og_bred.png)
 
 Da han hadde sittet litt, kunde han ikke bare seg, men spurte: «Men hvordan i all verden kan da min brud, som er så vakker, ha så fæle og vanskapte mostrer?»
 
 «Det skal jeg nok si deg,» sa den ene. «Jeg var likeså vakker jeg som bruden din, da jeg var på hennes alder; men det at jeg har fått så lang nese, det kommer seg av at jeg støtt og stadig har sittet og hakket og nikket med spinning, så har nesa mi tøid seg, så den er blitt så lang som du nå ser.»
 
 «Og jeg,» sa den andre, «like siden jeg var ung, har jeg sittet og skubbet fram og tilbake på vevfjelen, og av det er baken min blitt så stor og hoven som du ser.»
+
+![Så kom ei gammal kjerring med øine så store som tallerkener.](./tallerkener.png)
 
 Så sa den tredje: «Like fra jeg var ganske liten, har jeg sittet og stirret og sydd natt og dag; av det er øinene mine blitt så fæle og røde, og nå er det ikke råd for dem lenger.»
 

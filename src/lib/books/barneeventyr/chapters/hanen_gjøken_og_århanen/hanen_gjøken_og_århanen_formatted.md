@@ -1,5 +1,7 @@
 # Hanen, gjøken og århanen.
 
+![Hanen, gjøken og århanen](./fugl.png)
+
 Hanen, gjøken og århanen hadde engang kjøpt ku sammen. Da det ikke var råd å dele den, og de ikke kunde bli forlikt om å løse hverandre ut, blev de enig om, at den som våknet først om morgenen, skulde ha kua. Så våknet hanen først.
 
 «Nå er kua mi!

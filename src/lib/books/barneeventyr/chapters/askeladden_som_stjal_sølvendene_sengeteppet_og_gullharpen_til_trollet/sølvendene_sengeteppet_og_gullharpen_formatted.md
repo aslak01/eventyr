@@ -28,7 +28,7 @@ Da han var midt utpå kom trollet ut og fikk se ham.
 
 Da han kom tilbake til kongen med de syv sølvendene, blev han enda bedre likt i kongsgården, og sjølve kongen sa det var godt gjort;
 
-Og rodde så tilbake det forteste han kunde.
+![Og rodde så tilbake det forteste han kunde.](./rodde.png)
 
 men brødrene hans blev enda mere harme og misunnelige på ham; og så fant de på å si til stallmesteren, at nå hadde han sagt seg god for å skaffe kongen sengeteppet til trollet, med en sølvrute og en gullrute og en sølvrute og en gullrute i, når han bare vilde; og stallmesteren var ikke sen denne gangen heller med å fortelle det til kongen. Kongen sa da til gutten, at brødrene hans hadde fortalt, han sa seg god for å skaffe trollets sengeteppe med sølv- og gullrutene i, og nå skulde han gjøre det, eller også skulde han miste livet. Askeladden svarte, at det hadde han hverken tenkt eller sagt; men det hjalp ikke, og så bad han om tre dager å områ seg i. Da de var omme, rodde han over i kna-trauget, og gikk frem og tilbake og lurte. Endelig så han at de i berget hengte ut sengeteppet for å lufte det, og da de var kommet vel inn i fjellet igjen, knep Askeladden det, og rodde tilbake det forteste han kunde.
 
@@ -61,6 +61,8 @@ Da han kom tilbake med gull- og sølvteppet, holdt alle enda mer av ham enn før
 Så grep trollet ham og tok ham med seg inn i berget. «Nå, datter mi,» sa han, «nå har jeg fått tak i han som har tatt sølvendene mine og sengeteppet mitt med sølv- og gullrutene i; sett ham nå på gjøstien, så skal vi slakte ham og be til oss skyldskapen vår.» Det var hun straks villig til og satte ham på gjøstien, og der stod han i åtte dager og fikk alt det beste han vilde ønske seg både av mat og drikke, og det så mye han vilde ha.
 
 Da de åtte dagene var omme, sa trollet til datteren, at hun fikk gå ned og skjære ham i veslefingeren, så de kunde få se om han var feit.
+
+![Er det du som har tatt de syv sølvendene mine?](./troll.png)
 
 Hun ned til gjøstien. «Kom med veslefingeren din,» sa hun; men Askeladden stakk ut spikeren, og den skar hun i.
 

@@ -10,6 +10,8 @@ Det spurtes snart oppe på slottet, at konen var så sorggiven, og da kongen fik
 
 «Ja,» sa mannen, «når du nå går frem langs med stranden her, så kommer du til tre kongsdøtrer, som står i jorden, så de bare har hodet oppe. Så roper den første — det er den eldste — og ber deg så vakkert komme og hjelpe seg, og det gjør den andre også; men ingen av dem skal du gå bort til; skynd deg bare fra dem, som du aldri hørte eller så dem. Men den tredje skal du gå bort til og gjøre det hun ber deg om; det blir din lykke det.»
 
+![Får jeg det som konen din bær under beltet?](./hodet_fra_vannet.png)
+
 Da gutten kom til den første av prinsessene, ropte hun til ham og bad ham så inderlig vakkert at han skulde komme til henne; men han gikk som han aldri så henne; like ens gikk han forbi den andre; men den tredje gikk han bort til.
 
 «Vil du gjøre det jeg sier deg, skal du få hvem av oss tre du vil,» sa prinsessen.
@@ -44,11 +46,15 @@ Så gav mannen ham et par ski. «Når du står på disse,» sa han, «så kommer
 
 Da kongen kom dit, snudde han skiene, slik som herren over dyrene hadde sagt, og så gikk de tilbake.
 
+![Han blåste inn alle fuglene](./alle_fuglene.png)
+
 Han spurte igjen efter Hvittenland, og mannen blåste inn alle fuglene, og spurte om noen av dem visste hvor Hvittenland lå. Nei, ingen visste det. Lenge efter de andre kom også en gammel ørn; hun hadde vært borte i ti runde år; men hun visste det heller ikke.
 
 «Ja ja,» sa mannen, «så skal du få lånt et par ski av meg; når du står på dem, så kommer du til bror min, som bor hundrede mil herifra; han er herre over alle fiskene i havet; du får spørre han. Men glem ikke å snu skiene!»
 
 Kongen takket og steg på skiene; og da han var kommet til han som var herre over fiskene i havet, snudde han dem, og så gikk de tilbake, likesom de andre. Så spurte han efter Hvittenland igjen.
+
+![Så kom det en gammel, gammel gjedde.](./gammel_gjedde.png)
 
 Mannen blåste da inn fiskene; men ingen visste noget. Endelig kom en gammel, gammel gjedde, som han hadde et svare bry med å få blåst inn. Da han spurte henne, sa hun: «Jo, der er jeg vel kjent; for nå har jeg vært kokke der i ti år. Imorgen skal jeg dit igjen; for da skal den dronningen som kongen blev borte for, ha bryllup med en annen.»
 
