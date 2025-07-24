@@ -12,6 +12,8 @@ Men da han så litt bedre på steinen, stod det et pengeskrin under, fullt av bl
 
 Så fortalte han moren hvordan det hadde gått ham, at steinen hadde snudd sig, og at han hadde funnet et skrin med sølvpenger, som han hadde slått ut i tjernet, for det var stjålne penger. «Men en firskilling fløt, og den tok jeg, for den var rettferdig,» sa gutten.
 
+![Gutten ga skjorta til steinen](./gutten_skjorta.png)
+
 «Du er en tosk,» sa moren — hun var rent arg — «var ikke annet rettferdig enn det som flyter på vann, så var det ikke stor rettferdighet i verden. Men om så pengene var stjålne ti ganger, så hadde du funnet dem, og enhver er sig sjøl nærmest. Hadde du tatt pengene, kunde vi levd godt og vel i all vår tid. Men en tulling er du, og en tulling blir du, og nå vil jeg ikke lenger gå her og slite og dras med dig. Nå får du ut og tjene for ditt brød.»
 
 Gutten måtte da ut i den vide verden, og han gikk både langt og lenge og spurte efter tjeneste. Men hvor han kom, syntes folkene han var for liten og for veik, og så de kunde ikke bruke ham til noe. Endelig kom han til en kjøpmann; der fikk han være i kjøkkenet, og skulde bære ved og vann til kokka.
@@ -50,6 +52,8 @@ Så seilte kjøpmannen igjen; men aldri før var han kommet i rum sjø, så så 
 
 Kjøpmannen gikk igjen opp i vertshuset, og her var også bordet dekket med ris, men de var mye større og lengere enn der han først var. Og de kunde vel trenges; for her var det enda flere mus. Og alle var de dobbelt så store som dem han før hadde sett.
 
+![Katten jager musene til hulls](./katt_og_mus.png)
+
 Så solgte han katten igjen, og den gangen fikk han to hundre for den og det liten profitt.
 
 Da han hadde seilt derfra, og var kommet et stykke utpå havet, satt katten oppi masten igjen; og straks tok uværet til på nytt, og langt om lenge blev han også den gangen drevet inn til et land, han aldri hadde vært i.
@@ -65,3 +69,5 @@ Men med det samme kjøpmannen tenkte det ved sig sjøl, blev det en storm og et 
 Da han var kommet i land, gav han gutten de seks hundre dalerne, og datter si attpå; for nå var kokkedrengen likeså rik som kjøpmannen, og siden levde gutten både i herlighet og glede.
 
 Moren tok han til sig og gjorde vel imot; for «jeg tror ikke på det, at enhver er sig sjøl nærmest,» sa gutten.
+
+![Pengene i vannet](./pengene_i_vannet.png)

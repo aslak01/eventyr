@@ -1,5 +1,7 @@
 # Tro og Utro
 
+![Brødrene](./tro_og_utro.png)
+
 Det var en gang to brødre, den ene hette Tro og den andre Utro. Tro var ærlig og god, men Utro var slem og full av løgn, så de aldri kunde lite på det han sa. Moren var enke og hadde ikke stort å leve av, og da sønnene var blitt voksne, måtte hun ha dem fra sig, så de selv kunde tjene sitt brød i verden. Hver av dem gav hun ei lita skreppe med mat, og så skulde de i veien.
 
 Da de nå hadde gått til om kvelden, satte de sig på et vindfall i skogen og tok frem skreppene sine, for sultne var de efter å ha gått hele dagen, og så syntes de at nå skulde en matbete smake godt.
@@ -30,6 +32,8 @@ Jo, det syntes de andre godt om, det kunde være morosamt, sa de, og så la bjø
 
 «Ja, ja,» sa reven, «når kongen av Engeland visste det jeg vet, så hadde han ikke vondt for vann i kongsgården sin; under den store steinen midt i gården hans er det klareste kildevann noen kan ønske sig, bare han visste å grave der.»
 
+![Dyrene snakker under linden](./tot_dyrene.png)
+
 «Ja,» sa haren, «kongen av Engeland har den vakreste frukthagen i hele landet, men den bærer ikke så mye som en eplekart engang; for det ligger en svær gullkjede tre ganger rundt om hagen. Fikk han gravd op den, så blev det den gildeste hagen i hele hans rike.»
 
 «Men nå er det langt på natta, og vi lar nok gå hjem igjen nå,» sa reven, og så gikk de sin vei allesammen.
@@ -59,6 +63,8 @@ Ja, det vilde kongen gjerne; Tro fikk folkene, og til å grave, og så fikk han 
 En dag igjen gikk Tro og kongen og snakket sammen; så kom kongsdatteren gående forbi dem, og kongen blev rent sorgmodig, da han så henne.
 
 «Er det ikke synd, at så vakker en kongsdatter som min, skal vante mål og mæle?» sa han til Tro.
+
+![En padde](./tot_padde.png)
 
 «Ja, men det er råd for det,» sa Tro.
 

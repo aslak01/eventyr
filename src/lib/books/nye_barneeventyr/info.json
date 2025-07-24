@@ -5,5 +5,21 @@
     "Peter Christen Asbjørnsen",
     "Moltke Moe"
   ],
-  "published": 1927
+  "published": 1927,
+  "illustrator": [
+    "Theodor Kittelsen"
+  ],
+  "chapter_index": {
+    "bjørnen_og_reven": "Bjørnen og reven",
+    "lurvehette": "Lurvehette",
+    "tro_og_utro": "Tro og Utro",
+    "en_frierhistorie": "En frierhistorie",
+    "lillekort": "Lillekort",
+    "buskebrura": "Buskebrura",
+    "hanen_og_høna_i_nøtteskogen": "Hanen og høna i nøtteskogen",
+    "rike_per_kremmer": "Rike Per Kremmer",
+    "den_rettferdige_fireskilling": "Den rettferdige fireskilling",
+    "grimsborken": "Grimsborken",
+    "tommeliten": "Tommeliten"
+  }
 }

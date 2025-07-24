@@ -32,9 +32,11 @@ Så snakket det ene hodet til det andre, og de spurte hverandre hva de skulde gj
 
 «At det faller gull av munnen hver gang hun taler,» sa det tredje hodet.
 
-Da stemordatteren kom hjem, og stemoren så at hun var så vakker og så kvitlett som den lyse dagen, og at det falt gullpenger av munnen hennes når hun talte, blev hun rent gal. Hun jagde sin egen datter ut til bekken for å hente vann.
+Da stemordatteren kom hjem, og stemoren så at hun var så vakker og så kvitlett som den lyse dagen, og at det falt gullpenger av munnen hennes når hun talte, blev hun rent gal. Hun jagde manndatteren til grisehuset. Der skulle hun være med gullstasen sin, men inn i stua fikk hun ikke sette sin fot.
 
-Da rettedatteren kom til bekken, kom det første hodet op. «Vask mig du!» sa det.
+![Hodene i bekken](./busk_troll.png)
+
+Det varte ikke lenge før moren ville ha rettedatteren til bekken etter vann. Da hun kom der med bøttene sine, kom det første hodet op. «Vask mig du!» sa det.
 
 «Rakkeren vaske dig!» sa rettedatteren.
 
@@ -47,6 +49,8 @@ Så kom det tredje hodet op. «Kyss mig du!» sa det.
 «Rakkeren kysse dig, din muletrut!» sa jenta.
 
 Så snakket hodene igjen til hverandre, og spurte hva de skulde gjøre ved den som var så vrangvis; og så blev de samrådd om at hun skulde ha fire alens nese og tre alens trut og ei tollbuske midt i skallen, og hver gang hun snakket, skulde det falle aske ut av munnen på henne.
+
+![Rettedatter forvandlet](./busk_forvandlet.png)
 
 Da hun kom hjem til stuedøra med vannbøttene, ropte hun inn til moren: «Lukk op!» sa hun.
 
@@ -108,28 +112,30 @@ Men da de kom til kongsgården, og kongen fikk se den fæle buskebrura med fire 
 
 Første torsdagskvelden efter kom det en vakker jomfru inn på kjøkkenet i kongsgården, og bad kokkejenta som lå der, så vakkert om å få låne en børste. Det fikk hun, og så børstet hun håret sitt så gullet dryppet. En liten hund fulgte med henne, og til den sa hun: «Gå ut, Lille Kaværn, og se om det snart er dagen!» Det sa hun tre ganger, og den tredje gangen hun sendte ut hunden, var det ved de tider det tok til å gråne. Da måtte hun bort, men med det samme hun gikk, sa hun:
 
-«Hutt! du stygge buskebrur,
-som skal ligge i kongens arm!
-Jeg i grus og sand,
-og min bror i ormegården, foruten gråt!
+> «Hutt! du stygge buskebrur,
+> som skal ligge i kongens arm!
+> Jeg i grus og sand,
+> og min bror i ormegården, foruten gråt!
 
 «Nå kommer jeg igjen to ganger til og så aldri mer,» sa hun.
 
 Om morgenen fortalte kokkejenta det hun hadde sett og hørt, og så sa kongen at neste torsdagskvelden vilde han selv våke i kjøkkenet om det var sant, og da det vel hadde tatt til å mørkne, så kom han ut i kjøkkenet til jenta. Men alt han gned øinene og prøvde å holde sig våken, så hjalp det ikke; for buskebrura trallet og sang, så øinene hans seg ihop, og da den vakre jomfruen kom, sov han så han snorket. Likesom første gangen fikk hun lånt en børste og børstet håret sitt med den så gullet dryppet, og så sendte hun ut hunden tre ganger, og da det lysnet gikk hun. Med det samme hun gikk, sa hun de samme ordene som gangen før:
 
-«Hutt! du stygge buskebrura,
-som skal ligge i kongens arm!
-Jeg i grus og sand,
-og min bror i ormegården, foruten gråt!
+> «Hutt! du stygge buskebrura,
+> som skal ligge i kongens arm!
+> Jeg i grus og sand,
+> og min bror i ormegården, foruten gråt!
 
 «Nå kommer jeg igjen én gang, og så aldri mer,» sa hun.
 
+![Buskebrura i egen skikkelse](./busk_vakker.png)
+
 Den tredje torsdagskvelden vilde kongen våke igjen. Da satte han to mann til å holde sig, en under hver arm, de skulde riste ham og nappe i ham hver gang han vilde til å sovne, og to mann satte han til vakt over buskebrura. Men da det led utpå kvelden, tok buskebrura igjen på å tralle og synge, så øinene hans holdt på å lukke sig, og hodet hang ned til den ene siden. Så kom den vakre jomfruen og fikk børsten og børstet håret sitt så gullet dryppet, og så sendte hun ut Lille Kaværn, for å se om det snart var dagen, og det gjorde hun tre ganger. Tredje gangen tok det til å lysne, da sa hun:
 
-«Hutt! du stygge buskebrura,
-som skal ligge i kongens arm!
-Jeg i grus og sand,
-og min bror i ormegården, foruten gråt!»
+> «Hutt! du stygge buskebrura,
+> som skal ligge i kongens arm!
+> Jeg i grus og sand,
+> og min bror i ormegården, foruten gråt!»
 
 «Nå kommer jeg aldri igjen mere,» sa hun, og så vilde hun gå. Men de to mann som holdt kongen under armene, grep over hendene hans og klemte kniven inn i neven på ham, og så fikk han skåret henne i veslefingeren, så mye at hun blev blodvekt.
 

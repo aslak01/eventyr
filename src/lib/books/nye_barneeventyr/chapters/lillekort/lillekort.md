@@ -40,6 +40,8 @@ Så sa de hverandre farvel, og Lillekort gikk i øst og kong Lavring i vest.
 
 Da nå Lillekort hadde gått en stund alene, møtte han ei gammal, gammal krokrygget kjerring som bare hadde ett øie. Det snappet Lillekort.
 
+![Lillekort og trollkjerringa](./lillekort_trollkjerring.png)
+
 «Au, au!» ropte kjerringa, «hvor blev det av øiet mitt?»
 
 «Hvad gir du mig, skal du få et øie?» sa Lillekort.
@@ -83,6 +85,8 @@ Imens bad Lillekort kokkejenta så vakkert om han kunde få lov å gå ned til s
 «Å jo, kjære vene, la mig få gå,» sa Lillekort; «jeg vil så gjerne ned dit og more mig litt med de andre guttene, jeg også.»
 
 «Ja ja, gå da,» sa kokkejenta, «men la mig se du ikke blir der lenger enn til kveldsgryta skal henges på og steika skal settes på spett; og ta så med dig et dyktig fange ved herinn på kjøkkenet igjen.»
+
+![Ridder Rød i treet](./lillekort_ridder.png)
 
 Ja, det lovte Lillekort, og løp ned til stranden.
 
@@ -133,6 +137,8 @@ Så slo trollet efter ham med jernstangen sin — den var enda større enn den d
 «Tvi!» sa Lillekort, «det var noe, også det! Nå skal du få se et hugg av mig!»
 
 Så grep han sverdet og hugg til trollet, så alle ti hodene danset bort over sanden.
+
+![Lillekort møter trollet](./lillekort_trollet.png)
 
 Så sa kongsdatteren til ham igjen: «Sov en liten stund på fanget mitt,» og mens Lillekort lå der, drog hun en sølvklædning på ham.
 
@@ -241,6 +247,8 @@ Da nå vørteren var ferdig, skulde de smake allesammen, forstår sig, først tr
 Som han nå stod der og så sig om, fikk han øie på en stor kiste; den tok Lillekort og la full med gull og sølv, bandt så kjettingen om sig og kongsdatteren og kisten, og rykket til av alle krefter; så drog mannskapet dem opp i god behold.
 
 Da Lillekort vel hadde kommet ombord igjen, sa han: «Gå nå salt vann og ferskt vann, berg og dype daler, og stans ikke før du kommer ved kongens gård,» og straks fór skibet avsted, så gule fossen stod om det. Da de på kongsgården så skibet, var de ikke sene til å møte med sang og spill, og tok imot dem, men gladest av alle var kongen, som nå hadde fått igjen den andre datter si også.
+
+![Lillekorts skip](./lillekort_skip.png)
 
 Men den som ikke var vel til mote, det var Lillekort; for begge kongsdøtrene vilde ha ham, og han vilde ikke ha noen annen enn den han først hadde frelst — det var den yngste det. Derfor gikk han titt og ofte og tenkte på, hvordan han skulde bære sig at for å få henne, for den andre vilde han også nødig gjøre imot. En dag han gikk og tenkte hit og dit på dette, falt det ham inn, at bare han nå hadde bror sin hos sig, kong Lavring, som var så lik ham at ingen kunde skjelne dem fra hinannen, så kunde han la den andre kongsdatteren og det halve riket, for selv syntes han at han hadde nok med den ene halvdelen. Aldri før hadde han kommet på det, så gikk han utenfor slottet og ropte på kong Lavring. Nei, det kom ingen. Så ropte han én gang til og litt høiere, men nei, det kom enda ingen. Så ropte Lillekort tredje gangen, og det av alle krefter, og så stod broren der.
 

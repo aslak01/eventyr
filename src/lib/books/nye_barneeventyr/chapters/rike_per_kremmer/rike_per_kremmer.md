@@ -34,6 +34,8 @@ Stjernekikerne så på stjernene igjen, men så blev de vonde og sa: «Hun skal 
 
 Det første Per Kremmer gjorde da han kom hjem, var å reise ned til kverna. Da var gutten så stor at han hadde stått på kirkegulvet, og han gikk i kverna og hjalp til. En vakker gutt var det blitt av ham.
 
+![Per og stjernekikkerne](./per_stjernekikkere.png)
+
 «Kunde du ikke la mig få den gutten du?» sa Per Kremmer til mølleren.
 
 «Nei, kan jeg ei,» svarte han; «jeg har fostret ham opp som min egen, og han har skikket sig vel, så nå kan jeg ha hjelp og nytte av ham i kverna, for sjøl tar jeg på å bli gammel og skrøpelig.»
@@ -130,6 +132,8 @@ En stund efter at gutten hadde krøpet under sengen, kom draken hjem.
 
 «Ja så,» sa draken.
 
+![Dragen i hullet](./per_drage.png)
+
 Så satte kongsdatteren frem maten, og da de hadde ett, la de sig. Men da de hadde ligget en stund, sov hun så urolig, og med ett så kvakk hun.
 
 «Au da!» sa hun.
@@ -215,3 +219,5 @@ Derfrå reiste han like hjem, og han var så tilstaset med gull og sølv, og så
 Ja, Per Kremmer vilde mer enn gjerne reise. Så sa mågen ham veien så vel at han slapp å spørre sig frem; «men hestene,» sa han, «er det best du setter igjen på denne side elva; den gamle sundmannen han hjelper dig nok over.»
 
 Per drog av garde, og stor niste tok han med sig og mange hester; men dem satte han efter sig ved elva, slik som gutten hadde sagt. Så tok sundmannen ham på ryggen, og da de kom et stykke uti, kastet han ham midt uti elva og sa: «Nå kan du gå her og sette over, til du blir avløst!» Og har ingen løst ham av, så går Rike Per Kremmer der og setter over den dag idag.
+
+![Per kaster i vannet](./per_vannet.png)

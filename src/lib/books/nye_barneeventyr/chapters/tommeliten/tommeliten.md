@@ -1,5 +1,7 @@
 # Tommeliten
 
+![Tommeliten](./tommeliten.png)
+
 Det var en gang en kone som hadde en eneste sønn, og han var ikke lenger enn en tommelfinger; derfor kalte de ham også Tommeliten.
 
 Da han var kommet til skjels år og alder, sa mor hans til ham at han skulde ut å fri: for nå syntes hun det var på tide, han tok til å tenke på å gifte sig. Da Tommeliten hørte det, blev han glad. De fikk i stand kjøregreiene og reiste av garde, og moren satte ham på fanget. Så skulde de reise til en kongsgård, der det var slik en stor prinsesse; men da de hadde kommet et stykke på veien, blev Tommeliten borte. Hun lette lenge efter ham og ropte på ham, og gråt for det han var borte og hun ikke kunde finne ham igjen. «Pip, pip!» sa Tommeliten, han hadde gjemt sig i manen på hesten. Så kom han frem, og så måtte han love at han ikke skulde gjøre det oftere. Da de hadde kjørt et stykke til, så var Tommeliten borte igjen. Moren lette efter ham og ropte og gråt, men borte var han. «Pip, pip!» sa Tommeliten, og hun hørte han lo og kniste, men hun kunde slett ikke finne ham igjen. «Pip, pip, her er jeg da!» sa Tommeliten og kom frem av øret på hesten. Så måtte han love, han ikke skulde gjemme sig oftere. Men da de hadde kjørt et stykke, så var han borte igjen; han kunde ikke berge sig.
@@ -11,3 +13,5 @@ Da de kom til kongsgården, så blev det snart trolovelse, for prinsessen syntes
 Da de skulde til med middagen i bryllupsgården, så satt Tommeliten tilbords ved siden av prinsessen; men han var verre enn ille stelt, for da han skulde til å ete, kunde han ikke nå opp, og han hadde visst ikke fått matbete, hadde ikke prinsessen tatt og hjulpet ham opp på bordet.
 
 Nå gikk det både godt og vel, så lenge han kunde ete av tallerken; men så kom det inn et stort grøtfat, det kunde han ikke nå opp i; men Tommeliten visste råd. Han satte sig på kanten. Men så var det et smørøie midt uti fatet; det kunde han ikke rekke, og så måtte han sette sig utpå kanten av smørøiet; men rett som det var kom prinsessen med en stor skje og skulde dyppe en dyktig grøtbete i smøret, og så kom hun nær Tommeliten, så han dumpet uti og druknet i smørøiet.
+
+![Tommeliten i smørøyet](./tommeliten2.png)

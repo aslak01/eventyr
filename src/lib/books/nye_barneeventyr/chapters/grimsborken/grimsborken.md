@@ -36,6 +36,8 @@ Ja, gutten gjorde det også: han slo ihjel alle folungene, og så gikk han hjem 
 
 Men da han kom igjen neste året og skulde se til borkefolen og hoppene sine, blev han rent fælen. Så stor og grovvoksen hadde han aldri trodd hest kunde bli; for Borken måtte legge sig ned på alle fire, før gutten kunde nå opp på den; han hadde nok med å komme opp på den, enda den lå, og så smekkfeit var den at det glinste og skinte i den som i en speil.
 
+![Stor fole](./stor_fole.png)
+
 Og den gangen var ikke Borken uvillig til å følge med gutten. Han satte sig da opp på den, og da han kom ridende hjem til brødrene sine, slo de hendene ihop og forkorset sig, for slik hest hadde de hverken sett eller hørt tale om.
 
 «Dersom dere nå vil skaffe mig så god skoning under hesten, og så gild sål og bissel som gives kan,» sa gutten, «så skal dere få alle tolv hoppene mine, slik som de står og går oppe i heiene, og de tolv folungene deres også,» -- det året hadde også hver hoppe fått sin fole.
@@ -108,6 +110,8 @@ Så red gutten bortover igjen, det var mange, mange blåner, for med Grimsborken
 
 «Det er nok en voksen folunge det,» sa Grimsborken; «det høres så grant, av det den er så langt fra oss.»
 
+![Braker i skogen](./braker_i_skogen.png)
+
 Så reiste de et godt stykke, en blåne eller vel så det, igjen.
 
 Så knegget Grimsborken på nytt. «Hører du noe nå?» sa han.
@@ -134,6 +138,8 @@ Kongen gikk og så på begge Borkene, både høit og lavt, både framme og bak, 
 
 Hun skapte sig til en and, og lå og svømte på vannet som var tett utenfor kongsgården. Men gutten gikk bare ned i stallen og spurte Grimsborken hvor hun hadde gjort av sig. «Å, du trenger bare ta børsa di og gå ned til dammen og sikte på den anda som ligger og svømmer der,» sa Grimsborken, «så kommer hun nok frem igjen.»
 
+![Forvandlet til and](./forvandlet_and.png)
+
 Gutten nappet børsa og la ned til vannet, han. «Jeg vil nok klemme på denne anda, jeg,» sa han, og gav sig til å sikte på den.
 
 «Nei, nei, kjære vene, skyt ikke! det er mig,» sa kongsdatteren. Så hadde han funnet henne den gangen.
@@ -141,6 +147,8 @@ Gutten nappet børsa og la ned til vannet, han. «Jeg vil nok klemme på denne a
 Andre gangen skapte hun sig til et brød, og la sig på bordet mellem fire andre; og så lik var hun de andre brødene, at ingen kunde skille dem fra hverandre. Men gutten gikk ned i stallen til Grimsborken igjen, og sa at nå hadde kongsdatteren gjemt sig, og han visste slett ikke hvor det var blitt av henne. «Å, ta bare og bryn en dyktig brødkniv, og lat som du vil skjære tvert igjennem det tredje brødet fra venstre hånd, av de fem brødene som ligger på kjøkkenbordet i kongsgården, så kommer hun nok frem igjen,» sa Grimsborken.
 
 Ja, gutten opp i kjøkkenet og til å bryne den største brødkniven han kunde finne, grep så det tredje brødet fra venstre hånd og satte kniven på det, som han vilde skjære det tvert igjennem. «Jeg vil ha mig en skalk av dette brødet,» sa han.
+
+![Forvandlet brød](./forvandlet_brød.png)
 
 «Nei, kjære vene, skjær ikke! Det er mig!» sa kongsdatteren igjen, og så hadde han funnet henne andre gangen også.
 
