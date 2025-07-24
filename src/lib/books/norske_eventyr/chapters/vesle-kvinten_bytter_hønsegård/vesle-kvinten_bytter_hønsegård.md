@@ -44,6 +44,8 @@ Vesle-Kvinten ga seg til å rusle fram og tilbake, langt over og lang til å mø
 
 — Akkurat, svarte Vesle-Kvinten. Han hogg og han kløde og han svettet så flisene fløy rundt om øra på ham både natt og døgnet, til den andre hønsegården kom på plass.
 
+![Æda, bæda, tullemikkel! ropte Vesle-Kvinten](./tullemikkel.png)
+
 — Æda, bæda, tullmikkel! ropte Vesle-Kvinten. Her har du ei børse, og når det kommer mennesker i nærheten, gir du dem "kamfer og vatten".
 
 Jo, det var grei skuring det, mente Vesle-Kvinten, og dermed lot han seg hyre som Mikkels hønsedreng.
@@ -63,3 +65,4 @@ Dette trodde husbonden bare var snikksnakk og tull alt sammen, men da han ble sy
 — Æda, bæda, tullmikkel, sa Vesle-Kvinten.
 
 — No skal du sannelig få unngjelde, ditt utyske, raste husbonden, han løftet geværet og ga den "kamfer og vatten".
+

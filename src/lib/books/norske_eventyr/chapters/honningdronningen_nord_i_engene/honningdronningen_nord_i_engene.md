@@ -22,14 +22,14 @@ Som det led på kom han i hug at nå kunne han heller prøve med det gode. Og en
 
 Mer hadde ikke gubben i Fagerheia å by på, og da visste han ikke annet å gjøre enn å komme seg heim og gråte seg i søvn. Og galt var det og, for da drømte han bare om honning igjen, og da ble det ti ganger verre når han våknet. Til slutt ble han så vill at han kløv opp på den høgste nuten i landet og skreik så høgt at all verden måtte høre det:
 
-*Oi oi oi! Øi øi øi!  
+_Oi oi oi! Øi øi øi!  
 En tønne gull,  
 ti store okser,  
 ti sekker korn,  
 ti sekker ull  
 til den som skaffer meg en tønne  
 med honning full  
-før jeg skal dø-—ø—ø!*
+før jeg skal dø-—ø—ø!_
 
 Da alskens troll og dyr fikk høre dette, tok de til å røre på seg. Men alt de kavde og sleit var det ingen honning å oppdrive hverken med det onde eller det gode, og gubben i Fagerheia ble så ulykkelig til sinns at han bestemte seg for å sette varme på bikuben nord i engene.
 
@@ -44,6 +44,8 @@ Så en dag tok han ildstålet med seg og ruslet nord i engene for å gjøre galm
 Jo jo, mente gubben, en venter aldri for lenge når en venter på noe godt. Men han hadde no sine tvil like vel da. Ikke for det — hadde han ventet så lenge, kunne han da vente en stund til. De ble enige om dette og gikk til hver sin kant.
 
 Da det hadde gått en tid, gikk Vesle-Kvinten omkring i engene og sådde blomsterfrø i flere mils omkrets. Og som han gikk slik og stullet, kom honningdronningen summende bortover til ham.
+
+![Trollgubben i Fagerbrekka ble dugelig sint](./trollgubben.png)
 
 — Hva skal dette bety da, gutten min? spurte hun.
 
@@ -61,9 +63,10 @@ Gubben ble så gla da han fikk se honningtønna at han gjorde rundkast og gol so
 
 På denne festen kvad gubben til Vesle-Kvintens ære:
 
-*Hug å heil å kvi kvi kvanten  
+_Hug å heil å kvi kvi kvanten  
 tru og sæl å kva kva Kvinten  
 oi å hoi å hyse fanten.  
 ei å mei å spli spli splinten.  
 Rakkaren Kakkaren, nikke mikke mur,  
-stunten å glunten Kvinten har tur.*
+stunten å glunten Kvinten har tur._
+

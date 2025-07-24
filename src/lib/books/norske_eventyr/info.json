@@ -3,5 +3,27 @@
   "author": [
     "Nils Moa"
   ],
-  "published": 1942
+  "published": 1942,
+  "illustrator": [
+    "Nils Moa"
+  ],
+  "chapter_index": {
+    "vesle-kvinten_og_svala": "Vesle-Kvinten og svala",
+    "honningdronningen_nord_i_engene": "Honningdronningen nord i engene",
+    "kornet_som_skulde_males": "Kornet som skulle males",
+    "tannverk_i_storheia": "Tannverk i Storheia",
+    "julekveld_i_storheia": "Julekveld i Storheia",
+    "vesle-kvinten_svever_mellom_liv_og_død": "Vesle-Kvinten svever mellom liv og død",
+    "vesle-kvinten_koker_suppe_som_sier_seks": "Vesle-Kvinten koker suppe som sier seks",
+    "mikkel_rev_er_lur_men": "Mikkel rev er lur men -",
+    "vesle-kvinten_og_dragen": "Vesle-Kvinten og dragen",
+    "sauene_i_blåheimen": "Sauene i Blåheimen",
+    "rakkarmjølet_og_tussesplintene": "Rakkarmjølet og Tussesplintene",
+    "den_endeløse_skogen": "Den endeløse skogen",
+    "hærbærntrollet_og_de_glade_laksene": "Hærbærntrollet og de glade laksene",
+    "seljefløyten": "Seljefløyten",
+    "vesle-kvinten_bygger_hønsegård": "Vesle-Kvinten bygger hønsegård",
+    "gullharpen": "Gullharpen",
+    "greshoppene_og_de_røde_prinsene": "Gresshoppene og de røde prinsene"
+  }
 }

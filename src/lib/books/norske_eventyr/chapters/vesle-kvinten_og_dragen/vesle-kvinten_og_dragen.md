@@ -41,8 +41,11 @@ Dragen ble så mild og blank i øynene med det samme, det var første gangen den
 
 — Takk for det, gutten min, svarte den. Så snill en kar råkte jeg aldri før. Men når du er så snill så vil jeg be deg om en tjeneste til. Jeg er trett og trenger søvn, derfor vil jeg be deg holde vakt for meg og hulen min mens jeg sover i sju døgn. Det er det hele jeg trenger på sju år. Skulle noe galt skje mens jeg sover, stikker du denne lange stangen sju meter inn i det høyre neseboret mitt, det er den eneste måten jeg våkner på. Pass på at ild og varme ikke kommer nær kroppen min, da er jeg evig fortapt.
 
+![Takk for det, gutten min, svarte dragen.](./drage.png)
+
 — Sov bare trygt du, drage, sa Vesle-Kvinten, for her er gutten du kan stole på i ett og alt.
 
 Dermed la dragen seg ned og sov, den sov så det dundret i skog og berg, og da Vesle-Kvinten var sikker på at den var kommet vel inn i drømmenes rike, samlet han kvist og mose som han la omkring den, og deretter slo han med ildstål så varmen freste omkring den. Aldri hadde Vesle-Kvinten sett så diger en varme. Det freste og smalt i samfulle sju døgn, og det åttende døgnet var det ikke annet å se enn bare kvite askehaugen.
 
 Vesle-Kvinten hentet foreldrene sine ut av hulen, og dermed frelste han også alle jorddvergene og haugbukkene. Det ble holdt stor fest i Storheia. Vesle-Kvinten ble hedersgjesten, han fikk så mye sneglemajones og froskejellé han bare orket å skuffe i seg.
+

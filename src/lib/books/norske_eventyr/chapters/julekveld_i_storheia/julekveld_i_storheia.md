@@ -30,11 +30,13 @@ Stor-Kvinten og Vesle-Kvinten sto i andakt utafor hulen og ønsket jula velkomme
 
 — Jeg lurer støtt på det samme jeg, klompen min. Og hvorfor er vi troll så redde menneskene da? Jaja, det fins da vel både onde og gode troll her i verden, og det er vel slik hos menneskene også, kan jeg tenke meg. Men i jula er det fred og forsoning mellom alle skapninger, det er både visst og sant.
 
+![Så ringte jula inn](./julekveld.png)
+
 Lukten og stinne eimen av bjørnekjøtt som sprakte og smalt på glørne inne i hulen slo dem i møte. Da ble de så skrubbsultne begge to at de glemte hele andakten, og dermed ga de seg til å kravle inn i hulen.
 
 På julebordet som var duket med reinmose og einerkvasar, hadde Gull disket opp med de deiligste retter av verden. Ja, det riktig bugnet av lekre saker. Juletreet og bordlysene og alle tyrilysene og skålene rundt om på veggene ble tent, det skinte som av sju soler på en gang. Da familien benket seg til bords, begynte Stor-Kvinten å kvede:
 
-*Hau og ho oi og su—ui  
+_Hau og ho oi og su—ui  
 ringe linge kålven.  
 Stjernen lyser troll i hold,  
 lyser kryp i mørke mold,  
@@ -43,22 +45,22 @@ ned i svarte, frosne kjelde.
 Hau og ho — oi og su—ui,  
 ringe linge kålven.  
 No er det jul,  
-velkommen til sul!*
+velkommen til sul!_
 
 Så skulle da Gull også gneldre borti en tone, og det bar slik i veg:
 
-*Hau og ho — oi og su—ui,  
+_Hau og ho — oi og su—ui,  
 ringe linge kålven.  
 Fred er lyst i folk og fe.  
 i hold og troll av stein og tre,  
 i kjøld og kjørve og glittersne,  
 og fred er med oss alle tre.  
 Hau og ho — oi og su—u—i  
-ringe linge kålven.*
+ringe linge kålven._
 
 Vesle-Kvinten var ikke kleinere karen han heller, og dermed remjet han i veg han og:
 
-*Hau og ho — oi og su—u—i,  
+_Hau og ho — oi og su—u—i,  
 ringe linge kålven.  
 Ja, kålven i domen den runger  
 jula inn til alle unger.  
@@ -67,18 +69,18 @@ jul til skrup og Storhei-mons.
 Jul til tusen sultne dverge,  
 jul til alle her på berge.  
 Hau og ho — oi og su—u—i,  
-ringe linge kålven.*
+ringe linge kålven._
 
 Da trollfamilien hadde spist og drukket mer enn de hadde godt av, banket det sakte på døren.
 
 — Er det troll eller folk som tør banke på døren min en hellig julekveld! ropte Stor-Kvinten så det skalv i hele Storheia. Da svarte det:
 
-*Lukk opp for vennlig nisse  
+_Lukk opp for vennlig nisse  
 som med gaver og godhet rundt må trisse.  
 Storheiprinsen, Kvinten den lille,  
 står på listen som en av de snille.  
 For dåd og verge i skog og fjell  
-skal nok han ha gaver lell.*
+skal nok han ha gaver lell._
 
 Og der sto julenissen i døren. Skjegget hans var så urimelig langt at han gjerne kunne ake kjelke på det. Han slengte av seg den digre sekken sin og begynte å rote i den.
 
@@ -99,3 +101,4 @@ Stor-Kvinten gomlet litt på det.
 Deretter slo de ring om juletreet og sang:
 
 — Gla—a—de jul —
+

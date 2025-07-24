@@ -46,6 +46,8 @@ Jaså, tenkte Vesle-Kvinten, så måtte det vel saktens og så være noe fanteri
 
 Han tok øksa og hogg en kubbe. Dermed fikk han det særs travelt, han lå som et oljet lyn etter kubben, gjennom skog, over berg, over vann og myr. Oppe i Hærbærn forsvant kubben i den store, svarte hulen. Men Vesle-Kvinten var ikke mer skvetten av seg enn at han banket seg fram i svarte mørket. Langt om lenge kom han da også inn i selve tussesplinthulen, og der kan du tro det var moro! Små og store tusser hauket og gol, remjet og rautet, peip og mjauet, mens de hoppet og danset rundt den digre peisvarmen midt på golvet.
 
+![Han slengte øksa på skulderen og baset av gårde](./øksa_på_skulderen.png)
+
 — Jeg undres på hva slags grønnskolling du er som driver rovhogst i skogen min! ropte en stygg, gammel tussesplint.
 
 — Ti no stille med deg, din slarv, ellers syner jeg deg vintervegen og vel så det! ropte Vesle-Kvinten.
@@ -63,3 +65,4 @@ Da Vesle-Kvinten fikk veitet steinen vekk, lå far hans sammenhøyd i et trangt 
 — Velsigne deg, Kvinteklompen min, jamen var det i siste lita no, gråt han.
 
 I Storheia ble det stor fest om kvelden med gaupesteik og elgmulesuppe. Den kvelden måtte Vesle-Kvinten gi etter med livremmen til det siste hullet.
+

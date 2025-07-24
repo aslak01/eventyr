@@ -16,6 +16,8 @@ Så ruslet Vesle-Kvinten videre. Mikkel vimset foran med snuten høyt i været, 
 
 — Pass på! Øverst i grana der borte sitter ei århøne!
 
+![Men det blir vel skrøpelig jakt uten bikkje med god snute spår jeg](./mikkel.png)
+
 Vesle-Kvinten la inn en diger ladning og sendte den avgårde så det jamret i skogen. Mikkel la på sprang alt han var kar til, og det tok ikke lang økta før han kom tilbake med fuglen heller.
 
 — Nå svinter jeg borti uren der borte og gjemmer hver fugl du skyter, så kommer de ikke i fremmede hender, og så slipper vi å drasse på dem, sa Mikkel.
@@ -55,3 +57,4 @@ Det gikk både fort og gæli å få fuglene ut av hiet, men da Kvinten skulle ti
 — No er det min tur, og no slipper du fuglene og nøyter deg heimover fortere enn fortest!
 
 — Bare smell av du, Mikkel, det fins ikke skudd i den likevel — nei, no ble du rettelig lurt igjen! ropte Vesle-Kvinten.
+

@@ -42,6 +42,8 @@ Da hun fikk høre hvilket ærend Vesle-Kvinten var ute i med geitefølget sitt, 
 
 — Ta den grønne steinen her og ha den vel bevart i lomma, den vil hjelpe deg over alle farer. Jeg kjenner saukongens makt i Blåfjellet, jeg, og sannelig kunne det gått deg ille nok dersom du ikke hadde møtt meg no. Folk som tråkker på sauraksten i Blåfjellet på denne tid av døgnet, blir forgjort til sau når de møter saukongens blikk. Når trollskapen ikke vil bite på deg, kan du nok skjønne at kongen vil få stor respekt for deg, og geitene bytter han da så gjerne bort i sauer. Men når han no ber deg velge i flokken, så må du være klar over at alle sauene er klippet i ørene så nær som to stykker. De to sauene skal du ta med deg.
 
+![Her har jeg stått i klemma i sju døgn, sa hun.](./klemma.png)
+
 Vesle-Kvinten takket for gode råd og ruslet videre. Da han hadde gått både langt og lenge, kom han da endelig fram til Blåfjellet. Der hadde han ikke før tatt i grindlåset før selveste stygge saukongen sto rett foran ham og riktig boret ham ned med de grønne øynene sine.
 
 — Hva er du til gutt og kar som det ikke vil bite trollskap på da? Og hva mener du med å ha et slikt aparte følge? spurte han.
@@ -69,3 +71,4 @@ Dermed hogg han hodet av begge to. Men da skjedde det noe rart. Både den store 
 Den gamle kona ble ør av glede da hun fikk igjen gutten sin, og den gamle kallen ble det ikke mindre da han fikk se datteren sin. Vesle-Kvinten fikk tre gilde sauer hos hver av dem. Og da Stor-Kvinten fikk seks gilde sauer i stedet for de to skarve geitene, ble kanskje han enda gladere enn noen av de andre.
 
 — Du Vesle-Kvinten, du Vesle-Kvinten, sa han.
+

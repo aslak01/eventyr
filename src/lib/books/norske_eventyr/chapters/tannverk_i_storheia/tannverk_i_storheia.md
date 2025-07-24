@@ -28,6 +28,8 @@ Vesle-Kvinten og Stor-Kvinten tasset videre. Som det led på råkte de borti sel
 
 — Det er så det, sa Vesle-Kvinten. Men med slik en ukristelig tannverk blir det ikke rare greiene heller da. Kanskje du kjenner en som kan bryte tannrot av en stakkars trollarming?
 
+![Jøie meg](./tannverk.png)
+
 — Hoi, jo da, det kunne vel saktens jeg sørge for det, gutten min, og det skal ikke koste mer enn en skarve lammeskrott heller.
 
 Da Stor-Kvinten hørte det, satte han seg jamrende på en rotstubbe og slo gapet sitt på vid vegg.
@@ -65,3 +67,4 @@ Stor-Kvinten så gjorde. Men mange skrittene hadde han ikke tatt før han sank g
 Fra den dagen ble det også endskap på tannverken i Storheia.
 
 Men nede på Vintervassmyra ble tannen begravd. Og dersom du en sommerdag kommer farende over myra, og dersom du ser en ensom, diger tørrfuru som likner en trolljeksel, ja, så skal du vite: Dette er grava til tannverken i Storheia.
+

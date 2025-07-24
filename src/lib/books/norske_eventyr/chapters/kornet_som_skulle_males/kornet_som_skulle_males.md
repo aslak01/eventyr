@@ -18,6 +18,8 @@ Stor-Kvinten slang kornsekken på ryggen og la av sted alt han var kar til. Det 
 
 Da han kom til kvernhuset, tømte han kornet opp i kverna, men da det kom til stykket ville ikke kverna gå. Han både maste og raste, men like lite hjalp det, og til slutt ble han så harm og heit at han tok kornet med seg og ruslet heimover til Storheia igjen.
 
+![Det var ei tung bør, men etter som han hadde vært motig på tyngre saker før, så var han ikke kleinere karen no heller.](./tung-bør.png)
+
 — Jeg får ikke kverna til å male det fordømte kornet, ikke så mye som et eneste korn heller engang, skrek han. Så no blir vi pent nødt til å sveltefore oss likevel.
 
 Brødknipa i Storheia ble større og større for hver dag som gikk, og da de siste kakebleiene gikk i trollene, ble de sittende der i nøden og vente på døden.
@@ -59,3 +61,4 @@ Da Stor-Kvinten fikk se denne kvite skikkelsen komme stavrende oppetter fjellet,
 — Hau, hau. Hvor har du denne visdommen fra?
 
 — Livets kilde, far min! Livets kilde!
+

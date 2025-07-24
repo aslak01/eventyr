@@ -18,6 +18,8 @@ Som det led på kom da endelig Vesle-Kvinten tilbake med en diger kvase med lime
 
 — Takk for det, klompen min, svarte heksen. Og lykke til da!
 
+![Jaså, er det småtroll ute og vimser og? kvein det ut av henne](./heksa.png)
+
 Vesle-Kvinten ruslet videre og kom langt om lenge til en åpen mark hvor blåveisen vokste tett i tett så langt øyet hans kunne nå.
 
 — No vil jeg plukke meg blåveis til bu mor, sa han og ga seg til å plukke.
@@ -58,3 +60,4 @@ Langt om lenge visste han ikke ordet av før en av heksene bråstanste ved fjell
 Vesle-Kvinten satte seg bakpå, og det tok ikke mange blunkene før han igjen kunne sitte og trone på selve Storheia igjen.
 
 Neste dagen gikk han i gang med å lage seg en lime med skaft på han og, men alt han maste og kjaste så var han likevel ikke kar for å få den til å fly.
+

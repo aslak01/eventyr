@@ -21,6 +21,8 @@ Som det led på syntes svala at no var den god igjen. Men ikke kunne den begripe
 > Svale svale svippen  
 > tirilliti!
 
+![I all verden hva går det av deg da, vesle fjøra mi?](./vesle_fjøra.png)
+
 Så hendte det en dag langt om lenge at Vesle-Kvinten gikk og dreiv ørkesløs omkring på kongsjordene og grunnet over et og annet å ta seg til — uten at noe som helst ville by seg. Men da han kom nærmere kongsgården, ble han var slik en evinnelig ståk og bråk. Det var noen som dreiv gjøn med en gammel kallkrok som hadde mistet hukommelsen sin. Den gamle gråt som en unge og visste ikke hverken fra eller til, og rundt ham sto folkehopen og holdt det gående med flir og fantord. Det verste var at ikke kongen kunne bare seg for latter han heller, enda han syntes det var vondt nok.
 
 — Jaså, sa kongen, du vet hverken hva du heter eller hvor du hører heime, du mannen min. Men nå vil jeg love ut en av de gilde kvite hestene mine til den som kan bringe deg vel og vakkert heim.
@@ -65,3 +67,4 @@ Da Vesle-Kvinten og oppsynsfolket kom til kongsgården og kongen fikk vite hvord
 Men no hadde Vesle-Kvinten vært så lenge borte fra Storheia at hjertet hans gråt av lengsel etter heimen. Som beløning ville han at kongen skulle løslate ridderen og gjøre ham til arvekonge, for han visste jo godt at ridderen og kongsdatteren var så urimelig gla i hverandre.
 
 Dermed hadde han da også gjort en god gjerning. Kom så og si at ikke troll har hjertelag.
+

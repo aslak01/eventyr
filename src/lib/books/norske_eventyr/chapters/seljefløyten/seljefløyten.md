@@ -38,6 +38,8 @@ Da Vesle-Kvinten kom opp på heia, skapte han seg til og begynte å danse og spr
 
 — Hei å hå! ropte han til Mikkel. Ja, dette er sannelig moro det! Hei å hå, jeg kan ikke stanse heller. Kjære, snille Mikkel Rev, vær så snill å holde opp med fløytingen din da, jeg danser meg glugg ihjel!
 
+![Musekongen klaget sin nød til haren](./haren.png)
+
 — Hihihi, flirte reven så tårene rant, ja, no kan du danse no, Vesle-Kvinten, til du dør, så slipper du å gjøre meg flere puss!
 
 — Å, skån meg, å, skån meg! Du skal få gull og grønne skoger om du vil holde opp å fløyte. Å, å, å! Armene mine er blitt lamme, jeg kan ikke røre dem mer, jeg kan ikke løfte dem engang!
@@ -53,3 +55,4 @@ Da ble musekongen glad, kan du tro.
 — Du er en stor mann du, Vesle-Kvinten. Og godhjertet.
 
 — Godhjertet og sirompa, ja — akkurat, sa Vesle-Kvinten.
+

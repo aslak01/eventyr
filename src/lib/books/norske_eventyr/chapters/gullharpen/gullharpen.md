@@ -14,24 +14,24 @@ Dermed skikket han noen karer av gårde til Storheia for å hente Stor-Kvinten. 
 
 — Jeg får vel prøve, brummet Stor-Kvinten. Og dermed sleivet han av gårde så det knaket i både røtter og trær. Da han langt om lenge kom fram til Vassfjelletskaret, ropte han så det sang i bergveggen:
 
-*Kruse duse jutulhein  
+_Kruse duse jutulhein  
 vil jeg, skal jeg det!  
 Syn meg holdet ut av stein.  
 Krase druse jutulhein  
 skal jeg før sol går ned!  
 Jeg vil krase stein og flint  
 til støv og røyk,  
-no er jeg duglig sint!*
+no er jeg duglig sint!_
 
 Han hadde ikke før sagt det, før det tok til å brake i fjellet, og ut av en diger sprekk kom jutulen veltende. Han var så sint at eiteren lyste i lue ut av kjeften hans. Da han fikk se Stor-Kvinten, ropte han:
 
-*Øie deg som vondt meg harmer!  
+_Øie deg som vondt meg harmer!  
 Jeg skal slå deg svart i svime,  
 en dreis om snuten så det varmer!  
 Vassfjelljutul er i dag  
 det største trollet i sitt slag.  
 Øie meg, du digre Kvint,  
-no har du terga meg for sint!*
+no har du terga meg for sint!_
 
 Trollene gjøv i hop så jord og stein, filler og hår sto som en røyk omkring dem. De remjet og skreik og klorte, de sparket og slo og nøs så skommet valt i store flak i alle retninger. Og slik dreiv de da på både vel og lenge, til Stor-Kvinten måtte gi seg.
 
@@ -59,6 +59,8 @@ Han krabbet beinvegen opp mot Vassfjellet, satte seg på en stor stein og begynt
 
 — Nei, jaså, er du det du. Ja, ja, dersom du vil ta til takke med hus og levemåte hos meg, så er du velkommen, sa jutulen.
 
+![Vesle-Kvinten klimpret på gullharpen sin](./gullharpen.png)
+
 Dette syntes Vesle-Kvinten låt både vel og bra, og dermed ga han seg i lag med jutulen inn i fjellet. Det lukket seg etter dem med et stort brak etter hvert som de gikk. Inne i hulen kunne Vesle-Kvinten fra grueilden se den ulykkelige kongsdatteren sammenkrøpet borti en krok, hun hulket og gråt slik at det gjorde hjertens vondt å høre på.
 
 — Ja, no får du spille for meg og kongsdatteren da! ropte jutulen.
@@ -78,3 +80,4 @@ Kongen ble så glad at han lyste til fest på kirkebakken for hele landet og alt
 Oppe på Storheivarden satt Kvinten og spilte på gullharpen sin, spilte liksom for hele verden og gjorde seg usynlig for alminnelige mennesker. Han ville ikke vite om noe stas, han, seiv om han hadde reddet både en og hundre kongsdøtre.
 
 — Ære, stas og vide spurlag er bra, men bør aldri være målet for en god gjerning, tenkte han og slo videre på gullharpen sin.
+

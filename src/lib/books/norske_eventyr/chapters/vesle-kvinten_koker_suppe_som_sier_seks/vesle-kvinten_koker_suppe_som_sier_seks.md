@@ -19,6 +19,8 @@ Da flirte Vesle-Kvinten så det dundret i hulen.
 
 — Eia, eia, for et svinehell, snøvlet heksen. Så god mat lyster det meg å smake, og er det sant som du sier, så skal du jamen få beholde livet ditt og.
 
+![Han rørte og rørte både vel og lenge](./suppe.png)
+
 Så skulle da Vesle-Kvinten til å rote med maten. Han sendte breiflabbene ut for å sanke frosker, og da de kom tilbake, slengte han dem opp i den digre gryten med kokende einersevje, løvtann og kløver. Han rørte og rørte både vel og lenge, og da han tykte han hadde rørt lenge nok, ba han breiflabbene sette gryten fram til heksen og at alle måtte ete av den som ete ville.
 
 Heksen og breiflabbene åt og øynene sto som på stilker, for slikt matstell hadde de da aldri i sine skapte levedager kjent maken til.
@@ -50,3 +52,4 @@ Da gryta ble satt på plass og heksen og breiflabbene skulle til å legge i seg,
 No syntes Vesle-Kvinten for alvor at han så døden i øynene, han frøs over hele kroppen, for nå var han da endelig ille faren, tenkte han. Han grep en skje og gjorde en sving i gryta, stakk skjeen fort i munnen, og både smattet og smilte og sa nam nam. Heksen la ikke merke til at skjeen var tom, og dermed gikk de løs på suppa alle sammen unntatt Vesle-Kvinten. Han fikk det så travelt med å stelle til den neste suppa og sa at denne suppa skulle bli enda bedre. Men mange skjeene hadde ikke hverken heksen eller breiflabbene lagt i seg før de trillet over ende, og slik ble de liggende uten å kunne reise seg mer.
 
 Så ruslet da Vesle-Kvinten heimover til Storheia igjen. Det vil si: Han våknet i denne lyngkvasen borti heiene. Han hadde bare drømt det alt sammen. Hvorfor i all verden kunne ikke dette være virkelighet da, tenkte han. For jamen hadde han da vært borti illere og villere saker enn dette — uten å drømme det.
+
