@@ -3,5 +3,27 @@
   "author": [
     "J. B. Bull"
   ],
-  "published": 1928
+  "published": 1928,
+  "illustrator": [
+    "A. Block",
+    "Louis Moe"
+  ],
+  "chapter_index": {
+    "gutten_som_døyvet_trollet": "Gutten som døyvet trollet",
+    "trolljo": "Trolljo",
+    "gullblom": "Gullblom",
+    "styggvakker-mari": "Styggvakker-Mari",
+    "mons_fra_mi-au": "Mons fra Mi-au",
+    "latter-ola": "Latter-Ola",
+    "jens_ulv": "Jens ulv",
+    "underjordsfolk": "Underjordsfolk",
+    "julsrudnissen": "Julsrudnissen",
+    "skriveren_og_tassengrå": "Skriveren og Tassengrå",
+    "vriom-vrang": "Vriom-Vrang",
+    "da_bjørnen_for_til_jords": "Da bjørnen for til jords",
+    "sankthansdans": "Sankthansdans",
+    "spirrevipp_og_spurrevupp": "Spirrevipp og Spurrevupp",
+    "marit": "Marit",
+    "ulveslaget": "Ulveslaget"
+  }
 }
