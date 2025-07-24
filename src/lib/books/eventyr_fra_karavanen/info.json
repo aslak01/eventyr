@@ -4,5 +4,15 @@
     "Wilhelm Hauff",
     "Marta Steinsvik"
   ],
-  "published": 1923
+  "published": 1923,
+  "illustrator": [],
+  "chapter_index": {
+    "karavanen": "Karavanen",
+    "kalifen_som_var_stork": "Kalifen som var stork",
+    "soga_om_daudingskipet": "Saga om daudingskipet",
+    "soga_om_den_avhugne_handa": "Saga om den avhugne hånda",
+    "koss_fatme_vart_berga": "Hvordan Fatme ble berga",
+    "soga_om_vesle_muck": "Saga om Vesle Muck",
+    "soga_om_den_falske_prinsen": "Saga om den falske prinsen"
+  }
 }
