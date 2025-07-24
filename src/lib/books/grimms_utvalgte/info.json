@@ -5,5 +5,30 @@
     "Wilhelm Grimm",
     "Peder Christen Asbjørnsen"
   ],
-  "published": 1914
+  "published": 1914,
+  "illustrator": [],
+  "chapter_index": {
+    "møllergutten_og_katten": "Møllergutten og katten",
+    "kraakene": "Kråkene",
+    "hans_pindsvin": "Hans Pinnsvin",
+    "jøden_i_tornebusken": "Jøden i tornebusken",
+    "den_utlærte_jæger": "Den utlærte jeger",
+    "om_den_kloke_lille_skredder": "Om den kloke lille skredder",
+    "det_blaa_lys": "Det blå lys",
+    "de_tre_feltskjærere": "De tre feltskjærerne",
+    "de_tre_haandverkssvenner": "De tre håndverkssvenner",
+    "kongssønnen_som_ikke_var_redd_for_noget": "Kongesønnen som ikke var redd for noe",
+    "den_gamle_i_skogen": "Den gamle i skogen",
+    "de_tre_brødre": "De tre brødre",
+    "djævelen_og_hans_oldemor": "Djevelen og hans oldemor",
+    "de_fire_kunstrike_brødre": "De fire kunstrike brødre",
+    "ræven_og_hesten": "Reven og hesten",
+    "de_itudansede_sko": "De utdansede skoene",
+    "de_seks_tjenere": "De seks tjenere",
+    "næpen": "Nepen",
+    "vorherres_og_fandens_dyr": "Vårherres og fandens dyr",
+    "den_unge_kjæmpe": "Den unge kjempe",
+    "løgneventyr": "Løgneventyr",
+    "nattergalen_og_blindsnogen": "Nattergalen og blindsnoken"
+  }
 }

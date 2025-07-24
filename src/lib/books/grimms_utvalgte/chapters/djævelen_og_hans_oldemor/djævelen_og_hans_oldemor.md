@@ -1,10 +1,12 @@
 # Djevelen og hans oldemor
 
-I en stor krig gav kongen sine soldater så liten lønning at de ikke kunne leve derav; da slo tre av dem seg sammen og ville ut å reise. En av dem sa til de andre: «Men hvis de får fatt på oss, henger de oss opp i galgen, hvorledes skal vi unngå det?» Den andre sa: «Der står en stor rugåker, den vil vi krype inn i, så finner ikke noe menneske oss; armeen kommer ikke inn i den.» De krøp da inn og satt i åkeren i to dager og to netter, men de led så av sult at de holdt på å dø; for ut turte de ikke komme. Da sa de: «hva hjelper det oss nå at vi er rømt, når vi må ligge her og dø ynkelig i kornet.»
+I en stor krig ga kongen sine soldater så liten lønning at de ikke kunne leve derav; da slo tre av dem seg sammen og ville ut å reise. En av dem sa til de andre: «Men hvis de får fatt på oss, henger de oss opp i galgen, hvorledes skal vi unngå det?» Den andre sa: «Der står en stor rugåker, den vil vi krype inn i, så finner ikke noe menneske oss; armeen kommer ikke inn i den.» De krøp da inn og satt i åkeren i to dager og to netter, men de led så av sult at de holdt på å dø; for ut turte de ikke komme. Da sa de: «hva hjelper det oss nå at vi er rømt, når vi må ligge her og dø ynkelig i kornet.»
+
+![Drage kommer](./d_drage.png)
 
 Så kom det en ildsprutende drage flyvende igjennom lufta over rugåkeren; den så dem ligge der og spurte: «Hva gjør dere tre der i kornet?» De svarte: «Vi er tre bortømte soldater, vi kan ikke leve av våre lønninger lenger i armeen, og nå må vi dø her av sult, fordi armeen ligger rundt omkring, og vi kan ikke unnslippe.» «Vil dere tjene meg i syv år,» sa dragen, «så vil jeg bringe dere midt igjennom armeen så ingen skal få fatt på dere?» «Vi har ikke noe annet valg, men får finne oss i det,» svarte de.
 
-Da tok dragen dem i sine klør og under sine vinger og førte dem gjennom lufta over armeen bort i sikkerhet. Så slapp han dem igjen ned på jorden; men dragen var ingen annen enn djevelen, og han gav dem en liten pisk som de kunne piske gull frem med så mye de ville. «Nå,» sa han, «kan dere bli store herrer og kjøre i vogn, men om syv år hører dere meg til,» og han holdt en bok frem for dem som de måtte skrive seg inn i alle tre. «Men først,» sa han, «vil jeg da gi dere et spørsmål å gjette, kan dere klare det, skal dere bli fri og ikke ha noe med meg å bestille.»
+Da tok dragen dem i sine klør og under sine vinger og førte dem gjennom lufta over armeen bort i sikkerhet. Så slapp han dem igjen ned på jorden; men dragen var ingen annen enn djevelen, og han ga dem en liten pisk som de kunne piske gull frem med så mye de ville. «Nå,» sa han, «kan dere bli store herrer og kjøre i vogn, men om syv år hører dere meg til,» og han holdt en bok frem for dem som de måtte skrive seg inn i alle tre. «Men først,» sa han, «vil jeg da gi dere et spørsmål å gjette, kan dere klare det, skal dere bli fri og ikke ha noe med meg å bestille.»
 
 Da for dragen bort, og de drog på sin kant med sin pisk, fikk penger i overflod og lot seg gjøre prektige klær og drog omkring i verden. Hvor de var, levde de i fryd og herlighet, kjørte med hester og vogn, spiste og drakk og levde vel, og de syv år var snart forbi. Da det nå lakket mot enden, ble de både angst og bange og to av dem var meget bedrøvet, men den tredje tok det lett og sa: «Brødre, la oss ikke være redd, kanskje vi kan gjette spørsmålet.»
 
@@ -16,6 +18,9 @@ Klokka tolv om natten kom dragen flyvende og ville ha mat, og oldemoren dekket b
 
 Så gikk djevelen hen og la seg, og hans gamle oldemor løftet steinen opp og slapp soldaten ut. «Har du nå også vel lagt merke til alt?» sa hun. «Ja,» sa han, «nå skal jeg nok klare meg.» Deretter måtte han gå en annen vei ut igjennom vinduet for å komme til sine kamerater, så djevelen ikke merket ham. Da han nå kom til de to andre, fortalte han dem hva han hadde hørt, og de kunne nå gjette hva ellers ingen hadde falt på; så ble de alle glade og lystige til mote og pisket igjen penger frem.
 
+![Drage flyr vekk](./d_drage_2.png)
+
 Da de syv år nå var forbi, kom djevelen med boka, viste dem underskriften og sa: «Nå vil jeg ta dere ned til helvete, der skal dere spise til middag, men kan dere gjette hva det er for en stek dere får å spise, så skal dere være fri og kan beholde pisken på kjøpet.» Da begynte den første: «I Nordsjøen ligger en død havkatt, den skal vel være vår stek.» Djevelen ergret seg og hostet og sa «hm, hm,» og spurte den andre: «Hva skal dere ha til ske?» da svarte han: «Ribbenet av en hvalfisk, det skal være vår sølvske.» Djevelen gjorde stygge grimaser, knurret og hostet tre ganger «hm, hm, hm» og spurte den tredje: «Hva skal være deres vinglass?» «En gammel hestefot, den skal være vårt vinglass.»
 
 Da fløy djevelen sin vei og hadde ikke mer noen makt over dem, men de tre beholdt pisken og pisket penger frem, så mange som de ville, og levde glade og lykkelige til sin salige død.
+
