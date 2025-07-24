@@ -79,21 +79,23 @@ export async function findImages(bookPath: string): Promise<string[]> {
 
   try {
     const chaptersPath = join(bookPath, "chapters");
-    
+
     try {
       const chapters = await readdir(chaptersPath);
-      
+
       for (const chapter of chapters) {
         const chapterPath = join(chaptersPath, chapter);
-        
+
         try {
           const chapterStat = await stat(chapterPath);
           if (chapterStat.isDirectory()) {
             const files = await readdir(chapterPath);
-            
+
             for (const file of files) {
               const ext = extname(file).toLowerCase();
-              if ([".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"].includes(ext)) {
+              if (
+                [".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"].includes(ext)
+              ) {
                 imageFiles.push(join(chapterPath, file));
               }
             }
@@ -132,7 +134,6 @@ export async function processImage(
   try {
     await mkdir(outputDir, { recursive: true });
 
-    // Skip SVG files - just copy them
     if (ext === ".svg") {
       const svgPath = join(outputDir, basename(imagePath));
       await copyFile(imagePath, svgPath);
@@ -165,7 +166,7 @@ export async function processImage(
 
         await image
           .resize(size, null, { withoutEnlargement: true })
-          .toFormat(format as any, { quality: 85 })
+          .toFormat(format, { quality: 85 })
           .toFile(outputPath);
 
         const webPath = `/images/${bookSlug}/${fileName}`;
