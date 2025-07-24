@@ -15,8 +15,6 @@ export async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
 
   try {
     try {
-      await readdir(booksPath);
-
       const entries = await readdir(booksPath);
 
       for (const entry of entries) {
@@ -40,8 +38,9 @@ export async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
                 const book = await loadBook(info, entry, bookPath, chapters);
                 books.push(book);
               }
-            } catch {
+            } catch (err) {
               console.error(`missing/broken book info.json for ${entry}`);
+              console.error(err);
               continue;
             }
           }
@@ -84,6 +83,10 @@ async function loadBook(
   const chapterMds: string[][] = [];
 
   for (const chapter of chapterDirs) {
+    if (chapter.startsWith(".")) {
+      // skip `.DS_Store` and potential other non-content files
+      continue;
+    }
     const chapterPath = join(chaptersPath, chapter);
     const chapterFiles = await readdir(chapterPath);
     const markdownFiles = chapterFiles
