@@ -19,7 +19,7 @@ marked.setOptions({
 const defaultConfig: GeneratorConfig = {
   booksDir: "./src/lib/books",
   distDir: "./dist",
-  imageSizes: [400, 800, 1200],
+  imageSizes: [200, 400, 800, 1200],
   imageFormats: ["webp", "avif", "jpeg"],
 };
 
