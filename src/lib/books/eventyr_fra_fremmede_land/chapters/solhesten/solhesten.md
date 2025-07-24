@@ -1,4 +1,6 @@
-# Solhesten (slovakisk)
+# Solhesten
+
+_(slovakisk eventyr)_
 
 Det var engang et land. Der var det mørkt som i graven; for sola skinte aldri der. Ingen mennesker kunne ha bodd der, hvis kongen ikke hadde hatt en hest med en sol i pannen. Av den lyste det akkurat som av den riktige sola på himmelen. Kongen lot solhesten føre gjennom hele landet, og hvor den kom ble det så lyst som den klare dag; men der hvor den ikke var, la mørket seg tykt igjen.
 

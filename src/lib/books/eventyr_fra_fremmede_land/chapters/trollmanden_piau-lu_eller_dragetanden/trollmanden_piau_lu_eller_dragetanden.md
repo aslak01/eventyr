@@ -1,5 +1,6 @@
 # Trollmanden Piau-lu eller Dragetanden
-*(Kinesisk eventyr)*
+
+_(Kinesisk eventyr)_
 
 «Kom hit menn og kvinner fra Tsching-tau, kom og hør! Den usle og uverdige person som kjeder dere alle er den elendige trollmann som går under navnet Piau-lu. Alt hva dere ønsker kan han skaffe. Han har tryllemidler som kan gjøre ende på tretter, midler som kan gjøre den dummeste til en lærd mann, hvis en i deres familie er myrdet, så kjenner han det trylleord som kan oppdage morderen. Bare si hva som feiler dere, den usle trollmann som nå snakker til dere, kan oppfylle alle ønsker, for overalt kjenner de Piau-lu, han som eier den berømte og vidunderlige dragetann.»
 
@@ -58,3 +59,4 @@ En mann som stod ved siden av frukthandleren tok i den lange blå frakken og ris
 Mandarinen vendte seg til ham og sa: «La oss ikke høre flere narrestreker av deg Li-ho, ellers får du tyve stokkeslag.»
 
 «Samle dine plommer sammen Li-ho,» sa Piau-lu vennlig, «og når du kommer hjem, så tenk over det at det ikke alltid nytter å løpe med åpen munn og lete etter det en har mistet.»
+

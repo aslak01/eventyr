@@ -1,5 +1,6 @@
 # Guldgjøk
-*(Tatarisk eventyr)*
+
+_(Tatarisk eventyr)_
 
 I et telt bodde en gutt på ti år og en pike som var syv år gammel. De hadde verken far eller mor. De bodde alene i teltet; men de hadde en mengde hester og stor buskap. Gutten eide en hest som ikke hadde noe navn, og ikke hadde han noe selv heller.
 
@@ -16,3 +17,4 @@ I landsbyen var en vakker pike som het Ajazen Ko, og de syv guder og alle konger
 Da bryllupet var holdt, og Alten Køøk skulle reise hjem igjen, ville de syv guder at seks kjemper skulle ri foran ham på veien og seks kjemper baketter. Alten Chan, far til bruden, fulgte dem også på veien. Da Alten Køøk var kommet hjem, gjorde han et stort gjestebud. Om natten mens han satt i gjestebudet hørte han at hesten hans knegget. Han gikk ut og ved siden av hesten fant han en skrivelse, og der stod: De syv guder vil at Alten Artjool skal leve hos dem og ikke være her nede. Alten Artjool vasket seg med sjøvann, ba farvel med sin bror, tok på seg en drakt med ørnevinger og fløy til de syv guder.
 
 Alten Køøk levde hjemme i fred, verken kjemper eller onde ånder våget å røre ham mer.
+

@@ -4,5 +4,28 @@
     "Peter Christen Asbjørnsen",
     "Dr. Grässe"
   ],
-  "published": 1920
+  "published": 1920,
+  "illustrator": [],
+  "chapter_index": {
+    "sterke_dummas": "Sterke Dummas",
+    "risen_og_veslegutten": "Risen og veslegutten",
+    "trylleringen": "Trylleringen",
+    "trollmændene": "Trollmennene",
+    "ulvekhanens_datter": "Ulvekhanens datter",
+    "solhesten": "Solhesten",
+    "trollskibet": "Trollskipet",
+    "vorherre_og_st_peder_paa_vandring": "Vårherre og St. Peter på vandring",
+    "liljejomfruen": "Liljejomfruen",
+    "trollmanden_piau-lu_eller_dragetanden": "Trollmannen Piau-lu eller Dragetannen",
+    "de_forvandlede_barn": "De forvandlede barn",
+    "malmkongen": "Malmkongen",
+    "guldgjøk": "Gullgjøk",
+    "vetikke": "Vetikke",
+    "ilmarin_smeds_frierfærd": "Illmarin smeds frierferd",
+    "stallo_og_lappebrødrene_sodno": "Stallo og lappebrødrene Sodno",
+    "den_skjønne_havfrue": "Den skjønne havfrue",
+    "fattigmanden_og_døden": "Fattigmannen og døden",
+    "tommelitens_liv_og_hendelser_i_england": "Tommelitens liv og hendelser i England",
+    "manden_som_skjønte_alleslags_sprog": "Mannen som skjønte alleslags språk"
+  }
 }

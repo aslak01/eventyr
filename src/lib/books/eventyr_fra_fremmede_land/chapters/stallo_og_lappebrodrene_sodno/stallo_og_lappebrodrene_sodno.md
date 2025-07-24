@@ -1,5 +1,6 @@
 # Stallo og lappebrødrene Sodno
-*(Lappisk folkesagn)*
+
+_(Lappisk folkesagn)_
 
 Der var engang to brødre som het Sodno, og de eide en stor renhjord. De hadde en eneste søster, hun het Lyma, og når brødrene var ute på jakt, måtte Lyma passe og gjete renene.
 
@@ -24,3 +25,4 @@ Imellomtiden lå den gamle Stallokjerringen, mor til de tre brødrene, og sov og
 Så tidde han en stund; men om litt spurte han: «Men kjære mor, hvor er mitt eget sølv hen, da?» Da ble gammlemor sint for alvor og grep etter bjørkeriset og ville gi ham over ryggen for å få ham til å huske. Men Sodno snakket vel med henne, så han fikk stagget henne, og til slutt fikk han vite at sølvet til den yngste Stallo lå under setet til gammelkjerringen. Nå visste de hva de ville vite.
 
 «Kjære bestemor,» sa Lyma som satt ved skorstenen, «vet du riktig hvem det er du sitter og snakker med?» «Hva?» sa gammelkjerringen, «det skulle vel aldri være Sodno?» «Jo, ham er det,» sa Lyma. Gammelkjerringen begynte å lete etter ildrøret sitt, det som hun pleide suge blod med av dem som hun ville drepe og ofre. Men trollrøret var vekk; for Lyma hadde lurt seg til å legge det på varmen. «Hvor er sugerøret mitt?» skrek kjerringen. «Se der ligger det, bestemor,» sa Lyma og viste henne det i varmen. Stallokjerringen tok det, så glødende det var, satte det for munnen og sog i seg glødende kull og ildmørje med røret, så innvoldene hennes brente opp, og hun døde på flekken. Nå grov Sodnobrødrene opp sølvskattene, fant dem alle tre, tok så søsteren og renene med seg tilbake og reiste østover til sitt eget hjem.
+

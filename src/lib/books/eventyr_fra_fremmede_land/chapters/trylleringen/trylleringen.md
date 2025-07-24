@@ -1,4 +1,6 @@
-# Trylleringen (ægyptisk)
+# Trylleringen
+
+_(ægyptisk eventyr)_
 
 Jeg skulle begynne med det samme arbeidet. Men det var skjebnens vilje at jeg uten arbeid skulle få tak i en stor skatt, men den ble også årsaken til den ulykke som har fulgt meg gjennom hele livet.
 
@@ -34,6 +36,8 @@ Jeg avbrøt oldingen. «Ærverdige far,» sa jeg, «slike tanker passer nok for 
 
 Jeg fikk ikke sagt mer, jeg ble plutselig løftet opp og styrtet ned på et stort bord som jeg veltet med alt som stod på det. Jeg fikk nesten ikke tid til å se at jeg var i beyens slott i en sal hvor alle satt og spiste, før de allesammen falt over meg med pryl og slag, fordi jeg forstyrret dem mens de spiste. Min onkel var den første som kjente meg igjen, og han ba de andre holde opp å slå meg, så han kunne få vite hva jeg hadde å si til min unnskyldning. Jeg fortalte alt som var hendt meg, men ingen ville tro hva jeg sa. Nå kom der inn mat og drikke, og jeg satte meg og spiste med de andre. De sa alle at det jeg hadde fortalt var noe jeg hadde funnet på, men nå begynte de å fortelle alle slags merkelige tildragelser fra kalifen av Bagdads, Harun al-Raschids tid, da var der så mye snakk om ånder, feer og troll, og de fortalte om den store prakten ved kalifens hof. Slik gikk dagen, maten smakte godt etter den elendige føden jeg hadde fått i klosteret, og da jeg gikk og la meg, håpet jeg at jeg skulle få sove bedre enn jeg hadde gjort natten før.
 
+![Trylleringen - fly](./trylleringen_fly.png)
+
 Jeg sovnet med en gang, men jeg drømte ustanselig om det jeg hadde hørt om kvelden. Skjønne bilder viste seg for meg, det ene vakrere enn det andre. Plutselig reiste jeg meg opp, men jeg var ikke riktig ved samling, jeg syntes at det som hadde hendt meg i det siste måtte være en drøm. Kalifens praktfulle slott, som jeg hadde sett i drømme, stod enda for meg, og nesten uten å vite av det, ropte jeg høyt: «Å gid jeg var der, gid jeg var i den store byen Bagdad!»
 
 Jeg hadde ikke før sagt ordene, før jeg kjente at jeg ble løftet i været av en usynlig arm. Plutselig slapp den meg, og jeg styrtet ned i en elv, hvor jeg sank like til bunns, men jeg kom opp igjen i en fart og svømte til lands. Jeg var virkelig falt ned i Tigris, og nå var jeg i Bagdad, men jeg fikk snart høre at det ikke var noen kalif der lenger, men at byen ble regiert av en tyrkisk pascha. Hele dagen gikk jeg omkring i byen uten mat, for jeg eide ikke en skilling. Da kvelden kom, satte jeg meg, trøtt og sulten som jeg var, under noen trær som stod på en haug, derfra kunne jeg se like ned i paschaens slott. Det var en stor bygning, rundt omkring var der vakre haver, der skinte lys ut fra alle vinduer, deilig musikk lød derfra, og tjenere løp frem og tilbake. Da jeg så dette, ble jeg enda mer fortvilet over hvor vondt jeg selv hadde det. «Her sitter jeg sulten og i mørke,» tenkte jeg ved meg selv, «mens paschaen har alt hva han kan ønske seg. Å om jeg også kunne få litt av all den herligheten.»
@@ -51,6 +55,8 @@ Den verste djevel av fakirene ville nok ikke hatt mot til å følge meg dit hvor
 På den ene siden lå en uhyre løve, og på den andre lurte en veldig tiger, og begge var de ferdige til å kaste seg over meg. Jeg ble aldeles stiv av skrekk, og jeg hadde jo ikke annet å ønske enn at disse fryktelige dyrene måtte bli ødelagt. Med det samme styrtet de mot hverandre uten å bry seg om meg mer. De slos og brølte så det gav gjenlyd i klippene og rev hverandre i hjel med klør og tenner. Blodet strømmet, og til slutt falt de begge steindøde ned for mine føtter.
 
 Nå var jeg kvitt disse fryktelige fiendene, men min stilling var allikevel forferdelig. Bratte klippevegger omgav meg på alle kanter, så det var umulig å komme vekk, og sulten plaget meg skrekkelig.
+
+![Trylleringen - i løvens hule](./trylleringen_løvens_hule.png)
 
 Med en gang fikk jeg se et stort tre hvor der var fullt av frukter i toppen. Det var svært høyt, og stammen var glatt uten en eneste gren, så det var ikke lett å komme opp. Men jeg greide det til slutt, jeg grep etter fruktene, da kom et fryktelig slangehode mot meg. Jeg slapp taket, og med en rasende fart gled jeg ned over stammen, så det var merkelig jeg ikke brakk både armer og ben.
 
@@ -83,6 +89,8 @@ Under fele hyl som skulle være lovsanger til ære for deres gud, grep de meg og
 Ånden ventet ikke lenge med å gjøre hva jeg ba den om, jeg var straks i mitt fedreland, og på et sted hvor jeg var sikker for ilden. Jeg var fire hundre alen under jorden i den dypeste brønnen i Kairos citadell. Jeg hadde glemt å be ham fri meg fra repene jeg var bundet med, og med sin sedvanlige ondskap gjorde han ikke mer enn akkurat hva jeg ba om. Jeg var nesten naken, og jeg kunne ikke røre et lem, det iskolde vannet gjorde meg nesten gal, jeg tenkte ikke på redning lenger, men da jeg holdt på å drukne, sukket jeg: «Ak, gid jeg var like så høyt over jorden som jeg nå er under den.»
 
 I samme øyeblikk var jeg på toppen av den høyeste pyramiden i Giza. Enda så forferdelig det var, gledet jeg meg over å se himmelen og kjenne at jeg kunne puste fritt. Med stor møye slapp jeg meg så langt ut jeg kunne. Ved det løsnet noen av repene, så jeg kunne stikke hodet frem over kanten og se ned på jorden.
+
+![Utstøtt](./trylleringen_utstøtt.png)
 
 På sandsletten like under pyramiden stod to bønder og grov i jorden. Den ene løftet hodet, og jeg så det var min far. «Å far,» ropte jeg, «gid jeg var dernede hos deg.» Med det samme følte jeg at jeg styrtet ned fra pyramidens topp og rullet som en kule fra stein til stein, til jeg nådde jorden. Da falt jeg som en livløs masse ned i den graven som min far og hans kamerat nettopp hadde gravd i sanden. Min far ble ganske skrekslagen da han kjente meg igjen. Han skyndte seg å løse repene og tok meg med seg til Kairo hvor legene behandlet meg. Først trodde de at jeg var død, men en lærd lege som ble tilkalt, oppdaget livstegn hos meg, men etter det fryktelige fallet ble jeg pukkelrygget, og det er jeg den dag i dag, og derfor har jeg også økenavnet Abu Kaleb (den pukkelryggede).
 
