@@ -10,3 +10,13 @@ export function joinAuthors(arr: string[]) {
     return arr.slice(0, -1).join(", ") + " og " + arr[arr.length - 1];
   }
 }
+
+export function getWordCount(chapter: string): number {
+  return (
+    chapter
+      ?.replace(/\n/g, " ")
+      .trim()
+      .split(/\s+/)
+      .filter((word) => word.length > 0)?.length || 0
+  );
+}

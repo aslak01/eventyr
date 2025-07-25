@@ -1,4 +1,4 @@
-import { basename, join } from "path";
+import { join } from "path";
 import { readdir, stat } from "fs/promises";
 import { readFile } from "fs/promises";
 
@@ -8,6 +8,7 @@ import type {
   Chapter,
   GeneratorConfig,
 } from "./src/types/types.ts";
+import { getWordCount } from "./src/utils/strings.ts";
 
 export async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
   const booksPath = join(process.cwd(), config.booksDir);
@@ -15,10 +16,10 @@ export async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
 
   try {
     try {
-      const entries = await readdir(booksPath);
+      const bookDirs = await readdir(booksPath);
 
-      for (const entry of entries) {
-        const bookPath = join(booksPath, entry);
+      for (const slug of bookDirs) {
+        const bookPath = join(booksPath, slug);
 
         try {
           const bookDirStats = await stat(bookPath);
@@ -35,17 +36,17 @@ export async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
               const chapters = await readdir(chaptersPath);
 
               if (chapters.length > 0) {
-                const book = await loadBook(info, entry, bookPath, chapters);
+                const book = await loadBook(info, slug, bookPath);
                 books.push(book);
               }
             } catch (err) {
-              console.error(`missing/broken book info.json for ${entry}`);
+              console.error(`missing/broken book info.json for ${slug}`);
               console.error(err);
               continue;
             }
           }
         } catch {
-          console.log(`reading book ${entry} failed`);
+          console.log(`reading book ${slug} failed`);
           continue;
         }
       }
@@ -65,10 +66,11 @@ async function loadBook(
   info: BookInfo,
   slug: string,
   bookPath: string,
-  chapterDirs: string[],
 ): Promise<BookData> {
-  const { title, author, published } = info;
+  const { title, author, published, chapter_index } = info;
   console.log(`📚 Loading book: ${title}`);
+
+  const chapters: Chapter[] = [];
 
   const bookData: BookData = {
     name: title,
@@ -80,61 +82,82 @@ async function loadBook(
   };
 
   const chaptersPath = join(bookPath, "chapters");
-  const chapterMds: string[][] = [];
+  const chapterMds: {
+    markdownURI: string;
+    title: string;
+    dir: string;
+    order: number;
+  }[] = [];
 
-  for (const chapter of chapterDirs) {
-    if (chapter.startsWith(".")) {
-      // skip `.DS_Store` and potential other non-content files
-      continue;
-    }
-    const chapterPath = join(chaptersPath, chapter);
-    const chapterFiles = await readdir(chapterPath);
-    const markdownFiles = chapterFiles
-      .filter((file) => file.endsWith(".md"))
-      .map((md) => join(chapterPath, md));
-    chapterMds.push(markdownFiles);
+  const chapterEntries = Object.entries(chapter_index);
+
+  if (!chapterEntries || chapterEntries.length === 0) {
+    throw new Error(`No chapters for ${title}`);
   }
 
-  const sortedFiles = chapterMds.flat().sort();
+  for (const [order, [chapterDir, title]] of chapterEntries.entries()) {
+    if (!chapterDir || !title) {
+      continue;
+    }
+    const dir = join(chaptersPath, chapterDir);
+    if (dir.startsWith(".") || !(await stat(dir)).isDirectory()) {
+      // skip `.DS_Store` and potential other non chapter things
+      continue;
+    }
+    const chapterFiles = await readdir(dir);
 
-  for (const mdFile of sortedFiles) {
-    const chapterName = basename(mdFile, ".md");
+    const markdownFiles = chapterFiles
+      .filter((file) => file.endsWith(".md"))
+      .map((mdFile) => join(dir, mdFile));
+    console.log(markdownFiles);
+
+    if (markdownFiles.length === 0) {
+      continue;
+    }
+
+    // Take the first markdown file (or implement logic for multiple)
+    const markdownURI = markdownFiles[0];
+
+    chapterMds.push({
+      markdownURI,
+      title,
+      dir: chapterDir,
+      order: order + 1,
+    });
+  }
+
+  for (const chap of chapterMds) {
+    const { markdownURI, title, dir } = chap;
 
     try {
-      const fileContent = await Bun.file(mdFile).text();
-
-      const titleMatch = fileContent.match(/^#\s+(.+)/m);
-      const title = titleMatch
-        ? titleMatch[1]
-        : chapterName.replace(/[-_]/g, " ");
+      const fileContent = await Bun.file(markdownURI).text();
 
       const chapter: Chapter = {
-        name: chapterName,
-        title: title || "Tittel ikke funnet",
+        title,
         content: fileContent,
-        path: mdFile,
-        htmlPath: `/${bookData.slug}/${chapterName}.html`,
+        path: dir,
+        htmlPath: `/${bookData.slug}/${dir}.html`,
         wordCount: getWordCount(fileContent),
         book: bookData.name,
         bookSlug: bookData.slug,
       };
 
-      bookData.chapters.push(chapter);
-      console.log(`  📄 Loaded chapter: ${chapterName} -> ${title}`);
+      // // const titleMatch = fileContent.match(/^#\s+(.+)/m);
+      // // const title = titleMatch
+      // //   ? titleMatch[1]
+      // //   : chapterName.replace(/[-_]/g, " ");
+      if (!chapter) {
+        continue;
+      }
+      // bookData.chapters.push(chapter);
+      chapters.push(chapter);
+      console.log(`  📄 Loaded chapter: ${markdownURI} -> ${title}`);
     } catch (error) {
-      console.error(`Error reading ${mdFile}:`, error);
+      console.error(`Error reading ${title}:`, error);
     }
   }
 
-  return bookData;
-}
+  bookData.chapters = chapters;
 
-function getWordCount(chapter: string): number {
-  return (
-    chapter
-      ?.replace(/\n/g, " ")
-      .trim()
-      .split(/\s+/)
-      .filter((word) => word.length > 0)?.length || 0
-  );
+  return bookData;
 }

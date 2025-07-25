@@ -56,10 +56,10 @@ async function generateSite(config: GeneratorConfig): Promise<void> {
     await writeFile(join(bookDir, "index.html"), bookIndexHTML);
     console.log(`📄 Generated ${book.name}/index.html`);
 
-    for (const chapter of book.chapters) {
+    for (const chapter of Object.values(book.chapters)) {
       const chapterHTML = generateChapterHTML(book, chapter, optimizedImages);
-      await writeFile(join(bookDir, `${chapter.name}.html`), chapterHTML);
-      console.log(`📄 Generated ${book.name}/${chapter.name}.html`);
+      await writeFile(join(bookDir, `${chapter.path}.html`), chapterHTML);
+      console.log(`📄 Generated ${book.name}/${chapter.path}.html`);
     }
   }
 

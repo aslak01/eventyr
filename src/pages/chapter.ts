@@ -22,17 +22,17 @@ export function generateChapterHTML(
     optimizedImages,
     chapterDir,
   );
-  const htmlContent = marked(processedContent);
 
-  const currentIndex = book.chapters.findIndex(
-    (ch) => ch.name === chapter.name,
-  );
-  const prevChapter = currentIndex > 0 ? book.chapters[currentIndex - 1] : null;
+  const htmlContent = marked(processedContent);
+  const chapters = book.chapters;
+
+  const currentIndex = chapters.findIndex((ch) => ch.title === chapter.title);
+  const prevChapter = currentIndex > 0 ? chapters[currentIndex - 1] : undefined;
 
   const nextChapter =
-    currentIndex < book.chapters.length - 1
+    currentIndex < chapters.length - 1
       ? book.chapters[currentIndex + 1]
-      : null;
+      : undefined;
 
   const head = htmlHead(
     `${safeString(chapter.title)} - ${safeString(book.name)}`,

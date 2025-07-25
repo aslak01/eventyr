@@ -1,5 +1,4 @@
 export type Chapter = {
-  name: string;
   title: string;
   content: string;
   path: string;
@@ -22,6 +21,8 @@ export type BookInfo = {
   title: string;
   author: string[];
   published: number;
+  illustrator: string[];
+  chapter_index: Record<string, string>;
 };
 
 export type OptimizedImage = {

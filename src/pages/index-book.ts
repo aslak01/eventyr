@@ -7,15 +7,15 @@ export function generateBookIndexHTML(book: BookData): string {
 <body>
     <div class="header">
         <h1 class="book-title">${book.name.replace(/[-_]/g, " ")}</h1>
-        <p>${book.chapters.length} chapter${book.chapters.length !== 1 ? "s" : ""}</p>
+        <p>${book.chapters.length} chapter${Object.values(book.chapters).length !== 1 ? "s" : ""}</p>
     </div>
 
     <ul class="chapters">
-        ${book.chapters
+        ${Object.values(book.chapters)
       .map(
         (chapter) => `
             <li class="chapter-item">
-                <a href="/${book.slug}/${chapter.name}.html" class="chapter-link">${chapter.title} - ${chapter.wordCount}</a>
+                <a href="/${book.slug}/${chapter.path}.html" class="chapter-link">${chapter.title} - ${chapter.wordCount}</a>
             </li>
         `,
       )
