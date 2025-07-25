@@ -6,6 +6,7 @@ import type { BookData, Chapter, GeneratorConfig } from "./src/types/types.ts";
 
 import { optimizeImages } from "./src/image_processing/image.ts";
 import { generateMainIndexHTML } from "./src/pages/index-tales.ts";
+import { generateBooksIndexHTML } from "./src/pages/index-books.ts";
 import { generateBookIndexHTML } from "./src/pages/index-book.ts";
 import { generateChapterHTML } from "./src/pages/chapter.ts";
 import { processCSS } from "./src/css/process.ts";
@@ -47,6 +48,11 @@ async function generateSite(config: GeneratorConfig): Promise<void> {
   const mainIndexHTML = generateMainIndexHTML(books);
   await writeFile(join(config.distDir, "index.html"), mainIndexHTML);
   console.log("📄 Generated main index.html");
+
+  const booksIndexHTML = generateBooksIndexHTML(books, optimizedImages);
+  await mkdir(join(config.distDir, "books"), { recursive: true });
+  await writeFile(join(config.distDir, "books", "index.html"), booksIndexHTML);
+  console.log("📄 Generated books index.html");
 
   for (const book of books) {
     const bookDir = join(config.distDir, book.slug);

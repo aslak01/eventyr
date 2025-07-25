@@ -1,5 +1,28 @@
-in this directory, the `/chapters` directory contains a directory named after each of the fairy tales of this collection, and in that directory is a file names for the fairy tale in txt format. That file contains the raw scanned pdf to txt conversion that a library has done en masse, meaning there are a bunch of ortographical mistakes, jumbled text, and misplaced header and footer text in the middle of the stories. Please go through each txt, correct orthographical mistakes, and reconstruct jumbled or out of place words. These fairy tales are also written in an archaic form of New Norwegian/nynorsk, please also convert that into a more modern form of Bokmål. Please do this, then convert the resulting text to markdown, and save it in the folder specific to that chapter as a markdown file.
+in this directory, the `/chapters` directory contains a directory named after each of the fairy tales of this collection, and in that directory is a file names for the fairy tale in txt format. That file contains the raw scanned pdf to txt conversion that a library has done en masse, meaning there are a bunch of ortographical mistakes, jumbled text, and misplaced header and footer text in the middle of the stories. Please go through each txt, correct orthographical mistakes, and reconstruct jumbled or out of place words. Also modernise the language if very archaic forms have been used, I've attached a common dictionary below.
+Please do this, then convert the resulting text to markdown, and save it in the folder specific to that chapter as a markdown file.
 
+sig=seg
+hinannen=hverandre?
+skulde=skulle
+trøia=trøya
+dig=deg
+efter=etter
+fløt=fløyt
+arg=sint
+kunde=kunne
+hvad=hva
+skibet=skipet
+i hug=huske
+mig=meg
+op=opp
+gjæv=gjev
+vilde=ville
+ennu=enda
+I=dere
+gav=ga
+nu=nå
+
+These fairy tales are also written in an archaic form of New Norwegian/nynorsk, please also convert that into a more modern form of Bokmål
 
 and also modernise the language from the archaic form of Norwegian it was written in to a slightly more modern form. Then convert the resulting text to markdown, and save it in the folder specific to that chapter as a markdown file.
 

@@ -11,6 +11,9 @@ export function generateMainIndexHTML(books: BookData[]): string {
     <div class="header">
         <h1 class="main-title">📚 Eventyrsamling</h1>
         <p class="subtitle">${books.length} ${books.length !== 1 ? "bøker" : "bok"} tilgjengelig${books.length !== 1 ? "e" : ""}</p>
+        <nav class="header-nav">
+            <a href="/books/" class="nav-link">📖 Bøker</a>
+        </nav>
     </div>
 
 <main>

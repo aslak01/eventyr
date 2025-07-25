@@ -16,18 +16,21 @@ export function generateChapterHTML(
     ? chapter.path.substring(0, chapter.path.lastIndexOf("/"))
     : chapter.path;
 
+  // Construct full chapter path for image processing
+  const fullChapterPath = `${book.path}/chapters/${chapterDir}`;
+
   const processedContent = processMarkdownImages(
     chapter.content,
     book.slug,
     optimizedImages,
-    chapterDir,
+    fullChapterPath,
   );
 
   const htmlContent = marked(processedContent);
   const chapters = book.chapters;
 
-  const currentIndex = chapters.findIndex((ch) => ch.title === chapter.title);
-  const prevChapter = currentIndex > 0 ? chapters[currentIndex - 1] : undefined;
+  const currentIndex = chapter.order;
+  const prevChapter = currentIndex > 1 ? chapters[currentIndex - 1] : undefined;
 
   const nextChapter =
     currentIndex < chapters.length - 1
@@ -47,13 +50,13 @@ ${header}
 
     <div class="navigation">
         <div>
-            ${prevChapter ? `<a href="/${book.slug}/${prevChapter.name}.html" class="nav-link">← ${prevChapter.title.replace(/"/g, "&quot;")}</a>` : "<span></span>"}
+            ${prevChapter ? `<a href="/${book.slug}/${prevChapter.path}.html" class="nav-link">← ${prevChapter.title.replace(/"/g, "&quot;")}</a>` : "<span></span>"}
         </div>
         <div>
             <a href="/${book.slug}/" class="book-link">📚 Back to ${book.name}</a>
         </div>
         <div>
-            ${nextChapter ? `<a href="/${book.slug}/${nextChapter.name}.html" class="nav-link">${nextChapter.title.replace(/"/g, "&quot;")} →</a>` : "<span></span>"}
+            ${nextChapter ? `<a href="/${book.slug}/${nextChapter.path}.html" class="nav-link">${nextChapter.title.replace(/"/g, "&quot;")} →</a>` : "<span></span>"}
         </div>
     </div>
 </body>

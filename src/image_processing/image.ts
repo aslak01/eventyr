@@ -78,8 +78,21 @@ export async function findImages(bookPath: string): Promise<string[]> {
   const imageFiles: string[] = [];
 
   try {
-    const chaptersPath = join(bookPath, "chapters");
+    // First, check for images in the book root directory (like front.png)
+    try {
+      const rootFiles = await readdir(bookPath);
+      for (const file of rootFiles) {
+        const ext = extname(file).toLowerCase();
+        if ([".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"].includes(ext)) {
+          imageFiles.push(join(bookPath, file));
+        }
+      }
+    } catch (error) {
+      console.error(`Error reading book root ${bookPath}:`, error);
+    }
 
+    // Then, check for images in chapter directories
+    const chaptersPath = join(bookPath, "chapters");
     try {
       const chapters = await readdir(chaptersPath);
 
@@ -105,15 +118,7 @@ export async function findImages(bookPath: string): Promise<string[]> {
         }
       }
     } catch (error) {
-      // No chapters directory, try the book root
-      const files = await readdir(bookPath);
-
-      for (const file of files) {
-        const ext = extname(file).toLowerCase();
-        if ([".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"].includes(ext)) {
-          imageFiles.push(join(bookPath, file));
-        }
-      }
+      console.error(`Error reading chapters directory ${chaptersPath}:`, error);
     }
   } catch (error) {
     console.error(`Error finding images in ${bookPath}:`, error);

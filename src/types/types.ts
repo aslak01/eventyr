@@ -6,6 +6,7 @@ export type Chapter = {
   wordCount: number;
   book: string;
   bookSlug: string;
+  order: number;
 };
 
 export type BookData = {

@@ -115,8 +115,11 @@ async function loadBook(
       continue;
     }
 
-    // Take the first markdown file (or implement logic for multiple)
     const markdownURI = markdownFiles[0];
+
+    if (!markdownURI) {
+      continue;
+    }
 
     chapterMds.push({
       markdownURI,
@@ -127,7 +130,7 @@ async function loadBook(
   }
 
   for (const chap of chapterMds) {
-    const { markdownURI, title, dir } = chap;
+    const { markdownURI, title, dir, order } = chap;
 
     try {
       const fileContent = await Bun.file(markdownURI).text();
@@ -140,6 +143,7 @@ async function loadBook(
         wordCount: getWordCount(fileContent),
         book: bookData.name,
         bookSlug: bookData.slug,
+        order,
       };
 
       // // const titleMatch = fileContent.match(/^#\s+(.+)/m);
