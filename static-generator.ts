@@ -45,8 +45,8 @@ async function generateSite(config: GeneratorConfig): Promise<void> {
 
   await processCSS(config);
 
-  const optimizedImages = await optimizeImages(books, config);
   const pathHelper = createPathHelper(config.basePath);
+  const optimizedImages = await optimizeImages(books, config, pathHelper);
 
   const mainIndexHTML = generateMainIndexHTML(books, pathHelper);
   await writeFile(join(config.distDir, "index.html"), mainIndexHTML);

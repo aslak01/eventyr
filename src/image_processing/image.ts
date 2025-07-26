@@ -8,11 +8,15 @@ import type {
   OptimizedImage,
   ImageCache,
 } from "../types/types";
+import type { createPathHelper } from "../utils/paths";
 import { writeFile } from "fs/promises";
+
+type PathHelper = ReturnType<typeof createPathHelper>;
 
 export async function optimizeImages(
   books: BookData[],
   config: GeneratorConfig,
+  pathHelper: PathHelper,
 ): Promise<Map<string, OptimizedImage>> {
   const optimizedImages = new Map<string, OptimizedImage>();
   const cache = await loadImageCache(config);
@@ -27,7 +31,7 @@ export async function optimizeImages(
       const needsUpdate = await needsProcessing(imagePath, cache);
 
       if (needsUpdate) {
-        const optimized = await processImage(imagePath, book.slug, config);
+        const optimized = await processImage(imagePath, book.slug, config, pathHelper);
         if (optimized) {
           optimizedImages.set(imagePath, optimized);
 
@@ -131,6 +135,7 @@ export async function processImage(
   imagePath: string,
   bookSlug: string,
   config: GeneratorConfig,
+  pathHelper: PathHelper,
 ): Promise<OptimizedImage | null> {
   const ext = extname(imagePath).toLowerCase();
   const baseName = basename(imagePath, ext);
@@ -147,7 +152,7 @@ export async function processImage(
         webpPath: svgPath,
         avifPath: svgPath,
         sizes: [
-          { width: 0, path: `/images/${bookSlug}/${basename(imagePath)}` },
+          { width: 0, path: pathHelper.asset(`/images/${bookSlug}/${basename(imagePath)}`) },
         ],
       };
     }
@@ -174,7 +179,7 @@ export async function processImage(
           .toFormat(format, { quality: 85 })
           .toFile(outputPath);
 
-        const webPath = `/images/${bookSlug}/${fileName}`;
+        const webPath = pathHelper.asset(`/images/${bookSlug}/${fileName}`);
         optimized.sizes.push({ width: size, path: webPath });
 
         if (format === "webp" && !optimized.webpPath) {
@@ -198,6 +203,7 @@ export function processMarkdownImages(
   bookSlug: string,
   optimizedImages: Map<string, OptimizedImage>,
   chapterPath: string,
+  pathHelper: PathHelper,
 ): string {
   return content.replace(
     /!\[([^\]]*)\]\(\.\/(.*?\.(png|jpg|jpeg|gif|svg|webp))\s*(?:"([^"]*)")?\)/gi,

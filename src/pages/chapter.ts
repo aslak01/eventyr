@@ -28,6 +28,7 @@ export function generateChapterHTML(
     book.slug,
     optimizedImages,
     fullChapterPath,
+    pathHelper,
   );
 
   const htmlContent = marked(processedContent);
