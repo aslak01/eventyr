@@ -21,4 +21,3 @@ Da hentet han en skruestikke, og bjørnen la sine lapper i den, men skredderlill
 Da de nå var kommet inn i vogna, gikk begge de andre skredderne, som var falske i sitt hjerte og ikke unnet ham hans lykke, inn i stalden og skrudde bjørnen løs; den ble nå rasende og rente bak etter vogna. Da prinsessa hørte den brøle, ble hun redd og sa: «Ak, bjørnen er etter oss og vil hente deg.» Skredderet visste straks råd; han stilte seg på hodet, strakte beina ut av vognvinduet og ropte: «Ser du skruestikka; hvis du ikke går din vei, så skruer jeg deg fast igjen.» Da bjørnen så det, snudde den om og løp sin vei, men skredderlille kjørte nok så rolig til kirka, og prinsessa ble vidd til ham, og hun levde så fornøyd med ham som en skoglerke. Den som ikke tror det, bøter en krone.
 
 ![Skredder skremmer](./skredder_skremmer.png)
-

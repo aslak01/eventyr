@@ -23,7 +23,8 @@ const defaultConfig: GeneratorConfig = {
   distDir: "./dist",
   imageSizes: [200, 400, 800, 1200],
   imageFormats: ["webp", "avif", "jpeg"],
-  basePath: process.env.NODE_ENV === "production" ? (process.env.BASE_PATH || "") : "",
+  basePath:
+    process.env.NODE_ENV === "production" ? process.env.BASE_PATH || "" : "",
 };
 
 function createGenerator(
@@ -52,7 +53,11 @@ async function generateSite(config: GeneratorConfig): Promise<void> {
   await writeFile(join(config.distDir, "index.html"), mainIndexHTML);
   console.log("📄 Generated main index.html");
 
-  const booksIndexHTML = generateBooksIndexHTML(books, optimizedImages, pathHelper);
+  const booksIndexHTML = generateBooksIndexHTML(
+    books,
+    optimizedImages,
+    pathHelper,
+  );
   await mkdir(join(config.distDir, "books"), { recursive: true });
   await writeFile(join(config.distDir, "books", "index.html"), booksIndexHTML);
   console.log("📄 Generated books index.html");
@@ -66,7 +71,12 @@ async function generateSite(config: GeneratorConfig): Promise<void> {
     console.log(`📄 Generated ${book.name}/index.html`);
 
     for (const chapter of Object.values(book.chapters)) {
-      const chapterHTML = generateChapterHTML(book, chapter, optimizedImages, pathHelper);
+      const chapterHTML = generateChapterHTML(
+        book,
+        chapter,
+        optimizedImages,
+        pathHelper,
+      );
       await writeFile(join(bookDir, `${chapter.path}.html`), chapterHTML);
       console.log(`📄 Generated ${book.name}/${chapter.path}.html`);
     }

@@ -4,24 +4,16 @@
   "useTabs": false,
   "overrides": [
     {
-      "files": [
-        "**/*.{js,mjs,cjs,jsx}"
-      ],
+      "files": ["**/*.{js,mjs,cjs,jsx}"],
       "options": {
-        "plugins": [
-          "@prettier/plugin-oxc"
-        ],
+        "plugins": ["@prettier/plugin-oxc"],
         "parser": "oxc"
       }
     },
     {
-      "files": [
-        "**/*.{ts,mts,cts,tsx}"
-      ],
+      "files": ["**/*.{ts,mts,cts,tsx}"],
       "options": {
-        "plugins": [
-          "@prettier/plugin-oxc"
-        ],
+        "plugins": ["@prettier/plugin-oxc"],
         "parser": "oxc-ts"
       }
     }

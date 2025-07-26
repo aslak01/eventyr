@@ -11,4 +11,3 @@ Reven sa: «Det skal jeg nok hjelpe deg med, legg deg bare ned som om du var dø
 Løven syntes godt om dette råd og stilte seg således at reven kunne binde hesten fast til den. Den stod nok så stille og rolig, men med hestens hale bandt reven beina sammen på løven og bandt og knyttet alt så fast og sterkt at det ikke var mulig å rive det opp. Da reven var ferdig med dette, slo den på hesten og sa: «Trekk, Blakken, trekk!» Da sprang hesten med en gang opp og trakk løven av sted med seg. Løven begynte nå å brøle så fuglene i hele skogen fløy opp av skrekk, men hesten lot den brøle og trakk og slept den over marken like til sin herres dør.
 
 Da herren så det, kom han på andre tanker og sa til hesten: «Du skal bli hos meg og ha det godt,» og han ga den nok å ete til dens siste dag.
-

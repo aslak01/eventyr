@@ -89,4 +89,3 @@ Da sa den eldste: «Vi har ikke drept kjøpmannen, men der inne i ringen står m
 Da sendte dommeren sine hjelpere dit, og de fant det slik som håndverkerne hadde sagt, og da disse hadde fortalt dommeren det, lot han hodet hugge av verten.
 
 Da sa djevelen til de tre: «Nå har jeg den sjelen jeg ville ha, men dere er fri og har penger nok for hele livet.»
-

@@ -80,4 +80,3 @@ Kongen ble så glad at han lyste til fest på kirkebakken for hele landet og alt
 Oppe på Storheivarden satt Kvinten og spilte på gullharpen sin, spilte liksom for hele verden og gjorde seg usynlig for alminnelige mennesker. Han ville ikke vite om noe stas, han, seiv om han hadde reddet både en og hundre kongsdøtre.
 
 — Ære, stas og vide spurlag er bra, men bør aldri være målet for en god gjerning, tenkte han og slo videre på gullharpen sin.
-

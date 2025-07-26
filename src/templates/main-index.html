@@ -1,0 +1,25 @@
+{{head}}
+<div class="header">
+    <h1 class="main-title">📚 Eventyrsamling</h1>
+    <p class="subtitle">{{bookCount}} {{bookCountText}} tilgjengelig{{bookCountPlural}}</p>
+    <nav class="header-nav">
+        <a href="{{booksUrl}}" class="nav-link">📖 Bøker</a>
+    </nav>
+</div>
+
+<main>
+<table class="tale-table">
+<thead>
+<tr>
+<th>Tittel</th>
+<th>Bok</th>
+<th>Ord</th>
+</tr>
+</thead>
+<tbody>
+{{talesHtml}}
+</tbody>
+</table>
+</main>
+</body>
+</html>

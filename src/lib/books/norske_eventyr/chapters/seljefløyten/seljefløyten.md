@@ -55,4 +55,3 @@ Da ble musekongen glad, kan du tro.
 — Du er en stor mann du, Vesle-Kvinten. Og godhjertet.
 
 — Godhjertet og sirompa, ja — akkurat, sa Vesle-Kvinten.
-

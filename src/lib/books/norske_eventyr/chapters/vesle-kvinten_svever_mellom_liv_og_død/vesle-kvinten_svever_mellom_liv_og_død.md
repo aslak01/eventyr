@@ -60,4 +60,3 @@ Langt om lenge visste han ikke ordet av før en av heksene bråstanste ved fjell
 Vesle-Kvinten satte seg bakpå, og det tok ikke mange blunkene før han igjen kunne sitte og trone på selve Storheia igjen.
 
 Neste dagen gikk han i gang med å lage seg en lime med skaft på han og, men alt han maste og kjaste så var han likevel ikke kar for å få den til å fly.
-

@@ -9,4 +9,3 @@ Men den følgende morgen da nattergalen var kommet hjem, syntes den så godt om 
 > så du aldri vil det finne.»
 
 Siden den tid har alle nattergaler to øyne og alle blindsnoker ingen øyne. Men hvor nattergalen bygger rede, der bor også nede i buskene en blindsnok, og den trakter alltid etter å krype opp for å bore hull i sin fiendes egg og suge dem ut.
-

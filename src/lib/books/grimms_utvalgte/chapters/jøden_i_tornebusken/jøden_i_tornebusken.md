@@ -21,4 +21,3 @@ Da han allerede stod på stigen med strikka om halsen, sa han: «Hr. dommer, til
 Da skrek jøden: «Bind meg da for Guds skyld fast.» Men gutten tok fiolinen og gjorde et strøk; da begynte alt å rugge på seg, både dommer og skriver og karl, og jøden kunne ingen binde, og han gjorde nok et strøk, da slapp karlen ham løs og danset selv, og da han nå begynte å spille ordentlig opp, danset alle sammen, retten og jøden i spissen og alle folkene på torget som ville se på.
 
 I begynnelsen gikk det lystig, men da det ingen ende ble på dansen, bad de ham holde opp, men han holdt ikke opp før dommeren både lovte ham livet og de hundre gullpengene. Da ropte han til jøden: «Tilstå nå hvor du har pengene fra, din kjeltring, ellers holder jeg aldri i mine dager opp å spille.» «Jeg har stjålet dem, jeg har stjålet dem, og du har ærlig fortjent dem,» skrek jøden så alle hørte på det. Da stakk gutten fiolinen i sekken, og jøden ble hengt i galgen i hans sted.
-

@@ -1,6 +1,6 @@
 # Mons fra Mi-au
 
-*(En regle)*
+_(En regle)_
 
 Det var engang en gård som het Mi-au og på den gården stod der et hus, og ved det huset lå der en have, og i den haven vokste et tre, og under det treet satt der en katt.
 

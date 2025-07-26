@@ -41,4 +41,3 @@ Dermed havnet Kvinten i fossen, gikk kast i kast over kulpene og forsvant som et
 Hærbærn-trollet sto oppe på muren og danset og lo, pekte nese og gjorde rundkast. Men det siste ble han mindre heldig med. Fotfestet glapp for ham, han trilte rundt og kanglet ut i fossen. Det så granngivelig ut som et stort mosegrodd fjell som valt avgårde ned gjennom fossen. Og da han kom ned til den store, grønne kulpen, kom selveste Vesle-Kvinten ridende på en diger laks, og etter ham kom store og små lakser i veldige stimer, og no kan du tro det ble krig i elva! Hele laksehurven rente seg dønn på trollet, og slåss gjorde de så det kokte i vatnet, ja, hele luften omkring sto aldeles stinn av vass-sprut.
 
 Da kampen var over, kom det en stor, vakker regnbue til syne over fossen, og inne i den regnbuen i alle de herligste farger kunne en se Vesle-Kvinten ridende på en sølvglinsende laks.
-

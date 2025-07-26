@@ -31,7 +31,12 @@ export async function optimizeImages(
       const needsUpdate = await needsProcessing(imagePath, cache);
 
       if (needsUpdate) {
-        const optimized = await processImage(imagePath, book.slug, config, pathHelper);
+        const optimized = await processImage(
+          imagePath,
+          book.slug,
+          config,
+          pathHelper,
+        );
         if (optimized) {
           optimizedImages.set(imagePath, optimized);
 
@@ -152,7 +157,12 @@ export async function processImage(
         webpPath: svgPath,
         avifPath: svgPath,
         sizes: [
-          { width: 0, path: pathHelper.asset(`/images/${bookSlug}/${basename(imagePath)}`) },
+          {
+            width: 0,
+            path: pathHelper.asset(
+              `/images/${bookSlug}/${basename(imagePath)}`,
+            ),
+          },
         ],
       };
     }

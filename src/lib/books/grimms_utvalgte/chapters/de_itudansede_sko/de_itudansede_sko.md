@@ -55,4 +55,3 @@ Da den tid var kommet at han skulle svare, tok han de tre grenene og begeret og 
 Da kalte kongen på sine døtre og spurte dem om soldaten hadde sagt sant. Da de så at de var forrådt og at det ikke hjalp å nekte, fortalte de alt. Så spurte kongen ham hvem han ville ha til kone. Han svarte: «Jeg er ikke mer ung, giv meg derfor den eldste.»
 
 Samme dag holdt han bryllup og fikk løfte på riket etter kongens død. Men prinsene ble igjen forhekset i likeså mange dager som de hadde danset netter med de tolv prinsessene.
-

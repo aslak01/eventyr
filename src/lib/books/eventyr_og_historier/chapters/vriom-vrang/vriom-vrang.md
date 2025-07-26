@@ -1,6 +1,6 @@
 # Vriom-vrang
 
-*(En historie)*
+_(En historie)_
 
 Det var en gang et par folk som bodde på en gård midt i brede bygden. De hadde fullt opp av alt, både buskap på bås, sau i skjul, hest på stall, høne og hund og gris og alt det som godt er. Men noe skal det alltid være, og disse folkene hadde en sønn som rent blev et ordsprog i bygden.
 

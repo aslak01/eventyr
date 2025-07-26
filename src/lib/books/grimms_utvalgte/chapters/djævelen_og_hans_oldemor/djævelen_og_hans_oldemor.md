@@ -23,4 +23,3 @@ Så gikk djevelen hen og la seg, og hans gamle oldemor løftet steinen opp og sl
 Da de syv år nå var forbi, kom djevelen med boka, viste dem underskriften og sa: «Nå vil jeg ta dere ned til helvete, der skal dere spise til middag, men kan dere gjette hva det er for en stek dere får å spise, så skal dere være fri og kan beholde pisken på kjøpet.» Da begynte den første: «I Nordsjøen ligger en død havkatt, den skal vel være vår stek.» Djevelen ergret seg og hostet og sa «hm, hm,» og spurte den andre: «Hva skal dere ha til ske?» da svarte han: «Ribbenet av en hvalfisk, det skal være vår sølvske.» Djevelen gjorde stygge grimaser, knurret og hostet tre ganger «hm, hm, hm» og spurte den tredje: «Hva skal være deres vinglass?» «En gammel hestefot, den skal være vårt vinglass.»
 
 Da fløy djevelen sin vei og hadde ikke mer noen makt over dem, men de tre beholdt pisken og pisket penger frem, så mange som de ville, og levde glade og lykkelige til sin salige død.
-

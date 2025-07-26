@@ -69,4 +69,3 @@ oi å hoi å hyse fanten.
 ei å mei å spli spli splinten.  
 Rakkaren Kakkaren, nikke mikke mur,  
 stunten å glunten Kvinten har tur._
-

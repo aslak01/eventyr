@@ -88,12 +88,12 @@ Det beste var at det var som alt livnet på dekk. Tau og seil slo mot masten. Tr
 
 I flere minutter satt vi med ånden i halsen og lyttet etter. Da hørte vi noen komme ned kahytttrappen. I det samme tok gamlingen til å lese verset sitt som bestefaren hadde lært ham:
 
-*Kommer dere fra luften?  
+_Kommer dere fra luften?  
 Stiger dere fra dype hav?  
 Fra kirkegårdstuften?  
 Eller fra logehavet?  
 Gud kan byde dere!  
-Ham må dere alle lyde!*
+Ham må dere alle lyde!_
 
 Jeg må innrømme at jeg ikke hadde stor tro på dette verset. Og jeg kjente håret reise seg til vers på meg da kahyttdøren gikk opp.
 

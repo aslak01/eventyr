@@ -1,10 +1,6 @@
 {
   "title": "Grimms utvalgte eventyr",
-  "author": [
-    "Jacob Grimm",
-    "Wilhelm Grimm",
-    "Peder Christen Asbjørnsen"
-  ],
+  "author": ["Jacob Grimm", "Wilhelm Grimm", "Peder Christen Asbjørnsen"],
   "published": 1914,
   "illustrator": [],
   "chapter_index": {

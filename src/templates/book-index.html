@@ -1,0 +1,16 @@
+{{head}}
+<body>
+    <div class="header">
+        <h1 class="book-title">{{bookName}}</h1>
+        <p>{{chapterCount}} chapter{{chapterCountPlural}}</p>
+    </div>
+
+    <ul class="chapters">
+        {{chaptersHtml}}
+    </ul>
+
+    <div class="navigation">
+        <a class="book-link" href="{{homeUrl}}">← Back to all books</a>
+    </div>
+</body>
+</html>

@@ -1,12 +1,8 @@
 {
   "title": "Norske eventyr",
-  "author": [
-    "Nils Moa"
-  ],
+  "author": ["Nils Moa"],
   "published": 1942,
-  "illustrator": [
-    "Nils Moa"
-  ],
+  "illustrator": ["Nils Moa"],
   "chapter_index": {
     "vesle-kvinten_og_svala": "Vesle-Kvinten og svala",
     "honningdronningen_nord_i_engene": "Honningdronningen nord i engene",

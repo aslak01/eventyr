@@ -48,4 +48,3 @@ Dragen ble så mild og blank i øynene med det samme, det var første gangen den
 Dermed la dragen seg ned og sov, den sov så det dundret i skog og berg, og da Vesle-Kvinten var sikker på at den var kommet vel inn i drømmenes rike, samlet han kvist og mose som han la omkring den, og deretter slo han med ildstål så varmen freste omkring den. Aldri hadde Vesle-Kvinten sett så diger en varme. Det freste og smalt i samfulle sju døgn, og det åttende døgnet var det ikke annet å se enn bare kvite askehaugen.
 
 Vesle-Kvinten hentet foreldrene sine ut av hulen, og dermed frelste han også alle jorddvergene og haugbukkene. Det ble holdt stor fest i Storheia. Vesle-Kvinten ble hedersgjesten, han fikk så mye sneglemajones og froskejellé han bare orket å skuffe i seg.
-

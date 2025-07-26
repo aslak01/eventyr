@@ -44,7 +44,7 @@ Han tok olderbusken riktig vakkert opp med roten og flyttet den over i saftigere
 
 — Å, det er ikke noe å snakke om. Men heime hos oss skygger olderskogen for solen, men ikke har jeg hjerte til å hogge den ned heller. Hva skal jeg gjøre med det da?
 
-— Se her, gutten min, ta denne kvisten med deg, den skal du bare slå på skogen med, så vil den forsvinne like fort som slaget er slått. Men vil du plante en ny skog, så graver du denne stokken ned i jorda, og da får du skogen der du vil ha den. Lykke til da, gutten min, og ha det godt! 
+— Se her, gutten min, ta denne kvisten med deg, den skal du bare slå på skogen med, så vil den forsvinne like fort som slaget er slått. Men vil du plante en ny skog, så graver du denne stokken ned i jorda, og da får du skogen der du vil ha den. Lykke til da, gutten min, og ha det godt!
 
 Dermed ruslet olderskogtrollet sin veg.
 

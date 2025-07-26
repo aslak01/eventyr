@@ -1,13 +1,8 @@
 {
   "title": "Barneeventyr",
-  "author": [
-    "Peter Christen Asbjørnsen",
-    "Moltke Moe"
-  ],
+  "author": ["Peter Christen Asbjørnsen", "Moltke Moe"],
   "published": 1930,
-  "illustrator": [
-    "Theodor Kittelsen"
-  ],
+  "illustrator": ["Theodor Kittelsen"],
   "chapter_index": {
     "hanen_og_høna": "Hanen og høna",
     "jomfru_maria_som_gudmor": "Jomfru Maria som gudmor",

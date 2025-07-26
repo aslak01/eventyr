@@ -27,4 +27,3 @@ Hun spurte mølleren hvor den tredje møllergutten var henne; da sa mølleren: �
 Nå ville jomfrua se hestene som de to andre møllerguttene hadde brakt hjem; den ene var blind, den andre var lam. Så lot hun tjeneren bringe den syvende hest; da mølleren så denne, sa han at slik en hest var enda aldri kommet i hans gård. «Ja, den tilhører den tredje møllergutten,» sa kongedatteren. «Da skal han også ha møllen,» sa mølleren, men kongedatteren sa at hesten skulle være hans og han kunne beholde møllen også, og nå tok hun sin trofaste Hans og satte i vogna og kjørte av sted med ham.
 
 Først kjørte hun nå til det lille huset med ham som han hadde bygget med sølvverktøyet; det var blitt til et stort slott og alt var av sølv og gull, og der giftet hun seg med ham, og han ble så rik at han hadde nok alle sine levedager.
-

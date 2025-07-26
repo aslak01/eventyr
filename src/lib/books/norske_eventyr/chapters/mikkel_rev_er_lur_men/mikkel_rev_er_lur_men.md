@@ -57,4 +57,3 @@ Det gikk både fort og gæli å få fuglene ut av hiet, men da Kvinten skulle ti
 — No er det min tur, og no slipper du fuglene og nøyter deg heimover fortere enn fortest!
 
 — Bare smell av du, Mikkel, det fins ikke skudd i den likevel — nei, no ble du rettelig lurt igjen! ropte Vesle-Kvinten.
-

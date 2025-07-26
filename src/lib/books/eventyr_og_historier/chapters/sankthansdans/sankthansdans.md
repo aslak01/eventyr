@@ -1,6 +1,6 @@
 # Sankthansdans
 
-*(En regle)*
+_(En regle)_
 
 Først kom en ørn  
 som hoppet på to,  

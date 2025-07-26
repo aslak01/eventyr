@@ -61,4 +61,3 @@ Da Stor-Kvinten fikk se denne kvite skikkelsen komme stavrende oppetter fjellet,
 — Hau, hau. Hvor har du denne visdommen fra?
 
 — Livets kilde, far min! Livets kilde!
-

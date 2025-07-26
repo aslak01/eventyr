@@ -7,6 +7,7 @@ import { processMarkdownImages } from "../image_processing/image";
 import { htmlHead } from "../components/htmlHead";
 import { safeString } from "../utils/strings";
 import { headerGenerator } from "../components/header";
+import { templateEngine } from "../utils/template-engine";
 
 type PathHelper = ReturnType<typeof createPathHelper>;
 
@@ -49,24 +50,22 @@ export function generateChapterHTML(
     pathHelper,
   );
   const header = headerGenerator(book, pathHelper);
-  return `${head}
-${header}
 
-    <div class="content">
-        ${htmlContent}
-    </div>
+  const prevChapterLink = prevChapter
+    ? `<a href="${pathHelper.page(`/${book.slug}/${prevChapter.path}.html`)}" class="nav-link">← ${prevChapter.title.replace(/"/g, "&quot;")}</a>`
+    : "<span></span>";
 
-    <div class="navigation">
-        <div>
-            ${prevChapter ? `<a href="${pathHelper.page(`/${book.slug}/${prevChapter.path}.html`)}" class="nav-link">← ${prevChapter.title.replace(/"/g, "&quot;")}</a>` : "<span></span>"}
-        </div>
-        <div>
-            <a href="${pathHelper.page(`/${book.slug}/`)}" class="book-link">📚 Back to ${book.name}</a>
-        </div>
-        <div>
-            ${nextChapter ? `<a href="${pathHelper.page(`/${book.slug}/${nextChapter.path}.html`)}" class="nav-link">${nextChapter.title.replace(/"/g, "&quot;")} →</a>` : "<span></span>"}
-        </div>
-    </div>
-</body>
-</html>`;
+  const nextChapterLink = nextChapter
+    ? `<a href="${pathHelper.page(`/${book.slug}/${nextChapter.path}.html`)}" class="nav-link">${nextChapter.title.replace(/"/g, "&quot;")} →</a>`
+    : "<span></span>";
+
+  return templateEngine.render("chapter.html", {
+    head,
+    header,
+    htmlContent,
+    prevChapterLink,
+    nextChapterLink,
+    bookUrl: pathHelper.page(`/${book.slug}/`),
+    bookName: book.name,
+  });
 }

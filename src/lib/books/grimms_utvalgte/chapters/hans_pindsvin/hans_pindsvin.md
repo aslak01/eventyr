@@ -37,4 +37,3 @@ Da det nå ble aften og de skulle gå hen og legge seg, ble hun redd for hans pi
 Da nå klokka slo elleve, gikk han inn i kammeret og trakk pindsvinhuden av og lot den ligge foran sengen, så kom mennene og tok den hurtig og kastet den på varmen, og da den var opbrent, da var han forløst og lå i sengen som et annet menneske, men han var kullsort som om han var svidd. Kongen sendte bud til sin lege, som gned ham inn med gode salver så han ble hvit, og da var han en vakker mann. Da prinsessa så dette, ble hun glad, og de stod opp, spiste og drakk og holdt bryllup, og Hans Pindsvin fikk kongeriket av den gamle konge.
 
 Noen år etter tok han sin dronning med seg og reiste til sin far og sa at han var hans sønn, men faren sa han ikke hadde noen sønn. En gang hadde han hatt en, men han var født som et pinnsvin med pigger på og hadde fart ut i den vide verden. Da ga han seg til kjenne, og den gamle far gledet seg og drog med ham til hans kongerike.
-

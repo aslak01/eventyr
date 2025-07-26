@@ -59,4 +59,3 @@ En mann som stod ved siden av frukthandleren tok i den lange blå frakken og ris
 Mandarinen vendte seg til ham og sa: «La oss ikke høre flere narrestreker av deg Li-ho, ellers får du tyve stokkeslag.»
 
 «Samle dine plommer sammen Li-ho,» sa Piau-lu vennlig, «og når du kommer hjem, så tenk over det at det ikke alltid nytter å løpe med åpen munn og lete etter det en har mistet.»
-

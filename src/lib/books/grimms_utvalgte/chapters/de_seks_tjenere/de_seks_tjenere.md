@@ -135,4 +135,3 @@ Dette varte i åtte dager, da kunne hun ikke mer holde det ut, for hennes føtte
 Men de sa: «Følg med oss, så vil vi føre Dem til ham,» og nå førte de henne til slottet, og da de kom inn i salen, sto hennes mann der i kongeklær, men hun kjente ham ikke før han falt henne om halsen, kysset henne og sa: «Jeg har lidt så mye for deg, derfor skulle du også lide noe for min skyld.»
 
 Nå først ble brylluppet riktig høytidelig holdt, og den som har fortalt dette ville ønske at han også hadde vært med der.
-

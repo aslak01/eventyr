@@ -14,7 +14,7 @@ async function runBuild(): Promise<void> {
   return new Promise((resolve, reject) => {
     const buildProcess = spawn("bun", ["run", "static-generator.ts"], {
       stdio: ["inherit", "inherit", "inherit"],
-      cwd: process.cwd()
+      cwd: process.cwd(),
     });
 
     buildProcess.on("close", (code) => {
@@ -38,10 +38,10 @@ const debouncedBuild = debounce(async () => {
     await runBuild();
     const buildTime = Date.now() - buildStart;
     console.log(`✅ Rebuild complete (${buildTime}ms)`);
-    
+
     // Small delay to ensure files are written
-    await new Promise(resolve => setTimeout(resolve, 100));
-    
+    await new Promise((resolve) => setTimeout(resolve, 100));
+
     // Notify all connected clients to reload
     console.log(`📡 Notifying ${clients.size} connected clients`);
     for (const client of clients) {
@@ -59,25 +59,24 @@ const debouncedBuild = debounce(async () => {
 }, REBUILD_DELAY);
 
 // Watch for changes
-const watchPaths = [
-  "./src",
-  "./static-generator.ts",
-  "./load-books.ts"
-];
+const watchPaths = ["./src", "./static-generator.ts", "./load-books.ts"];
 
 console.log("👀 Setting up file watchers...");
 
-watchPaths.forEach(path => {
+watchPaths.forEach((path) => {
   console.log(`  🔍 Watching: ${path}`);
   watch(path, { recursive: true }, (eventType, filename) => {
     if (filename) {
-      const shouldRebuild = filename.endsWith('.ts') || 
-                           filename.endsWith('.css') || 
-                           filename.endsWith('.md') || 
-                           filename.endsWith('.json');
-      
-      console.log(`📂 File event: ${filename} (${eventType}) - Will rebuild: ${shouldRebuild}`);
-      
+      const shouldRebuild =
+        filename.endsWith(".ts") ||
+        filename.endsWith(".css") ||
+        filename.endsWith(".md") ||
+        filename.endsWith(".json");
+
+      console.log(
+        `📂 File event: ${filename} (${eventType}) - Will rebuild: ${shouldRebuild}`,
+      );
+
       if (shouldRebuild) {
         console.log(`🔄 Triggering rebuild for: ${filename}`);
         debouncedBuild();
@@ -106,7 +105,7 @@ const server = serve({
           start(controller) {
             clients.add(controller);
             controller.enqueue("data: connected\n\n");
-            
+
             // Keep connection alive with periodic pings
             const interval = setInterval(() => {
               try {
@@ -119,16 +118,16 @@ const server = serve({
           },
           cancel() {
             clients.delete(this as any);
-          }
+          },
         }),
         {
           headers: {
             "Content-Type": "text/event-stream",
             "Cache-Control": "no-cache",
-            "Connection": "keep-alive",
+            Connection: "keep-alive",
             "Access-Control-Allow-Origin": "*",
           },
-        }
+        },
       );
     }
 
@@ -153,12 +152,12 @@ const server = serve({
 
     if (await file.exists()) {
       let response = new Response(file);
-      
+
       // Inject live reload script into HTML responses
       if (path.endsWith(".html")) {
         const html = await file.text();
         const htmlWithLiveReload = html.replace(
-          '</body>',
+          "</body>",
           `  <script>
     console.log('🔄 Live reload enabled');
     const eventSource = new EventSource('/dev-reload');
@@ -172,7 +171,7 @@ const server = serve({
       console.log('❌ Live reload connection lost');
     };
   </script>
-</body>`
+</body>`,
         );
         response = new Response(htmlWithLiveReload, {
           headers: {
@@ -180,7 +179,7 @@ const server = serve({
           },
         });
       }
-      
+
       console.log("✅ File served:", path);
       return response;
     }
@@ -193,7 +192,7 @@ const server = serve({
       console.log("📄 Serving fallback index.html");
       const html = await indexFile.text();
       const htmlWithLiveReload = html.replace(
-        '</body>',
+        "</body>",
         `  <script>
     console.log('🔄 Live reload enabled');
     const eventSource = new EventSource('/dev-reload');
@@ -207,7 +206,7 @@ const server = serve({
       console.log('❌ Live reload connection lost');
     };
   </script>
-</body>`
+</body>`,
       );
       return new Response(htmlWithLiveReload, {
         headers: {
@@ -221,4 +220,6 @@ const server = serve({
 });
 
 console.log(`🌐 Development server running on http://localhost:${PORT}`);
-console.log(`🔄 Live reload enabled - changes to .ts, .css, .md, and .json files will trigger rebuilds`);
+console.log(
+  `🔄 Live reload enabled - changes to .ts, .css, .md, and .json files will trigger rebuilds`,
+);

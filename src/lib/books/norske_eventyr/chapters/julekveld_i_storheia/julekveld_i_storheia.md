@@ -101,4 +101,3 @@ Stor-Kvinten gomlet litt på det.
 Deretter slo de ring om juletreet og sang:
 
 — Gla—a—de jul —
-

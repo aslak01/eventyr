@@ -31,4 +31,3 @@ Da faren så dette, ble han forbauset og sa: «Du har gjort det beste mesterstyk
 Begge de andre brødrene var tilfreds dermed, slik som de hadde lovet, og da de holdt så mye av hverandre, ble de alle tre i huset, drev hver sitt håndverk, og da de var så godt utlært og forsto sine ting, tjente de mange penger.
 
 Slik levde de fornøyd til sin alderdom, og da den ene ble syk og snart døde, sørget de to andre derover så de også ble syke og snart døde, og fordi de hadde vært så gode og holdt så mye av hverandre, ble de alle tre lagt i en grav.
-

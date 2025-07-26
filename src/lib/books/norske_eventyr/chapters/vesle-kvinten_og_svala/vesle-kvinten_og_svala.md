@@ -67,4 +67,3 @@ Da Vesle-Kvinten og oppsynsfolket kom til kongsgården og kongen fikk vite hvord
 Men no hadde Vesle-Kvinten vært så lenge borte fra Storheia at hjertet hans gråt av lengsel etter heimen. Som beløning ville han at kongen skulle løslate ridderen og gjøre ham til arvekonge, for han visste jo godt at ridderen og kongsdatteren var så urimelig gla i hverandre.
 
 Dermed hadde han da også gjort en god gjerning. Kom så og si at ikke troll har hjertelag.
-

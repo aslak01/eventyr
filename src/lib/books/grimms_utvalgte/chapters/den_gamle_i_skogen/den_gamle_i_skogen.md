@@ -39,4 +39,3 @@ Da ble hun inderlig glad, løp ut av huset med den og tenkte at den hvite duen s
 Da hun så seg om, var treet blitt til en deilig mann som omfavnet henne, kysset henne hjertelig og sa: «Du har frelst meg, den gamle er en heks som har forvandlet meg til et tre. Men hver dag var jeg i et par timer en due, og så lenge som hun hadde ringen, kunne jeg ikke få min menneskelige skikkelse igjen.»
 
 Da ble også hans tjenere og hester befridd fra trolldommen og forvandlet fra trær, og de sto ved siden av ham. Så reiste de tilbake til hans rike, for han var en kongesønn. Han giftet seg med piken, og de levde vel og lykkelig sammen.
-

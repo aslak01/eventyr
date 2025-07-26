@@ -1,14 +1,9 @@
 {
   "title": "Nye barneeventyr",
   "slug": "nye_barneeventyr",
-  "author": [
-    "Peter Christen Asbjørnsen",
-    "Moltke Moe"
-  ],
+  "author": ["Peter Christen Asbjørnsen", "Moltke Moe"],
   "published": 1927,
-  "illustrator": [
-    "Theodor Kittelsen"
-  ],
+  "illustrator": ["Theodor Kittelsen"],
   "chapter_index": {
     "bjørnen_og_reven": "Bjørnen og reven",
     "lurvehette": "Lurvehette",

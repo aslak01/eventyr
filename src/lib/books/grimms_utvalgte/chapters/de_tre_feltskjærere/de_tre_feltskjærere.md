@@ -51,4 +51,3 @@ Da sa han: «Det er ikke riktig fatt med oss, vi har ikke fått tilbake det som 
 Neste morgen bega de seg på veien og sa til verten at de hadde ikke fått sitt riktig tilbake, den ene hadde fått en tyvehånd, den andre katteøyne og den tredje svinehjerte. Verten sa at det måtte være pikens skyld og ville rope på henne, men da hun hadde sett de tre komme, var hun løpet sin vei gjennom bakporten og kom ikke tilbake.
 
 Da sa de tre at han skulle gi dem mange penger ellers ville de brenne huset av. Han ga da alt det han hadde og kunne skaffe til veie, og de drog avsted med det. Der var nok for alle deres levedager, men de hadde allikevel heller villet ha sine egne varer tilbake.
-

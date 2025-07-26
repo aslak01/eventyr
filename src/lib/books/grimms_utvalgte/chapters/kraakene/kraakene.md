@@ -17,4 +17,3 @@ En gang, da han gikk ut og spaserte i det grønne, møtte han begge sine fordums
 Som de nå satt under galgen, kom det også snart noe flagrende over deres hoder; det var de tre kråkene. Den ene sa til den andre: «Hør, søster, der må noen ha hørt på oss, for kongedatteren er frisk, padda er borte av dammen, og en blind har fått sitt syn igjen, og i byen er det gravd en ny brønn, kom la oss lete, kanskje kan vi finne ham.» Da fløy de ned og fant begge soldatene, og før de kunne hindre det, satt de på hodet og hakket øynene ut på dem, og de hakket dem så lenge i ansiktet til de var steindøde. Slik ble de liggende under galgen.
 
 Da de nå ikke kom tilbake på et par dager, tenkte deres forrige kamerat: «Hvor mon de to nå vanker omkring henne,» og så gikk han ut for å lete etter dem, men han fant ikke annet enn deres ben, disse bar han bort fra galgen og la dem i en grav.
-

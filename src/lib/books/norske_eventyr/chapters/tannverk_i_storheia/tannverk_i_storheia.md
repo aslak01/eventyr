@@ -67,4 +67,3 @@ Stor-Kvinten så gjorde. Men mange skrittene hadde han ikke tatt før han sank g
 Fra den dagen ble det også endskap på tannverken i Storheia.
 
 Men nede på Vintervassmyra ble tannen begravd. Og dersom du en sommerdag kommer farende over myra, og dersom du ser en ensom, diger tørrfuru som likner en trolljeksel, ja, så skal du vite: Dette er grava til tannverken i Storheia.
-

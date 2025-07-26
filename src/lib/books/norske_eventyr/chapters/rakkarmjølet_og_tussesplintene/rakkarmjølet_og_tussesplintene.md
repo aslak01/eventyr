@@ -65,4 +65,3 @@ Da Vesle-Kvinten fikk veitet steinen vekk, lå far hans sammenhøyd i et trangt 
 — Velsigne deg, Kvinteklompen min, jamen var det i siste lita no, gråt han.
 
 I Storheia ble det stor fest om kvelden med gaupesteik og elgmulesuppe. Den kvelden måtte Vesle-Kvinten gi etter med livremmen til det siste hullet.
-

@@ -65,4 +65,3 @@ Dette trodde husbonden bare var snikksnakk og tull alt sammen, men da han ble sy
 — Æda, bæda, tullmikkel, sa Vesle-Kvinten.
 
 — No skal du sannelig få unngjelde, ditt utyske, raste husbonden, han løftet geværet og ga den "kamfer og vatten".
-

@@ -71,4 +71,3 @@ Dermed hogg han hodet av begge to. Men da skjedde det noe rart. Både den store 
 Den gamle kona ble ør av glede da hun fikk igjen gutten sin, og den gamle kallen ble det ikke mindre da han fikk se datteren sin. Vesle-Kvinten fikk tre gilde sauer hos hver av dem. Og da Stor-Kvinten fikk seks gilde sauer i stedet for de to skarve geitene, ble kanskje han enda gladere enn noen av de andre.
 
 — Du Vesle-Kvinten, du Vesle-Kvinten, sa han.
-

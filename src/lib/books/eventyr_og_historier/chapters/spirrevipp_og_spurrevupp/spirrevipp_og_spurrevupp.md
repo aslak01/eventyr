@@ -1,6 +1,6 @@
 # Spirrevipp og Spurrevupp
 
-*(En regle)*
+_(En regle)_
 
 "Pipp!" - det var knisterende kaldt på gården.
 
