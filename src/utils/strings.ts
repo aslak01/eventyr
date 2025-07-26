@@ -14,6 +14,7 @@ export function joinAuthors(arr: string[]) {
 export function getWordCount(chapter: string): number {
   return (
     chapter
+      ?.replace(/!\[[^\]]*\]\([^)]*\)/g, "") // Remove markdown images
       ?.replace(/\n/g, " ")
       .trim()
       .split(/\s+/)
