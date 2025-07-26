@@ -1,8 +1,11 @@
 import { htmlHead } from "../components/htmlHead";
 import type { BookData } from "../types/types";
+import type { createPathHelper } from "../utils/paths";
 
-export function generateMainIndexHTML(books: BookData[]): string {
-  const head = htmlHead(`Eventyr`);
+type PathHelper = ReturnType<typeof createPathHelper>;
+
+export function generateMainIndexHTML(books: BookData[], pathHelper: PathHelper): string {
+  const head = htmlHead(`Eventyr`, pathHelper);
   const tales = books
     .map((book) => book.chapters)
     .flat()
@@ -12,7 +15,7 @@ export function generateMainIndexHTML(books: BookData[]): string {
         <h1 class="main-title">📚 Eventyrsamling</h1>
         <p class="subtitle">${books.length} ${books.length !== 1 ? "bøker" : "bok"} tilgjengelig${books.length !== 1 ? "e" : ""}</p>
         <nav class="header-nav">
-            <a href="/books/" class="nav-link">📖 Bøker</a>
+            <a href="${pathHelper.page('/books/')}" class="nav-link">📖 Bøker</a>
         </nav>
     </div>
 
@@ -31,12 +34,12 @@ ${tales
         (tale) => `
 <tr>
 <td>
-<a href="${tale.htmlPath}">
+<a href="${pathHelper.page(tale.htmlPath)}">
     ${tale.title}
 </a>
 </td>
 <td>
-<a href="${tale.bookSlug}/">${tale.book}</a>
+<a href="${pathHelper.page(`/${tale.bookSlug}/`)}">${tale.book}</a>
 </td>
 <td>${tale.wordCount}</td>
 </tr>

@@ -1,8 +1,11 @@
 import { htmlHead } from "../components/htmlHead";
 import type { BookData } from "../types/types";
+import type { createPathHelper } from "../utils/paths";
 
-export function generateBookIndexHTML(book: BookData): string {
-  const head = htmlHead(`${book.name}`);
+type PathHelper = ReturnType<typeof createPathHelper>;
+
+export function generateBookIndexHTML(book: BookData, pathHelper: PathHelper): string {
+  const head = htmlHead(`${book.name}`, pathHelper);
   return `${head}
 <body>
     <div class="header">
@@ -15,7 +18,7 @@ export function generateBookIndexHTML(book: BookData): string {
       .map(
         (chapter) => `
             <li class="chapter-item">
-                <a href="/${book.slug}/${chapter.path}.html" class="chapter-link">${chapter.title} - ${chapter.wordCount}</a>
+                <a href="${pathHelper.page(`/${book.slug}/${chapter.path}.html`)}" class="chapter-link">${chapter.title} - ${chapter.wordCount}</a>
             </li>
         `,
       )
@@ -23,7 +26,7 @@ export function generateBookIndexHTML(book: BookData): string {
     </ul>
 
     <div class="navigation">
-        <a class="book-link" href="/">← Back to all books</a>
+        <a class="book-link" href="${pathHelper.page('/')}">← Back to all books</a>
     </div>
 </body>
 </html>`;

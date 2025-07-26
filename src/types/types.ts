@@ -38,6 +38,7 @@ export type GeneratorConfig = {
   distDir: string;
   imageSizes: number[];
   imageFormats: ("webp" | "avif" | "jpeg")[];
+  basePath: string;
 };
 
 export type ImageCache = {

@@ -1,8 +1,11 @@
 import { htmlHead } from "../components/htmlHead";
 import type { BookData, OptimizedImage } from "../types/types";
+import type { createPathHelper } from "../utils/paths";
 
-export function generateBooksIndexHTML(books: BookData[], optimizedImages: Map<string, OptimizedImage>): string {
-  const head = htmlHead(`Boksamling - Eventyr`);
+type PathHelper = ReturnType<typeof createPathHelper>;
+
+export function generateBooksIndexHTML(books: BookData[], optimizedImages: Map<string, OptimizedImage>, pathHelper: PathHelper): string {
+  const head = htmlHead(`Boksamling - Eventyr`, pathHelper);
   
   return `${head}
     <div class="header">
@@ -30,7 +33,7 @@ ${books
     
     return `
 <div class="book-card">
-  <a href="/${book.slug}/" class="book-link">
+  <a href="${pathHelper.page(`/${book.slug}/`)}" class="book-link">
     <div class="book-cover-container">
       ${imageHtml}
     </div>

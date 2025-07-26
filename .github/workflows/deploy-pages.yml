@@ -31,6 +31,9 @@ jobs:
 
       - name: Build site
         run: bun run build
+        env:
+          NODE_ENV: production
+          BASE_PATH: /eventyr
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
