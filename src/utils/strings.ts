@@ -15,9 +15,9 @@ export function getWordCount(chapter: string): number {
   return (
     chapter
       ?.replace(/!\[[^\]]*\]\([^)]*\)/g, "") // Remove markdown images
-      ?.replace(/\n/g, " ")
+      ?.replace(/\n/g, " ") // Replace newlines with spaces
       .trim()
-      .split(/\s+/)
+      .split(/\s+/) // Split on any whitespace
       .filter((word) => word.length > 0)?.length || 0
   );
 }

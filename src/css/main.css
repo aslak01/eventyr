@@ -220,25 +220,22 @@ body {
 }
 
 .navigation {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-top: 3rem;
-  padding-top: 2rem;
+  display: grid;
   border-top: 1px solid light-dark(var(--highlight), var(--d-highlight));
 
   .nav-link {
+    display: inline-block;
     color: light-dark(var(--secondary), var(--d-secondary));
+    padding-inline: 1ch;
     text-decoration: none;
-    padding: 0.5rem 1rem;
-    border: 1px solid light-dark(var(--secondary), var(--d-secondary));
     border-radius: 4px;
     transition: all 0.2s ease;
+    text-wrap: balanced;
   }
 
   .nav-link:hover {
     background: light-dark(var(--secondary), var(--d-secondary));
-    color: light-dark(var(--text), var(--d-text));
+    color: light-dark(var(--bg), var(--d-bg));
   }
 
   .book-link {

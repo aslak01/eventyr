@@ -8,7 +8,7 @@ export function headerGenerator(book: BookData, pathHelper: PathHelper) {
   return `
     <div class="header">
 <div>
-        <a class="book-name" href="${pathHelper.page('/')}">Eventyrsamling</a>
+        <a class="book-name" href="${pathHelper.page("/")}">Eventyrsamling</a>
 </div>
 <div>
         <a class="book-name" href="${pathHelper.page(`/${book.slug}/`)}">${safeString(book.name)}</a>
@@ -17,5 +17,6 @@ export function headerGenerator(book: BookData, pathHelper: PathHelper) {
 ${joinAuthors(book.author)} -
 ${book.published}
     </div>
+</div>
 `;
 }
