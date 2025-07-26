@@ -125,7 +125,7 @@ async function loadBook(
       markdownURI,
       title,
       dir: chapterDir,
-      order: order + 1,
+      order,
     });
   }
 

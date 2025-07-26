@@ -35,7 +35,9 @@ export function generateChapterHTML(
   const chapters = book.chapters;
 
   const currentIndex = chapter.order;
-  const prevChapter = currentIndex > 1 ? chapters[currentIndex - 1] : undefined;
+
+  const prevChapter =
+    currentIndex > 0 ? chapters[chapter.order - 1] : undefined;
 
   const nextChapter =
     currentIndex < chapters.length - 1
