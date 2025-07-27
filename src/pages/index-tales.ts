@@ -9,7 +9,7 @@ export function generateMainIndexHTML(
   books: BookData[],
   pathHelper: PathHelper,
 ): string {
-  const head = htmlHead(`Eventyr`, pathHelper);
+  const headData = htmlHead(`Eventyr`, pathHelper);
   const tales = books
     .map((book) => book.chapters)
     .flat()
@@ -33,8 +33,8 @@ export function generateMainIndexHTML(
     )
     .join("");
 
-  return templateEngine.render("main-index.html", {
-    head,
+  return templateEngine.renderWithLayout("main-index.html", {
+    ...headData,
     bookCount: books.length,
     bookCountText: books.length !== 1 ? "bøker" : "bok",
     bookCountPlural: books.length !== 1 ? "e" : "",

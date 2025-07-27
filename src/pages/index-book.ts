@@ -9,7 +9,7 @@ export function generateBookIndexHTML(
   book: BookData,
   pathHelper: PathHelper,
 ): string {
-  const head = htmlHead(`${book.name}`, pathHelper);
+  const headData = htmlHead(`${book.name}`, pathHelper);
 
   const chaptersHtml = Object.values(book.chapters)
     .map(
@@ -21,8 +21,8 @@ export function generateBookIndexHTML(
     )
     .join("");
 
-  return templateEngine.render("book-index.html", {
-    head,
+  return templateEngine.renderWithLayout("book-index.html", {
+    ...headData,
     bookName: book.name.replace(/[-_]/g, " "),
     chapterCount: book.chapters.length,
     chapterCountPlural: Object.values(book.chapters).length !== 1 ? "s" : "",

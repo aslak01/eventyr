@@ -10,7 +10,7 @@ export function generateBooksIndexHTML(
   optimizedImages: Map<string, OptimizedImage>,
   pathHelper: PathHelper,
 ): string {
-  const head = htmlHead(`Boksamling - Eventyr`, pathHelper);
+  const headData = htmlHead(`Boksamling - Eventyr`, pathHelper);
 
   const booksHtml = books
     .map((book) => {
@@ -47,8 +47,8 @@ export function generateBooksIndexHTML(
     })
     .join("");
 
-  return templateEngine.render("books-index.html", {
-    head,
+  return templateEngine.renderWithLayout("books-index.html", {
+    ...headData,
     bookCount: books.length,
     bookCountText: books.length !== 1 ? "bøker" : "bok",
     bookCountPlural: books.length !== 1 ? "e" : "",

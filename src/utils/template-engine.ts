@@ -5,42 +5,73 @@ export interface TemplateContext {
   [key: string]: any;
 }
 
-export class TemplateEngine {
-  private templateCache = new Map<string, string>();
-  private templatesDir: string;
-
-  constructor(templatesDir: string = "src/templates") {
-    this.templatesDir = templatesDir;
-  }
-
-  private loadTemplate(templateName: string): string {
-    if (!this.templateCache.has(templateName)) {
-      const templatePath = join(this.templatesDir, templateName);
-      const template = readFileSync(templatePath, "utf-8");
-      this.templateCache.set(templateName, template);
-    }
-    return this.templateCache.get(templateName)!;
-  }
-
-  render(templateName: string, context: TemplateContext = {}): string {
-    const template = this.loadTemplate(templateName);
-    return this.interpolate(template, context);
-  }
-
-  private interpolate(template: string, context: TemplateContext): string {
-    return template.replace(/\{\{(\w+(?:\.\w+)*)\}\}/g, (match, path) => {
-      const value = this.getNestedProperty(context, path);
-      return value !== undefined ? String(value) : match;
-    });
-  }
-
-  private getNestedProperty(obj: any, path: string): any {
-    return path.split(".").reduce((current, prop) => current?.[prop], obj);
-  }
-
-  clearCache(): void {
-    this.templateCache.clear();
-  }
+export interface TemplateEngine {
+  render: (templateName: string, context?: TemplateContext) => string;
+  renderWithLayout: (
+    templateName: string,
+    context?: TemplateContext,
+    layoutName?: string,
+  ) => string;
+  clearCache: () => void;
 }
 
-export const templateEngine = new TemplateEngine();
+// Helper function to get nested properties
+const getNestedProperty = (obj: any, path: string): any =>
+  path.split(".").reduce((current, prop) => current?.[prop], obj);
+
+// Template interpolation function
+const interpolate = (template: string, context: TemplateContext): string =>
+  template.replace(/\{\{(\w+(?:\.\w+)*)\}\}/g, (match, path) => {
+    const value = getNestedProperty(context, path);
+    return value !== undefined ? String(value) : match;
+  });
+
+// Factory function that creates a template engine
+export const createTemplateEngine = (
+  templatesDir: string = "src/templates",
+): TemplateEngine => {
+  const templateCache = new Map<string, string>();
+
+  const loadTemplate = (templateName: string): string => {
+    if (!templateCache.has(templateName)) {
+      const templatePath = join(templatesDir, templateName);
+      const template = readFileSync(templatePath, "utf-8");
+      templateCache.set(templateName, template);
+    }
+    return templateCache.get(templateName)!;
+  };
+
+  const render = (
+    templateName: string,
+    context: TemplateContext = {},
+  ): string => {
+    const template = loadTemplate(templateName);
+    return interpolate(template, context);
+  };
+
+  const renderWithLayout = (
+    templateName: string,
+    context: TemplateContext = {},
+    layoutName: string = "layout.html",
+  ): string => {
+    const contentTemplate = loadTemplate(templateName);
+    const renderedContent = interpolate(contentTemplate, context);
+
+    const layoutTemplate = loadTemplate(layoutName);
+    const layoutContext = { ...context, content: renderedContent };
+    return interpolate(layoutTemplate, layoutContext);
+  };
+
+  const clearCache = (): void => {
+    templateCache.clear();
+  };
+
+  return {
+    render,
+    renderWithLayout,
+    clearCache,
+  };
+};
+
+// Default instance
+export const templateEngine = createTemplateEngine();

@@ -1,5 +1,4 @@
 import type { createPathHelper } from "../utils/paths";
-import { templateEngine } from "../utils/template-engine";
 
 type PathHelper = ReturnType<typeof createPathHelper>;
 
@@ -10,14 +9,14 @@ export function htmlHead(
   title: string,
   pathHelper: PathHelper,
   cssFiles?: string[],
-): string {
+): { title: string; mainCssPath: string; additionalCss: string } {
   const additionalCss = cssFiles
     ? cssFiles.map((file) => cssFileLink(file, pathHelper)).join("")
     : "";
 
-  return templateEngine.render("html-head.html", {
+  return {
     title,
     mainCssPath: pathHelper.asset("/css/main.css"),
     additionalCss,
-  });
+  };
 }

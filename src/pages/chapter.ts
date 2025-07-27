@@ -45,7 +45,7 @@ export function generateChapterHTML(
       ? book.chapters[currentIndex + 1]
       : undefined;
 
-  const head = htmlHead(
+  const headData = htmlHead(
     `${safeString(chapter.title)} - ${safeString(book.name)}`,
     pathHelper,
   );
@@ -59,8 +59,8 @@ export function generateChapterHTML(
     ? `<a href="${pathHelper.page(`/${book.slug}/${nextChapter.path}.html`)}" class="nav-link">${nextChapter.title.replace(/"/g, "&quot;")} →</a>`
     : "<span></span>";
 
-  return templateEngine.render("chapter.html", {
-    head,
+  return templateEngine.renderWithLayout("chapter.html", {
+    ...headData,
     header,
     htmlContent,
     prevChapterLink,
