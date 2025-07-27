@@ -71,7 +71,8 @@ watchPaths.forEach((path) => {
         filename.endsWith(".ts") ||
         filename.endsWith(".css") ||
         filename.endsWith(".md") ||
-        filename.endsWith(".json");
+        filename.endsWith(".json") ||
+        filename.endsWith(".html");
 
       console.log(
         `📂 File event: ${filename} (${eventType}) - Will rebuild: ${shouldRebuild}`,
@@ -221,5 +222,5 @@ const server = serve({
 
 console.log(`🌐 Development server running on http://localhost:${PORT}`);
 console.log(
-  `🔄 Live reload enabled - changes to .ts, .css, .md, and .json files will trigger rebuilds`,
+  `🔄 Live reload enabled - changes to .ts, .css, .md, .json, and .html files will trigger rebuilds`,
 );

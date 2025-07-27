@@ -3,6 +3,3 @@
 
 bun.lock
 bun.lockb
-
-# Template files contain template syntax that Prettier doesn't understand
-src/templates/

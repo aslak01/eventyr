@@ -1,4 +1,6 @@
 import { htmlHead } from "../components/htmlHead";
+import { siteHeaderGenerator } from "../components/siteHeader";
+import { siteFooterGenerator } from "../components/siteFooter";
 import type { BookData, OptimizedImage } from "../types/types";
 import type { createPathHelper } from "../utils/paths";
 import { templateEngine } from "../utils/template-engine";
@@ -47,8 +49,13 @@ export function generateBooksIndexHTML(
     })
     .join("");
 
+  const siteHeader = siteHeaderGenerator(pathHelper);
+  const siteFooter = siteFooterGenerator(pathHelper);
+
   return templateEngine.renderWithLayout("books-index.html", {
     ...headData,
+    siteHeader,
+    siteFooter,
     bookCount: books.length,
     bookCountText: books.length !== 1 ? "bøker" : "bok",
     bookCountPlural: books.length !== 1 ? "e" : "",

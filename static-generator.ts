@@ -1,4 +1,3 @@
-import { marked } from "marked";
 import { join } from "path";
 import { mkdir, writeFile } from "fs/promises";
 
@@ -9,14 +8,11 @@ import { generateMainIndexHTML } from "./src/pages/index-tales.ts";
 import { generateBooksIndexHTML } from "./src/pages/index-books.ts";
 import { generateBookIndexHTML } from "./src/pages/index-book.ts";
 import { generateChapterHTML } from "./src/pages/chapter.ts";
+import { generateAboutHTML } from "./src/pages/about.ts";
 import { processCSS } from "./src/css/process.ts";
+import { processJS } from "./src/js/process.ts";
 import { loadBooks } from "./load-books.ts";
 import { createPathHelper } from "./src/utils/paths.ts";
-
-marked.setOptions({
-  breaks: true,
-  gfm: true,
-});
 
 const defaultConfig: GeneratorConfig = {
   booksDir: "./src/lib/books",
@@ -45,6 +41,7 @@ async function generateSite(config: GeneratorConfig): Promise<void> {
   }
 
   await processCSS(config);
+  await processJS(config);
 
   const pathHelper = createPathHelper(config.basePath);
   const optimizedImages = await optimizeImages(books, config, pathHelper);
@@ -61,6 +58,11 @@ async function generateSite(config: GeneratorConfig): Promise<void> {
   await mkdir(join(config.distDir, "books"), { recursive: true });
   await writeFile(join(config.distDir, "books", "index.html"), booksIndexHTML);
   console.log("📄 Generated books index.html");
+
+  const aboutHTML = generateAboutHTML(pathHelper);
+  await mkdir(join(config.distDir, "om"), { recursive: true });
+  await writeFile(join(config.distDir, "om", "index.html"), aboutHTML);
+  console.log("📄 Generated om/index.html");
 
   for (const book of books) {
     const bookDir = join(config.distDir, book.slug);

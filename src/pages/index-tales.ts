@@ -1,4 +1,7 @@
 import { htmlHead } from "../components/htmlHead";
+import { siteHeaderGenerator } from "../components/siteHeader";
+import { siteFooterGenerator } from "../components/siteFooter";
+import { sortableTableGenerator } from "../components/sortableTable";
 import type { BookData } from "../types/types";
 import type { createPathHelper } from "../utils/paths";
 import { templateEngine } from "../utils/template-engine";
@@ -9,15 +12,28 @@ export function generateMainIndexHTML(
   books: BookData[],
   pathHelper: PathHelper,
 ): string {
-  const headData = htmlHead(`Eventyr`, pathHelper);
+  const headData = htmlHead(
+    `Eventyr`,
+    pathHelper,
+    ["sortable"],
+    ["sortable.min"],
+  );
   const tales = books
     .map((book) => book.chapters)
     .flat()
     .sort((a, b) => a.wordCount - b.wordCount);
 
-  const talesHtml = tales
-    .map(
-      (tale) => `
+  const columns = [
+    { title: "Tittel" },
+    { title: "Bok" },
+    { title: "Ord" }
+  ];
+
+  const talesHtml = sortableTableGenerator(
+    columns,
+    tales,
+    pathHelper,
+    (tale) => `
 <tr>
 <td>
 <a href="${pathHelper.page(tale.htmlPath)}">
@@ -29,12 +45,16 @@ export function generateMainIndexHTML(
 </td>
 <td>${tale.wordCount}</td>
 </tr>
-`,
-    )
-    .join("");
+`
+  );
+
+  const siteHeader = siteHeaderGenerator(pathHelper);
+  const siteFooter = siteFooterGenerator(pathHelper);
 
   return templateEngine.renderWithLayout("main-index.html", {
     ...headData,
+    siteHeader,
+    siteFooter,
     bookCount: books.length,
     bookCountText: books.length !== 1 ? "bøker" : "bok",
     bookCountPlural: books.length !== 1 ? "e" : "",

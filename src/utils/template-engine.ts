@@ -15,11 +15,9 @@ export interface TemplateEngine {
   clearCache: () => void;
 }
 
-// Helper function to get nested properties
 const getNestedProperty = (obj: any, path: string): any =>
   path.split(".").reduce((current, prop) => current?.[prop], obj);
 
-// Template interpolation function
 const interpolate = (template: string, context: TemplateContext): string =>
   template.replace(/\{\{(\w+(?:\.\w+)*)\}\}/g, (match, path) => {
     const value = getNestedProperty(context, path);
@@ -73,5 +71,4 @@ export const createTemplateEngine = (
   };
 };
 
-// Default instance
 export const templateEngine = createTemplateEngine();

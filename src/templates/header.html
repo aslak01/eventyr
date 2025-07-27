@@ -1,9 +1,6 @@
-<div class="header">
-  <div>
-    <a class="book-name" href="{{homeUrl}}">Eventyrsamling</a>
-  </div>
-  <div>
-    <a class="book-name" href="{{bookUrl}}">{{bookName}}</a>
-  </div>
-  <div>{{author}} - {{published}}</div>
-</div>
+<nav class="breadcrumb">
+  <a href="{{booksUrl}}" class="breadcrumb-link">Bøker</a>
+  <span class="breadcrumb-separator">></span>
+  <a href="{{bookUrl}}" class="breadcrumb-link">{{bookName}}</a>
+  {{chapterBreadcrumb}}
+</nav>

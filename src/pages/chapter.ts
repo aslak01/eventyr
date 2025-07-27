@@ -1,10 +1,13 @@
-import { marked } from "marked";
+import { Marked } from "marked";
+import markedFootnote from "marked-footnote";
 
 import type { BookData, Chapter, OptimizedImage } from "../types/types";
 import type { createPathHelper } from "../utils/paths";
 
 import { processMarkdownImages } from "../image_processing/image";
 import { htmlHead } from "../components/htmlHead";
+import { siteHeaderGenerator } from "../components/siteHeader";
+import { siteFooterGenerator } from "../components/siteFooter";
 import { safeString } from "../utils/strings";
 import { headerGenerator } from "../components/header";
 import { templateEngine } from "../utils/template-engine";
@@ -32,7 +35,13 @@ export function generateChapterHTML(
     pathHelper,
   );
 
-  const htmlContent = marked(processedContent);
+  const htmlContent = new Marked()
+    .use(markedFootnote({
+      description: 'Fotnoter',
+      backRefLabel: 'Tilbake til referanse {0}'
+    }))
+    .parse(processedContent);
+
   const chapters = book.chapters;
 
   const currentIndex = chapter.order;
@@ -49,7 +58,9 @@ export function generateChapterHTML(
     `${safeString(chapter.title)} - ${safeString(book.name)}`,
     pathHelper,
   );
-  const header = headerGenerator(book, pathHelper);
+  const header = headerGenerator(book, pathHelper, chapter);
+  const siteHeader = siteHeaderGenerator(pathHelper);
+  const siteFooter = siteFooterGenerator(pathHelper);
 
   const prevChapterLink = prevChapter
     ? `<a href="${pathHelper.page(`/${book.slug}/${prevChapter.path}.html`)}" class="nav-link">← ${prevChapter.title.replace(/"/g, "&quot;")}</a>`
@@ -61,6 +72,8 @@ export function generateChapterHTML(
 
   return templateEngine.renderWithLayout("chapter.html", {
     ...headData,
+    siteHeader,
+    siteFooter,
     header,
     htmlContent,
     prevChapterLink,
