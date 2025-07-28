@@ -7,7 +7,7 @@ import { templateEngine } from "../utils/template-engine";
 type PathHelper = ReturnType<typeof createPathHelper>;
 
 export function generateAboutHTML(pathHelper: PathHelper): string {
-  const headData = htmlHead("Om Eventyrsamlingen", pathHelper);
+  const headData = htmlHead("Om eventyrsamlingen", pathHelper);
   const siteHeader = siteHeaderGenerator(pathHelper);
   const siteFooter = siteFooterGenerator(pathHelper);
 
@@ -17,3 +17,4 @@ export function generateAboutHTML(pathHelper: PathHelper): string {
     siteFooter,
   });
 }
+
