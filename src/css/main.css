@@ -51,10 +51,7 @@ body {
   font-family:
     Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans", Arial,
     sans-serif;
-  /* max-width: 800px; */
-  /* color-scheme: light dark; */
   margin: 0 auto;
-  /* padding: 2rem; */
   line-height: 1.6;
   color: var(--text);
   background-color: var(--bg);
@@ -66,6 +63,15 @@ header nav {
   max-width: 800px;
   margin: 0 auto;
   padding: 2ch;
+}
+
+@media print {
+  header,
+  footer,
+  main .breadcrumb,
+  main .chapter-links {
+    display: none;
+  }
 }
 
 .books-grid {
