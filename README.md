@@ -1,6 +1,6 @@
 # eventyr
 
-Norwegian fairy tale collection, presenting tales that are no longer protected by copyright.
+Norwegian fairy tale collection, composed of tales from collections that are no longer protected by copyright, collected from Nasjonalbiblioteket.
 
 ```bash
 bun install && bun run dev
