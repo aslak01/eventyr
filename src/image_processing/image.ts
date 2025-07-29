@@ -323,9 +323,19 @@ async function needsProcessing(
 async function checkFileExists(filePath: string): Promise<boolean> {
   try {
     // Convert web path back to filesystem path for checking
-    // Remove base path and prepend dist directory
-    const cleanPath = filePath.replace(/^\/[^/]*\//, ''); // Remove base path like /eventyr/
-    const fsPath = join('./dist', cleanPath);
+    // The filePath comes from cache and starts with /images/ or /eventyr/images/
+    let fsPath: string;
+    if (filePath.startsWith('/images/')) {
+      // Local development path: /images/book/file.webp -> dist/images/book/file.webp
+      fsPath = join('./dist', filePath);
+    } else if (filePath.includes('/images/')) {
+      // Production path: /eventyr/images/book/file.webp -> dist/images/book/file.webp
+      const imagePart = filePath.substring(filePath.indexOf('/images/'));
+      fsPath = join('./dist', imagePart);
+    } else {
+      return false;
+    }
+    
     await stat(fsPath);
     return true;
   } catch {
