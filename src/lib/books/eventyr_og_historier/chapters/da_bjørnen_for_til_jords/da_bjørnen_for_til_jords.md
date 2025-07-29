@@ -1,6 +1,8 @@
-# Da bjørnen for til jords
+---
+subtitle: "En regle"
+---
 
-_(En regel.)_
+# Da bjørnen for til jords
 
 Det var stor sorg i skogen. For bjørnen var død, og det er ikke greit, må vite, å miste landets fader. Og skogen strødde granbar, og kråker og korp kledde seg i svart, i trærne suste det, i ur og fjellkløvter ulte det sårt; for i dag var gravølets dag.
 

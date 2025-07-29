@@ -1,6 +1,8 @@
-# Sankthansdans
+---
+subtitle: "En regle"
+---
 
-_(En regle)_
+# Sankthansdans
 
 Først kom en ørn  
 som hoppet på to,  

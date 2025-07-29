@@ -1,6 +1,8 @@
-# Spirrevipp og Spurrevupp
+---
+subtitle: "En regle"
+---
 
-_(En regle)_
+# Spirrevipp og Spurrevupp
 
 "Pipp!" - det var knisterende kaldt på gården.
 

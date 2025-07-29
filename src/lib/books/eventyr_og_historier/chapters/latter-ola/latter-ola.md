@@ -1,6 +1,8 @@
-# Latter-Ola
+---
+subtitle: "En historie"
+---
 
-_(En historie.)_
+# Latter-Ola
 
 Det var en gang et par folk, som bodde for seg selv i en liten hytte ved allmannveien.
 
