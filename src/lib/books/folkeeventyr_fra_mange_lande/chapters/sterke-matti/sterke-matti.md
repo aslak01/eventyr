@@ -1,6 +1,8 @@
-# Sterke-Matti
+---
+subtitle: "Finlandsk eventyr"
+---
 
-_(Finlandsk eventyr)_
+# Sterke-Matti
 
 Det var engang en herremann som var så rik at han ikke visste hvor han skulle gjøre av alle pengene sine; men han var så gjerrig at om han ga ut en skilling, ville han straks ha en daler igjen. Pengene sine gjemte han i en stor kiste med syv hengelåser for, og om natten gikk han selv utenfor huset og gjødde som en stor bandhund, for han hadde ikke råd til å holde hund, må vite.
 

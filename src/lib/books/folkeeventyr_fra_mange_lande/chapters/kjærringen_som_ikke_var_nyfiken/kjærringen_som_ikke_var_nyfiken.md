@@ -1,6 +1,8 @@
-# Kjerringen som ikke var nyskjerrig
+---
+subtitle: "Fransk eventyr"
+---
 
-_(Fransk eventyr)_
+# Kjerringen som ikke var nyskjerrig
 
 Det var engang en konge som var ute på jakt. Da han var kommet et stykke inn i skogen, kom han på villstrå, og mens han gikk og lette etter veien, så fikk han høre noen som stod og snakket sammen bak noen busker. Kongen fikk lyst til å lytte etter hva det var de snakket om, og så fikk han høre at det var en mann og en kjerring som holdt på å hugge kvisteved.
 
@@ -21,4 +23,3 @@ Mannen syntes det var riktig leit da han så kjerringen gråt så sårt, for han
 I det samme kom kongen inn, og spurte hvor det var blitt av musa som var under sølvlokket. Så måtte da mannen fortelle hvordan det var gått til: kona hadde vært så nyskjerrig, hun måtte da endelig smake på det som var under sølvlokket, og mannen syntes slik synd i henne da hun ga seg til å gråte, så han kunne ikke annet enn gjøre henne til lags, så nødig han ville.
 
 Da minnet kongen dem om det de hadde sagt ute i skogen, og mente det var ikke verd å klage på Adam og Eva når de ikke var et hår bedre selv. Nå kunne de til straff gå dit de kom fra, sa han. Og lenger var de da ikke i paradis, de heller.
-

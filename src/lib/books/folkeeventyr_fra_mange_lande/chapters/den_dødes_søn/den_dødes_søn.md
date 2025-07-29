@@ -1,6 +1,8 @@
-# Den dødes sønn
+---
+subtitle: "Et russisk eventyr"
+---
 
-_(Et russisk eventyr)_
+# Den dødes sønn
 
 Ved Lena-elven i Sibir bodde der en gang en russisk kvinne med sin sønn. Men hun døde da gutten var liten, og barnet ble da tatt av en fattig bonde som bodde hos en rik herre. Denne bonden hadde selv mange barn, og den dødes sønn fikk navnet "den dødes sønn", som de andre kalte ham.
 
