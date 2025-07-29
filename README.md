@@ -5,5 +5,3 @@ Norwegian fairy tale collection, composed of tales from collections that are no 
 ```bash
 bun install && bun run dev
 ```
-
-.
