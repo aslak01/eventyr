@@ -262,6 +262,8 @@ async function loadImageCache(config: GeneratorConfig): Promise<ImageCache> {
   const cacheFile = join(config.distDir, ".image-cache.json");
 
   try {
+    // Ensure dist directory exists before trying to read cache
+    await mkdir(config.distDir, { recursive: true });
     const cacheContent = await Bun.file(cacheFile).text();
     return JSON.parse(cacheContent);
   } catch {
@@ -294,9 +296,39 @@ async function needsProcessing(
       return true;
     }
 
+    // Verify cached files still exist (important for CI environments)
+    const cachedData = cache[cacheKey];
+    if (cachedData.webpPath || cachedData.avifPath) {
+      // Check if at least one of the cached image files exists
+      const hasValidCache = await Promise.all([
+        cachedData.webpPath ? checkFileExists(cachedData.webpPath) : Promise.resolve(false),
+        cachedData.avifPath ? checkFileExists(cachedData.avifPath) : Promise.resolve(false),
+        ...cachedData.sizes.map(size => checkFileExists(size.path))
+      ]).then(results => results.some(exists => exists));
+
+      if (!hasValidCache) {
+        console.log(`  🔄 Cache invalid for ${basename(imagePath)}, regenerating...`);
+        return true;
+      }
+    }
+
     return false;
   } catch {
     // If we can't stat the file, assume it needs processing
     return true;
+  }
+}
+
+// Helper function to check if a file exists
+async function checkFileExists(filePath: string): Promise<boolean> {
+  try {
+    // Convert web path back to filesystem path for checking
+    // Remove base path and prepend dist directory
+    const cleanPath = filePath.replace(/^\/[^/]*\//, ''); // Remove base path like /eventyr/
+    const fsPath = join('./dist', cleanPath);
+    await stat(fsPath);
+    return true;
+  } catch {
+    return false;
   }
 }

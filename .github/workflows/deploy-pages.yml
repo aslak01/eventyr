@@ -29,6 +29,16 @@ jobs:
       - name: Install dependencies
         run: bun install
 
+      - name: Cache optimized images
+        uses: actions/cache@v4
+        with:
+          path: |
+            dist/images
+            dist/.image-cache.json
+          key: image-cache-${{ hashFiles('src/lib/books/**/*.{png,jpg,jpeg,gif,svg,webp}') }}
+          restore-keys: |
+            image-cache-
+
       - name: Build site
         run: bun run build
         env:
