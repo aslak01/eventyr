@@ -23,6 +23,7 @@ export async function optimizeImages(
   let cacheUpdated = false;
 
   console.log("🖼️  Optimizing images...");
+  console.log(`📊 Cache loaded with ${Object.keys(cache).length} entries`);
 
   for (const book of books) {
     const imageFiles = await findImages(book.path);
@@ -300,13 +301,21 @@ async function needsProcessing(
     const cachedData = cache[cacheKey];
     if (cachedData.webpPath || cachedData.avifPath) {
       // Check if at least one of the cached image files exists
-      const hasValidCache = await Promise.all([
+      const fileChecks = [
         cachedData.webpPath ? checkFileExists(cachedData.webpPath) : Promise.resolve(false),
         cachedData.avifPath ? checkFileExists(cachedData.avifPath) : Promise.resolve(false),
         ...cachedData.sizes.map(size => checkFileExists(size.path))
-      ]).then(results => results.some(exists => exists));
+      ];
+      
+      const results = await Promise.all(fileChecks);
+      const hasValidCache = results.some(exists => exists);
 
       if (!hasValidCache) {
+        // Debug info for CI troubleshooting
+        if (process.env.NODE_ENV === 'production' || process.env.CI) {
+          console.log(`  🔍 Debug ${basename(imagePath)}: webp=${cachedData.webpPath}, avif=${cachedData.avifPath}`);
+          console.log(`  🔍 File check results: ${results}`);
+        }
         console.log(`  🔄 Cache invalid for ${basename(imagePath)}, regenerating...`);
         return true;
       }

@@ -29,8 +29,12 @@ jobs:
       - name: Install dependencies
         run: bun install
 
+      - name: Create dist directory
+        run: mkdir -p dist
+
       - name: Cache optimized images
         uses: actions/cache@v4
+        id: image-cache
         with:
           path: |
             dist/images
@@ -38,6 +42,23 @@ jobs:
           key: image-cache-${{ hashFiles('src/lib/books/**/*.{png,jpg,jpeg,gif,svg,webp}') }}
           restore-keys: |
             image-cache-
+
+      - name: Cache debug info
+        run: |
+          echo "Cache hit: ${{ steps.image-cache.outputs.cache-hit }}"
+          echo "Cache key: image-cache-${{ hashFiles('src/lib/books/**/*.{png,jpg,jpeg,gif,svg,webp}') }}"
+          if [ -f dist/.image-cache.json ]; then
+            echo "Cache file exists, size: $(wc -l < dist/.image-cache.json) lines"
+            echo "Sample cache entries:"
+            head -5 dist/.image-cache.json
+          else
+            echo "No cache file found"
+          fi
+          if [ -d dist/images ]; then
+            echo "Images directory exists, file count: $(find dist/images -name '*.webp' | wc -l)"
+          else
+            echo "No images directory found"
+          fi
 
       - name: Build site
         run: bun run build
