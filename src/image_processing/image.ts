@@ -14,15 +14,21 @@ import { writeFile } from "fs/promises";
 
 type PathHelper = ReturnType<typeof createPathHelper>;
 
-// Get Git hash for a file to use as cache key
+// Get Git hash for the last commit that modified this specific file
 function getGitHash(filePath: string): string | null {
   try {
+    // Use git log to get the last commit hash that modified this specific file
+    // This works consistently across local and CI environments
     const hash = execSync(`git log -1 --format="%H" -- "${filePath}"`, { 
       encoding: 'utf8',
-      cwd: process.cwd() 
+      cwd: process.cwd(),
+      timeout: 5000 // Add timeout to prevent hanging
     }).trim();
     return hash || null;
-  } catch {
+  } catch (error) {
+    if (process.env.CI) {
+      console.log(`  ⚠️ Git hash failed for ${basename(filePath)}: ${error}`);
+    }
     return null;
   }
 }
@@ -331,6 +337,18 @@ async function needsProcessing(
       
       if (process.env.CI) {
         console.log(`  🔍 Git hash check: cached=${cachedGitHash}, current=${currentGitHash}`);
+        // Add more debug info for the first few images
+        if (cachedGitHash && currentGitHash && cachedGitHash !== currentGitHash) {
+          console.log(`  🔍 Hash mismatch for ${basename(imagePath)} - investigating...`);
+          try {
+            const recentCommits = execSync(`git log --oneline -3 -- "${imagePath}"`, { 
+              encoding: 'utf8', cwd: process.cwd(), timeout: 3000 
+            }).trim();
+            console.log(`  📝 Recent commits for this file:\n${recentCommits}`);
+          } catch (e) {
+            console.log(`  ❌ Could not get git log: ${e}`);
+          }
+        }
       }
       
       // If we have git hashes and they match, file hasn't changed
