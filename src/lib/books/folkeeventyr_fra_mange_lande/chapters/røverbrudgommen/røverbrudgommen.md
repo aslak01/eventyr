@@ -1,6 +1,8 @@
-# Røverbrudgommen
+---
+subtitle: "Tysk eventyr"
+---
 
-*(Tysk eventyr)*
+# Røverbrudgommen
 
 Det var en gang en møller, som hadde en vakker datter, og da hun var blitt voksen pike, ville han gjerne ha henne vel forsørget og godt gift; derfor sa han til henne: «Kommer her bare en høvelig frier og vil ha deg, så skal jeg ikke vise ham bort.»
 

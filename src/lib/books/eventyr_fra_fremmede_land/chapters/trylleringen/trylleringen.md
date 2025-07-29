@@ -1,6 +1,8 @@
-# Trylleringen
+---
+subtitle: "ægyptisk eventyr"
+---
 
-_(ægyptisk eventyr)_
+# Trylleringen
 
 Jeg skulle begynne med det samme arbeidet. Men det var skjebnens vilje at jeg uten arbeid skulle få tak i en stor skatt, men den ble også årsaken til den ulykke som har fulgt meg gjennom hele livet.
 

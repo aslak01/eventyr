@@ -1,6 +1,8 @@
-# Kong Trosteskjæg
+---
+subtitle: "Tysk eventyr"
+---
 
-*(Tysk eventyr)*
+# Kong Trosteskjæg
 
 En konge hadde en datter som var så vakker, men også så stolt og overmodig, at ingen friere var god nok for henne. Hun viste bort den ene efter den andre, og gjorde dessuten nar av dem alle sammen.
 

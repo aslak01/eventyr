@@ -1,6 +1,8 @@
-# Guldgjøk
+---
+subtitle: "Tatarisk eventyr"
+---
 
-_(Tatarisk eventyr)_
+# Guldgjøk
 
 I et telt bodde en gutt på ti år og en pike som var syv år gammel. De hadde verken far eller mor. De bodde alene i teltet; men de hadde en mengde hester og stor buskap. Gutten eide en hest som ikke hadde noe navn, og ikke hadde han noe selv heller.
 

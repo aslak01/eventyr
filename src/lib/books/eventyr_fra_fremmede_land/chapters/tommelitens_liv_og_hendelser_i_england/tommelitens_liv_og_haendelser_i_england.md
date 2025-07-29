@@ -1,6 +1,8 @@
-# Tommelitens liv og hendelser i England
+---
+subtitle: "Engelsk eventyr"
+---
 
-_(Engelsk eventyr)_
+# Tommelitens liv og hendelser i England
 
 I kong Arthurs tid levde der i England en mektig trollmann som het Merlin. En gang han var ute og reiste, kom han til en bondegård. Han banket på og ba om å få noe å drikke. Bondekonen tok godt imot ham og ga ham både melk og brød. Det smakte godt, for han var sulten etter den lange reisen og tørst i varmen. Mens han spiste, satt han og så seg om, og han skjønte straks at det måtte være noe i veien med mannen og konen; for de så så bedrøvet ut begge to, enda de hadde det så pent og ordentlig hos seg. Han spurte dem hva de sørget over, og de sa at det var fordi de ikke hadde noen barn. «Jeg skulle være så glad,» sa konen, «hvis jeg hadde en sønn, selv om han ikke var større enn tommelfingeren til far.» Merlin syntes det var et snurrig innfall av konen å ønske seg en sønn som ikke var større enn tommelfingeren til mannen; men da han alltid pleide å ta folk på ordet, så lovet han henne at hun skulle få det hun ønsket oppfylt. Med det samme han kom hjem, sendte han bud etter alfedronningen, og da hun kom, fortalte han henne om konen som var så bedrøvet fordi hun ingen barn hadde. Alfedronningen syntes synd på henne og mente det var best hun fikk det hun ønsket seg.
 

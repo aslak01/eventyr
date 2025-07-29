@@ -1,6 +1,8 @@
-# Trollmennene
+---
+subtitle: "samojedisk eventyr"
+---
 
-_(samojedisk eventyr)_
+# Trollmennene
 
 Det var engang en samojedisk by; der stod syv hundre telt. I et av dem trettet barna med hverandre, de lekte og trettet. Noen sa: «Vår tadibé (trollmann) kan trolle best.» Andre sa: «Nei, vår kan best.» Mens barna holdt på å trette, begynte tadibéene også å trette. De trettet og trettet, og hver av dem mente at han kunne trolle best. Til slutt var der en som sa: «Det er en riktig tadibé som kan trolle månen ned på flat hånd.» «Det kan ingen gjøre,» sa en annen. «Jo, det kan jeg,» sa den første. «Så vis oss at du kan det,» sa de andre. Tadibéen trollet månen ned på flat hånd. Der lå månen; men nå ble det så kaldt i teltet, at folk ikke kunne berge seg for kulde. De kastet det ene vedfanget etter det andre på varmen, og de tok to skinnpelser[^1] på; men frøs allikevel. De ba nå den tadibé som kunne trolle best om å sette månen opp på himmelen igjen, og det gjorde han. Men så begynte de å trette igjen. Den samme tadibé ville enda være like så god som ham som hadde trollet månen ned på flat hånd og satt den opp på himmelen igjen. Han sa: «Han er ingen trollmann, som ikke kan trolle solen ned på flat hånd.» «Kan du gjøre det, da?» spurte den andre. «Ja, det kan jeg,» sa han, og med det samme hadde han solen på flat hånd. Men nå ble det så varmt i teltet, at folk holdt på å dø av varme. Så ba de ham om å sette solen opp på himmelen igjen, og det gjorde han også. Nå sa han til den andre tadibé: «La oss gjøre oss til gjess og leve en stund på den måten.» Ja, det ville han. Så gjorde de seg til gjess og fløy langt, langt bort, like til Novaja Zemlja. Der bygget de seg hvert sitt telt; den som kunne trolle best gjorde sitt av klede; men den andre gjorde sitt av reinskaller.
 

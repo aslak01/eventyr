@@ -1,6 +1,8 @@
-# Aladdin og den vidunderlige lampe
+---
+subtitle: "Arabisk eventyr"
+---
 
-*(Arabisk eventyr)*
+# Aladdin og den vidunderlige lampe
 
 I Bagdad levde engang en skredder; han hadde en eneste sønn, som hette Aladdin. Det var en doven fyr, og han kunne vel trengt til bank både morgen, middag og aften; men da han ikke fikk det, så ble han dag for dag mer doven og uskikkelig. Støt og stadig rendte han på gaten, lekte seg eller sloss med gategutten og gjorde nar av gamle og skikkelige folk. Tilslutt syntes faren det var for galt at gutten gikk og slang således, og så ville han sette ham til et fast daglig arbeide. «Hør nå, Aladdin,» sa han til ham, «imorgen tar du fatt som læregutt i verkstedet hos meg, og nå råder jeg deg til å være flittig og skikkelig, for ellers skal du få smake alnen på rygstykkene dine.» Men Aladdin brydde seg ikke stort om denne advarsel; han løp atter ut til kameratene sine, og kom ikke hjem før sent på kveld. Da han ville ut igjen neste morgen, passet faren på ham. «Stopp nå, gutten min!» sa han. «Opp på bordet med deg og til å sy!» Så måtte Aladdin opp på skredderbordet, fikk nål og tråd og saks; for nå skulle han ta fatt på farens håndverk. Alnen hang ved siden av ham; men hver gang faren hadde et ærende dit, ble det smått med svingen.
 

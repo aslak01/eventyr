@@ -1,6 +1,8 @@
-# Piken i museskindskaapen
+---
+subtitle: "Dansk eventyr"
+---
 
-*(Dansk eventyr)*
+# Piken i museskindskaapen
 
 Det var engang en herremannsdatter som bodde sammen med sin far på en gård. Da krig brøt ut i landet, måtte faren dra av sted og kjempe for kongen. Før han reiste, sa han til datteren: «Jeg vet ikke om jeg kommer tilbake fra denne krigen. Men dersom jeg ikke er hjemme igjen om syv år, så er jeg død. Da må du grave deg ned i haugen bak gården og vente der til noen kommer og redder deg.»
 

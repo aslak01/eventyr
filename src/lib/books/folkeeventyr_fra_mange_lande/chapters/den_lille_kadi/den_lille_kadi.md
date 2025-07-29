@@ -1,6 +1,8 @@
-# Den lille kadi
+---
+subtitle: "Arabisk eventyr"
+---
 
-*(Arabisk eventyr)*
+# Den lille kadi
 
 Under Harun al Raschids styre levde i Bagdad en kjøpmann som hette Ali Kodja; han fikk i sinn å gjøre en sjelebotsferd til Mekka, til profeten Muhammeds grav. Han solgte sine varer og alt sitt eie, og for en del av de pengene han således fikk inn, kjøpte han i stedet alle slags kostelige ting, som han ville bytte bort på veien, i byer og landsbyer, mot andre handelsvarer. Da han hadde gjort sine innkjøp, hadde han enda igjen tusen sekkiner*) i rede penger; dem ville han ikke ta med på veien. Så kjøpte han seg en lerkrukke, og la sekkinerne ned i den, la syltede oliver**) oppå, og fylte således krukken helt opp til randen. Over krukken bant han et tørkle, gikk så inn til sin nabo, som han holdt for sin beste venn, og sa til ham: «Mustafa, jeg skal gjøre en lang reise; kunne du ikke være så god å gjemme denne krukken med oliver for meg, mens jeg er borte?» — «Jo, med glede, kjære venn,» svarte Mustafa; «sett bare krukken der i rommet under trappen, så står den godt og trygt.» Ali Kodja satte krukken fra seg på det sted som var vist ham, og dagen efter var han alt i følge med et stort reiselag på veien til Mekka.
 

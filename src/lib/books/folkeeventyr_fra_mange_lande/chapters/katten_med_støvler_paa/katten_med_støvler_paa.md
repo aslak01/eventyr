@@ -1,6 +1,8 @@
-# Katten med støvler på
+---
+subtitle: "Fransk eventyr"
+---
 
-*(Fransk eventyr)*
+# Katten med støvler på
 
 Det var engang en møller som hadde tre sønner; men da han døde, var det ikke annet etter ham enn møllen, et esel og en katt. Skiftet var snart gjort; der trengtes verken jut eller skriver til den ting, og hadde de hatt med det å gjøre, så hadde de vel tatt det meste av arven for sin del. Den eldste av sønnene fikk møllen, den nest eldste eselet, og den yngste fikk katten. Han som hadde fått katten var rent uttrøstelig. «Brødrene mine kan nok klare seg,» sa han, «bare de holder sammen; men hvordan skal det gå meg? Når jeg har ett opp katten, og gjort meg et par votter av skinnet, så blir det ikke annet for meg enn å sulte i hjel.»
 

@@ -1,6 +1,8 @@
-# Risen og veslegutten
+---
+subtitle: "Lappisk eventyr"
+---
 
-_(Lappisk eventyr)_
+# Risen og veslegutten
 
 En liten gutt gikk og gjette sauene. Så kom det en rise eller et stortroll og ville ha ham til tjenestegutt. Gutten lovet å være det. «Når du har drevet hjem sauene, kan du finne meg her!» sa risen. Da gutten hadde drevet sauene hjem og kom tilbake, la de av sted til risens hjem. På veien ble risen og gutten enige om at de burde ta med seg litt tørr rekeved hjem. Så fant de en bjørk. «Denne tenker jeg vi tar,» mente risen. «Den er noe liten, den,» sa gutten. Så gikk de et lite stykke lenger, så fant de en eik, en sterk eik, som vinden hadde blåst overende. «Denne tenker jeg vi tar,» sa gutten. «Den er noe stor den,» mente risen. «Å, bær du i toppen, så skal jeg selv bære i rotenden,» sa gutten og gav seg til å spikke et par lange, spisse trepinner. «Hva vil du med de pinnene?» spurte risen. «Stikke dem i øynene på deg, dersom du ser deg tilbake,» sa gutten. Da risen tok i topenden og begynte å dra, satte gutten seg på rotenden, og risen turde ikke se seg tilbake. De gikk et lite stykke vei, så sier risen: «Å, hå, det er tungt!» «Jeg er ikke det minste trett, jeg,» sier gutten. Da de begynte å nærme seg risehjemmet, sa gutten: «Du skal ikke kaste treet i marken, før jeg sier du skal kaste!» Da gutten sa fra, kastet risen treet i marken. «Å, hå, det var tungt,» sa han. «Nå skal jeg gi deg et råd,» sa risen til gutten. «Du skal ikke gå inn i svalen der.» Men risen var ikke før gått inn i huset, før gutten løp til svalen, og i svalen var der en hest, og hesten sa til gutten: «Vet du hva arbeide husbond gir deg i morgen?»
 

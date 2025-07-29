@@ -1,6 +1,8 @@
-# Liljejomfruen
+---
+subtitle: "Maygarisk eventyr"
+---
 
-_(Maygarisk eventyr)_
+# Liljejomfruen
 
 Det var en gang en konge som var så snill og god at alle folk i landet, både høye og lave, elsket ham, og de kunne gjerne ha gitt sitt liv for ham. Han hadde ingen kone, og folkene hans ba ham endelig å gifte seg, så de kunne få en like så god konge som ham selv etter ham. Kongen tenkte svært på hvordan han skulle få tak i en kone som riktig passet for ham.
 

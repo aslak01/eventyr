@@ -1,6 +1,8 @@
-# Sindbad Farmand
+---
+subtitle: "Arabisk eventyr"
+---
 
-*(Arabisk eventyr)*
+# Sindbad Farmand
 
 En arbeidsmann i Bagdad, som førte et usselt liv i slit og fattigdom, gikk en dag i solheten med en tung bør på ryggen. Det var jernvarer, og dem skulle han bære fra den ene enden av byen til den andre. Han hadde alt gått et langt stykke av veien, da han kom til et hus hvor vinduene stod åpne, og ut fra dem lød sang og strengespill. Det var nok samlet et lystig selskap derinde, og stek og annen god mat hadde de også, det kjente sjaueren på lukten; for han hadde en fin nese for slikt, Jussuf, enda han ikke fikk stort av det. Han blev stående utenfor huset, og da han var meget trett, satte han børa ned på jorden, gikk bort til en tjener som stod i døra, og spurte hvem det var som bodde i dette vakre huset, og som holdt så lystig gilde. Tjeneren så på ham med store øyne og spurte: «Er du så fremmed her i byen at du ikke kjenner herr Sindbad Farmand, som har seilt over all verdens hav og vunnet seg store rikdommer på sine ferdene?» Å jo, ham hadde nok Jussuf hørt tale om, sa han; for i byen fortalte folk de utroligste ting om denne manns hendelser. Så vendte sjaueren tilbake til børa si for å ta den på ryggen igjen; men som han stod med hånda på den, måtte han tenke på sin usle lott, og den tykte ham enda uslere, når han tenkte på hvor lykkelig Sindbad var. I sitt hjertes bitterhet ropte han høyt: «Hvor ulikt kårene faller for oss mennesker! Her må jeg gå og slite og møye meg og ha det vondt, dag ut og dag inn, for å få et usselt bygbrød til føde for meg og mine, mens denne Sindbad har fullt opp av alt som godt er, og kan leve hver dag i rikdom og velvære, uten å synet for morgendagen. Hvorfor skal jeg være dømt til armod og usseldom, og hva har han gjort for å få det så godt?» Mens han stod således og harmet seg selv, kom en tjener ut av huset, hilste vennlig på Jussuf og sa: «Min husbond ber om å få tale med deg. Vil du være så god å følge med, så skal jeg føre deg inn til ham.»
 

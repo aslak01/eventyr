@@ -1,6 +1,8 @@
-# Risen og veslegutten
+---
+subtitle: "Et finsk eventyr"
+---
 
-*(Et finsk eventyr)*
+# Risen og veslegutten
 
 Det var engang en liten gutt som gikk og gjette sauene. Så kom en rise og ville feste ham til dreng, og det gikk gutten inn på. «Når du har drevet hjem sauene,» sa risen, «så kan du møte meg her.» Gutten drev hjem sauene, og da han kom tilbake, fant han risen der, og så drog de avsted til risens hjem. På veien sa risen han ville ta med seg noe tørt ved til å koke kveldsmaten. Så fant de en bjørk. «Denne tenker jeg vi tar,» sa risen. «Den er noe liten,» mente gutten. Da de hadde gått et lite stykke til, fant de en stor eik som stormen hadde revet overende. «Denne tenker jeg vi tar,» sa gutten. «Den er noe stor,» mente risen. «Du kan jo bære i toppen,» sa gutten, «så skal jeg selv bære rotenden,» og så ga han seg til å kile på et par lange, spisse trepinner. «Hva vil du med de pinnene?» spurte risen. «Stikke dem i øynene på deg, om du ser deg tilbake,» svarte gutten. Da risen tok til å dra i topenden, satte gutten seg på rotenden; men risen turde ikke se seg tilbake. Da de var kommet et stykke på vei, stanset risen og pustet. «Huff, dette var tungt!» sa han. «Å stakkar!» sa gutten, «jeg er ikke det minste trøtt jeg.» Så drog de videre, og da de ikke hadde langt igjen til stedet hvor risen bodde, sa gutten til ham: «Nå skal du ikke slippe treet, før jeg sier til: så kaster vi det fra oss på én gang.» Da de kom frem, kastet risen treet av aksla, og pustet og pæste. «Huff, dette var tungt!» sa han.
 

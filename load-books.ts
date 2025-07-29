@@ -1,6 +1,7 @@
 import { join } from "path";
 import { readdir, stat } from "fs/promises";
 import { readFile } from "fs/promises";
+import { hookFrontmatter } from "marked-hook-frontmatter";
 
 import type {
   BookData,
@@ -140,17 +141,29 @@ async function loadBook(
     try {
       const fileContent = await Bun.file(markdownURI).text();
 
+      // Parse frontmatter
+      let frontmatter: any = {};
+      let content = fileContent;
+      
+      const frontmatterHook = hookFrontmatter((fm) => {
+        frontmatter = fm;
+      });
+      
+      // Process the markdown to extract frontmatter
+      content = frontmatterHook.preprocess?.(fileContent) || fileContent;
+
       const chapter: Chapter = {
         title,
-        content: fileContent,
+        content,
         path: dir,
         htmlPath: `/${bookData.slug}/${dir}.html`,
-        wordCount: getWordCount(fileContent),
+        wordCount: getWordCount(content),
         book: bookData.name,
         bookSlug: bookData.slug,
         order,
         pdfPath: pdfURI ? `/${bookData.slug}/${dir}.pdf` : undefined,
         pdfSourcePath: pdfURI,
+        subtitle: frontmatter.subtitle,
       };
 
       // // const titleMatch = fileContent.match(/^#\s+(.+)/m);

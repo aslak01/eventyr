@@ -9,6 +9,7 @@ export type Chapter = {
   order: number;
   pdfPath?: string;
   pdfSourcePath?: string;
+  subtitle?: string;
 };
 
 export type BookData = {

@@ -1,6 +1,8 @@
-# Ulvekhanens datter
+---
+subtitle: "tatarisk eventyr"
+---
 
-_(tatarisk eventyr)_
+# Ulvekhanens datter
 
 I en gammel strå-tekt otak[^1] levde en gutt på åtte år. Han var meget fattig og dårlig kledd. Han var både far- og morløs og bodde alene i sin hytte. Han eide ikke annet enn en hest som var tre år gammel, og han hadde ikke annet å gjøre enn å fore og passe den og kjæle for den. For å mette sin egen mave, satte han opp feller og snarer for harer og annet vildt. Annen føde hadde han ikke. Hesten, som gutten hadde, kunne spise så mye som en hel tabun.[^2] I ett døgn kunne den spise gresset av en hel steppe. En kveld da hesten hadde gresset fra seg, bandt han den til et tre og gikk selv inn i hytta. Der la han seg til å sove, og om morgenen med det samme sola var stått opp, gikk han ut igjen for å se til hesten, men han fant bare hodet, bena, halen og manen av den, det andre hadde ulven ett.
 

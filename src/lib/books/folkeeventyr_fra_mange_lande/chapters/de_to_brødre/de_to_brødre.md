@@ -1,6 +1,8 @@
-# De to brødre
+---
+subtitle: "Tysk eventyr"
+---
 
-*(Tysk eventyr)*
+# De to brødre
 
 Det var engang to brødre, en rik og en fattig. Den rike var gullsmed, og hadde et ondt sinn: den fattige levde av å binde koster, og han var et godt og ærlig menneske. Den fattige hadde to barn; de lignet hverandre som to dråper vann. Disse to barna gikk ut og inn hos sin rike farbror gullsmeden, og stundom fikk de noget av den mat som der ble levnet.
 

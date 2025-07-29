@@ -1,6 +1,8 @@
-# Trollmanden Piau-lu eller Dragetanden
+---
+subtitle: "Kinesisk eventyr"
+---
 
-_(Kinesisk eventyr)_
+# Trollmanden Piau-lu eller Dragetanden
 
 «Kom hit menn og kvinner fra Tsching-tau, kom og hør! Den usle og uverdige person som kjeder dere alle er den elendige trollmann som går under navnet Piau-lu. Alt hva dere ønsker kan han skaffe. Han har tryllemidler som kan gjøre ende på tretter, midler som kan gjøre den dummeste til en lærd mann, hvis en i deres familie er myrdet, så kjenner han det trylleord som kan oppdage morderen. Bare si hva som feiler dere, den usle trollmann som nå snakker til dere, kan oppfylle alle ønsker, for overalt kjenner de Piau-lu, han som eier den berømte og vidunderlige dragetann.»
 

@@ -1,6 +1,8 @@
-# Mannen som skjønte alleslags språk
+---
+subtitle: "Finsk eventyr"
+---
 
-_(Finsk eventyr)_
+# Mannen som skjønte alleslags språk
 
 Det var en gang en jeger. Han gikk til skogs og jaget hele dagen med de to hundene sine. Mens han jaget, var han kommet så langt bort at det tok til å mørkne før han kunne komme på hjemveien; derfor syntes han det var bedre å ligge i skogen om natten og gå hjemover når det tok til å lysne av dag. Så gjorde han opp varme ved foten av en høy gran og la seg til ro ved roten av den. Der var det både lunt og godt, og det varte ikke lenge før søvnen kom på ham; men rett som han skulle til å blunde, var det noen som snakket til ham. Oppe i treet som mannen hadde gjort varme under, var det en stor orm, og den streved nå med å komme ned av treet, og den ba mannen hjelpe seg, den var redd for varmen og turte ikke gi seg ned på marken alene. Jegeren syntes nok det var artig at en orm kunne snakke som et menneske; men han svarte allikevel og sa: «Jeg kan ikke slippe deg ned av grana; for du kunne spise meg opp.» «Nei, nei, jeg skal ikke ete deg, min kjære venn,» sa ormen og ba nokså vakkert; «men hvis du vil hjelpe meg ned, så skal jeg lære deg alle språk, fuglenes, trærnes og alle dyrenes tungemål.»
 

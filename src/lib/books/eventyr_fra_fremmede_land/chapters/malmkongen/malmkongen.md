@@ -1,6 +1,8 @@
-# Malmkongen
+---
+subtitle: "Slovakisk eventyr"
+---
 
-_(Slovakisk eventyr)_
+# Malmkongen
 
 Det var engang en enke. Hun hadde en datter som var så vakker. Moren var beskjeden, men datteren var stolt. Hun hadde mange friere, men hun syntes ikke at noen var gode nok, og jo mer umake de gjorde seg, desto stoltere ble hun. En månelys natt våknet moren, og da hun ikke fikk sove igjen, tok hun rosenkransen ned fra veggen og begynte å be for datteren; for hun var så bedrøvet over henne. Datteren lå ved siden av henne og sov. Moren satt og så på datteren, og gledet seg over hvor vakker hun var. Da lo datteren i søvne. «Jeg undres på hva for noe vakkert hun drømmer siden hun ler så,» tenkte moren, så ba hun «Fader vår» helt ut, hengte rosenkransen opp igjen og la seg til å sove. Om morgenen spurte hun datteren: «Kjære, si meg hva for noe vakkert du drømte i natt, du lo i søvne?» — «Hva jeg drømte, mor? Å, jeg drømte at der kom en og fridde til meg, han kjørte i en kobbervogn, og han ga meg en ring med edelstener i, de skinte som stjernene på himmelen. Og da jeg kom inn i kirken, så folk bare på jomfru Maria og meg.» — «Akk, barnet mitt, det er altfor stolte drømmer,» sa moren; men datteren gikk til arbeidet sitt og sang.
 

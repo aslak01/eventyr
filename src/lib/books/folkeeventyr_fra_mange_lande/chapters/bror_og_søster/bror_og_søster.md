@@ -1,6 +1,8 @@
-# Bror og søster
+---
+subtitle: "Tysk eventyr"
+---
 
-*(Tysk eventyr)*
+# Bror og søster
 
 Lille bror tok lille søster ved hånden og sa: «Siden mor døde, har vi aldri hatt en glad time. Vår stemor banker oss hver dag, og kommer vi bort til henne, sparker hun oss fra seg. Vi må nøye oss med noen harde brødskorper som de andre ikke vil ha; den lille hunden under bordet har det bedre enn vi, for til den kaster hun da av og til en godhete. Å, det skulle vår rette mor vite! Kom la oss gå sammen ut i den vide verden!»
 

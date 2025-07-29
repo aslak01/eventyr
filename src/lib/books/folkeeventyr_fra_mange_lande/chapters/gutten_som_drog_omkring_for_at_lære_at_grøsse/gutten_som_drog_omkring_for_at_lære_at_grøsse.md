@@ -1,6 +1,8 @@
-# Gutten som drog omkring for å lære å grøsse
+---
+subtitle: "Tysk eventyr"
+---
 
-*(Tysk eventyr)*
+# Gutten som drog omkring for å lære å grøsse
 
 Det var en gang en far som hadde to sønner. Den eldste var klok og forstandig og kunne greie seg godt i alt han tok fatt på; men den yngste var enfoldig og kunne hverken lære eller forstå noe, og når folk så ham, sa de: «Den fyren kommer aldri til å bli til noe for faren sin.» Når det var noe farlig å gjøre, måtte alltid den eldste sønnen ta det; men hvis faren sendte ham etter noe sent om kvelden, og veien gikk over kirkegården eller gjennom andre uhyggelige steder, svarte han alltid: «Å nei, far, dit går jeg ikke; det grøsser i meg!» For han var redd. Eller når de sat om kvelden ved peisen og fortalte historier som fikk folk til å gyse, sa tilhørerne ofte: «Uff, det grøsser i meg!» Den yngste sat i sin krok og hørte på dette, men kunne ikke forstå hva det skulle bety. «De sier alltid: 'Det grøsser i meg! Det grøsser i meg!' Jeg grøsser slett ikke. Det er vel også en kunst som jeg ikke forstår.»
 

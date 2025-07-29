@@ -1,6 +1,8 @@
-# Gjætergutten
+---
+subtitle: "Svensk eventyr"
+---
 
-*(Svensk eventyr)*
+# Gjætergutten
 
 Det var engang en gjetergutt; både frende- og venneløs var han; men han hadde en stemor, som var så ond med ham at hun verken unnte ham mat eller klær. En brødskorpe var det eneste han fikk om morgenen, og så måtte han ut og gjete buskapen hele dagen.
 

@@ -1,6 +1,8 @@
-# Den tro Johannes
+---
+subtitle: "Tysk eventyr"
+---
 
-*(Tysk eventyr)*
+# Den tro Johannes
 
 Det var engang en gammel konge; han ble syk, og skjønte han lå på sin dødsseng. Så sa han: «La den tro Johannes komme til meg.»
 

@@ -1,6 +1,8 @@
-# Trollskipet
+---
+subtitle: "finsk eventyr"
+---
 
-_(finsk eventyr)_
+# Trollskipet
 
 Det var engang en finsk jeger. Han vandret lenge om i skogen med buen sin. Så kom han til fjellet hvor trollene bodde. Foreldrene til trollene var nettopp døde, og nå var alle arvingene kommet. I fjellet hadde de massevis av gods og rikdom, gullskjeer og gullkrus og mye annet. Hver av dem fikk en gullvogn; men gullskipet skulle de alle ha en del i. Dette skipet var slik at når noen gikk inn i det, for det av seg selv over jorden og gjennom lufta. Da trollene fikk se jegeren med buen på nakken, ropte de: «Kom hit, min gode mann, og del mellom oss for gode ord og betaling.» Han gikk bort til dem og spurte: «Kan disse gullvognene og gullskipet gå av seg selv?» «Ja, når du bare trer på dem og gir dem et spark,» svarte de.
 

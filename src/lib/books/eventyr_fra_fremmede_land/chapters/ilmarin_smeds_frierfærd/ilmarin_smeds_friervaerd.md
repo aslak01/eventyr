@@ -1,6 +1,8 @@
-# Ilmarin smeds frierferd
+---
+subtitle: "Finsk eventyr"
+---
 
-_(Finsk eventyr)_
+# Ilmarin smeds frierferd
 
 Ilmarin smed ble aldri trett av å smi. Han la jernet i varmen og glødet det. Med det samme kom der en jomfru til smien. Hun stod i døra og sa til smeden: «Visste du Ilmarin smed, hva jeg kan fortelle deg, la du ikke jernet i varmen.» «Hvis det er noe godt du har å fortelle,» sa han, «vil jeg gi deg et vakkert smykke; men er det noe vondt, skal du få et glødende jern i halsen på deg.» «Nå ror to menn ut i båten, og de skal fri til Hiisikongens datter, den vakre Kathrine,» sa hun. Ilmarin smed tok jernet ut av varmen, falt i dype tanker og gikk hjem. «Mor,» sa han, «gjør kobberbadstua varmere enn glødende stein og gi meg en fin skjorte og en vakker klædning.» Så gikk Ilmarin smed inn i badstua, badet seg og kom hjem. Da hadde han ikke sko på føttene. Så sa han til sin bror: «Bror, ta min vakreste treårs gamle føll og spenn den for gullsleiden med jernskjeker, kobbersele, ståltømmer og tinnbrystrem.» Broren gjorde det; men han orket ikke spenne igjen brystremmen. Så gikk Ilmarin smed selv ut og gjorde det.
 

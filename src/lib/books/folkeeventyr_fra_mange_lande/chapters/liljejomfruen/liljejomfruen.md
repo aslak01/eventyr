@@ -1,6 +1,8 @@
-# Liljejomfruen
+---
+subtitle: "Ungarsk eventyr"
+---
 
-*(Ungarsk eventyr)*
+# Liljejomfruen
 
 Det var engang en konge som var så god, at alle måtte elske ham, både høye og lave, og hver og en i hans land kunne gjerne ha gitt sitt liv for ham. Han hadde ingen dronning, og de som lydde under ham bad at han endelig måtte gifte seg, for at de kunne få en like så god konge etter ham som han selv var. Dette syntes han var i grunnen nok så rimelig, og han gikk lenge og tenkte på hvordan han skulle bære seg at, for å finne en hustru som både han og folket var tjent med å få til dronning.
 

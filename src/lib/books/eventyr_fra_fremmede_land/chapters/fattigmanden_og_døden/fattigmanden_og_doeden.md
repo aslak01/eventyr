@@ -1,6 +1,8 @@
-# Fattigmanden og døden
+---
+subtitle: "Maygarisk eventyr"
+---
 
-_(Maygarisk eventyr)_
+# Fattigmanden og døden
 
 Der var en gang en fattig mann. Han hadde så mange barn som det er hull i et soll, ja kanskje enda flere. Da det siste barnet ble født, visste han ikke hvor han skulle få faddere fra; for alle mennesker hadde vært fadder hos ham. Så gikk han avgårde og gikk gjennom syv land, og syv land til, og lette etter en gudfar til barnet sitt. Som han nå gikk slik og ikke hadde noen ro på seg, møtte han Vorherre, og han spurte: «Hvor skal du hen, stakkars mann?» «Jeg leter etter en gudfar til barnet mitt,» svarte han. «Ja, da behøver du ikke lete lenger,» sa Vorherre, «jeg vil være gudfar til det.» «Hvem er du da?» sa mannen. «Jeg er Vorherre.» «Nei,» sa mannen, «deg er jeg ikke tjent med, det må være et godt menneske du skal bli glad i.» Så gikk han videre avsted, og så møtte han døden. Døden sa: «Hvor skal du hen, stakkars mann?» «Jeg leter etter en gudfar til gutten min,» sa han. «Ja, da behøver du ikke lete lenge; for jeg vil stå fadder til gutten din,» sa døden. «Hvem er du da?» spurte mannen. «Jeg er døden.» «Ja, det er godt,» sa mannen, «deg vil jeg ha til fadder; for du gjør ikke forskjell på gode og onde mennesker.» «Kom og bli med meg hjem litt først,» sa døden. «Jeg vil bare hjem og ta på meg statsklærne, ellers kjenner alle folk meg.»
 

@@ -1,6 +1,8 @@
-# Askepot
+---
+subtitle: "Tysk eventyr"
+---
 
-*(Tysk eventyr)*
+# Askepot
 
 Det var engang en rik mann; hans kone blev syk, og da hun kjente det led imot slutten, kalte hun sin eneste datter til sin seng og sa til henne: «Gud give du alltid må være snill og god, så skal du nok se at Vorherre alltid hjelper deg, og fra himmelen skal jeg se ned til deg og holde øye med deg.» Da hun hadde sagt det, sov hun inn og døde. Pika gikk hver dag ut til sin mors grav, for å gråte der i stillhet, og alltid blev hun ved å være snill og god. Så kom vinteren, og snøen la sitt hvite dekke over graven; men da sola om våren hadde draget det bort igjen, tok mannen seg en annen hustru.
 

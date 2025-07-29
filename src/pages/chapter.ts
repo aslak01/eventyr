@@ -75,6 +75,10 @@ export function generateChapterHTML(
     ? `<a href="${pathHelper.page(chapter.pdfPath)}" class="pdf-link" target="_blank">📄 Les som PDF</a>`
     : "";
 
+  const chapterSubtitle = chapter.subtitle 
+    ? `<p class="chapter-subtitle">${safeString(chapter.subtitle)}</p>`
+    : "";
+
   return templateEngine.renderWithLayout("chapter.html", {
     ...headData,
     siteHeader,
@@ -86,5 +90,7 @@ export function generateChapterHTML(
     pdfLink,
     bookUrl: pathHelper.page(`/${book.slug}/`),
     bookName: book.name,
+    chapterTitle: safeString(chapter.title),
+    chapterSubtitle,
   });
 }

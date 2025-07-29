@@ -1,6 +1,8 @@
-# Hans og Grete
+---
+subtitle: "Tysk eventyr"
+---
 
-*(Tysk eventyr)*
+# Hans og Grete
 
 Tett utenfor en stor skog bodde en fattig vedhugger med sin kone og sine to barn. Gutten kalte de Hans og jenta Grete. Lite hadde de både å bite og brenne, og da det kom dyrtid i landet, hadde mannen ikke lenger det daglige brød til seg og sine.
 

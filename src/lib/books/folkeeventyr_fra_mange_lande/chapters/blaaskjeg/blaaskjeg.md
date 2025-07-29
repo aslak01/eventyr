@@ -1,6 +1,8 @@
-# Blåskjegg
+---
+subtitle: "Fransk eventyr"
+---
 
-*(Fransk eventyr)*
+# Blåskjegg
 
 Det var engang en mann som eide store gårder både inne i byen og ute på landet. Vognene hans var helt forgylt, og gull- og sølvtøy hadde han i mengde. Men én ting hadde han som han helst ville være foruten, og det var et stort blått skjegg. Det gjorde ham så stygg og fæl, så det ikke fantes noen kone eller ung pike som ikke tok benene fatt straks hun så ham.
 

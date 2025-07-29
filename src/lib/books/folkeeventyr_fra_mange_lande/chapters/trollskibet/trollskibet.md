@@ -1,6 +1,8 @@
-# Trolskibet
+---
+subtitle: "Et finlandsk eller kvensk eventyr"
+---
 
-*(Et finlandsk eller kvensk eventyr)*
+# Trolskibet
 
 Det var en finlandsk eller kvensk gutt som hadde en bue, og han kom til et sted der han så trollene hadde et guldskib. Det var dypt og dyrt var det, og det var fullt av alle slags gods som trollene hadde samlet. Han tenkte at det skulle være godt å ha noe av det selv, så han straks spente buen sin og skjøt en pil så langt han kunne. Da de fikk se pilen, ropte han til trollene:
 

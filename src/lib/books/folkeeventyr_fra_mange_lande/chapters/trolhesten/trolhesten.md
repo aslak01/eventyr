@@ -1,6 +1,8 @@
-# Trolhesten
+---
+subtitle: "Et persisk eventyr"
+---
 
-*(Et persisk eventyr)*
+# Trolhesten
 
 Det var engang en konge i Persia; til ham kom en dag en mann fra India, og sa han hadde et merkelig kunstverk, som han ville vise kongen. Det skulle han få lov til, og så kom han frem med en trehest, som var så godt gjort, at den så ut som den var levende; men den så ikke ut til å kunne røre et eneste lem. Da kongen hadde sett på hesten en stund, sa han at han aldri hadde sett noe mer likt en levende hest; men så spurte han hva den kunne brukes til, for den måtte vel være til noe slags nytte. Jo, mente indieren, nyttig var den nok; kongen skulle bare sende ham bort, så langt han ville, for å hente noe som han kjente, og som kunne vitne at alt var gått riktig for seg, så skulle han nok få se hva hesten var god for. «La gå,» sa kongen, «så får du ri til det store fjellet du ser der borte; dit er det tre mil, og der står et tre som ikke finnes noe annet sted; av det skal du ta et blad med deg hit igjen.»
 

@@ -1,6 +1,8 @@
-# Tommelitens liv og hendelser i England
+---
+subtitle: "Engelsk eventyr"
+---
 
-*(Engelsk eventyr)*
+# Tommelitens liv og hendelser i England
 
 I kong Arturs dager levde i England en mektig trollmann som het Merlin. Engang han var ute å ferdas, kom han til en bondegård og banket på, for å få noe å drikke. Konen i huset tok vel imot ham og ga ham melk og brød, som smakte ham godt, for han var blitt både sulten og tørst i solsteken. Mens han satt til bords, så han seg om i stuen, og han skjønte snart at det var noe i veien med både mannen og konen; for de så begge meget sorgfulde ut, enda de hadde alt så pent og hyggelig hos seg. Han spurte dem hva det var de sørget for, og så svarte de det var fordi de ikke hadde noen barn.
 

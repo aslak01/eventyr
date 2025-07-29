@@ -1,6 +1,8 @@
-# Sterke Dummas
+---
+subtitle: "Engelsk eventyr"
+---
 
-_(Engelsk eventyr)_
+# Sterke Dummas
 
 ![Sterke Dummas](./sterke_dummas_dropcap.png)
 

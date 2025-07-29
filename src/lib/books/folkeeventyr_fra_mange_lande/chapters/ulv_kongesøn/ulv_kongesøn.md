@@ -1,6 +1,8 @@
-# Ulv kongesøn
+---
+subtitle: "Dansk eventyr"
+---
 
-*(Dansk eventyr)*
+# Ulv kongesøn
 
 Det var engang en konge som hadde en eneste datter. Hun var så vakker at hennes like ikke fantes i hele landet. Mange prinser og fornemme herrer kom for å fri til henne, men ingen av dem kunne hun like. Da ble kongen vred og sa til datteren: «Du må gifte deg, enten du vil eller ei. Og for at du skal lære å være mindre kresen, skal du ha til mann den som kan si hva slags dyr dette skinnet er av.» Og så hengte han opp et stort skinn på låvedøra.
 

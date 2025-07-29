@@ -1,6 +1,8 @@
-# Vetikke
+---
+subtitle: "Maygarisk eventyr"
+---
 
-_(Maygarisk eventyr)_
+# Vetikke
 
 I skythernes land, der hvor ungarerne er fra, var der engang en konge. Hans kone fikk en sønn, og sønnen ble kalt Dani. Den samme natten, samme time, ja samme minutt fikk en hoppe i stalden en følunge, og derfor ga kongen den føllen til Dani. Da gutten var begynt å gå på skolen, var han riktig flittig til å lese og skrive; men han hadde den vanen at han alltid, før han gikk på skolen og med det samme han kom hjem igjen, måtte ned i stalden og se til føllen sin og klappe den.
 

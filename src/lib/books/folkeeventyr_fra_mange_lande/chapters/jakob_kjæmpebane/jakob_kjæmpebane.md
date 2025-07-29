@@ -1,6 +1,8 @@
-# Jakob Kjæmpebane
+---
+subtitle: "Engelsk eventyr"
+---
 
-*(Engelsk eventyr)*
+# Jakob Kjæmpebane
 
 I kong Arturs tid levde i England en bonde som hadde en eneste sønn; han hette Jakob og var både sterk og slu og modig. På samme tid hadde en veldig rise, som hette Kormoran, sitt tilhold i en mørk hule på Mikkelsberget. Hele strøket var plaget av denne røveren, og derfor satte den modige Jakob seg fore å gjøre ende på ham. Han tok med seg et jakthorn, en hakke og en blendlykt, og en kveld svømte han ut til Mikkelsberget, som ligger ute i havet. Han la seg ikke på latsiden, og før solen rante, hadde han gravd et hull, to og tyve fot dypt og nesten likeså bredt. Han dekket det til med grener, løv og kvas og strødde muld oppå, så det lignet fast grunn. Derefter blåste han så sterkt i hornet så risen våknet. Han kom ut og brølte med tordenrøst: «Hva er du for en liten fyr som våger å vekke meg? Imorgen skal jeg steke deg til frokost!» Men i det samme han hadde sagt det, falt han på hodet ned i hullet. «Ha ha!» sa Jakob, «nå får du se å stagge matnygen på annen vis; for det blir nok ikke stort du får til frokost, skal du vente til du får stekt meg.» Risen prøvde å komme på benene; men Jakob gav ham et slag i hodet med hakken, så han døde på flekken. Da de styrende på de kanter hørte om denne djerve dåd, sendte de bud efter Jakob, og sa at herefter skulle han bære navnet Jakob Kjæmpebane. De gav ham et sverd og et belte, og på det stod skrevet med gullbokstaver:
 
