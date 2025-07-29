@@ -292,6 +292,15 @@ async function needsProcessing(
     const stats = await stat(imagePath);
     const currentMtime = stats.mtime.getTime();
 
+    // Debug cache key lookup in CI
+    if (process.env.NODE_ENV === 'production' || process.env.CI) {
+      const hasCache = !!cache[cacheKey];
+      console.log(`  🔑 Cache lookup for ${basename(imagePath)}: key=${cacheKey}, found=${hasCache}`);
+      if (hasCache) {
+        console.log(`  📅 Cached mtime: ${cache[cacheKey].mtime}, current: ${currentMtime}`);
+      }
+    }
+
     // If not in cache or file is newer, needs processing
     if (!cache[cacheKey] || cache[cacheKey].mtime < currentMtime) {
       return true;
@@ -343,6 +352,15 @@ async function checkFileExists(filePath: string): Promise<boolean> {
       fsPath = join('./dist', imagePart);
     } else {
       return false;
+    }
+    
+    // Debug logging for CI
+    if (process.env.NODE_ENV === 'production' || process.env.CI) {
+      const exists = await stat(fsPath).then(() => true).catch(() => false);
+      if (!exists) {
+        console.log(`  🔍 File not found: ${filePath} -> ${fsPath}`);
+      }
+      return exists;
     }
     
     await stat(fsPath);
