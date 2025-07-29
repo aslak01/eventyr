@@ -1,8 +1,13 @@
 {
   "title": "Eventyr og historier",
-  "author": ["Jacob Breda Bull"],
+  "author": [
+    "Jacob Breda Bull"
+  ],
   "published": 1928,
-  "illustrator": ["A. Block", "Louis Moe"],
+  "illustrator": [
+    "A. Block",
+    "Louis Moe"
+  ],
   "chapter_index": {
     "gutten_som_døyvet_trollet": "Gutten som døyvet trollet",
     "trolljo": "Trolljo",
@@ -14,7 +19,7 @@
     "underjordsfolk": "Underjordsfolk",
     "julsrudnissen": "Julsrudnissen",
     "skriveren_og_tassengrå": "Skriveren og Tassengrå",
-    "vriom-vrang": "Vriom-Vrang",
+    "vriomvrang": "Vriomvrang",
     "da_bjørnen_for_til_jords": "Da bjørnen for til jords",
     "sankthansdans": "Sankthansdans",
     "spirrevipp_og_spurrevupp": "Spirrevipp og Spurrevupp",
