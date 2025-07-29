@@ -137,6 +137,34 @@ const server = serve({
       return new Response("Forbidden", { status: 403 });
     }
 
+    // Handle PDF requests by serving directly from the books directory
+    if (path.endsWith(".pdf")) {
+      const segments = path.split("/").filter(Boolean);
+      if (segments.length === 2) {
+        const [bookSlug, pdfFilename] = segments;
+        const chapterName = pdfFilename.replace(".pdf", "");
+        const pdfPath = join(
+          import.meta.dir,
+          "src/lib/books",
+          bookSlug,
+          "chapters",
+          chapterName,
+          pdfFilename
+        );
+        
+        const pdfFile = Bun.file(pdfPath);
+        if (await pdfFile.exists()) {
+          console.log("📄 Serving PDF:", pdfPath);
+          return new Response(pdfFile, {
+            headers: {
+              "Content-Type": "application/pdf",
+              "Content-Disposition": `inline; filename="${pdfFilename}"`,
+            },
+          });
+        }
+      }
+    }
+
     // Handle directory requests
     if (path.endsWith("/")) {
       path = path + "index.html";

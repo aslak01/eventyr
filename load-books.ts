@@ -109,6 +109,10 @@ async function loadBook(
     const markdownFiles = chapterFiles
       .filter((file) => file.endsWith(".md"))
       .map((mdFile) => join(dir, mdFile));
+    
+    const pdfFiles = chapterFiles
+      .filter((file) => file.endsWith(".pdf"))
+      .map((pdfFile) => join(dir, pdfFile));
     console.log(markdownFiles);
 
     if (markdownFiles.length === 0) {
@@ -126,11 +130,12 @@ async function loadBook(
       title,
       dir: chapterDir,
       order,
+      pdfURI: pdfFiles.length > 0 ? pdfFiles[0] : undefined,
     });
   }
 
   for (const chap of chapterMds) {
-    const { markdownURI, title, dir, order } = chap;
+    const { markdownURI, title, dir, order, pdfURI } = chap;
 
     try {
       const fileContent = await Bun.file(markdownURI).text();
@@ -144,6 +149,7 @@ async function loadBook(
         book: bookData.name,
         bookSlug: bookData.slug,
         order,
+        pdfPath: pdfURI ? `/${bookData.slug}/${dir}.pdf` : undefined,
       };
 
       // // const titleMatch = fileContent.match(/^#\s+(.+)/m);

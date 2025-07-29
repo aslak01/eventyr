@@ -24,7 +24,6 @@ export function generateChapterHTML(
     ? chapter.path.substring(0, chapter.path.lastIndexOf("/"))
     : chapter.path;
 
-  // Construct full chapter path for image processing
   const fullChapterPath = `${book.path}/chapters/${chapterDir}`;
 
   const processedContent = processMarkdownImages(
@@ -36,10 +35,12 @@ export function generateChapterHTML(
   );
 
   const htmlContent = new Marked()
-    .use(markedFootnote({
-      description: 'Fotnoter',
-      backRefLabel: 'Tilbake til referanse {0}'
-    }))
+    .use(
+      markedFootnote({
+        description: "Fotnoter",
+        backRefLabel: "Tilbake til referanse {0}",
+      }),
+    )
     .parse(processedContent);
 
   const chapters = book.chapters;
@@ -70,6 +71,10 @@ export function generateChapterHTML(
     ? `<a href="${pathHelper.page(`/${book.slug}/${nextChapter.path}.html`)}" class="nav-link">${nextChapter.title.replace(/"/g, "&quot;")} →</a>`
     : "<span></span>";
 
+  const pdfLink = chapter.pdfPath
+    ? `<a href="${pathHelper.page(chapter.pdfPath)}" class="pdf-link" target="_blank">📄 Les som PDF</a>`
+    : "";
+
   return templateEngine.renderWithLayout("chapter.html", {
     ...headData,
     siteHeader,
@@ -78,6 +83,7 @@ export function generateChapterHTML(
     htmlContent,
     prevChapterLink,
     nextChapterLink,
+    pdfLink,
     bookUrl: pathHelper.page(`/${book.slug}/`),
     bookName: book.name,
   });

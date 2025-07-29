@@ -1,5 +1,5 @@
 import { join } from "path";
-import { mkdir, writeFile } from "fs/promises";
+import { mkdir, writeFile, copyFile } from "fs/promises";
 
 import type { BookData, Chapter, GeneratorConfig } from "./src/types/types.ts";
 
@@ -81,6 +81,18 @@ async function generateSite(config: GeneratorConfig): Promise<void> {
       );
       await writeFile(join(bookDir, `${chapter.path}.html`), chapterHTML);
       console.log(`📄 Generated ${book.name}/${chapter.path}.html`);
+
+      // Copy PDF if it exists
+      if (chapter.pdfPath) {
+        const sourcePdfPath = join(book.path, "chapters", chapter.path, `${chapter.path}.pdf`);
+        const destPdfPath = join(bookDir, `${chapter.path}.pdf`);
+        try {
+          await copyFile(sourcePdfPath, destPdfPath);
+          console.log(`📄 Copied ${book.name}/${chapter.path}.pdf`);
+        } catch (error) {
+          console.warn(`⚠️ Could not copy PDF for ${chapter.path}:`, error);
+        }
+      }
     }
   }
 

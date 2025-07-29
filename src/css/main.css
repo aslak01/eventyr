@@ -391,6 +391,28 @@ header nav {
   }
 }
 
+.pdf-download {
+  margin: 1rem 0;
+  text-align: right;
+
+  .pdf-link {
+    display: inline-block;
+    background: var(--bg-dark);
+    color: var(--text);
+    padding-inline: 0.4ch;
+    padding-block: 0.2ch;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 0.8em;
+    transition: all 0.2s ease;
+
+    &:hover {
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      color: var(--primary);
+    }
+  }
+}
+
 @media (max-width: 768px) {
   .main-nav {
     flex-direction: column;
