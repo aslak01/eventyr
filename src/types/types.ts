@@ -46,6 +46,7 @@ export type GeneratorConfig = {
 export type ImageCache = {
   [key: string]: {
     mtime: number;
+    gitHash?: string;
     sizes: { width: number; path: string }[];
     webpPath: string;
     avifPath: string;

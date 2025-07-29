@@ -1,6 +1,7 @@
 import { join, extname, basename } from "path";
 import { readdir, mkdir, copyFile, stat } from "fs/promises";
 import sharp from "sharp";
+import { execSync } from "child_process";
 
 import type {
   BookData,
@@ -12,6 +13,22 @@ import type { createPathHelper } from "../utils/paths";
 import { writeFile } from "fs/promises";
 
 type PathHelper = ReturnType<typeof createPathHelper>;
+
+// Get Git hash for a file to use as cache key in CI
+function getGitHash(filePath: string): string | null {
+  try {
+    if (process.env.CI || process.env.NODE_ENV === 'production') {
+      const hash = execSync(`git log -1 --format="%H" -- "${filePath}"`, { 
+        encoding: 'utf8',
+        cwd: process.cwd() 
+      }).trim();
+      return hash || null;
+    }
+    return null;
+  } catch {
+    return null;
+  }
+}
 
 export async function optimizeImages(
   books: BookData[],
@@ -43,8 +60,10 @@ export async function optimizeImages(
 
           // Update cache
           const stats = await stat(imagePath);
+          const gitHash = getGitHash(imagePath);
           cache[imagePath] = {
             mtime: stats.mtime.getTime(),
+            gitHash: gitHash || undefined,
             sizes: optimized.sizes,
             webpPath: optimized.webpPath,
             avifPath: optimized.avifPath,
@@ -301,9 +320,36 @@ async function needsProcessing(
       }
     }
 
-    // If not in cache or file is newer, needs processing
-    if (!cache[cacheKey] || cache[cacheKey].mtime < currentMtime) {
-      return true;
+    // In CI environments, use Git hash instead of mtime for cache validation
+    if (process.env.CI || process.env.NODE_ENV === 'production') {
+      if (!cache[cacheKey]) {
+        return true;
+      }
+      
+      const currentGitHash = getGitHash(imagePath);
+      const cachedGitHash = cache[cacheKey].gitHash;
+      
+      if (process.env.CI) {
+        console.log(`  🔍 Git hash check: cached=${cachedGitHash}, current=${currentGitHash}`);
+      }
+      
+      // If we have git hashes and they match, file hasn't changed
+      if (currentGitHash && cachedGitHash && currentGitHash === cachedGitHash) {
+        // Git hash matches, skip mtime check
+      } else if (currentGitHash && cachedGitHash && currentGitHash !== cachedGitHash) {
+        // Git hash changed, needs reprocessing
+        return true;
+      } else {
+        // Fall back to mtime check if no git hashes
+        if (cache[cacheKey].mtime < currentMtime) {
+          return true;
+        }
+      }
+    } else {
+      // Local development: use mtime check
+      if (!cache[cacheKey] || cache[cacheKey].mtime < currentMtime) {
+        return true;
+      }
     }
 
     // Verify cached files still exist (important for CI environments)
