@@ -46,6 +46,8 @@ Tidlig neste morgen kom kona og drog barna opp av senga. De fikk hver sitt stykk
 
 «Tøv!» sa kona. «Det er jo morgensola som skinner på skorsteinspipen.» Men Hans kastet efterhvert alle smulene på veien.
 
+![Hans og Grete](./hog1.png)
+
 Kona førte barna lenger og lenger inn i skogen; aldri i sine levedager hadde de vært så langt hjemmefra. Det blev atter gjort opp et stort bål, og mora sa til barna: «Nu skal dere bli sittende her, og er dere trette, så kan dere sove; vi går inn i skogen og hugger brende, og når vi er ferdige, og det lider mot kvelden, så kommer vi og henter dere.»
 
 Da det blev middag, delte lille Grete sitt brødstykke med broren, som hadde smuldret opp sitt og strødd det på veien. Så falt de i søvn, og det blev kveld; men ingen kom for å hente barna. Da de våknet, var det mørk natt, og Hans trøstet sin søster og sa: «Vent bare, Grete, til månen kommer opp, så kan vi se brødsmulene som jeg har strødd ut; de skal nok vise oss veien hjem.»
@@ -56,13 +58,13 @@ Nu var det den tredje morgenen, siden de var gått hjemmefra. De våknet og gav 
 
 «Nu skal vi sette til,» sa Hans, «og holde et velsignet måltid. Jeg vil spise av taket, og du, Grete, kan spise av vinduet; det er søtt.» Hans strakte seg opp og brøt et stykke av taket for å prøve hvorledes det smakte, og Grete stilte seg til vinduet og gnavet på rutene. Da hørte de en fin røst rope inde fra stua:
 
-«Knirk, knark, knar!  
-Hvem gnager på mitt hus så hardt?»
+> «Knirk, knark, knar!  
+> Hvem gnager på mitt hus så hardt?»
 
 Barna svarte:
 
-«Det er vinden, det himmelske barn,  
-som blåser så sterkt om ditt garn.»
+> «Det er vinden, det himmelske barn,  
+> som blåser så sterkt om ditt garn.»
 
 Og de lot seg ikke forstyrre, men fortsatte å spise. Hans, som syntes taket smakte så godt, rev ned et stort stykke av det, og Grete støtte ut en hel rund vindusrute, satt seg ned og koste seg med den.
 
@@ -94,15 +96,16 @@ Da de hadde gått et par timers tid, kom de til et stort vann. «Hvorledes skal 
 
 «Og heller ingen båt,» svarte Grete. «Men se, der kommer en hvit and svømmende. Kanskje den vil hjelpe oss over, når vi ber den vakkert.» Og så ropte hun:
 
-«And, and, lille and,  
-her står Hans og Grete på land.  
-Hverken klopp eller bro  
-kan vi her på stedet se.  
-Sett oss på din hvite rygg,  
-så vi kommer trygt og skyndig!»
+> «And, and, lille and,  
+> her står Hans og Grete på land.  
+> Hverken klopp eller bro  
+> kan vi her på stedet se.  
+> Sett oss på din hvite rygg,  
+> så vi kommer trygt og skyndig!»
 
 Anda kom da til dem, og Hans satte seg på ryggen, og ba søstera sette seg hos ham. «Nei,» svarte Grete, «det blir for tungt for den vesle anda; den skal ta oss over én om gangen.» Det gjorde den gode fuglen, og da de var kommet vel over og hadde gått en liten stund, syntes skogen dem mer og mer kjent, og tilslutt så de farens hus i det fjerne. Da begynte de å løpe, sprang inn i stua og falt faren om halsen. Mannen hadde ikke hatt en glad time siden han hadde latt barna være igjen i skogen; men kona var død.
 
 Grete ristet forkleet sitt, så perlene og edelsteinene hopet seg utover hele golvet, og Hans tok opp etter opp av lommene. Da var det slutt med all nød og sorg, og de levde i glede alle sine dager.
 
 Snipp snapp snute, nu er eventyret ute.
+

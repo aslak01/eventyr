@@ -122,6 +122,8 @@ Da blev han fælen og la på sprang bent hjem til foreldrene sine. Jo fortere ha
 
 "Kjære, si det," sa moren, hun stod med grøtsleven i hånden.
 
+![Ute i soppskogen](./ujf1.png)
+
 "Ja, så underlig er det alt," sa gutten - han fikk igjen pusten - "at skal jeg fortelle det bakvendt, så blir det rett, og skal jeg fortelle det rett, så blir det bakvendt."
 
 "Fortell det rett," sa faren.

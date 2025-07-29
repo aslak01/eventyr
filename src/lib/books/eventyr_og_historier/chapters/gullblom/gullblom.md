@@ -52,6 +52,8 @@ Så gikk han midt opp på høyeste åshaugen. Å jo, da fikk han nok se hva det 
 
 "Hva rømmer dere for?" skrek Trolljo.
 
+![Triste troll](./gullblom1.png)
+
 "Datter di vil ikke ha oss," svarte trollene og drev på og gråt.
 
 "Er det noe å rømme for, det da, lange og voksne som dere er," sier Trolljo. Så går han ned av fjellet igjen og forteller prinsen at derfor er det flom, fordi trollene ikke kan få datter hans.
@@ -65,6 +67,8 @@ Rett som det var kom der et blink så berget brast, og et brak så jorden mest k
 "Hvem er det nå igjen da?" spurte Trolljo.
 
 "Friere til datter di," tordnet det der ute.
+
+![Trollene kommer til gards](./gullblom2.png)
 
 "Kunne mest tenke det," sa Trolljo, han tok på seg helgetrøya sin og gikk ut.
 
@@ -110,6 +114,8 @@ Og så spurte de Trolljo så vakkert, hva de skulle gjøre for å få datter han
 
 "Ja, den som det hadde," sa trollene; "for det er svært vondt for det slaget i den siste tid," sier de.
 
+![Gullblom står på fjellet](./gullblom3.png)
+
 "Ja, nå skal dere få et godt råd," sa Trolljo, "og det skal bli det siste, og det skal dere følge!"
 
 "Nevn det!" ropte alle tre trollene på en gang.
@@ -133,3 +139,5 @@ Av somme en arm, av somme et ansikt, av nogen bare en bred rygg og en skalle igj
 Men Gullblom står i godvær på fjellet og stirrer etter prinsen som er herre over alt som lever. Og en gang kommer han, vær trygg på det.
 
 Mer er ikke å fortelle om Trolljo og Gullblom, dattera hans.
+
+![Gullblom](./gullblom4.png)

@@ -98,6 +98,8 @@ Da han vel var kommet til kong Salomon, sprakk stallruta.
 
 Da presten hadde lest hele det gamle testamente, sprang stalldøra opp med ett. Inn stod en underlig gufs så kald, og store stjerner tindret.
 
+![Ute i snøen](./jrn1.png)
+
 Da skjønte presten at nå kom det verste, for i alle kroker så han glødende øyne. Så la han i vei med det nye testamente, om det skulle bite bedre.
 
 Men underligere skulle du vel aldri ha hørt! For rett som han leste så svetten rant, hørte han hundre som leste med, og som han snudde seg og så, satt stallen full av nisser, som åjet og bar seg med labbene ihoplagt og ba så andektig.

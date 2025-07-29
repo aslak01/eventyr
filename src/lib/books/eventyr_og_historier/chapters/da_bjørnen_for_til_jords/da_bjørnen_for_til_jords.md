@@ -56,6 +56,8 @@ Men som de gikk og gikk og ikke sa et ord, tok sinnet mauren.
 
 "Ja det samme sier jeg," sa musen.
 
+![Smådyr på bakken](./dbftj1.png)
+
 "En skal ikke si alt en vet," svarte mauren.
 
 "Jeg vet en historie, jeg," sier muldvarpen.

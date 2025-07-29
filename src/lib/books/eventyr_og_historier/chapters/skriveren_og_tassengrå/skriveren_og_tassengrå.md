@@ -38,15 +38,21 @@ Da han gikk igjen og skulle til å stenge stabburet, var burnøklen borte.
 
 "Nøklehullet har jeg," sa skriveren, "men nøklen har fanden tatt."
 
+![Skriveren](./sotg1.png)
+
 "Nøklen har jeg, men nøklehullet har fanden tatt," sa det oppe i matklokketårnet, og da skriveren skulle se til, så hang nøklen og slang i et rep nedover burveggen.
 
 Han til å hoppe og hugge etter nøklen med neven; men det mer han hoppet, det høyere kom nøklen, og tilslutt blev skriveren sittende på stabburtrappen og pese, så det hørtes lang vei, og gråte gjorde han, bare så det silte av ham.
 
 Rett som han satt der og bar seg fikk han høre, at stabburdøren smalt igjen så det klang, og da han skulle se etter, satt nøklen i nøklehullet; men repet hang og slang nedover burveggen.
 
+![Katt med penger](./sotg2.png)
+
 Skriveren i vei og tok ut nøklen av burdøren og med det samme han gikk nedover stabburtrappen glante han opp mot repet, som hang der og slang enda.
 
 "Du kan gjerne henge for meg," sa han.
+
+![Kurv i rom](./sotg3.png)
 
 "Du kan gjerne henge for meg," sa det oppe i klokketårnet.
 

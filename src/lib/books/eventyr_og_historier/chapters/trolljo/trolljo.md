@@ -1,5 +1,7 @@
 # Trolljo
 
+![Trolljo intro](./trolljo1.png)
+
 Det var en gang i gammel tid en fisker som hette Jo. Han bodde høyest oppe og innerst inne, der alle elvene begynner og alle dalene slutter. Fiskejo kalte noen ham, for på de stille dager svam han over de svarte fjellsjøer som en stor, mørk fugl og slo ned etter fisk; Trolljo kalte andre ham, for på vidden der han bodde, satt trollene i de grå, roggsamme uværsnetter hver på sin haug rundt omkring og så på hverandre kvasse som lyn og talte til hverandre, dundrende som torden. Men Jo var til venns med dem alle, for han var av dem som hadde råd for alt, og gode råd er dyre blant troll som blant folk, må vite.
 
 Så var det en dag ut på høsten, Trolljo satt inne i bua si og bøtte fiskegarn. Ute var det grått med tung, stille luft over alle fjell.
@@ -39,6 +41,8 @@ Trollet sitter og karrer og karrer med den ene foten sin, snart bort i det ene b
 Så legger det hodet på skakke, ser spakferdig bort på Trolljo og gjør seg lekker.
 
 "Du skulle vel ikke ha noen råd for tannverk, vel?" sier det.
+
+![Troll ser inn](./trolljo2.png)
 
 "Kunne vel hende det," svarte Jo.
 
@@ -82,6 +86,8 @@ Og trollet til å sverge så stygt at det blev svart over alle fjell, og åkeren
 
 "Ikke å takke," svarte Trolljo og hektet på budøren sin, tendte på varmen og la seg til å sove.
 
+![Troll i foss](./trolljo3.png)
+
 Og så drømte han at trollet kom til ham med den vakreste jente i hele Norges land, og tre hoder hadde hun og tre ansikt, det ene venere enn det andre. Det første var skinnende lyst med sjøblå øyne og gullfaks; det andre var brennende brunt med mørke øyne og hår som kobber, det tredje var drivende hvitt med øyne og hår som svarte natten.
 
 Men da Trolljo våknet, var det lyse dagen. Budøren stod oppe, og ut og inn gikk et ungt, vakkert kvinnfolk og stelte.
@@ -100,15 +106,17 @@ Jo reiste seg halvt opp fra bubenken og stirret.
 
 "Hurra, ja nå er du min," sa Trolljo, tok henne i fang og svingte henne rundt. "Og nå skal her bli bryllup," sa han. Så tok han henne ved hånden og gikk ut i gråveret som lå over alle fjell, og så bøyde han seg mot nord og mot syd og mot øst og mot vest, og så ropte han:
 
-"Alle fra fjellene,  
-alle fra dalene,  
-alle fra sjø og land,  
-alle fra luft og vann,  
-alle fra stene grå,  
-alle fra gress og strå,  
-kom og dans brura ut!"
+> "Alle fra fjellene,  
+> alle fra dalene,  
+> alle fra sjø og land,  
+> alle fra luft og vann,  
+> alle fra stene grå,  
+> alle fra gress og strå,  
+> kom og dans brura ut!"
 
 Men da kan du tro der blev brurdans på fjellet! Fra myrene rente de, øgler og ormer og tusser og frosk, fra skogene veltet de, nisser og hulder og varulv og skrømt; i sjøene plasket de, nøkker og havmann og havfru og draug; i luften suste og slo det med kullsvarte vinger, og solen gikk ned, og månen gikk opp, og nordenvind spilte til dansen.
+
+![Trolljo og kone](./trolljo4.png)
 
 Med ett blev der mørkt som før jorden blev skapt. Det braket i fjellene, ulte i dalene; torden den slo og lynilden drev. Det var Sølentrollet, var det, som danset med mor si.
 
@@ -180,6 +188,8 @@ Trolljo kom seg på føttene igjen, pyntet av trøyen sin, og så sa han:
 
 "Du skal lage det slik at du blør neseblod, og så skal du sette deg hen og holde nålen under dryppet, der nåløyet skal være, og slik skal du sitte, til dryppet har slitt hull på nålen. Da har du fått nåløye, som duger; men sitt huggende stille, for dette er fint arbeide."
 
+![Troll under vann](./trolljo5.png)
+
 "Takk for godt råd," sa trollet og gikk som et forferdelig uvær nord over fjellene. Hjemkommet tar det en diger kampestein og deljer til seg i den svære nesen sin så blodspruten står. Setter seg så og holder bergbruddet under dryppet for å huie ut nåløyet.
 
 Men Jo gikk inn i bua igjen til konen sin.
@@ -196,13 +206,13 @@ Og han tok henne i hånden, og den var varm, og han tok henne i fang så vart, s
 
 "Hurra, nå skal der bli annendags-bryllup!" ropte Jo og svingte henne rundt. Så tok han henne ved hånden og gikk ut i den klare luft som lå over alle fjell; og så bøyde han seg mot syd og mot nord og mot øst og mot vest, og så sa han:
 
-"Alle fra skogene,  
-alle fra dalene,  
-alle fra sjø og land,  
-alle fra luft og vann,  
-alle fra fjelle grå,  
-alle fra himlen blå,  
-kom og dans brura ut!"
+> "Alle fra skogene,  
+> alle fra dalene,  
+> alle fra sjø og land,  
+> alle fra luft og vann,  
+> alle fra fjelle grå,  
+> alle fra himlen blå,  
+> kom og dans brura ut!"
 
 Men da kan du tro der blev brurdans på fjellet.
 
@@ -250,6 +260,8 @@ Da tok trollet til å ule og bære seg, så det ramlet og raulet over alle fjell
 
 Trolljo gikk fremtil bua igjen.
 
+![Dyr i storm](./trolljo6.png)
+
 "Ingen under her ikke er slagspor etter deg," sa han. "For bjønnføtt er du, og alle klørne dine er borte."
 
 "H, h, h!" sier trollet, det rister og vagger på det digre hodet sitt. "Fins det råd for dette da, du?" sier det og gjør seg lekker.
@@ -290,13 +302,13 @@ Men i samme stund så folk som rodde over Storsjøen, to store, brune fugler stu
 
 "Hurra, ja nå er du min," sa Trolljo, "og nå skal her bli barsel som vel skal spørres over alle land." Og så tok han henne ved hånden og barnet på armen, gikk ut i det tindrende solskinn som lå over alle fjell og bøyde seg mot nord og mot syd og mot øst og mot vest, og så sa han:
 
-"Alle fra fjellene,  
-alle fra dalene,  
-alle fra sjø og strand,  
-alle fra luft og vann,  
-alle fra stene grå,  
-alle fra himlen blå  
-kom og dans barnet inn!"
+> "Alle fra fjellene,  
+> alle fra dalene,  
+> alle fra sjø og strand,  
+> alle fra luft og vann,  
+> alle fra stene grå,  
+> alle fra himlen blå  
+> kom og dans barnet inn!"
 
 Men da kan du tro der blev barsel på fjellet. I skogene duftet de, furu og grantrær og ungbjørk som spratt; på viddene blommet de, myrblom på tuver og krekling i kratt; fra dalene ljomet det, flokker av klokker som kimte og klang; fra himmelen glitret det, snehvite vinger som suste og svang, og solen gikk opp, og månen den skjen, og vestenvind spilte til dansen.
 

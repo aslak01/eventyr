@@ -12,6 +12,8 @@ Nå er det en gang så, at alle folk synes at verden er så full av sorg og elen
 
 Derfor kalte de ham også for Latter-Ola.
 
+![Latter-Ola](./lo1.png)
+
 Men foreldrene hans var så rent ille ved, fordi de hadde fått en slik bytting til gutt.
 
 Så var det en dag mor hans stod og kokte grøt. Døra stod åpen, og hun glante og glodde etter dem som gikk forbi.

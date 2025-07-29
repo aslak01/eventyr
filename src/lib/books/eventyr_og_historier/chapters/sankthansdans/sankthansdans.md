@@ -4,6 +4,8 @@ subtitle: "En regle"
 
 # Sankthansdans
 
+![Illustrasjon 1](./shd1.png)
+
 Først kom en ørn  
 som hoppet på to,  
 så kom en bjørn  
@@ -27,6 +29,8 @@ så kommer paven fra Asias land,
 alle så svanser de,  
 alle så danser de  
 alt hva de kan.
+
+![Illustrasjon 2](./shd2.png)
 
 Så kommer trollene  
 frem over vollene,  

@@ -10,40 +10,40 @@ Og den satt så sur og så stille og så stur, knep øynene sammen mot solen og 
 
 "Kvorr! Kvorr! Hva sorger du for?" spurte en spurv, den satt høyt oppe på mønet og kjente seg sikker.
 
-"Miau!  
-Det er slemt å ha gård,  
-når det er så dårlige år!  
-Miau!"
+> "Miau!  
+> Det er slemt å ha gård,  
+> når det er så dårlige år!  
+> Miau!"
 
 svarte katten.
 
 "Pitt! pitt! Du har hus fritt!" sa spurven.
 
-"Miau!  
-Men det er slemt å ha hus,  
-når det er så vondt for mus!  
-Miau!"
+> "Miau!  
+> Men det er slemt å ha hus,  
+> når det er så vondt for mus!  
+> Miau!"
 
 svarte katten.
 
-"Du har hage med tre;  
-det er ikke alle som har det,"
+> "Du har hage med tre;  
+> det er ikke alle som har det,"
 
 sa spurven.
 
-"Miau!  
-Men det er slemt å ha hage,  
-når alle skal ligge og gnage,  
-og det er vondt å ha tre,  
-når en aldri får ha det i fred.  
-Miau!"
+> "Miau!  
+> Men det er slemt å ha hage,  
+> når alle skal ligge og gnage,  
+> og det er vondt å ha tre,  
+> når en aldri får ha det i fred.  
+> Miau!"
 
 svarte katten.
 
-"Kvorr! kvorr!  
-Det er slemt å være katt,  
-når en aldri får noen fatt!  
-God natt!"
+> "Kvorr! kvorr!  
+> Det er slemt å være katt,  
+> når en aldri får noen fatt!  
+> God natt!"
 
 sa spurven og så fløy den.
 
@@ -69,19 +69,21 @@ Men da humlen kom like borttil slo den labben i den som et lyn.
 
 "Det var det verste! Det skal jeg fare langt bort og fortelle," sa humlen; den seilte avsted som en sort prikk, høyt over trærne, opp i luften og blev borte.
 
-"Au, au!  
-Klore går nok an, men stikke!  
-Isj da!  
-slikt nå gjør jeg ikke!  
-Au!"
+![Høne og katt](./mfma1.png)
+
+> "Au, au!  
+> Klore går nok an, men stikke!  
+> Isj da!  
+> slikt nå gjør jeg ikke!  
+> Au!"
 
 sa katten, den satt og livet og løftet på den hovne labben sin.
 
 Rett som den satt, kom der en høne snikende gjennom en åpning i gjerdet. Den strakte halsen hit - og trakk den i seg igjen, strakte den dit og trakk den i seg igjen.
 
-"Humlen er slem til å stikke og lyve,  
-men det verste av alt hva jeg vet, det er tyve.  
-Miau!"
+> "Humlen er slem til å stikke og lyve,  
+> men det verste av alt hva jeg vet, det er tyve.  
+> Miau!"
 
 tenkte katten, men den satt huggende stille og så på hønen.
 
@@ -109,10 +111,10 @@ Katten var etter den.
 
 Så hoppet den ned igjen, gikk langsomt bort under treet og løftet og strakte forsiktig på hver labb for ikke å skitne seg til.
 
-"Feil har jeg nok av, folk kan så si;  
-men rapse og stjele,  
-den feil er jeg fri!  
-Miau!"
+> "Feil har jeg nok av, folk kan så si;  
+> men rapse og stjele,  
+> den feil er jeg fri!  
+> Miau!"
 
 sa katten.
 
@@ -126,8 +128,8 @@ Og katten satt stille og knep øynene sammen; for det var så søtt å være i f
 
 Men da musen kom ganske nær, slo den kloen i.
 
-"Du har en skrott og jeg har en mage;  
-da får en tro, det er så laga,"
+> "Du har en skrott og jeg har en mage;  
+> da får en tro, det er så laga,"
 
 sa katten.
 
@@ -141,9 +143,9 @@ Men da den vel hadde sloppet, syntes den det var så synd på den skamferte muse
 
 "Spar! spar!" skrek musen.
 
-"Miau!  
-Jeg sparer flere jeg enn mangen!  
-Jeg dreper bare en om gangen!"
+> "Miau!  
+> Jeg sparer flere jeg enn mangen!  
+> Jeg dreper bare en om gangen!"
 
 svarte katten, og så åt den musen.
 
@@ -173,8 +175,12 @@ Men utenfor skigarden stod der en grisenoe, og ved siden av den stod en fet gris
 
 "Ja-ah! Er det ikke for galt. Hva skal enden bli!" skrek katten og begynte å gå og gå frem og tilbake som om den hadde fått tannverk.
 
-"Nåh, nåh, nåh, nåh, nåh! Rolig! rolig!" sa grisen.
+> "Nåh, nåh, nåh, nåh, nåh! Rolig! rolig!" sa grisen.
 
-"Miau!" sa katten.
+> "Miau!"
+
+sa katten.
 
 Og så satte den seg til å murre og male og syntes det var bedre å leve; for nå hadde den funnet en venn på Mi-au.
+
+![Gris og katt](./mfma2.png)

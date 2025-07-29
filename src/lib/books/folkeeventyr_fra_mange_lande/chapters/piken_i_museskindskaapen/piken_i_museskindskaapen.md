@@ -24,20 +24,21 @@ Kvelden før bryllupsdagen banket det på døra til herremannens datter, og da h
 
 Dagen etter ble bruden pyntet i sin fineste stas, og alle folkene på gården kom opp til hennes kammer for å se henne. Tilslutt sa hun: «La nå den stakkars fattigpiken som feier gården her også komme opp. Kan hende hun også gjerne vil se meg.» Så ble det sendt bud etter piken i museskinnskappa, og bruden stengte seg inne med henne og lot henne ta på seg de fine klærne og brudesløret; men selv tok hun på seg skinnskappa. Så ble herremannsdatteren ført ut i vogna til brudgommen, og hele brudefølget kjørte til kirka med dem. På veien kom de fremom haugen hun hadde sittet i. Da sukket hun under sløret og sa:
 
-«Der står de, som jeg stakk dem inn,
-hver pinne med sitt museskinn;
-der inne satt syv år i rad
-jeg stakkar og var aldri glad.»
+> «Der står de, som jeg stakk dem inn,
+> hver pinne med sitt museskinn;
+> der inne satt syv år i rad
+> jeg stakkar og var aldri glad.»
 
 «Hva sier du, min brud?» spurte brudgommen.
 
 «Å, jeg bare snakket noe med meg selv,» svarte hun. Da de kom inn i kirka, så hun bildene av begge foreldrene, et på hver side av alteret; men hun syntes de vendte seg mot veggen, og da gråt hun under sløret og sa:
 
-«Vend dere om igjen, dere bilder fine,
-vend dere, kjære foreldre mine!»
+> «Vend dere om igjen, dere bilder fine,
+> vend dere, kjære foreldre mine!»
 
 Da vendte bildene seg om igjen. «Hva sier du, min brud?» spurte brudgommen. «Å, jeg bare snakket noe med meg selv,» svarte hun igjen. Så ble de viet i kirka; herremannen satte en ring på hennes finger, og de kjørte hjem. Men straks bruden var steget ut av vogna, skyndte hun seg opp til jomfruens kammer og byttet klær med henne; men bruderingen hadde hun enda på fingeren, og da hun stod i museskinnskappa mellom de andre tjenestefolkene, var det ingen som kunne tenke at det var henne som nylig hadde stått brud for alteret. Om kvelden danset herremannen med den jomfrua som skulle vært bruden hans; så kom han til å se på hånden hennes og spurte: «Hvor er ringen jeg satte på fingeren din i kirka?» — «Jeg la den fra meg oppe på kammeret,» svarte hun; «men jeg skal gå opp og hente den.» Hun gikk da ut til piken i museskinnskappa og ville ha ringen. «Den hører med rette til den hånden som ble gitt bort ved alteret,» svarte herremannsdatteren. «Men jeg skal følge deg inn til døra; du kan si til brudgommen at han skal komme ut; men vi to blir stående i gangen. Så blåser vi ut lyset som står der, og jeg rekker hånden inn gjennom døra, for at han kan se ringen.»
 
 Dette gikk jomfrua straks inn på, og hun ropte på brudgommen. «Her ser du ringen,» sa hun; i det samme blåste de ut lyset, og herremannsdatteren rakte hånden inn gjennom døra. Men brudgommen var ikke nøyd med bare å se ringen; han drog piken inn i salen til seg. Der stod den stakkars fattigpiken i museskinnskappa; brudgommen ble rent forundret, og alle gjestene samlet seg om henne, for å få vite hvordan dette var gått til.
 
 Da kastet hun skinnskappa, og stod der i sin gullvirkede kledning, og alle syntes hun var mye vakrere enn den andre jomfrua. Så fortalte hun at hun hadde sittet syv år i haugen, og at hun var datter av den gamle herremannen. Den lille hunden ble også hentet, og mange av bryllupsfolkene kjente den igjen. Alle gledet og undret seg, og priste hennes far som hadde stridt så modig for land og konge, og alle mente at nå kom herregården i de rette hendene. Men for at alle skulle være like så glade som hun, så ga hun den andre jomfrua så mye, både av gods og gull, så hun kunne gifte seg med ham som hun hadde satt sitt hjerte til. Så ble det riktig holdt bryllup, og den unge herremannen danset med sin rette brud, henne som han var viet til i kirka.
+

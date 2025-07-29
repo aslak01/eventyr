@@ -66,6 +66,8 @@ Så førte den tro Johannes henne ned til skipet, og da kongen fikk se henne, sy
 
 «Opp med seilene!» sa han. «La nå skipet fly som fugl i luften!»
 
+![Kongen](./dtj1.png)
+
 Imidlertid viste kongen prinsessen alle gullsakene, stykke for stykke: skåler og kar og begre, gullfuglene og alle de underlige dyrene. Dette tok flere timer, og så glad var hun, mens hun så på alt sammen, at hun ikke merket at skipet dro avsted for fulle seil. Da hun hadde sett det siste stykket, takket hun kjøpmannen, og ville hjem igjen; men da hun kom opp på dekket, så hun at skipet var langt fra land og stevnet frem på åpne havet.
 
 «Å,» ropte hun, full av redsel, «jeg er narret og bortført; men heller vil jeg dø enn gi meg i en ussel kjøpmanns vold.»
@@ -97,6 +99,8 @@ Da sa den andre: «Jeg vet ennå mer: Om så hesten blir drept, får nok ikke ko
 Da sa den tredje: «Jeg vet ennå mer: om så brudgomsskjorten blir opbrent, får nok ikke kongen sin brud for det. Når han skal til å danse med henne i bryllupet, blir hun så blek med én gang og faller ned som død; og dersom da ikke noen løfter henne opp og suger tre blodsdråper av det høyre brystet hennes og spytter dem ut igjen, så dør hun. Men om noen vet det og sier det, så blir han til stein fra topp til tå.»
 
 Da ravnene hadde talt sådan med hverandre, fløy de sin vei igjen; men den tro Johannes hadde hørt det alt sammen og skjønt hvert ord. Fra den stund var han få mælt og tung til sinns; for tidde han med det han hadde hørt, så måtte kongen bli ulykkelig, og sa han det til ham, så kostet det ham selv livet. Men til slutt ble han enig med seg selv.
+
+![Hesten foran skip](./dtj2.png)
 
 «Jeg vil frelse min herre,» tenkte han, «om jeg så selv må sette livet til på det.»
 
@@ -151,3 +155,4 @@ Dronningen ble blek av redsel; men allikevel svarte hun: «Vi skylder ham dette 
 Da gledet kongen seg, fordi hun tenkte på samme måte som han selv, gikk bort og lukket opp skapet, hentet frem barna og den tro Johannes, og sa: «Gud være lovet, han er frelst, og småguttene våre har vi også fått igjen.»
 
 Og så fortalte han henne hvordan det hele var gått til. Siden levde de sammen lykkelig og vel alle sine dager.
+

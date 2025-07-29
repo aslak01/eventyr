@@ -118,6 +118,8 @@ Hektor hadde kjent Ajaks mål. Den la seg på gangdøren med all sin makt, rev o
 
 Med høyt løftet hode setter det store dyr i tunge sprang nordover, forbi Ola Styggpåjord som springer andpusten med øksen i hånden, og rett inn i ulveflokken. Den gjør et slag hit og et slag dit med det veldige hode, før den finner det den søker. Men så tar den tak, og Ola Styggpåjord stanser og stirrer, og vi i vinduet står betatt og revet med i det skuespill av ubendig kraft og villhet som nå tok sin begynnelse.
 
+![Ulvene](./ulveslaget1.png)
+
 En høy, mager ulv blev løftet og slengt, så vi så hele dens kropp mot himmelen. Taket glapp, men med et voldsomt sprang lå Hektor over den, tok strupetak straks og slengte den hit og slengte den dit, så sneen sprutet høyt.
 
 Et helt langt minutt holdt den taket fast, mens ulven kastet og vred seg i dødstrekkingene. Så slapp den med ett, løftet hodet stolt og så seg om etter Ajaks.
@@ -153,6 +155,8 @@ Rett som vi stod der i vedskålen, blåfrosne av kulde, vi smågutter, og så p�
 "Å er'n Flink etter," gjentok hun, bet i vottene og så seg rådløs omkring, mens tårene rant.
 
 "Du får sjå nordpå," svarte Ola Styggpåjord, han drog i ulveskinnet så det knaket i den magre skrott.
+
+![Ulv i uthus](./ulveslaget2.png)
 
 Jenten så på ham, hjelpeløst, vendte seg og stirret nordover; så gikk hun langsomt.
 
@@ -212,16 +216,16 @@ Og der blev sunget ved graven, og der blev talt, og den kolde gravmuld blev kast
 
 Om eftermiddagen gikk far ned for å se. Og han fant det skjeve trekors i sneen, og han leste den klossete barneskrift:
 
-Her hviler Hunden Flink  
-død i  
-det svære Ulveslag  
-stått på  
-Rendalens Prestegård  
-den 18de dennes  
-1858.  
-Fred med dit Støv  
-velsignet være dit  
-Minde.
+> Her hviler Hunden Flink  
+> død i  
+> det svære Ulveslag  
+> stått på  
+> Rendalens Prestegård  
+> den 18de dennes  
+> 1858.  
+> Fred med dit Støv  
+> velsignet være dit  
+> Minde.
 
 Og da han kom oppover igjen, strøk han meg over hodet så mildt, så mildt der jeg stod og ventet for å lese i hans ansikt.
 

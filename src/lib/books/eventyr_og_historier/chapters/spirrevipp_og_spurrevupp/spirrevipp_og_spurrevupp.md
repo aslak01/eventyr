@@ -62,6 +62,8 @@ Det var to spurver fra nabogården som kom flyvende og slo seg ned, en ung og en
 
 "Ikke verre?" sa den gamle madam, hun ristet sine grå fjær og gned seg under buken med nebbet, men var i grunnen forargelig; for hun visste om et nek som ville komme opp i dag på låvebrostangen.
 
+![Småfugl](./sos1.png)
+
 Hun flyttet seg litt på grenen, hun fløy høyere opp, men lot som ingenting, enda hun herfra kunne se at det alt gulnet på stangen ved låven; så satt hun bom stille i mange minutter.
 
 "Vakkert vær," sa nabomadammen.

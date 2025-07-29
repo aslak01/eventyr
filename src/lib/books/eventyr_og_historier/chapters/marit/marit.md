@@ -178,6 +178,8 @@ Og en fremmed mann fra den bygd der hun hadde hjemme, satt dagstøtt ute i dreng
 
 Det skar meg i hjertet med en ukjent smerte; jeg gikk for meg selv og sørget, og jeg kjente meg syk over hele kroppen.
 
+![Ved vannet](./marit1.png)
+
 En dag traff hun meg slik, tok meg tett inntil seg og spurte hva som feilte.
 
 Jeg gjorde først motstand, såret og syk; men så fikk den gamle kjærlighet overtak, og så brast det ut:

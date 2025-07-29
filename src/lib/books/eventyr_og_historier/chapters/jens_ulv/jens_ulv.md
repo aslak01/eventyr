@@ -28,6 +28,8 @@ Klokkerdrengen ble kald der han stod, men kom seg alikevel bakom en unggran, som
 
 Den som ulte, kom fort dragende, og i måneskinnet så han det var en krugget mann med stav i hånd. Kommet frem til myren rettet han seg, mannen, dro vær mest som en hund og ulte. Gikk så fort i vei, like forbi busken der klokkergutten stod. Men denne ble stående som fjetret; for da han fikk se ham i ansiktet, der han dro forbi, så han at det var Jens klokker, husbonden hans.
 
+![Ute i skogen](./ju1.png)
+
 Lenge ble han stående, for han torde ikke gå; men til slutt tok han kuten skogleies, benveis, det forteste han orket.
 
 Da han kom hjem om kvelden, var alt stille.
@@ -69,6 +71,8 @@ Presten gikk like inn til søsteren.
 "Her er jeg," sa klokkeren, han satt ved bordet og åt kveldsmat og stirret på presten.
 
 Presten ble blek.
+
+![Katt på kirkegård](./ju2.png)
 
 "Det var bare kirkenøklene jeg ville levere," sa han og rakte dem frem.
 

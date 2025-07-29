@@ -6,27 +6,27 @@ subtitle: "Engelsk eventyr"
 
 I kong Arturs tid levde i England en bonde som hadde en eneste sønn; han hette Jakob og var både sterk og slu og modig. På samme tid hadde en veldig rise, som hette Kormoran, sitt tilhold i en mørk hule på Mikkelsberget. Hele strøket var plaget av denne røveren, og derfor satte den modige Jakob seg fore å gjøre ende på ham. Han tok med seg et jakthorn, en hakke og en blendlykt, og en kveld svømte han ut til Mikkelsberget, som ligger ute i havet. Han la seg ikke på latsiden, og før solen rante, hadde han gravd et hull, to og tyve fot dypt og nesten likeså bredt. Han dekket det til med grener, løv og kvas og strødde muld oppå, så det lignet fast grunn. Derefter blåste han så sterkt i hornet så risen våknet. Han kom ut og brølte med tordenrøst: «Hva er du for en liten fyr som våger å vekke meg? Imorgen skal jeg steke deg til frokost!» Men i det samme han hadde sagt det, falt han på hodet ned i hullet. «Ha ha!» sa Jakob, «nå får du se å stagge matnygen på annen vis; for det blir nok ikke stort du får til frokost, skal du vente til du får stekt meg.» Risen prøvde å komme på benene; men Jakob gav ham et slag i hodet med hakken, så han døde på flekken. Da de styrende på de kanter hørte om denne djerve dåd, sendte de bud efter Jakob, og sa at herefter skulle han bære navnet Jakob Kjæmpebane. De gav ham et sverd og et belte, og på det stod skrevet med gullbokstaver:
 
-«Her kan I se den tapre mann  
-som drepte risen Kormoran.»
+> «Her kan I se den tapre mann  
+> som drepte risen Kormoran.»
 
 Over hele England gikk det nå ry av Jakobs store verk, og en annen rise, ved navn Blunderbor, svor ham hevn. Denne risen hadde et forhekset slott, som lå midt inne i en ødslig skog. En dag var Jakob på reise gjennom denne skogen, og da han ble trett, satte han seg ned for å hvile seg ved en bekk, og så falt han i søvn. Risen kom imidlertid for å hente vann i bekken og fikk se Jakob. Skriften på beltet viste hvem han var, og risen løftet ham da varlig opp på ryggen, for å bære ham hjem til sitt slott; men da veien gikk gjennom tetteste skogen, våknet Jakob av at kvistene slo ham om ørene, og han ble ikke lite redd, da han merket at han var kommet i klørne på Blunderbor.
 
 Da de kom til slottet, stengte risen ham inne i ett av rommene der, og gikk ut for å hente en annen kjempe, som bodde på en annen kant av skogen; han skulle nå være med å ete Jakob til middag. Da risen var borte, hørte Jakob skrik og jammer fra alle kanter av slottet, og med en gang hørte han noen synge:
 
-«Opp, fremmedmann, og skynd deg bort,  
-for ellers blir ditt liv kun kort.  
-Når Blunderbor kommer hjem igjen,  
-så har han med en grusom venn.  
-De slakter deg, de steker deg,  
-de eter deg, flyr du ei din vei.»
+> «Opp, fremmedmann, og skynd deg bort,  
+> for ellers blir ditt liv kun kort.  
+> Når Blunderbor kommer hjem igjen,  
+> så har han med en grusom venn.  
+> De slakter deg, de steker deg,  
+> de eter deg, flyr du ei din vei.»
 
 Da nå Jakob så ut av vinduet, som var bent over slottporten, fikk han øye på begge kjempene som kom gående. Nå gjelder det liv eller død, tenkte han. I værelset fant han to sterke rep, gjorde rendesnarer i endene på dem begge, og da riserne var bent under porten, kastet han rendesnarene over hodene på dem; den andre enden av tauene gjorde han fast i loftsbjelken, og så drog han i av alle livenes krefter, så riserne ble sorte i ansiktet, for de var nesten strutt, og da det ikke var stort mer liv i dem, firet han seg ned efter repene og drepte dem. Han drog et stort nøkkelknippe frem av lommen til Blunderbor, og så gikk han omkring alle steder i slottet. Han fant tre kvinner, som sat innestengd, halvdøde av sult. De fortalte at riserne hadde drept deres menn og dømt dem selv til å sulte ihjel. Jakob syntes stor synd i dem, rakte dem nøklene og lot dem få til odel og eie hele risegården og all den rikdom som der fantes.
 
 Jakob drog nå videre, men kom på villstrå, og visste ikke hvor det bar avsted. Tilslutt nådde han frem til et stort hus, og da han banket på porten, kom det ut en rise med to hoder. Han gjorde seg svært blid mot Jakob, bød ham komme inn og lot ham få et værelse med en god seng. Men da Jakob hadde lagt seg, og risen trodde han sov, hørte Jakob at han gikk opp og ned i et annet værelse og snakket med seg selv:
 
-«Du hviler under risens tak;  
-du skal ei mer se sol og dag,  
-men falle for min klubbes slag.»
+> «Du hviler under risens tak;  
+> du skal ei mer se sol og dag,  
+> men falle for min klubbes slag.»
 
 Da stod Jakob opp av sengen, tok en stor treklubbe og la under dynen, og så gjemte han seg i en mørk krok. Ved midnattstid kom risen inn med sin svære klubbe og slo seks åtte slag på klubben som lå i sengen. Så gikk han sin vei, og mente at nå hadde han knust hvert ben i Jakob. Om morgenen kom Jakob nokså kry inn til risen og takket for godt herberge. Kjempen holdt på å tape munn og mæle, så forundret ble han. «Kjære, er det deg?» spurte han. «Har du sovet godt i natt, eller ble du urodd av noen ting?» — «Ikke noget å nevne,» svarte Jakob; «jeg kjente nok noget som krabbde over hodet mitt; det var vel bare en rotte.» Risen sa ikke noget, men bar inn to store fat med kjøtt og flesk. Nå kunne de jo for moro skyld ete i kapp, sa Jakob, og det gikk risen med på. Men Jakob hadde festet en skinnsekk under trøyen, og i sekken puttet han maten; men risen trodde han sat og åt hele tiden. Tilslutt la kjempen fra seg kniven, for han orket ikke mer. «Er du alt ferdig?» sa Jakob. «Jeg er ikke halvmett enda. Nå skal jeg lære deg en vakker kunst, så kan du ete så mye du vil.» Dermed tok han en kniv og sprettet hull på sekken, så kjøttet og flesket falt i en haug på gulvet. «Kan du gjøre slikt, så kan vel jeg med,» sa risen og skar opp magen sin, så han døde på flekken.
 
@@ -44,9 +44,10 @@ Da Jakob hadde vært noen tid hos ridderen, drog han atter ut på eventyr. Han b
 
 Jakob sa han ville friste, og neste morgen gjorde han seg ferdig. Da han kom opp på fjellet, så han dragene ved porten; men enda han gikk bent bort til dem, så ikke de ham; for han hadde på seg usynlighetskåpe. På muren tett ved porten hang en gulltrompet, og over porten stod det skrevet:
 
-«Når denne trompeten høres skralle,  
-da skal både risen og trollmannen falle.»
+> «Når denne trompeten høres skralle,  
+> da skal både risen og trollmannen falle.»
 
 Jakob tok trompeten og satte i å blåse, og da visste de to derinde at nå var deres makt til ende. Jakob drepte risen med sitt sverd; men heksemesteren fløy bort med en hvirvelvind. Hertugdatteren og alle de forgjorte riddere og fruer skiftet nå ham og ble til mennesker igjen, og slottet ble borte som en røyk.
 
 Nå ble Jakob Kjæmpebanes ry større enn noensinne, hertugen gav ham sin fagre datter til viv, kong Artur gav ham borg og gods, og der levde han og hans frue siden i lykke og gammen til sine dagers ende.
+

@@ -6,9 +6,13 @@ Men selv syntes hun at alt hun så var styggere enn stygt; for hun var av bergta
 
 Friere hadde hun nok av, som rimelig kunne være; men alle ga hun nei; for hun gikk der og ventet på ham som var vakrest på hele jorden, og han kom aldri. Dermed så fikk hun navnet Styggvakker-Mari.
 
+![Styggvakker-Mari](./sm1.png)
+
 Så hendte det seg et år, at fylkesmannen kom kjørende oppover dalen der denne jenten bodde. To hester hadde han for vognen, og i gullbukser satt han og var så gild at det lavet av ham. Og ikke så han etter folk hverken på venstre siden eller på høyre siden, men kjørte bare rakt frem etter nesen, der brede kongeveien gikk.
 
 Rett som han drev og kjørte, møtte han Styggvakker-Mari. Og hadde det ikke vært liv i ham før, så blev det da nå. Han spratt ende opp i vognen der han satt, og bråstanset hestene sine.
+
+![Fylkesmannen](./sm2.png)
 
 "Nei, nå har jeg vært fylkesmann i tyve år, men vakrere jente har jeg aldri sett," sa han og var blid som godt vær i ansiktet.
 
@@ -29,6 +33,8 @@ Da blev fylkesmannen sint. "Vet du ikke, at nest etter kongen er jeg den gildest
 "Gud bevare kongen," sa fylkesmannen, han snudde seg etter jenten. Og så kjørte han bent frem etter nesen igjen, og ikke så han etter folk hverken på høyre siden eller på venstre siden.
 
 Året etter hendte det seg at selv bispen kom kjørende samme vei. Fire hester hadde han for vognen og gullkors på brystet og var så fin og andektig at det lyste av ham. Og ikke så han til høyre og ikke til venstre, men bare ende opp, dit nesen pekte.
+
+![Bispen](./sm3.png)
 
 Rett som han drev og kjørte, møtte han Styggvakker-Mari. Og var det ikke liv i bispen før, så blev det da nå.
 
@@ -76,6 +82,8 @@ Da blev kongen sprutende sint. "Vet du ikke, at nest etter Vårherre er jeg den 
 
 "Da er Vårherre likere," sa Styggvakker-Mari.
 
+![Kongen](./sm4.png)
+
 Men da ropte kongen på alle soldatene sine, at de skulle ta Styggvakker-Mari og jage henne ut i ville skogen. Og budstikken sendte han rundt med den beskjed, at hver og en som hadde noe med Styggvakker-Mari etter den dag, han skulle miste både fot og hånd; for så stor synd var aldri gjort i hele kongens land som den, at en jente ikke ville gifte seg med selveste kongen.
 
 Og alle folk i bygden mente som kongen mente, og gikk og åndet og bar seg over jenten, som ikke ville som kongen ville.
@@ -83,6 +91,8 @@ Og alle folk i bygden mente som kongen mente, og gikk og åndet og bar seg over 
 Men dypt inne i skogen gikk Styggvakker-Mari med matløp i hånd og tørklæ på og blinkende belte om livet. Og så vakker var hun, at kongen og alle soldatene hans som hadde jaget henne ut i ville skogen, snudde på hodene sine alle i hop og så etter henne, så lenge til hun blev borte for dem.
 
 Og blomstene som lå og sov i solsteken, reiste seg der hun kom, og trærne som stod og svettet kvae i varmen, bøyde kvistene sine etter henne der hun gikk. Men Styggvakker-Mari gikk ende fram, og ikke hørte hun og ikke så hun, for hun drømte om ham som var vakrest i verden.
+
+![Reven](./sm5.png)
 
 Rett som hun gikk, møtte hun en rev.
 
@@ -106,6 +116,8 @@ Men da kom der en skjære flyvende, satte seg i et tre over reven og ropte:
 
 "Hei du! Hei du! Er du ute med skøyerstrekenene dine nå igjen? Er du ute med skøyerstrekenene dine nå igjen? Jeg kjenner deg, jeg! Jeg kjenner deg!" sa skjæren.
 
+![Grevlingen](./sm6.png)
+
 Men da satte reven halen ende ut og skjøt seg avsted i kors og krok bort mellom buskene, og vekk var den. Og solen gikk ned og skyggene falt, og fuglene satt så stilt og så varmt og bad kveldsbønn på kvistene sine. Men jenten gikk ensomt lenger inn etter ham som var vakrest på jorden.
 
 Rett som hun gikk, møtte hun en grevling.
@@ -123,6 +135,8 @@ Men da blev grevlingen så sint at han mest sprakk.
 "Du vet nok ikke hvem det er du taler til, du," sa grevlingen. "For jeg er bisp her i skogen, jeg. Og såpass skjønner jeg at det står dårlig til med sjelen din. For jorden er en jammerdal, det er sikkert og visst."
 
 "Å ja, å ja!" sa kråkene, de satt andektige i trærne rundt omkring med hodet på skakke og hørte på.
+
+![Bjørnen](./sm7.png)
 
 "Men under jorden er det bra," sa grevlingen. "Og vil du bli grevlingkonen min og følge meg i det som tykt er og det som tynt er, så skal du få det både lunt og godt. Men jorden er en jammerdal," sa han, "og livet her oppe i skogen er et syndig liv," sa han.
 
@@ -146,6 +160,8 @@ Da blev bjørnen tordnende sint.
 
 "Ho ho ho ho ho ho!" hukret haren og lo oppe i fjellbåndet, og med det samme rann solen. Da tasset bjørnen skamfull inn i tykkskogen, og borte blev den.
 
+![Haren](./sm8.png)
+
 Og solen den skjen og duggen den skalv, og myrene duftet av glede. Men Styggvakker-Mari så intet av alt; for hun tenkte på ham som var vakrest på jorden.
 
 Rett som hun gikk fremved en myr, møtte hun en frosk som lå i veien og glante.
@@ -158,7 +174,13 @@ Rett som hun gikk fremved en myr, møtte hun en frosk som lå i veien og glante.
 
 Men førenn Styggvakker-Mari visste ordet av, stod hun på ville fjellet.
 
-Oppe på fjellet var det øde og stygt, og snepurven sa "Pipp pi borte pi!" og fløy vekk. Og Styggvakker-Mari gikk sorgfull for seg selv, og tenkte på ham som var vakrest i verden.
+"Pip pip pip!" sa lemenene, og borte var de.
+
+"Tit," sa snespurven og skjøt seg i lange skvett unda og nedover. Og vidden lå øde omkring, styggere enn det styggeste stygge.
+
+Og Styggvakker-Mari gikk og gikk, sorgfull i sinn, for intet var vakkert uten hun selv, og borte var han som var vakrest i verden.
+
+![Frosken](./sm9.png)
 
 Rett som hun gikk, kom hun til en liten steinbu. Der inne lå en lus i en krok og varmet seg.
 
@@ -167,6 +189,8 @@ Rett som hun gikk, kom hun til en liten steinbu. Der inne lå en lus i en krok o
 "Stort og småt og styg og skrap og herk, fandes aldri verre verk," svarte Styggvakker-Mari.
 
 Da blev lusen rent grå av sinne.
+
+![Lusen](./sm10.png)
 
 "Du vet nok ikke hva det er for en du snakker til, du," sa den. "Ikke er jeg en lus som folk er flest; for her lå en prins i fjor sommer på jakten, og av hans blod er jeg."
 

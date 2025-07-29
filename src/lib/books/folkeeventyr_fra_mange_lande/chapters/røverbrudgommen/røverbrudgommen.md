@@ -18,13 +18,13 @@ Hun søkte påskudd til å la være å komme, og sa at hun ikke kunne finne veie
 
 Søndagen kom, og piken måtte da avsted; men hun var så redd, enda hun ikke selv visste hva hun var redd for, og for å merke seg veien, fylte hun begge lommene sine med gryn og erter. Da hun kom til skogen, så hun asken som var strødd der, og den fulgte hun; men allikevel kastet hun, rett som det var, et par erter langs veien, snart til høyre og snart til venstre. Hun gikk nesten hele dagen, til hun kom inn i tette skogen, hvor den var mørkest, og her fikk hun øye på et enslig hus; det så skummelt og uhyggelig ut. Allikevel gikk hun inn, men fant ikke et menneske, og i førstningen hørte hun ikke en lyd; men så hørte hun en røst som ropte:
 
-«Vend om, du brud så fager og god!
-Denne morderhule krever ditt blod.»
+> «Vend om, du brud så fager og god!
+> Denne morderhule krever ditt blod.»
 
 Hun så seg om, og merket at stemmen kom fra en fugl, som satt i et bur i vinduet. Enda en gang ropte den:
 
-«Vend om, du brud så fager og god!
-Denne morderhule krever ditt blod.»
+> «Vend om, du brud så fager og god!
+> Denne morderhule krever ditt blod.»
 
 Hun gikk nå videre fra rom til rom; men ikke et liv var å se. Til slutt kom hun ned i kjelleren. Der satt en eldgammel kone og vagget med hodet.
 
@@ -44,6 +44,8 @@ Men da skyndte kjerringen seg å si: «Kom nå til bords! I morgen kan dere lete
 
 «Det har du rett i,» sa røveren, og så satte de seg til bords alle sammen. Konen hadde dryppet sovedråper i vinen, og det varte ikke lenge, før de ble øre og søvntunge; de la seg ned på gulvet, den ene etter den andre, og snart lå de alle og snorket.
 
+![Vertshus](./rbg1.png)
+
 Da bruden merket at de lå i dyp søvn, kom hun frem bak karet; hun måtte stige over alle røverne, som lå bortetter gulvet i en lang rekke, og hun var gruelig redd for at noen av dem skulle våkne. Men lykken var henne god; hun kom godt og vel over dem og frem til døren, sammen med den gamle konen. Så lukket de varlig opp døren, og skyndte seg avsted, så hastig de kunne, bort fra morderhula.
 
 Asken som røveren hadde strødd ut, var blåst bort; men ertene og grynene, som piken selv hadde strødd, hadde slått rot og var skutt opp, og de viste dem veien i måneskinnnet. De gikk hele natten og nådde frem til møllen i gryningen. Og nå fortalte piken sin far alt det som var hendt henne.
@@ -54,11 +56,12 @@ Den dagen da bryllupet skulle stå, kom brudgommen til møllen, og brudens far h
 
 Hun svarte da straks: «Jeg kan fortelle en drøm jeg nylig har hatt. Jeg gikk alene gjennom en skog og kom langt om lenge til et hus. Der gikk jeg inn, men ikke et liv var å se der; men i et bur ved vinduet satt en fugl og ropte:
 
-«Vend om, du brud så fager og god!
-Denne morderhule krever ditt blod!»
+> «Vend om, du brud så fager og god!
+> Denne morderhule krever ditt blod!»
 
 Og slik ropte den en gang til — Ja, det var jo bare en drøm, min venn!» la hun til og så på brudgommen.
 
 Så ble hun ved å fortelle: «Jeg gikk gjennom alle stuene, tomt var det overalt, og det var så uhyggelig alle steder. Til slutt kom jeg ned i kjelleren; der satt en gammel kone og vagget med hodet. 'Bor ikke brudgommen min her?' spurte jeg. Hun svarte: 'Å du stakkars barn! Det er en fæl morderhule du er kommet til. Brudgommen din har bare i sinne å drepe deg og hugge deg i stykker, og så vil han koke deg og ete deg opp.' — Ja, det var jo bare en drøm, min venn! — Men konen gjemte meg bak et kar, og straks etter at jeg hadde satt meg ned der, kom røverne hjem, og slapp med seg en jomfru; henne lot de drikke tre glass vin, og av det brast hennes hjerte. — Ja, det var jo bare en drøm, min venn! — Så dro de av henne de fine klærne, la henne opp på et bord, hugg hennes fagre legeme i mange stykker og strødde salt på. — Ja, det var jo bare en drøm, min venn! — Men så fikk en av røverne se en ring som satt på lillefingeren hennes, og da han ikke straks fikk ringen løs, så hugg han fingeren av, og den fór over karet og falt ned i mitt fang. Her er fingeren med ringen!»
 
 I det samme tok hun den frem og viste den til alle som satt ved bordet. Under denne fortellingen var røveren blitt blek som et lik; nå sprang han opp og ville rømme sin vei, men gjestene holdt ham fast og bandt ham. Han ble ført for retten, og både han og alle de andre i røverlaget måtte bøte med livet for sine misgjerninger.
+

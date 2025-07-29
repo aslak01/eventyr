@@ -24,6 +24,8 @@ Så var det en dag moren holdt på å kjerne smør, og rømmen var nettop som fr
 
 "Ja, om han enda det gjorde," svarte Vriom-vrang. Dermed veltet han rømmekjernen og gikk sin vei.
 
+![Kjerne rømme](./vov1.png)
+
 Så var det en gang i våronnen gutten stod og så på at far hans kjørte gjødsel.
 
 "Stå ikke der og kop," sa faren. "Gakk sta og spenn for en hest og kjør gjødsel du som jeg, en lyt legge seg i, den som bonde skal bli," sa han.

@@ -1,5 +1,7 @@
 # Gutten som døyvet trollet
 
+![Troll gjesper](./gsdt1.png)
+
 Det var en gang et troll, som bodde i et digert bergras langt, langt nord på fjellet. Øde var der for folk vidt omkring, og trollet kom ikke frem til dagens lys mer enn en gang hvert hundre år.
 
 Leve gjorde det av fjells marg, og i nordenvind og skodde gikk det kledd. Sterkt var det som selve tordenen og framifra i forstand for troll å være.
@@ -72,6 +74,8 @@ Jo, trollet skulle nok vente, det var ingen fare med det.
 
 Og så satte de seg hver på sin stein, tok opp nisten sin og åt seg gode og mette.
 
+![Troll løper etter tog](./gsdt2.png)
+
 Rett som det var, hørte de det pipe langt i nord.
 
 "Nå får vi lage oss i stand, for nå knegger hesten min," sa gutten til trollet. Og ikke før hadde de fått igjen skreppene sine, så kom der et underlig dyr strevende og pustende frem over fjellet og stanset like foran gutten og trollet. Og ikke var det hest, og ikke var det vogn, og enda var det både hest og vogn.
@@ -112,6 +116,8 @@ Så laget det til en slipestein for hver fot og en for hver hånd, og så veivet
 
 Men jo mer det veivet og jo mer det kjeivet, jo dårligere gikk det, og til slutt stupte trollet på nesen like ned i en diger grop, og slipestenene i vei, den ene hit og den andre dit på rull og i tull utover lia.
 
+![Troll på slipestein](./gsdt3.png)
+
 "Fort og galt," sa gutten, han lå på bakken og lo.
 
 Men trollet reiste seg og var eitrende sint.
@@ -123,6 +129,8 @@ Gutten satte seg på en stein, han, og så på, og ikke blunket han i øynene en
 "Vel er du sterk," sa han, "men ikke tror jeg du tør neves med meg."
 
 "Din skoplugg!" sa trollet og så på ham, så det gufset varmt. "Kom skal jeg knuse deg så små som sand i strand," ropte det og rakte neven frem.
+
+![Troll får støt](./gsdt4.png)
 
 "Bare bi til jeg får frem fingrene mine," svarte gutten, og så tok han opp av skreppen sin en liten firkantet kasse, og ut av den tok han to små blanke messingstenger og holdt frem til trollet.
 
@@ -230,9 +238,13 @@ Med det samme hørtes der et smell! Og bergporten til himmels, så steinspruten 
 
 Da gutten kom bort til det, hadde det så vidt fått kroket seg opp igjen og satt på bakken og gråt. "Nei nå er menneskene blitt slik, at det ikke nytter å være troll lenger," sa det.
 
+![Troll ser på by](./gsdt5.png)
+
 "Men i all verdens navn, hva er det for fanteri du har i fingrene dine, du da?" spurte det, det hikstet og tørket seg.
 
 "Dynamitt," svarte gutten.
+
+![Troll på vidda](./gsdt6.png)
 
 "Ditt og mitt," sa trollet. "Ja, var det ikke det jeg tenkte; for alltid blir det leven, når en rører ved det."
 
@@ -245,6 +257,8 @@ Før de visste ordet av, stod de på selve Ekeberg. Kveld var det blitt, og inge
 "Byen, der alle menneskene bor," sa gutten.
 
 Med det samme tentes alle lys. Og det kimte i klokker og glitret fra spir, og det hvelvet av broer og hus og slott, og duren steg av den store by som en veldig tone høyt over fjellene.
+
+![Troll går inn i fjell](./gsdt7.png)
 
 "Ånei, ånei da!" sa trollet, det tok seg med begge hender til hodet og begynte å gråte.
 

@@ -94,6 +94,11 @@ Så førte han ham gjennem mørke ganger til en smidje; der tok han en øks og s
 
 «Mange takk, det er godt og vel,» svarte gutten; «men det er da harmelig, at jeg ikke kan lære å grøsse.»
 
+![Gutten og gammel mann](./gsdokfalag1.png)
+
 Gullet blev hentet fram, og bryllupet blev holdt, og den unge kongen var meget glad i sin dronning; men så godt han syntes han hadde det, så sukket han likevel jevnt og stadig på sin gamle måte: «Bare jeg kunne lære å grøsse!» Dette blev dronninga tilslutt kjed av, og kammerpiken sa da: «Jeg vet råd; han skal snart få lære å grøsse.» De fulgte da ned til bekken, som rant gjennom hagen, og fanget et spann fullt av små stikinger og annen fiskeyngel. Om natta, mens den unge kongen sov, tok dronninga dyna av ham og tømte spandet med all småfisken ut over ham, så fiskene hoppet og spreltet omkring beina på ham. Da bråvåknet han og ropte: «Uff, det grøsser i meg! Kjære kone, det grøsser i meg!»
 
 Så hadde han da endelig lært å grøsse.
+
+![Vætet seng](./gsdokfalag2.png)
+

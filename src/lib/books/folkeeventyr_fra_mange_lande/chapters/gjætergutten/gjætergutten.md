@@ -46,24 +46,24 @@ Dagen etter drev gutten ut buskapen, sang visene sine og ringte med den lille kl
 
 Da risen var borte, kom kongsdatteren til vinduet og sang:
 
-«I natt, i natt, du gjetergutten min,
-går skyen bort fra rom stjerne,
-og kommer du da, så blir jeg vel din,
-og gullkrona gir jeg deg gjerne.»
+> «I natt, i natt, du gjetergutten min,
+> går skyen bort fra rom stjerne,
+> og kommer du da, så blir jeg vel din,
+> og gullkrona gir jeg deg gjerne.»
 
 Gutten hørte vel etter, og skjønte at han skulle komme om natten og frelse kongsdatteren; men han lot som ingenting. Da det led ut på natten, og alle lå i dyp søvn, smøg han seg bort under tårnet og sang:
 
-«I natt så venter gjetergutten din,
-helt full av lengsel og kvide,
-og kommer du ned, så blir du vel min,
-mens skyggen faller så vide.»
+> «I natt så venter gjetergutten din,
+> helt full av lengsel og kvide,
+> og kommer du ned, så blir du vel min,
+> mens skyggen faller så vide.»
 
 «Jeg er bundet med gulllenker,» sa prinsessen sakte ned til ham; «kom opp og bryt dem!» Gutten visste ingen råd til dette; men så tok han frem pipen og blåste en lang tone. «God kveld!» var det noen som sa like bak ham. «God kveld igjen!» svarte gutten og snudde seg. Da fikk han se alvekongen som hadde gitt ham pipen og klokka. «Hva vil du meg?» spurte alvekongen. «Kan du hjelpe meg og prinsessen bort herfra?» sa gutten. «Ja, følg med meg!» sa alven, og gikk foran opp i tårnet til jomfruburet. Døra åpnet seg av seg selv, og da de kom inn til prinsessen, og alvekongen rørte ved gulllenka, falt den straks av henne. Så gikk de alle tre ned til stranda, og alvekongen sang:
 
-«Du gjedde som svømmer i sivet snygg,
-kom hit, kom fatt under landet!
-En fager prinsesse bær på din rygg
-med en konge gjæv over vannet!»
+> «Du gjedde som svømmer i sivet snygg,
+> kom hit, kom fatt under landet!
+> En fager prinsesse bær på din rygg
+> med en konge gjæv over vannet!»
 
 I det samme stod den lille prinsessen som hadde mistet den røde luen, ved siden av dem; hun hoppet ut i vannet og ble til en stor gjedde. «Sett dere nå på ryggen til gjedda,» sa alvekongen; «men hva det så hender, må prinsessen ikke bli redd; for da er det ute med min makt.» I det samme alven hadde sagt dette, ble han borte; men gutten og kongsdatteren satte seg opp på gjedda, og den førte dem bortover vannet.
 
@@ -80,3 +80,4 @@ Mens de holdt på å feire som best, bød risen sine tjenere at de skulle hente 
 Da risen fikk se denne veldige krigsmann, ropte han: «Tvi deg, din arge troll!» Og øynene hans var så hvasse at han så tvert igjennom rustningen. Men gutten ble ikke redd likevel. «Nå skal vi stride om bruden,» sa han og drog sverdet. Det lued som ild, og da risen så det, ble han likblek; for nå visste han at det var ute med ham. Men gutten løftet sverdet og hogg hodet av risen med et eneste hogg. Da risene i brudefølget fikk se det, ble de redde og skyndte seg hjem hver til sitt; men kongsdatteren gikk bort og kysset gjetergutten, og sa at hun aldri ville ha noen annen til brudgom enn sin redningsmann.
 
 Så gikk de ned til stranda og satte ut risens skip; med det seilte de over vannet, og deretter drog de videre, til de kom til kongsgården. Der ble det stor glede, kan en vite, fordi kongen hadde fått igjen sin eneste datter, som han hadde sørget så lenge over. Og da ble det holdt bryllup, så det spurtes i syv kongeriker.
+
