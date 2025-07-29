@@ -6,7 +6,7 @@ import markedSequentialHooks from "marked-sequential-hooks";
 import type { BookData, Chapter, OptimizedImage } from "../types/types";
 import type { createPathHelper } from "../utils/paths";
 
-import { processMarkdownImages } from "../image_processing/image";
+import { processMarkdownImages } from "../image_processing/image-simple";
 import { htmlHead } from "../components/htmlHead";
 import { siteHeaderGenerator } from "../components/siteHeader";
 import { siteFooterGenerator } from "../components/siteFooter";

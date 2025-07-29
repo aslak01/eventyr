@@ -1,7 +1,7 @@
 import { join, extname, basename } from "path";
 import { readdir, mkdir, copyFile, stat } from "fs/promises";
+import { createHash } from "crypto";
 import sharp from "sharp";
-import { execSync } from "child_process";
 
 import type {
   BookData,
@@ -14,22 +14,106 @@ import { writeFile } from "fs/promises";
 
 type PathHelper = ReturnType<typeof createPathHelper>;
 
-// Get Git hash for the last commit that modified this specific file
-function getGitHash(filePath: string): string | null {
+// Get content hash of image file - reliable across all environments
+async function getContentHash(filePath: string): Promise<string | null> {
   try {
-    // Use git log to get the last commit hash that modified this specific file
-    // This works consistently across local and CI environments
-    const hash = execSync(`git log -1 --format="%H" -- "${filePath}"`, { 
-      encoding: 'utf8',
-      cwd: process.cwd(),
-      timeout: 5000 // Add timeout to prevent hanging
-    }).trim();
-    return hash || null;
+    const fileBuffer = await Bun.file(filePath).arrayBuffer();
+    const hash = createHash('sha256').update(new Uint8Array(fileBuffer)).digest('hex');
+    return hash.substring(0, 16); // Use first 16 chars for brevity
   } catch (error) {
-    if (process.env.CI) {
-      console.log(`  ⚠️ Git hash failed for ${basename(filePath)}: ${error}`);
-    }
+    console.log(`  ⚠️ Content hash failed for ${basename(filePath)}: ${error}`);
     return null;
+  }
+}
+
+// Check if image needs processing based on content hash
+async function needsProcessing(
+  imagePath: string,
+  cache: ImageCache,
+): Promise<boolean> {
+  const cacheKey = imagePath;
+  const cachedData = cache[cacheKey];
+
+  // If not in cache, needs processing
+  if (!cachedData) {
+    console.log(`  🆕 New image: ${basename(imagePath)}`);
+    return true;
+  }
+
+  try {
+    // Get current content hash
+    const currentContentHash = await getContentHash(imagePath);
+    if (!currentContentHash) {
+      console.log(`  ❌ Could not hash ${basename(imagePath)}, reprocessing`);
+      return true;
+    }
+
+    // Compare content hashes
+    if (currentContentHash === cachedData.contentHash) {
+      // Content unchanged, verify cached files exist
+      const fileChecks = [
+        cachedData.webpPath ? checkFileExists(cachedData.webpPath) : Promise.resolve(false),
+        cachedData.avifPath ? checkFileExists(cachedData.avifPath) : Promise.resolve(false),
+        ...cachedData.sizes.map(size => checkFileExists(size.path))
+      ];
+      
+      const results = await Promise.all(fileChecks);
+      const hasValidCache = results.some(exists => exists);
+
+      if (hasValidCache) {
+        console.log(`  💾 Cached: ${basename(imagePath)}`);
+        return false;
+      } else {
+        console.log(`  🔄 Cache files missing for ${basename(imagePath)}, regenerating...`);
+        return true;
+      }
+    } else {
+      console.log(`  🔄 Content changed for ${basename(imagePath)}, reprocessing`);
+      return true;
+    }
+  } catch (error) {
+    console.log(`  ❌ Error checking cache for ${basename(imagePath)}: ${error}`);
+    return true;
+  }
+}
+
+// Helper function to check if a file exists
+async function checkFileExists(filePath: string): Promise<boolean> {
+  try {
+    // Convert web path back to filesystem path for checking
+    // The filePath comes from cache and starts with /images/ or /eventyr/images/
+    let fsPath: string;
+    if (filePath.startsWith('/images/')) {
+      // Local development path: /images/book/file.webp -> dist/images/book/file.webp
+      fsPath = join('./dist', filePath);
+    } else if (filePath.includes('/images/')) {
+      // Production path: /eventyr/images/book/file.webp -> dist/images/book/file.webp
+      const imagePart = filePath.substring(filePath.indexOf('/images/'));
+      fsPath = join('./dist', imagePart);
+    } else {
+      return false;
+    }
+    
+    await stat(fsPath);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+// Simple GitHub Actions cache key: just use images hash
+export async function generateCacheKey(): Promise<string> {
+  try {
+    // Get hash of all image files for cache key
+    const { execSync } = await import("child_process");
+    const imageHash = execSync('find src/lib/books -name "*.png" -o -name "*.jpg" -o -name "*.jpeg" -o -name "*.gif" -o -name "*.svg" -o -name "*.webp" | sort | xargs cat | sha256sum | cut -d" " -f1', { 
+      encoding: 'utf8',
+      cwd: process.cwd()
+    }).trim();
+    return `image-cache-content-${imageHash.substring(0, 16)}`;
+  } catch {
+    // Fallback to timestamp if command fails
+    return `image-cache-content-${Date.now()}`;
   }
 }
 
@@ -61,17 +145,17 @@ export async function optimizeImages(
         if (optimized) {
           optimizedImages.set(imagePath, optimized);
 
-          // Update cache
-          const stats = await stat(imagePath);
-          const gitHash = getGitHash(imagePath);
-          cache[imagePath] = {
-            mtime: stats.mtime.getTime(),
-            gitHash: gitHash || undefined,
-            sizes: optimized.sizes,
-            webpPath: optimized.webpPath,
-            avifPath: optimized.avifPath,
-          };
-          cacheUpdated = true;
+          // Update cache with content hash
+          const contentHash = await getContentHash(imagePath);
+          if (contentHash) {
+            cache[imagePath] = {
+              contentHash,
+              sizes: optimized.sizes,
+              webpPath: optimized.webpPath,
+              avifPath: optimized.avifPath,
+            };
+            cacheUpdated = true;
+          }
 
           console.log(`  ✨ Optimized: ${basename(imagePath)}`);
         }
@@ -91,8 +175,6 @@ export async function optimizeImages(
           avifPath: cachedData.avifPath,
           sizes: cachedData.sizes,
         });
-
-        console.log(`  💾 Cached: ${basename(imagePath)}`);
       }
     }
   }
@@ -109,6 +191,7 @@ export async function optimizeImages(
   return optimizedImages;
 }
 
+// Rest of the functions remain the same...
 export async function findImages(bookPath: string): Promise<string[]> {
   const imageFiles: string[] = [];
 
@@ -304,132 +387,4 @@ async function saveImageCache(
 ): Promise<void> {
   const cacheFile = join(config.distDir, ".image-cache.json");
   await writeFile(cacheFile, JSON.stringify(cache, null, 2));
-}
-
-// Check if image needs processing based on modification time
-async function needsProcessing(
-  imagePath: string,
-  cache: ImageCache,
-): Promise<boolean> {
-  const cacheKey = imagePath;
-
-  try {
-    const stats = await stat(imagePath);
-    const currentMtime = stats.mtime.getTime();
-
-    // Debug cache key lookup in CI
-    if (process.env.NODE_ENV === 'production' || process.env.CI) {
-      const hasCache = !!cache[cacheKey];
-      console.log(`  🔑 Cache lookup for ${basename(imagePath)}: key=${cacheKey}, found=${hasCache}`);
-      if (hasCache) {
-        console.log(`  📅 Cached mtime: ${cache[cacheKey].mtime}, current: ${currentMtime}`);
-      }
-    }
-
-    // In CI environments, use Git hash instead of mtime for cache validation
-    if (process.env.CI || process.env.NODE_ENV === 'production') {
-      if (!cache[cacheKey]) {
-        return true;
-      }
-      
-      const currentGitHash = getGitHash(imagePath);
-      const cachedGitHash = cache[cacheKey].gitHash;
-      
-      if (process.env.CI) {
-        console.log(`  🔍 Git hash check: cached=${cachedGitHash}, current=${currentGitHash}`);
-        // Add more debug info for the first few images
-        if (cachedGitHash && currentGitHash && cachedGitHash !== currentGitHash) {
-          console.log(`  🔍 Hash mismatch for ${basename(imagePath)} - investigating...`);
-          try {
-            const recentCommits = execSync(`git log --oneline -3 -- "${imagePath}"`, { 
-              encoding: 'utf8', cwd: process.cwd(), timeout: 3000 
-            }).trim();
-            console.log(`  📝 Recent commits for this file:\n${recentCommits}`);
-          } catch (e) {
-            console.log(`  ❌ Could not get git log: ${e}`);
-          }
-        }
-      }
-      
-      // If we have git hashes and they match, file hasn't changed
-      if (currentGitHash && cachedGitHash && currentGitHash === cachedGitHash) {
-        // Git hash matches, skip mtime check
-      } else if (currentGitHash && cachedGitHash && currentGitHash !== cachedGitHash) {
-        // Git hash changed, needs reprocessing
-        return true;
-      } else {
-        // Fall back to mtime check if no git hashes
-        if (cache[cacheKey].mtime < currentMtime) {
-          return true;
-        }
-      }
-    } else {
-      // Local development: use mtime check
-      if (!cache[cacheKey] || cache[cacheKey].mtime < currentMtime) {
-        return true;
-      }
-    }
-
-    // Verify cached files still exist (important for CI environments)
-    const cachedData = cache[cacheKey];
-    if (cachedData.webpPath || cachedData.avifPath) {
-      // Check if at least one of the cached image files exists
-      const fileChecks = [
-        cachedData.webpPath ? checkFileExists(cachedData.webpPath) : Promise.resolve(false),
-        cachedData.avifPath ? checkFileExists(cachedData.avifPath) : Promise.resolve(false),
-        ...cachedData.sizes.map(size => checkFileExists(size.path))
-      ];
-      
-      const results = await Promise.all(fileChecks);
-      const hasValidCache = results.some(exists => exists);
-
-      if (!hasValidCache) {
-        // Debug info for CI troubleshooting
-        if (process.env.NODE_ENV === 'production' || process.env.CI) {
-          console.log(`  🔍 Debug ${basename(imagePath)}: webp=${cachedData.webpPath}, avif=${cachedData.avifPath}`);
-          console.log(`  🔍 File check results: ${results}`);
-        }
-        console.log(`  🔄 Cache invalid for ${basename(imagePath)}, regenerating...`);
-        return true;
-      }
-    }
-
-    return false;
-  } catch {
-    // If we can't stat the file, assume it needs processing
-    return true;
-  }
-}
-
-// Helper function to check if a file exists
-async function checkFileExists(filePath: string): Promise<boolean> {
-  try {
-    // Convert web path back to filesystem path for checking
-    // The filePath comes from cache and starts with /images/ or /eventyr/images/
-    let fsPath: string;
-    if (filePath.startsWith('/images/')) {
-      // Local development path: /images/book/file.webp -> dist/images/book/file.webp
-      fsPath = join('./dist', filePath);
-    } else if (filePath.includes('/images/')) {
-      // Production path: /eventyr/images/book/file.webp -> dist/images/book/file.webp
-      const imagePart = filePath.substring(filePath.indexOf('/images/'));
-      fsPath = join('./dist', imagePart);
-    } else {
-      return false;
-    }
-    
-    // Debug logging for CI
-    if (process.env.NODE_ENV === 'production' || process.env.CI) {
-      const exists = await stat(fsPath).then(() => true).catch(() => false);
-      if (!exists) {
-        console.log(`  🔍 File not found: ${filePath} -> ${fsPath}`);
-      }
-      return exists;
-    }
-    
-    await stat(fsPath);
-    return true;
-  } catch {
-    return false;
-  }
 }

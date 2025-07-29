@@ -3,7 +3,7 @@ import { mkdir, writeFile, copyFile } from "fs/promises";
 
 import type { BookData, Chapter, GeneratorConfig } from "./src/types/types.ts";
 
-import { optimizeImages } from "./src/image_processing/image.ts";
+import { optimizeImages } from "./src/image_processing/image-simple.ts";
 import { generateMainIndexHTML } from "./src/pages/index-tales.ts";
 import { generateBooksIndexHTML } from "./src/pages/index-books.ts";
 import { generateBookIndexHTML } from "./src/pages/index-book.ts";
