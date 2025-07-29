@@ -147,8 +147,36 @@ header nav {
     font-size: 1.3rem;
   }
   p {
-    margin-block: 1rem;
     font-size: 1.1rem;
+    margin-block: 0;
+    text-indent: 4ch;
+  }
+  p:first-of-type {
+    text-indent: 0;
+    &::first-letter {
+      font-size: 2.9lh;
+      line-height: 0.8;
+      margin-right: 0.1ch;
+      float: left;
+      font-weight: bold;
+    }
+  }
+  .footnotes p {
+    text-indent: 0;
+    &::first-letter {
+      all: unset;
+    }
+  }
+  a {
+    color: var(--primary);
+    text-decoration: none;
+    &:hover {
+      color: var(--secondary);
+    }
+    &:visited,
+    &:visited:hover {
+      color: var(--primary);
+    }
   }
   code {
     background: var(--bg-dark);
