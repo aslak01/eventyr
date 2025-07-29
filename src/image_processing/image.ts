@@ -14,17 +14,14 @@ import { writeFile } from "fs/promises";
 
 type PathHelper = ReturnType<typeof createPathHelper>;
 
-// Get Git hash for a file to use as cache key in CI
+// Get Git hash for a file to use as cache key
 function getGitHash(filePath: string): string | null {
   try {
-    if (process.env.CI || process.env.NODE_ENV === 'production') {
-      const hash = execSync(`git log -1 --format="%H" -- "${filePath}"`, { 
-        encoding: 'utf8',
-        cwd: process.cwd() 
-      }).trim();
-      return hash || null;
-    }
-    return null;
+    const hash = execSync(`git log -1 --format="%H" -- "${filePath}"`, { 
+      encoding: 'utf8',
+      cwd: process.cwd() 
+    }).trim();
+    return hash || null;
   } catch {
     return null;
   }
@@ -95,9 +92,12 @@ export async function optimizeImages(
   }
 
   // Save cache if updated
+  console.log(`🔧 Debug: cacheUpdated=${cacheUpdated}, cache entries: ${Object.keys(cache).length}`);
   if (cacheUpdated) {
     await saveImageCache(config, cache);
     console.log("💾 Updated image cache");
+  } else {
+    console.log("⚠️ Cache not updated - no changes made");
   }
 
   return optimizedImages;
