@@ -8,6 +8,7 @@
         "marked": "^16.1.1",
         "marked-footnote": "^1.4.0",
         "marked-hook-frontmatter": "^1.4.5",
+        "marked-sequential-hooks": "^1.2.2",
         "sharp": "^0.34.3",
         "sortable-tablesort": "^4.0.2",
       },

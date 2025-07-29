@@ -1,5 +1,7 @@
 import { Marked } from "marked";
 import markedFootnote from "marked-footnote";
+import markedHookFrontmatter from "marked-hook-frontmatter";
+import markedSequentialHooks from "marked-sequential-hooks";
 
 import type { BookData, Chapter, OptimizedImage } from "../types/types";
 import type { createPathHelper } from "../utils/paths";
@@ -34,14 +36,26 @@ export function generateChapterHTML(
     pathHelper,
   );
 
-  const htmlContent = new Marked()
+  // Extract frontmatter and generate HTML
+  let frontmatterData: any = {};
+  const marked = new Marked()
     .use(
+      markedSequentialHooks({
+        markdownHooks: [markedHookFrontmatter({ dataPrefix: true })],
+        htmlHooks: [
+          (html, data) => {
+            frontmatterData = data.matter || {};
+            return html;
+          }
+        ]
+      }),
       markedFootnote({
         description: "Fotnoter",
         backRefLabel: "Tilbake til referanse {0}",
       }),
-    )
-    .parse(processedContent);
+    );
+
+  const htmlContent = marked.parse(processedContent);
 
   const chapters = book.chapters;
 
@@ -75,8 +89,8 @@ export function generateChapterHTML(
     ? `<a href="${pathHelper.page(chapter.pdfPath)}" class="pdf-link" target="_blank">📄 Les som PDF</a>`
     : "";
 
-  const chapterSubtitle = chapter.subtitle 
-    ? `<p class="chapter-subtitle">${safeString(chapter.subtitle)}</p>`
+  const chapterSubtitle = frontmatterData.subtitle
+    ? `<p class="chapter-subtitle">${safeString(frontmatterData.subtitle)}</p>`
     : "";
 
   return templateEngine.renderWithLayout("chapter.html", {
