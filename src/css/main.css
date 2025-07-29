@@ -161,7 +161,8 @@ header nav {
       font-weight: bold;
     }
   }
-  .footnotes p {
+  .footnotes p,
+  blockquote p:first-of-type {
     text-indent: 0;
     &::first-letter {
       all: unset;
