@@ -66,6 +66,18 @@ jobs:
           NODE_ENV: production
           BASE_PATH: /eventyr
 
+      - name: Post-build cache verification
+        run: |
+          echo "=== POST-BUILD CACHE VERIFICATION ==="
+          if [ -f dist/.image-cache.json ]; then
+            echo "Cache file exists after build"
+            echo "Cache entries: $(jq '. | length' dist/.image-cache.json)"
+            echo "Sample entry with gitHash:"
+            jq '. | to_entries | .[0].value | {mtime, gitHash}' dist/.image-cache.json
+          else
+            echo "❌ No cache file found after build!"
+          fi
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
