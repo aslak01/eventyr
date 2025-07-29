@@ -8,6 +8,7 @@ export type Chapter = {
   bookSlug: string;
   order: number;
   pdfPath?: string;
+  pdfSourcePath?: string;
 };
 
 export type BookData = {

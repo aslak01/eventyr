@@ -150,6 +150,7 @@ async function loadBook(
         bookSlug: bookData.slug,
         order,
         pdfPath: pdfURI ? `/${bookData.slug}/${dir}.pdf` : undefined,
+        pdfSourcePath: pdfURI,
       };
 
       // // const titleMatch = fileContent.match(/^#\s+(.+)/m);

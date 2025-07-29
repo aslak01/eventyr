@@ -83,11 +83,10 @@ async function generateSite(config: GeneratorConfig): Promise<void> {
       console.log(`📄 Generated ${book.name}/${chapter.path}.html`);
 
       // Copy PDF if it exists
-      if (chapter.pdfPath) {
-        const sourcePdfPath = join(book.path, "chapters", chapter.path, `${chapter.path}.pdf`);
+      if (chapter.pdfPath && chapter.pdfSourcePath) {
         const destPdfPath = join(bookDir, `${chapter.path}.pdf`);
         try {
-          await copyFile(sourcePdfPath, destPdfPath);
+          await copyFile(chapter.pdfSourcePath, destPdfPath);
           console.log(`📄 Copied ${book.name}/${chapter.path}.pdf`);
         } catch (error) {
           console.warn(`⚠️ Could not copy PDF for ${chapter.path}:`, error);
