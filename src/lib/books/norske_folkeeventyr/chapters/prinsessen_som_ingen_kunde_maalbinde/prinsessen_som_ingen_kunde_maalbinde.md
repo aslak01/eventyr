@@ -1,5 +1,7 @@
 # Prinsessen som ingen kunne målbinde
 
+![Illustrasjon](./psikm1.png)
+
 Det var engang en konge; han hadde en datter som var så vrien og vrang i ord, at ingen kunne målbinde henne, og derfor lovte han ut at den som kunne gjøre det, skulle få prinsessen til ekte, og halve kongeriket til.
 
 Det var nok av dem som ville prøve seg, skal jeg tro, for det er ikke hver dag en kan få en kongsdatter og et halvt rike til giveendes[^*]. Grinden til kongsgården sto ikke noen stund, de kom i flokk og følge fra øst og vest, både ridende og gående. Men det var ingen som kunne ordbinde prinsessen. Til sist satte kongen ut, at de som prøvde seg, men ikke kunne, de skulle sviemerkes på begge ørene med det store sviejernet hans — han ville ikke ha det rennet[^**] i gården sin til ingenting.
@@ -140,6 +142,11 @@ Så var prinsessen målbundet.
 
 «Nå er du min,» sa Askeladden, og så fikk han henne og det halve land og rike attpå.
 
+![Illustrasjon](./psikm2.png)
+
 [^*]: Giveendes: gratis
+
 [^**]: Rennet: løpt omkring
+
 [^***]: Skjærunge: skjære (fugl)
+

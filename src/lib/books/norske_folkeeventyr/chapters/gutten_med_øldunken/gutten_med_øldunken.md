@@ -1,5 +1,7 @@
 # Gutten med øldunken
 
+![Illustrasjon](./gmd1.png)
+
 Det var engang en gutt som hadde tjent lenge hos en mann nordenfjelds. Denne mannen var en mester til å brygge øl; det var så urimelig godt at det ikke fantes make til det. Da gutten skulle reise derfra og mannen skulle betale ham lønnen han hadde tjent, ville han ikke ha annet enn en dunk av juleølet. Ja, den fikk han og gikk avsted med, og han bar den både langt og lenge, men dess lengre han bar på øldunken, dess tyngre ble den, og så begynte han å se seg omkring, om det kom noen som han kunne drikke med, så ølet kunne minke og dunken lettne.
 
 Langt om lenge traff han en gammel mann med et stort skjegg.
@@ -58,7 +60,9 @@ Så gikk han langt og lengre enn langt igjen med øldunken sin, til han syntes d
 
 Så drakk han ham til, og Døden syntes det var en herlig drikk, og da gutten undte ham vel, drakk de til skiftes, så ølet minket og kaggen lettnet.
 
-Til sist sa Døden: «Jeg har aldri kjent drikk som smakte bedre og gjorde  meg så godt, som det ølet du har skjenket meg, jeg synes jeg ble som nyfødt innvendig, og jeg vet ikke hva jeg skal gjøre deg til gode for det.» Men da han hadde tenkt seg om en stund, så sa han at kaggen aldri skulle bli tom, hvor mye de drakk av den, og ølet som var på den, skulle bli til helsebot, så gutten kunne gjøre syke friske igjen, bedre enn noen doktor. Og så sa han, at når han kom inn til en syk, da skulle Døden alltid være der og vise seg for ham, og det skulle han ha til et sikkert merke, at når Døden sad ved føttene, så kunne han frelse den syke med en helsedrikk av kaggen, men sad han ved hovedgjerdet[^*], så gaves det hverken hjelperåd eller helsebot for døden.
+![Illustrasjon](./gmd2.png)
+
+Til sist sa Døden: «Jeg har aldri kjent drikk som smakte bedre og gjorde meg så godt, som det ølet du har skjenket meg, jeg synes jeg ble som nyfødt innvendig, og jeg vet ikke hva jeg skal gjøre deg til gode for det.» Men da han hadde tenkt seg om en stund, så sa han at kaggen aldri skulle bli tom, hvor mye de drakk av den, og ølet som var på den, skulle bli til helsebot, så gutten kunne gjøre syke friske igjen, bedre enn noen doktor. Og så sa han, at når han kom inn til en syk, da skulle Døden alltid være der og vise seg for ham, og det skulle han ha til et sikkert merke, at når Døden sad ved føttene, så kunne han frelse den syke med en helsedrikk av kaggen, men sad han ved hovedgjerdet[^*], så gaves det hverken hjelperåd eller helsebot for døden.
 
 Gutten var snart navnspurt, så han ble hentet vidt og bredt, og han hjalp mangfoldige til helsen igjen, som det ikke hadde vært hjelp for. Når han kom inn og så hvor Døden sad hos den syke, spådde han enten liv eller død, og alltid var han sanspådd. Han ble både en rik mann og en mektig mann, og til sist ble han hentet til en kongsdatter langt borte i landene. Hun var så farlig syk at ingen doktor trodde seg til å hjelpe hende mer, og så lovte de ham alt han kunne ønske og forlange, om han kunne frelse hende.
 
@@ -76,4 +80,7 @@ Da han kom inn til kongsdatteren, sad Døden ved hodegjerdet, men han sad og blu
 
 «Ja, det skulle han få lov til; men han passet seg vel for å lese Herrens bønn; alt annet leste han, men Fadervor kom aldri på hans tunge, og til sist mente han at han hadde snydd Døden for alvor. Men da Døden syntes at det drygde for lenge, så gikk han dit en natt, og hengte opp en stor tavle med Fadervor på, over sengen til gutten. Da han våknet, begynte han å lese på den, og samlet seg ikke riktig før han kom til amen; men så var det for sent.
 
+![Illustrasjon](./gmd3.png)
+
 [^*]: Hovedgjerdet: gavlen av sengen der hodet ligger
+

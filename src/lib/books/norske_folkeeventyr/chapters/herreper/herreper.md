@@ -1,6 +1,10 @@
 # Herreper
 
+![Illustrasjon](./hp1.png)
+
 Det var engang et par fattige folk; de hadde ingenting unnet tre sønner. Hva de to eldste het, det vet jeg ikke, men den yngste het Per. Da foreldrene var døde, skulle barna arve dem, men det var ikke annet å få enn en gryte, en takke og en katt. Den eldste, som skulle ha det beste, han tok gryten: « Når jeg låner bort gryden, så får jeg alltid lov å skrape den, » sa han. Den andre tok takken: « For når jeg låner bort takken, får jeg alltid en smakelefsje, » sa han. Men den yngste han hadde ikke noe å velge imellom; ville han ha noe, så måtte det bli katten. « Om jeg låner katten bort, så får jeg ikke noe for henne, jeg, » sa han; « får katten en melkeskvet, så vil hun ha den selv. Men jeg vil ta henne med meg likevel; det er synd hun skal gå her og sette til. »
+
+![Illustrasjon](./hp2.png)
 
 Så drog brødrene ut i verden for å prøve sin lykke, og hver tok sin vei. Men da den yngste hadde gått en stund, sa katten: « Du skal nok få like for det du ikke ville jeg skulle bli igjen i den gamle stua og sette til. Nå skal jeg gå bort i skogen jeg, og få fatt på noen rare dyr, så skal du gå opp på kongsgården, som du ser der borte, til kongen, og si at du nok kommer med en liten sending til ham. Når han da spør hvem den er fra, skal du si den er fra han Herreper. »
 
@@ -27,6 +31,8 @@ Men da han kom ut av kongsgården igjen og traff katten, sa han: « Jo, du har s
 « Å, vær ikke redd for det, » sa katten; « om tre dager skal du få hester og vogn og så gilde klær at gullet skal dryppe av deg; så kan du nok besøke kongen. Men alt du ser hos kongen, skal du si, du har det mye gildere og finere hjemme; det må du ikke glemme. »
 
 Nei, det skulle nok Per komme i hug, mente han.
+
+![Illustrasjon](./hp3.png)
 
 Da nå de tre dagene var omme, kom katten med vogn og hester og klær og alt Per behøvde; altsammen var det så gildt at ingen hadde sett slikt før. Så reiste han, og katten sprang med. Kongen tok både godt og vel imot ham; men hva kongen bød ham og hva han viste ham, sa Per, det kunne være bra nok, men han hadde det enda finere og gildere hjemme. Kongen likte ikke dette mer enn så som så; men Per ble ved sitt; og til sist ble kongen så sint at han ikke kunne styre seg lenger. « Nå vil jeg være med deg hjem, » sa kongen, « og se om det er sant, at du har det så mye bedre og gildere. Men lyver du, så nåde deg, jeg sier ikke mer jeg! »
 
@@ -95,4 +101,6 @@ Idet ble hun til den deiligste prinsesse som noen ville se for sine øyne, så H
 Å jo, det kan vel hende at Herreper ville ha henne til dronning. Så ble det bryllup og gjestebud i åtte dager, og så var jeg ikke lenger med Herreper og dronningen hans jeg.
 
 [^*]: Bøling: storfe, kveg
+
 [^**]: Blakke: mørke hester, ofte med lysere flekker
+

@@ -1,6 +1,10 @@
 # Den syvende far i huset
 
+![Far i hornet](./sfih1.png)
+
 Det var engang en mann som var ute å ferdes. Så kom han langt om lenge til en stor og vakker gård; det var en herregård så gild at den gjerne kunne ha vært et lite slott. «Her skal det bli godt å få hvile ut,» sa han ved seg selv, da han kom innafor grinda. Tett ved sto en gammel mann med grått hår og skjegg og hogg ved.
+
+![Gården](./sfih2.png)
 
 «God kveld, far,» sa ferdsamannen; «kan jeg få lånt hus i natt?»
 
@@ -45,5 +49,8 @@ Det pep oppe i hornet som en liten talltit[^3], og det var ikke mer enn så han 
 Og nå kom det inn et bord som var dekket med de kosteligste retter og med øl og med brennevin, og da han hadde spist og drukket, kom det inn en god seng med renkalvsfeller, og ferdsamannen var nok så glad, fordi han langt om lenge hadde truffet den rette far i huset.
 
 [^1]: Laut: laget en svak lyd, hveste
+
 [^2]: Fell: tørket skinn eller hud
+
 [^3]: Talltit: liten fugl, her brukt om noe som piper svakt
+

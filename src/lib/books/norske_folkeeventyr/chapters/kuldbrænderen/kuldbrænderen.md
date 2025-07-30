@@ -1,6 +1,10 @@
 # Kullbrenneren
 
+![Scene](./kbr1.png)
+
 Det var en gang en kullbrenner som hadde en sønn, og han var også kullbrenner. Da faren var død, giftet sønnen seg, men han ville ikke ta seg noe til; skrøpelig var han til å passe mila også, og til slutt ville ingen ha ham til å brenne kull mer. Men så hadde han fått brent en mile en gang da, og reiste til byen med noen kullass og solgte, og da han hadde solgt dem, ranglet han ut på bygata og så seg om. På hjemveien kom han i lag med granner og bygdefolk, og turte og drakk og pratet om alt det han hadde sett i byen. Det artigste han så, sa han, det var at der var så mange prester, og dem gikk alle folk og hilste på og tok av seg lua for; jeg skulle ønske jeg var prest jeg også, så hilste de kanskje på meg og; nu læst de mest ikke se meg,» sa han.
+
+![Kne for kuldbrenderen](./kbr2.png)
 
 «Ja, er du ikke annet, så er du da svart nok til prest, du og,» sa grannene til kullbrenneren; «men nu er vi på færden likevel, så kan vi reise på auksjon etter gammelprest og få oss en tår, og i mellomtida kan du kjøpe kappa og krage,» sa de. Ja, de gjorde så, og da han kom hjem, hadde han ikke en skilling igjen.
 
@@ -54,8 +58,15 @@ Kullbrenneren vred bare hendene og bar seg ille: «Å, du ulykkeligste kryp og k
 
 «En skal ikke gjøre båss til ufødt kalv, og ikke kjefte om navnet, før barnet er født,» sa kullbrenneren; «men slikt har jeg verken hørt eller sett,» sa han; «når dronninga går mot meg, så tror jeg mest det blir en prins, og når hun går fra meg, ser det ut som det var en prinsesse»: det var tvillinger, så kullbrenneren traff det den gangen også. Og for det han kunne si det som ingen kunne vite, fikk han penger i lassevis, og så ble han den nærmeste neste kongen. Trip trap trille, han ble mer enn han ville.
 
+![Skål med kongen](./kbr3.png)
+
 [^1]: Uleselige skriblerier som lignet krokete tegn
+
 [^2]: En pakke med grøt eller havregrøt
+
 [^3]: Dugurd - frokost eller morgenmåltid før kirkegang
+
 [^4]: Damekvinner - velstående kvinner, «fine damer»
+
 [^5]: Hurv - støv, rusk og skrap
+

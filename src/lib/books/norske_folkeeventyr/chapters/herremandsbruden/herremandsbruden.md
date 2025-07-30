@@ -1,8 +1,14 @@
 # Herremannsbruden
 
+![Illustrasjon](./hmb1.png)
+
 Det var engang en rik kakse[^*] som eide en stor herregård, og sølv hadde han på kistebunnen og penger på rente; men noe var det som vantet ham, for han var enkemann. En dag var datteren fra nannegården hos ham på arbeide. Henne likte herremannen riktig godt, og da hun var fattigfolks barn, tenkte han, at når han bare klunket om gifting, så måtte hun slå til med det samme. Så sa han til henne at han var kommet i tanker om å gifte seg igjen.
 
+![Illustrasjon](./hmb2.png)
+
 «Ja, ja, en kan falle på så mye,» sa jenta, hun sto der og smålo, og tenkte den gamle styggen kunne ha falt på det som høvde bedre for ham enn å gifte seg.
+
+![Illustrasjon](./hmb3.png)
 
 «Ja det var meningen det at du skulle bli kona mi da,» sa herremannen.
 
@@ -20,6 +26,8 @@ Dette syntes herremannen var både godt og vel, og så lot han brygge og bake og
 
 Da gjestebudsfolket var kommet, ropte herremannen på en av guttene sine, og sa til ham at han skulle stryke ned til nannermannen sør i gården og be ham at skikke det han hadde lovt. «Men er du ikke her igjen på flyende timen,» sa han og hyttet til ham med neven, «så skal vel —!» Mer fikk han ikke sagt, for gutten for av sted som han var brent.
 
+![Illustrasjon](./hmb4.png)
+
 «Jeg skulle hilse fra husbond og be om det du har lovt ham,» sa gutten til mannen sør i gården; «men det måtte være i røde rappet, for han har det farlig brått i dag,» sa han.
 
 «Ja, ja, spring ned i enga og ta henne med deg, der går hun,» sa nannemannen.
@@ -36,6 +44,8 @@ Gutten av sted. Da han kom ned i enga, gikk datteren der og raket. «Jeg skulle 
 
 «Kjære vene, hvorledes skal det gå til?» sa gutten.
 
+![Illustrasjon](./hmb5.png)
+
 «Du bare gjør som jeg sier, du,» sa herremannen. «Magter du henne ikke alene, så får du ta folkehjelp,» sa han; han tenkte jenta kunne slå seg ugrei.
 
 Da gutten så fjesset til herremannen, så visste han det ikke nyttet å si imot der i gården. Han ned og fikk med alle de husmennene som var der; noen trakk i fremdelen, og noen skjøv på bak, og så fikk de endelig hoppa opp over trappene og inn i kammeret. Der lå brudestasen ferdig.
@@ -48,6 +58,8 @@ Da gutten så fjesset til herremannen, så visste han det ikke nyttet å si imot
 
 «Ikke noe prat! De skal pynte henne og hverken glemme krans eller krone,» sa husbonden. Gutten ned i kjøkkenet.
 
+![Illustrasjon](./hmb6.png)
+
 «Hør nå, jenter,» sa han; «nå skal dere opp og pynte den vesle blakke til brud; husbond vil nok gi gjestebudsfolket noe å flire av.»
 
 Ja, jentene hengte på den vesle blakke alt det de hadde, og så gikk gutten ned, og sa at nå var hun ferdig, og det både med krans og krone.
@@ -57,3 +69,4 @@ Ja, jentene hengte på den vesle blakke alt det de hadde, og så gikk gutten ned
 Det ramlet svært i trappa; for hun steg ikke ned i silkesko, den bruden. Men da døra gikk opp og herremannsbruden kom inn i storstusalen, var det ikke fritt for der ble knis og flir. Og herremannen var så vel fornøyd av den bruden, at de sa han ikke fridde oftere.
 
 [^*]: Kakse = en rik og innbilsk person
+

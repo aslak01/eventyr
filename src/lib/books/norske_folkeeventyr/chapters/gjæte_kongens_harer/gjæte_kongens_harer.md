@@ -1,8 +1,12 @@
 # Gjete kongens harer
 
+![Kjerringa med nesa i stubben](./gjkh1.png)
+
 Det var engang en livsørsmann som hadde gitt opp gården sin til odelsmannen. Men han hadde tre sønner til, og de het Per og Pål og Espen Askeladd. De gikk hjemme og ville ingenting gjøre, for de hadde det for godt, og selv syntes de at de var for gode til alt, og at ingenting var godt nok til dem.
 
 Langt om lenge hadde Per fått høre at kongen ville ha en gjeter til å gjete harene sine, og så sa han til faren at han ville dit, det kunne være passe til ham, for han ville ikke tjene noen ringere mann enn kongen, sa han. Kallen mente det, at der nok kunne være arbeide som passet bedre til ham enn det; for den som skulle gjete harene, fikk være leug og lett og ikke noen daustokk[^1], og når harene tok på å skjerpe og flyge, så ble det annen dans enn å rangle stuemellem.
+
+![Skogsstudie](./gjkh2.png)
 
 «Ja, det fikk ikke hjelpe, Per ville dit og han skulle dit,» så tok han skreppen på nakken og labbet ned over bakken, og da han hadde gått langt og lenger enn langt, kom han til en gammel kjærring, som sto med nesen sin i en vedkubb og hakket, og da han fikk se hvorledes hun rykket og slet for å komme løs, gav han seg til å storle.
 
@@ -21,6 +25,8 @@ Om en stund ville Pål i veien til kongsgården og gjete harene til kongen. Kall
 Da det led om en stund, ville Askeladden i veien og gjete kongens harer, og det sa han til kallen: han syntes det kunne være sådan høvelig arbeide for seg, å fare i skog og mark og bort etter jordbærbrådene og rekke etter en flokk harer og ligge og sove og late seg i solbakkene stundom til.
 
 Kallen mente at der nok kunne være arbeide som høvde bedre for ham; gikk det ikke verre, så gikk det visst ikke bedre med ham, enn det hadde gått med brødrene hans; den som skulle gjete kongens harer, fikk ikke dra seg som en daustokk med blyladder på, eller som en flue på en tjærekost; og når de tok til å skjene i solbakkene, ble det annen dans enn å fange lopper med votter på; den som skulle slippe fra det med hel rygg, fikk være mer enn leug og lett, og flyge måtte han være enn et tørt skinn og en fuglevinge.
+
+![Harestudie](./gjkh3.png)
 
 «Ja, det fikk ikke hjelpe hvorledes det var,» sa Espen Askeladd; han ville til kongsgården og tjene kongen, for noen ringere mann ville han ikke tjene, sa han, og harene skulle han nok gjete, de kunne vel ikke være stort verre enn gjeten og kalven. Så tok Askeladden skreppen på nakken og labbet ned over bakken.
 
@@ -55,6 +61,8 @@ Det var en artig pipe, syntes stuepiken; hun skulle gjerne gi hundre daler for d
 «Ja, det er mye til pipe,» sa Espen Askeladd, «og for penger var den ikke til fals, men ville hun gi ham de hundre dalerne og en kyss for hver daler, så skulle hun få den,» sa han.
 
 «Ja da, det skulle hun gjerne gjøre; hun skulle gjerne gi ham to for hver daler, og takk til.»
+
+![Underveis i skogen](./gjkh4.png)
 
 Så fikk hun pipa. Men da hun kom fram til kongsgården, var pipa borte, for Espen Askeladd hadde ønsket den til seg igjen, og da det led til kvelds, kom han hjem med harene sine som med en annen saueflokk, og alt det kongen regnet og peika og talte, så hjalp det ikke, der manglet ikke et hår.
 
@@ -92,6 +100,8 @@ Det kunne han få lov til, og så fikk han pipa og la den i pengepunga si, og de
 
 Kongen var både hask og harm, fordi han hadde narret dem alle sammen og snytt ham for pipa også, og nå skulle han miste livet, det var ikke noe å spørre om; og dronningen sa det samme, det var best å rette en sådan bedrager på fersk gjerning.
 
+![Scener fra skogen](./gjkh5.png)
+
 Espen mente det at det hverken var rett eller riktig, for han hadde ikke gjort annet enn det de hadde sagt han skulle gjøre, og så hadde han verget ryggen og livet sitt, så godt han kunne.
 
 Så sa kongen at det fikk være det samme: var han god for å lyve det store bryggekaret så fullt at det rant over, så skulle han få beholde livet.
@@ -110,8 +120,15 @@ Så syntes kongen og dronningen at det var best han fikk prinsessen og halve rik
 
 «Det var mye til pipe det,» sa Espen Askeladd.
 
-[^1]: daustokk = dvask, treig person  
-[^2]: fegaden = innhegninga rundt garden  
-[^3]: morsstykke = god gjerning  
-[^4]: eksersérmo = eksersisplassen, øvingsplassen  
+![Folkesamling](./gjkh6.png)
+
+[^1]: daustokk = dvask, treig person
+
+[^2]: fegaden = innhegninga rundt garden
+
+[^3]: morsstykke = god gjerning
+
+[^4]: eksersérmo = eksersisplassen, øvingsplassen
+
 [^5]: velmålt = rikelig, mer enn nok
+

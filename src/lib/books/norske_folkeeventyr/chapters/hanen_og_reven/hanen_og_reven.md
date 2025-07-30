@@ -1,5 +1,7 @@
 # Hanen og reven
 
+![Illustrasjon](./hor1.png)
+
 Det var engang en hane som sto på en møkhaug og gol og flakset med vingene. Så kom reven til den.
 
 « God dag! » sa reven. « Jeg hørte nok du gol, » sa han, « men kan du også stå på ett ben og gale og blunde, så som far din kunne, » sa Mikkel.
@@ -28,6 +30,11 @@ Da reven hørte at hanen klunket om skytteren, satte han til sprang det forteste
 
 Den gang var det hanen som brukte revekroken[^***].
 
+![Illustrasjon](./hor2.png)
+
 [^*]: Skårefleiser: fliser av tre, trespanl
+
 [^**]: Brevsynt: som kan lese
+
 [^***]: Revekroken: å lure, å være listig som en rev
+

@@ -1,8 +1,12 @@
 # Bamse Bra-kar
 
+![Bamse 1](./bb1.png)
+
 Det var engang en bonde som reiste opp til fjelds etter et løvlass til kreaturene sine om vinteren.
 
 Da han kom til løvhesjen, rygget han slæden med hesten tett inntil, og gikk opp i hesjen og begynte å velte løvkjerv ut på slæden. Men der var en bjørn i hesjen, som hadde lagt seg i hi der, og da den kjente at mannen begynte å rumstere, så sprang den ut, lige ned på slæden. Da hesten fikk veiret av bamsen, ble den redd og satte avgårde, som den hadde stjålet både bjørnen og slæden, og det gikk mange ganger fortere samme veien ned enn den hadde kommet opp.
+
+![Bamse 2](./bb2.png)
 
 Bamse har ord for at han ikke skal være fælen; men han var ikke vel nøyd med skydsen denne gangen, der han satt; han holdt seg fast det beste han orket, og glante stygt til alle kanter, om han skulle kunne kaste seg av; men han var nok ikke vant med å kjøre, og så syntes han at der ikke var noen vun[^1].
 
@@ -50,4 +54,7 @@ En stund etter møtte bonden reven.
 
 Så tok han med seg en ladd børse på slæden, og da Mikkel kom og tenkte han skulle få fri skøyss, fikk han en haglladning i skrotten, og så drog bonden belgen av ham, så hadde han både bjørnehud og revebelg.
 
+![Rev](./bb3.png)
+
 [^1]: vun = vunnen, sjanse til å komme unna
+

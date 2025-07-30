@@ -1,8 +1,12 @@
 # De tre kongsdøtre i berget det blå
 
+![Illustrasjon](./dtkibdb1.png)
+
 Det var engang en konge og en dronning som ingen barn hadde, og det tok de seg så nær, at de nesten ikke hadde en glad stund.
 
 En dag sto kongen ute i svalen og så ut over de store jordene sine og alt han eide. Det var nok, og vel så det; men han syntes ikke han kunne ha noen glede av det, når han ikke visste hvor det skulle bli av alt etter hans tid. Som han sto der og grublet, kom det en gammel fattigkjerring, som gikk og bad om litt i Guds navn. Hun hilste og neiet seg, og spurte hva det feilte kongen, siden han så så uglad ut.
+
+![Illustrasjon](./dtkibdb2.png)
 
 « Det kan ikke du gjøre noe ved, kona mi! » sa kongen; « det nytter ikke å fortelle deg det. »
 
@@ -12,7 +16,11 @@ Da tiden kom, ble dronningen liggende og fikk et vakkert pikebarn; året etter g
 
 Da kongsdøtrene vokste til, ble de både vakre og vene, og godt og vel hadde de det i alle måter. Det eneste var at de ikke fikk komme ut og leke seg, de som andre barn; men alt de tigget og bad foreldrene, og alt de gnålte på vakta, så nyttet det like lite; ut måtte de ikke, før de var femten år gamle allesammen.
 
+![Illustrasjon](./dtkibdb3.png)
+
 Så var det en dag, ikke lenge før den yngste kongsdatteren skulle fylle sitt femtende år. Kongen og dronningen var ute å kjøre i godværet, og prinsessene sto i vinduet og så ut. Sola skinte, og alt sto så grønt og vakkert, at de syntes de måtte ut — det fikk gå som det kunne. Så tigget og overhang de vakta alle tre, og bad at han skulle slippe dem ned i hagen; han kunne selv se, så varmt og vakkert det var, — det kunne da aldri komme vintervær en slik dag. Ja, han syntes ikke det så likt ut til det, vaktmannen heller; og når de endelig skulle og måtte ut, så fikk de vel gå, sa han; men det skulle bare være en ørliten stund, og han ville selv være med og passe på dem.
+
+![Illustrasjon](./dtkibdb4.png)
 
 Da de kom ned i hagen, sprang de både høyt og lavt og plukket fanget fullt av blomster og grønt, det vakreste de så. Til sist rådet de ikke med mer; men som de skulle til å gå inn igjen, fikk de øye på en stor rose, som sto borte i den andre enden av hagen. Den var mange ganger vakrere enn alt det andre de hadde funnet, så den måtte de endelig ha. Men idet de bukket seg og skulle ta rosa, kom det en diger tett snefloke, og borte var de.
 
@@ -50,11 +58,15 @@ Han holdt stien han, og da de andre så det, snudde de og kom etter, de også. D
 
 « De sier at bjørnen skal være vill etter kjøtt, » sa soldaten, og kastet til den en femfjerding[^*].
 
+![Illustrasjon](./dtkibdb5.png)
+
 Så kom de forbi. Men ved den andre enden av kloppen sto en løve, og den brølte og kom imot dem med gabende kjeft, som den ville sluke dem.
 
 « Nå er det best vi snur nesa hjem igjen; her kommer vi aldri levende forbi, » sa kapteinen.
 
 « Å den er vel ikke så farlig, den heller, » sa soldaten; « jeg har hørt at løva skal være fys etter flesk, og i skreppa har jeg en halv gris, » sa han. Så kastet han en skinke til løva; den til å gnage og spise, og så slapp de frem om der også.
+
+![Illustrasjon](./dtkibdb6.png)
 
 I kveldingen kom de frem til en stor, grom gård. Det ene rommet var gildere enn det andre, og det lyste og lovet, hvor de så hen. Men det mone nå ikke stort i skrotten, ved jeg. Kapteinen og løytnanten gikk og ringlet med pengene sine og ville gjerne kjøpt seg mat; men ikke så de folk, og ikke fant de matsmulen heller. Så bød soldaten dem kjøtt og flesk av matsekken sin. Da var de ikke storagtige og lot seg ikke nøde lenge, de tok for seg av det han hadde, som de aldri skulle smakt mat.
 
@@ -68,7 +80,11 @@ Jo, så fortalte han, at straks de var gått, kom det en ørliten kall med sidt 
 
 Ja, neste dagen gikk løytnanten og soldaten på jakt, og kapteinen ble hjemme og skulle koke maten og stelle huset. Men gikk det ikke verre med ham, så gikk det da ikke bedre. Da det led på, kom gamlingen og bad om en skilling. Den slapp han idet han fikk den; borte var den, og borte ble den.
 
+![Illustrasjon](./dtkibdb7.png)
+
 Så bad han kapteinen hjelpe seg med å finne den frem igjen, og han sanset ikke bedre enn at han lutet seg ned for å lete etter den. Men han hadde ikke bukket seg, før krøplingen gav seg til å denge ham med krykkene, og hver gang kapteinen ville til å reise på seg og ta igjen, fikk han et drag så det gnistret for øynene. Da de andre kom hjem om kvelden, lå han enda på samme flekken og kunne hverken glo eller gape.
+
+![Illustrasjon](./dtkibdb8.png)
 
 Den tredje dagen skulle soldaten bli hjemme, mens de andre to gikk på skytteri. Kapteinen sa at han fikk akte seg vel, « for deg slår vel gamlingen kvikk i hjel, min gutt, » sa han. « Å, livet måtte sitte løst, når en skulle la slik en gammel krok ta det, » mente soldaten.
 
@@ -92,6 +108,8 @@ Da soldaten hadde fått vite dette og det han ville, slo han gamlingen løs av s
 
 Da nå kapteinen og løytnanten kom hjem, undret de seg over at de fant soldaten i live. Ja, han sa hvorledes det var gått til, fra først og til sist, og fortalte hvor kongsdøtrene var henne, og hvordan de skulle finne dem.
 
+![Illustrasjon](./dtkibdb9.png)
+
 De ble så glad som de alt hadde fått dem, og da de hadde matstelt seg, tok de med seg en kurv og alle de rep og taug de kunne finne, og gikk til haugen alle tre. Der skar de først løs torva, så som kallen hadde sagt; nedenunder fant de en stor svær stenhelle, og den var det ikke mer enn så de var karer til å bende av. Så skulle de til å måle hvor dypt det var ned. De skjøt både to og tre ganger, men de fant ikke mer bunn den siste gangen enn den første. Til slutt måtte de skjøte ihop alt de hadde, både det grove og det granne; da kjente de at det rakk ned.
 
 Kapteinen ville først i veien må vite; « men når jeg rykker i tauget, må dere svinte dere og dra meg opp igjen, » sa han. Det var både mørkt og stygt nedgjennom; men han tenkte han fikk herde på, om det bare ikke ble verre. Men rett som det var, sto kalde vasspruten om ørene på ham; dermed ble han livredd, og gav seg til å rykke i repet.
@@ -99,6 +117,8 @@ Kapteinen ville først i veien må vite; « men når jeg rykker i tauget, må de
 Ja, så ville løytnanten friste; men det gikk ikke stort likere med ham. Vel han var kommet gjennom vasflommen, fikk han se lyse luen i gapet under seg, og så ble han fælen og måtte gjøre vendereise, han med.
 
 Så satte soldaten seg oppe; han lot det gå han, gjennom både vann og varme, like til han kom til bunns. Der nede var det stumme mørkt, så han så ikke neven for nesa. Ikke torde han slippe kurva heller, men gikk i ring og trevlet og famlet rundt omkring seg. Jo, så fikk han øye på en liten glime langt, langt borte, just som en dagning; den gikk han etter. Da han var kommet et stykke frem, tok det til å lysne om ham, og nå varte det ikke lenge, så så han at det rann en gullsol på himmelen der, og så ble det både lyst og vakkert, likesom i den rette verden. Først kom han til en svær buskap, med kyr så fete at det glinset av dem, og da han var forbi den, kom han til et stort gildt slott.
+
+![Illustrasjon](./dtkibdb10.png)
 
 Der gikk han gjennom mange rom før han traff noen. Til sist hørte han en rokk som surret, og da han kom inn, satt den eldste kongsdatteren der og spant kobbertråd; og både stua og alt som i den var, var av bare blankskurt kobber.
 
@@ -136,6 +156,8 @@ Da han åpnet døra, var det en stor sal innenfor, hvor alt var av rent sølv; d
 
 « Det er von det, — tar jeg ikke hans først, » sa soldaten.
 
+![Illustrasjon](./dtkibdb11.png)
+
 « Ja, vil du endelig, » sa hun, « så får du krype bak det større karet ute i forstua. Men du må skynde deg å komme, straks du hører jeg lokker på hønene. »
 
 Men først måtte han prøve, om han var kar til å svinge trollsverdet som lå på bordet; det var mye større og tyngre enn det første, det var knapt nok han kunne rugge det. Så tok han tre drag av hornet; da var han god til å løfte det; og da han hadde tatt tre til, kunne han fegte med det, som det var en baksteflue.
@@ -147,6 +169,8 @@ Om litt tok det til å dure og brake så det var fælt, og like etter kom det et
 « Ja tenk, for litt siden kom her en ravn flyvende med et lårben og slapp ned gjennom pipa, » sa kongsdatteren; « jeg kastet det ut, og han kastet det inn. Til sist fikk jeg det nå vekk og skyndte meg å røke etter; men lukta gikk vel ikke bort så snart likevel den, » sa hun.
 
 « Nei, jeg kjenner vel det, » sa trollet.
+
+![Illustrasjon](./dtkibdb12.png)
 
 Men så var han trøtt og la hodene sine i fanget til prinsessen, og hun lyste dem, til de snorksov allesammen; da lokket hun på hønene, og så kom soldaten og hogg av alle seks hodene, som det var kålstilker de satt på.
 
@@ -228,6 +252,8 @@ Da kongen hørte at det var en ute som kunne gjøre maken til brikkespillet, var
 
 Den neste morgen, da gullsmeden hadde sovet rusen av seg, var han ikke fullt så kaut. Han både gråt og bar seg, og skjelte på læregutten sin, som hadde fått ham til å gjøre ulykker i fylla. « Nå var det likest at han kortet seg idet samme, » sa han, « for livet det var det ikke å spørre om; når ikke de beste og fornemste gullsmedene kunne gjøre et sådan spill, var det ikke likt seg at han skulle få det til. »
 
+![Illustrasjon](./dtkibdb12.png)
+
 « Syt ikke for det, men kom med gullet, » sa soldaten; « jeg skal nok skaffe spillet jeg. Men jeg vil ha et rom for meg selv å arbeide i, » sa han.
 
 Det fikk han idet samme, og takk attåpå.
@@ -237,6 +263,8 @@ Men det rakk og det varte; ingenting tok han seg til, annet enn å drive, og gul
 « Bry deg om ingenting du, » sa soldaten, « det er langt til klokkeslaget. Er du ikke nøyd med det jeg har lovet, så kan du gjøre spillet selv. »
 
 Det ble det samme det, både den dagen og den neste; og da smeden hverken hørte hammer eller fil fra rommet hans hele den siste dagen heller, gav han seg rent over, for nå var det ikke å tenke på å berge livet lenger, mente han.
+
+![Illustrasjon](./dtkibdb13.png)
 
 Men da det led utpå natta, lukket soldaten opp glasset og blåste i pipa si. Så kom ørna, og spurte hva det var han ville. « Det gullbrikkespillet som kongsdøtrene hadde i berget det blå, » sa soldaten. « Men du vil vel ha noe å leve av først? Borte på låven har jeg liggende to okseskrotter til deg, dem får du ta, » sa han. Da ørna hadde fått dem i seg, gjorde hun ikke veien lang, og lenge før sola rann, var hun tilbake igjen med spillet; så satte soldaten det innunder senga og la seg til å sove.
 
@@ -256,6 +284,8 @@ Men enda gladere enn gullsmeden ble prinsessene, da han kom opp på kongsgården
 
 « Den læregutten hadde jeg lyst til å se, » sa kongsdatteren.
 
+![Illustrasjon](./dtkibdb14.png)
+
 Ja, ham ville de ha fatt i alle tre, og hvis han ville nyte livet, så skulle han komme.
 
 Han var ikke redd hverken kvinnfolk eller storfolk, mente soldaten; og hadde de moro av å se på fillene hans, så kunne de gjerne få den lysten styrt.
@@ -266,7 +296,13 @@ Den yngste kongsdatteren drog kjennsel på ham idet samme; hun skubbet vakta til
 
 Ja, så kom det ord og skor i hvorledes kapteinen og løytnanten hadde båret seg ad, og så fikk de undgjelde for det med livet; det var enden på herredømmet deres. Men soldaten fikk gullkronen og halve riket og holdt bryllup med den yngste kongsdatteren. Og der drakk de og turte[^****] både stivt og sterkt, for ture kunne de alle, om de ikke kunne frelse prinsessene; og har de ikke avdrukket, så sitter de vel og drikker og turer enda.
 
+![Illustrasjon](./dtkibdb15.png)
+
 [^*]: Femfjerding: stor mengde kjøtt, ca. 5/4 av normal porsjon
+
 [^**]: Skålen: verktøyskjulet, redskapsboden
+
 [^***]: Blei: kile av tre eller metall
+
 [^****]: Ture: skryte, føre store ord
+

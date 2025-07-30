@@ -1,6 +1,10 @@
 # Væren og grisen som skulle til skogs for å bo for seg selv
 
+![Illustrasjon](./vogsstsobfss1.png)
+
 Det var en gang en vær som sto på gjødsti og skulle gjøre seg feit; derfor levde han vel og ble både met og stinn av alt det som godt var. Rett som det var, kom budeie og gav ham mer: «Spis nu, vær; du skal ikke være lenge her, i morgen skal vi slakte deg,» sa hun.
+
+![Illustrasjon](./vogsstsobfss2.png)
 
 «Det er et gammelt ord, at kjerringeråd skal ingen forsmå, og råd og drikke gis det for alt, så nær som for døden; men kanskje det skal bli råd for den også denne gangen,» tenkte væren ved seg selv.
 
@@ -76,7 +80,13 @@ Langt om lenge kom ulven ut igjen.
 
 «Da jeg kom innenfor døra, drev skomakeren til meg med læstesekken, så jeg røyk på hodet lige fram i smieøvla; der satt to smeder; de blåste og de hveste med belgen, og klypa og slo med glødende tenner og stenger, så det og kjøttstykker ut av skrotta på meg. Skytteren han for og ramla og leita etter børsa si, men lykken var at han ikke fant den. Og så satt det én opp under taket og flaksa og gol: 'Hekt krokene i ham, dra ham hit, dra ham hit!' skreg han; men hadde han fått tak i meg, hadde jeg visst aldri kommet levende ut.»
 
+![Ulv](./vogsstsobfss3.png)
+
 [^1]: Hare
+
 [^2]: Skremme bort rovdyr og bikkjer (hunder)
+
 [^3]: En berghule hvor det bodde ulver («gråbein» er et gammelt navn på ulv)
+
 [^4]: Ulver (gråtass = ulv)
+

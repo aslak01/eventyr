@@ -1,6 +1,10 @@
 # Kvernen som står og maler på havets bunn
 
+![Brødrene inspiserer kvernen](./kssomphb1.png)
+
 En gang i gamle, gamle dager var det to brødre, den ene var rik og den andre fattig. Da julekvelden kom, hadde den fattige ikke smule i huset, verken av sult eller brød, og så gikk han til bror sin og ba ham om litt til jul i Guds navn. Det var vel ikke første gangen broren hadde måttet gi ham; men nøye var han alltid, og ikke ble han videre glad i ham nå heller.
+
+![Studie](./kssomphb2.png)
 
 «Vil du gjøre det jeg ber deg, skal du få en hel fleskeskinke,» sa han.
 
@@ -44,6 +48,8 @@ Da broren så det, ville han endelig ha kvernen, og langt om lenge skulle han da
 
 Det var om kvelden at den rike fikk kvernen hjem til seg, og om morgenen ba han kjerringa gå ut og breie etter slåttekarene[^3]; «han skulle selv lage til dugurden[^4] i dag,» sa han.
 
+![Løpende i hagen](./kssomphb3.png)
+
 Da det led mot dugurstid, satte han kvernen på kjøkkenbordet. «Mal sild og velling, og det både fort og vel!» sa mannen. Og kvernen til å male sild og velling, først alle fat og traug fulle, og siden ut over hele kjøkkengulvet. Mannen fikla og stelte og skulle få kvernen til å stanse, men hvordan han snudde og fingra på den, så holdt kvernen på, og om litt nådde vellinga så høyt at mannen var på å drukne. Så rev han opp stuedøra, men det varte ikke lenge før kvernen hadde malt full stua også, og det var med nød og neppe at mannen fikk fatt i dørklinken nede i vellingflommen. Da han fikk opp døra, ble han ikke lenge i stua; han satte ut, og sild og velling etter ham, så det fossa ut over både gård og jorder.
 
 Nå syntes kjerringa, som var ute og bredde høy, at det tok for lang tid før dugurden ble ferdig. «Om ikke mannen roper hjem, får vi gå likevel; han kan vel ikke stort med å koke vellinga, jeg får vel hjelpe ham,» sa kona til slåttefolka. Ja, de begynte å rusle hjemetter. Men da de kom oppover bakkene et stykke, møtte de sild og velling og brød, for og slang om hverandre, og mannen selv foran flommen.
@@ -61,7 +67,12 @@ Da skipperen hadde fått kvernen på ryggen, stansa han ikke lenge der, for han 
 Der står kvernen på havets bunn og maler den dag i dag, og derfor er det sjøen er salt.
 
 [^1]: Maur som sværmer rundt en rotmakk
+
 [^2]: Slåttonna - høytida da slåtten begynner
+
 [^3]: Kalle inn slåttekarene til arbeid
+
 [^4]: Dugurd - morgenmåltid for slåttefolka
+
 [^5]: Mager - uttrykk for kraftige bannskap
+

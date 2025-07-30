@@ -1,6 +1,10 @@
 # Stabbursnøkkelen i rokkehodet
 
+![Illustrasjon](./sirh1.png)
+
 Det var engang en rik gårdgutt som skulle ut og fri. Han hadde fått spurt en jente som var både vakker og pen, gjev til å stelle og svær til å koke. Dit gikk han, for slik en var det han ville ha. De skjønte jo nok, folket på gården, hva erend han kom i; så bad de ham sette seg inn på benken og pratet med ham, så som skikk er, og dertil bød de ham en skjenk til å bie[^*] på, mens de fikk laget mat til. De gikk fra og til, så frieren fikk tid til å se seg om i stua; borte i en krok så han der sto en rokk, og rokkehodet var fullt av lin.
+
+![Illustrasjon](./sirh2.png)
 
 «Hvem er det som spinner på den rokka?» sa gutten.
 
@@ -24,5 +28,9 @@ Gutten gikk bare bort til rokka, som sto der i kroken med linlaget likeså stort
 
 Så sa han takk for seg, og bar ikke frem målemet sitt den gangen heller.
 
+![Illustrasjon](./sirh3.png)
+
 [^*]: Bie: vente
+
 [^**]: Målemet: frieriet
+

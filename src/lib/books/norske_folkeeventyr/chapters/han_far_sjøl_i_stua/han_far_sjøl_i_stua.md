@@ -1,5 +1,7 @@
 # Han far sjøl i stua
 
+![Illustrasjon](./hfsis1.png)
+
 Det var engang en mann som bodde borte i en skog. Han hadde så mange sauer og gjeter; men aldri kunne han ha dem i fred for gråbeina[^*]. «Jeg skal vel lure den gråtassen,» sa han til sist, og gav seg til å grave en ulvestue[^**]. Da han hadde gravet dypt nok, satte han en stolpe midt ned i ulvestua, og på den stolpen slo han en skive, og på den skiva satte han en liten hund, og over graven la han kvist og bar og annet rusk, og ovenpå det strødde han snø, for at tassen ikke skulle se der var en grav under.
 
 Da det led utpå natten, ble den vesle hunden lei av å stå der. «Vov, vov, vov!» sa den, og gjøyde mot månen. Så kom det en rev lakkende og lakkende, og tenkte han riktig skulle gjøre marked, og så gjorde han et hopp — lukk ned i ulvestua.
@@ -18,6 +20,11 @@ Men da det ble riktig lyst, begynte Mikkel å riste på seg, og så vimset han o
 
 Men så kom mannen som eide ulvestua. Først drog han opp kjerringa, og så slo han i hjel alle dyrene, og han sparte hverken han far sjøl i stua eller tassen eller Mikkel sviverøv. Den natten syntes han at han hadde gjort et godt kast.
 
+![Illustrasjon](./hfsis2.png)
+
 [^*]: Gråbeina = ulv
+
 [^**]: Ulvestue = felle for å fange ulv
+
 [^***]: Fantekjerring = omstreifende tiggerske
+

@@ -1,6 +1,10 @@
 # Tyrihans som fikk kongsdatteren til å le
 
+![Illustrasjon](./thsfktal1.png)
+
 Det var engang en konge som hadde en datter, og hun var så deilig at hun var navnspurt[^1] både vidt og bredt; men hun var så alvorlig av seg, at hun aldri kunne le, og så var hun så stor på det, at hun sa nei til alle dem som kom og fridde til henne, og ikke ville hun ha noen, om de var aldri så gilde, enten det var prinser eller herremenn. Kongen var kjed av dette for lenge siden og syntes, at hun kunne gifte seg, hun som andre; hun hadde ikke noe å vente etter; hun var gammel nok, og rikere ble hun ikke heller, for halve riket skulle hun ha, det var morsarven hennes.
+
+![Scene utendørs](./thsfktal2.png)
 
 Så lot han lyse opp på kirkebakken både fort og snart, at den som kunne få hans datter til å le, han skulle ha henne og det halve kongerike. Men var det noen som prøvde seg og ikke kunne få henne til, skulle de skjære tre røde remmer av ryggen hans og strø salt i, og det er sikkert at det ble mange såre rygger i det kongerike. Det kom farende friere både fra syd og fra nord og fra øst og fra vest, og trodde det var ingen sak å få en kongsdatter til å le. Og rare karger var det også som kom. Men alle de abefanter[^2] der var, og alle de abefynter[^3] de gjorde, så var kongsdatteren lige stø og alvorlig, hun.
 
@@ -62,11 +66,19 @@ Men da kokken hørte det, ble hun sint. «Hva er det du sier!» skreik hun, og d
 
 «Vil du være med, så heng på!» sa Tyrihans; så satt hun fast, hun og så, og alt hun skjente, og alt hun slet og rev, og så vill hun var, måtte hun hinke med. Men da de kom utenfor vinduet til kongsdatteren, sto hun og ventet på dem, og da hun så de hadde fått kokken med, både med grøtslev og tvare, slo hun opp hele latterdøra og lo, så kongen måtte støtte henne. Så fikk Tyrihans prinsessen og det halve kongerike, og bryllup holdt de, så det både hørtes og spurtes.
 
-[^1]: navnspurt = berømt, kjent  
-[^2]: abefanter = aper, tulling  
-[^3]: abefynter = apestrek, tullete oppførsel  
-[^4]: fløymann = korporaл, underofficer  
-[^5]: tyristikker = tynne vedpinner  
-[^6]: kokkej = kjøkken  
-[^7]: skrup = tyv  
+[^1]: navnspurt = berømt, kjent
+
+[^2]: abefanter = aper, tulling
+
+[^3]: abefynter = apestrek, tullete oppførsel
+
+[^4]: fløymann = korporaл, underofficer
+
+[^5]: tyristikker = tynne vedpinner
+
+[^6]: kokkej = kjøkken
+
+[^7]: skrup = tyv
+
 [^8]: tvaren = sleiven, suppeskeia
+

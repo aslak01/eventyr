@@ -1,6 +1,10 @@
 # Kjerringen mot strømmen
 
+![Kjerringa vil klippe](./kms1.png)
+
 Det var en gang en mann som hadde en kjerring, og hun var så tverr og vrang, at det ikke var godt å være i lag med henne; mannen, han hadde nå slett ingen utkomme med henne; det han ville, ville hun alltid tvert imot. Så var det en søndag utpå sommeren at mannen og kona gikk ut og skulle se hvordan åkeren sto.
+
+![Bonden](./kms2.png)
 
 Da de kom til en åker på den andre sida av elva, sa mannen: «Ja, nå er den skjær; i morgen får vi til å skjære.»
 
@@ -17,6 +21,8 @@ Da de kom til en åker på den andre sida av elva, sa mannen: «Ja, nå er den s
 Så gikk de bortetter og kjekka og krangla, til de kom på brua over elva, like ved en dyp høl.
 
 «De sier for et gammelt ord,» sa mannen, «at god redskap gjør godt arbeid; men det tror jeg nok skal bli en rar skur som de klipper med sausaksa,» sa han. «Skal vi slett ikke få lov å skjære åkeren nå da?»
+
+![Under broa](./kms3.png)
 
 «Nei, nei — klippe, klippe, klippe!» ropte kjerringa, hoppa opp og klippa med fingrene etter nesa på mannen. I ilsken akta hun seg ikke, snubla over en stokk ende på brua og dumpa ut i elva.
 
@@ -35,3 +41,6 @@ Men da det led om litt, syntes han det var ille at hun skulle ligge der og ikke 
 «Nei,» sa mannen, «det kan nok ikke nytte dette. Denne kjerringa var nå en kjerring for seg sjøl hun,» sa han. «Mens hun levde, var hun rent på tvers, og hun kan vel ikke være annerledes nå heller,» sa han; «vi får til å lete oppetter og prøve ovenfor fossen; kanskje hun har fløtet seg oppetter.»
 
 Å ja, de gikk oppetter og leita og søkte ovenfor fossen. Der lå kjerringa, det var riktig nok. Det var kjerringa mot strømmen det.
+
+![Bonden](./kms4.png)
+

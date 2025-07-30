@@ -1,5 +1,7 @@
 # Haren som hadde vært gift
 
+![Haren og reven](./hshvg1.png)
+
 Det var engang en hare som var ute og gikk i det grønne. «Å hurra, hei og hopp!» skrek han, hoppet og sprang, og rett som det var, gjorde han et rundkast bortetter og sto på tåen i gresset.
 
 Så kom det en rev luskende.
@@ -21,3 +23,6 @@ Så kom det en rev luskende.
 «Det var da riktig ille,» sa reven.
 
 «Å, det var ikke så ille engang,» sa haren, «for hun brente opp kjerringen med.»
+
+![Rev](./hshvg2.png)
+

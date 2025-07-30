@@ -1,5 +1,7 @@
 # Vel gjort og ille lønnet
 
+![Illustrasjon](./vgil1.png)
+
 Det var engang en mann som skulle reise til skogs etter ved. Så møtte han en bjørn.
 
 « Kom med hesten, ellers slår jeg i hjel alle sauene dine til sommeren, » sa bjørnen.
@@ -74,6 +76,11 @@ Det syntes mannen var et godt råd, og tok to sinte røde hunder, puttet dem i s
 
 « Huff! » sa reven og gjorde et hopp; « det er sant, som de sier for et gammelt ord, at vel gjort blir ille lønnet, og nå ser jeg det er sant også, at frende er frende verst, » sa han, — han så at de røde hundene satte etter ham.
 
+![Illustrasjon](./vgil2.png)
+
 [^*]: Kaue: rope, skrike
+
 [^**]: Målet: stemmen, måten å snakke på
+
 [^***]: Tyrilåg: gammel trevirke, tømmerstokk
+

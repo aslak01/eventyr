@@ -1,6 +1,10 @@
 # Småguttene som traff trollene på Hedalsskogen
 
+![Guttene](./smaaguttene1.png)
+
 På en plass oppe i Vågå i Gudbrandsdalen bodde det engang i gamle dager et par fattige folk. De hadde mange barn, og to av sønnene, som var så ved lag halvvokse, måtte støtt reise omkring på bygda og tigge. Derfor var de vel kjent med alle veier og stier, og de visste også benveien til Hedalen.
+
+![Guttene 2](./smaaguttene2.png)
 
 Engang ville de gå dit. Men de hadde hørt at noen falkefangere hadde bygget seg en hytte ved Mæla; der ville de gå innom med det samme og se fuglene, og hvorledes de fanget dem, og derfor tok de benveien over Langmyrene. Men det led alt så langt på høsten at budeierne var reist hjem fra setrene; derfor kunne de ingensteds få hus og ikke mat heller.
 
@@ -30,6 +34,11 @@ Men gutten mente, det gikk ikke så fort; han var ikke bang hverken for skryt el
 
 Da trollene hørte dette, ble de redde og begynte å gi gode ord. De bad nok så vakkert at han ville gi dem øyet igjen, så skulle han få både gull og sølv og alt han ville ha. Ja, det syntes gutten var nok så bra, men han ville ha gullet og sølvet først, og så sa han, at hvis en av dem ville gå hjem og hente så mye gull og sølv at han og broren fikk posene sine fulle, og gi dem to gode stålbuer attatt, så skulle de få øyet, men så lenge ville han ha det.
 
+![Trollene skotter](./smaaguttene3.png)
+
 Trollene bar seg ille, og sa at ingen av dem kunne gå, når de ikke hadde øyet å se med, men så gav en av dem seg til å skrike på kjerringa, for de hadde én kjerring ihop alle tre også. Om en stund svarte det i en kamp langt nord på. Så sa trollene, at hun skulle komme med to stålbuer og to spann, fulle av gull og sølv, og det varte da ikke lenge før hun var der, skal jeg tro; da hun så fikk høre hvorledes det var tilgått, begynte hun også å true med troldskap. Men trollene ble redde, og bad, hun skulle ta seg i akt for den vesle hvepsen, hun kunne ikke være sikker for at han tok hennes øye også. Så kastet hun spannene og gullet og sølvet og buene til dem, og strøk hjem i kampen med trollene, og siden den tid har ingen hørt at trollene har gått på Hedalsskogen og luktet etter kristent blod.
 
+![Troll](./smaaguttene4.png)
+
 [^1]: Veide: puste tungt, stønne
+

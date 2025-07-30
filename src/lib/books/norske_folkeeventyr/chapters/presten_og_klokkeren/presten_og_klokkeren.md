@@ -1,6 +1,10 @@
 # Presten og klokkeren
 
+![Hest og kjerre](./pok1.png)
+
 Det var engang en prest som var slik en børste[^1] at han skreik langt unna, når han så noen kom kjørende i møte med seg i alfarvein: «Av veien, av veien, her kommer selve presten!»
+
+![Møte kongen](./pok2.png)
 
 En gang han for så og bar seg, møtte han kongen. «Av veien, av veien!» skreik han langt borte. Men kongen kjørte som han kjørte han, og reiste fram, så den gangen måtte presten vike hesten sin, og da kongen kom jevnsides med ham, sa han: «I morgen skal du møte meg på slottet, og kan du ikke løse tre spørsmål jeg vil gi deg, skal du miste både kappe og krave for dit hovmod.»
 
@@ -34,6 +38,11 @@ Der tok kongen i mot ham ute i svalen både med krone og spir, og var så gild a
 
 «Nå, så reis — hjem med deg, og vær du prest og la ham bli klokker,» sa kongen, og så ble det.
 
-[^1]: børste = brysom, vanskelig person  
-[^2]: far = fagområde, sterke side  
+![Studie fra Bjølstad](./pok3.png)
+
+[^1]: børste = brysom, vanskelig person
+
+[^2]: far = fagområde, sterke side
+
 [^3]: lavde = strålte, lyste
+

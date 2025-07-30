@@ -1,6 +1,10 @@
 # Soria Moria slott
 
+![Illustrasjon](./sms1.png)
+
 Det var engang et par folk som hadde en sønn, og han het Halvor. Like fra han var liten gutt, ville han aldri gjøre noe, men satt bare og rotet i asken. Foreldrene satte ham bort til å lære mange ting; men Halvor stanset ingensteds, for når han hadde vært borte i noen dager, rømte han fra læren, løp hjem og satte seg i grua til å grave i asken igjen. Men så kom det engang en skipper og spurte Halvor om han ikke hadde lyst til å være med ham og fare til sjøs og se fremmede land. Jo, det hadde Halvor lyst til, da var han ikke lenge ufedig.
+
+![Illustrasjon](./sms2.png)
 
 Hvor lenge de seilte, vet jeg ikke noe om; men langt om lenge kom det en sterk storm, og da den var forbi og det ble stille igjen, visste de ikke hvor de var; de var drevet hen til en fremmed kyst, som ingen av dem var kjent på.
 
@@ -76,6 +80,8 @@ Halvor spurte om han ikke kunne bli der og få hus natten over.
 
 « Nei, det kunne han slett ikke; vi har det ikke slik, » sa de, « vi har hverken det ene eller det andre, som en sådan herre kan være tjent med; men det er best han går opp på gården; det er ikke lange stykket, han kan se skorsteinspipa herfra — der har de fullt opp av alt. »
 
+![Illustrasjon](./sms3.png)
+
 Halvor var ikke mye for det, han ville bli; men folkene ble ved sitt, at han skulle gå opp til gården, for der kunne han få både mat og drikke, mens de ikke engang hadde en stol å by ham å sitte på.
 
 « Nei, » sa Halvor, « der opp vil jeg ikke før i morgen tidlig; la meg nå få være her i natt, jeg kan jo sitte i peisa. »
@@ -105,6 +111,8 @@ I det samme kom Halvor inn, og så ble jentene så forfjamet at de glemte igjen 
 Han hadde ikke før sagt det, før de sto der; men da ble han så ille ved, for nå kom han i hug hva de hadde sagt. På gården ble det både holdt gjestebud for prinsessene og gjort stas av dem; men de ville ikke stanse der. « Vi vil ned til foreldrene dine, » sa de til Halvor, « og så vil vi ut og se oss om. » Han fulgte da med dem. Så kom de til et stort vann utenfor gården. Tett ved det vannet var slik en deilig grønn bakke; der ville prinsessene sitte og hvile en stund, for de syntes det var så vakkert å sitte og se ut over vannet, sa de.
 
 De satte seg der, og da de hadde sittet en stund, sa den yngste prinsessen: « Jeg får vel lyse deg litt jeg, Halvor. » Ja, Halvor la hodet i fanget hennes, så lyste hun ham, og det varte ikke lenge før Halvor sov. Så tok hun ringen av ham og satte en annen i stedet, og så sa hun: « Hold nå i meg, som jeg holder i dere, — og gid vi så var på Soria Moria slott! »
+
+![Illustrasjon](./sms4.png)
 
 Da Halvor våknet, kunne han nok skjønne at han hadde mistet prinsessene, og begynte å gråte og bære seg, og han var så rent mistrøstig at de slett ikke kunne stagge ham. Alt det foreldrene bad ham, ville han ikke stanse, men tok farvel, og sa at han visst aldri fikk se dem mer, for fant han ikke prinsessene igjen, syntes han ikke det var verd å leve.
 
@@ -162,6 +170,11 @@ Det kunne det ikke være mer enn én mening om, mente alle, og da Halvor hørte 
 
 « Ja, der er den rette! » ropte den yngste prinsessen, da hun fikk se ham, og så skjøv hun den andre for glugg og holdt bryllup med Halvor.
 
+![Illustrasjon](./sms5.png)
+
 [^*]: Stakk: underskjørt
+
 [^**]: Fjerding: gammel lengdemål, ca. 20-30 centimeter
+
 [^***]: Drikke bruden av jentelaget: gammel bryllupsskikk hvor man skålte for bruden
+

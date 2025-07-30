@@ -1,6 +1,10 @@
 # Askeladden som fikk prinsessen til å løgste seg
 
+![Askeladden og prinsessen](./asfptals1.png)
+
 Det var engang en konge som hadde en datter, og hun var så slem til å lyve, at ingen kunne være verre. Så satte han ut, at den som kunne lyve slik at han fikk henne til å løgste seg[^1], skulle få både henne og det halve riket. Det var mange som prøvde på det; for alle ville gjerne ha prinsessen og det halve riket, men ille gikk det dem alle sammen.
+
+![Askeladden underveis](./asfptals2.png)
 
 Så var det også tre brødre som skulle prøve lykken. De to eldste la da først avsted, men det gikk ikke dem bedre enn alle de andre. Så skulle Askeladden i veien, og han traff prinsessen i fjøset.
 
@@ -20,7 +24,13 @@ Så var det også tre brødre som skulle prøve lykken. De to eldste la da førs
 
 «Det løgst du!» sa prinsessen, «far min har aldri vært skurvet her i verden.»
 
-[^1]: løgste seg = innrømme at hun hadde løyet  
-[^2]: elgsblakk = gulbrun av farge som en elg  
-[3]: bustereip = tau laget av linnfiber  
+![Skoslag](./asfptals3.png)
+
+[^1]: løgste seg = innrømme at hun hadde løyet
+
+[^2]: elgsblakk = gulbrun av farge som en elg
+
+[^3]: bustereip = tau laget av linnfiber
+
 [^4]: grynsodd = morgensol
+

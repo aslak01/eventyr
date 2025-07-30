@@ -1,6 +1,10 @@
 # Følgesvennen
 
+![Illustrasjon](./fsv1.png)
+
 Det var engang en bondegutt som drømte at han skulle få en prinsesse langt borte i landene, og hun var så rød og hvit som melk og blod, så rik at det aldri kunne bli ende på rikdommen hennes. Da han våknet, syntes han hun sto lyslevende for ham enda, og han tykte hun var så fin og deilig, at han ikke kunne være til, om han ikke fikk henne. Så solgte han det han hadde, og reiste ut i verden for å lete henne opp.
+
+![Illustrasjon](./fsv2.png)
 
 Han gikk langt og lengre enn langt, og om vinteren kom han til et land der alle alfarveiene lå ende bent ut og ikke gjorde noen bøyning. Da han hadde vandret like frem et fjerdingjærs tid, kom han til en by, og utenfor kirkedøra lå det en stor isklump som det sto et lik midt i, og den spyttet hele kirkealmuen på, da de gikk forbi den.
 
@@ -71,6 +75,8 @@ Da han kom opp på kammeret om aftenen, og fortalte hvorledes det hadde gått og
 «Ja, ja, gi deg til tåls, jeg får prøve å skaffe deg den igjen,» sa følgesvennen, og gikk ned i stalden; der sto det en stor, diger stallbukk som hørte prinsessen til, og den var slik at den kunne flyve mange ganger fortere gjennom lufta, enn den gikk på marken. Så tok han tresøster-sverdet og slo den mellom hornene med, og sa: «Når rider prinsessen til sin kjæreste i natt?» Bukken bræget og sa, det torde den ikke si, men da den fikk en tørn til, sa den at prinsessen skulle komme klokka elleve. Følgesvennen satte tresøster-hatta på seg, og så var han usynlig, og ventet til hun kom.
 
 Da tok hun og smurte bukken med en salve som hun hadde i et stort horn, og sa: «Til veirs, til veirs over mønsås[^***] og kirkespir, over land, over vann, over berg, over dal, til min kjæreste, som venter meg i fjellet i natt!» I det samme bukken satte avsted, slengte følgesvennen seg opp bakpå, og det gikk som en vind gjennom veiret; de var ikke lenge om veien. Rett som det var, kom de til et tverberg; der banket hun på, og så for det ned igjennom fjellet med dem, til trollet som var kjæresten hennes.
+
+![Illustrasjon](./fsv3.png)
 
 «Nå er det kommet en ny frier som vil ha meg, venn min,» sa prinsessen. «Han er ung og vakker; men jeg vil ikke ha noen annen enn deg,» sa hun og gjorde seg lekker for bergtrollet. «Så satte jeg ham på prøve, og der er saksen han skulle gjemme og passe på, pass den nå du!» sa hun.
 
@@ -148,6 +154,8 @@ Ja, det var både godt og vel, kan en vite, og da gutten ble bedt ned til bords 
 
 «Jamen har jeg det,» sa gutten, han rev det frem under kjoleflakt sitt, og slo det i bordet, så bordet og hele stellet reiste over ende. Prinsessen ble som hun hadde ligget i jorda; men hun kunne ikke nekte at det var det hun hadde tenkt på, og nå måtte han få henne, som hun hadde lovt. Så ble det drukket bryllup, og det ble stor glede over hele kongeriket.
 
+![Illustrasjon](./fsv4.png)
+
 Men følgesvennen tok gutten til side, og sa til ham at han nok kunne lukke sine øyne og late som han sov om brudenatten, men hvis han hadde livet kjært og ville lyde ham, da måtte han ikke la det komme en blund på dem, før han hadde skilt henne ved trollhamma hun hadde på, og den skulle han piske av henne med riset av ni nye bjerkelimer, og så skille av henne i tre kar med melk; først skulle han skrubbe henne i et kar med fjorgammel myse[^****], så skulle han gni henne i surmelk, og så skulle han skylle henne av i et sødmelkskar; limerne lå under senga, og karrene hadde han satt i kroken; det var ferdig altsammen. Ja, gutten lovte han skulle lyde ham og gjøre som han sa.
 
 Da de var kommet i brudesenga om kvelden, lot gutten som om han la seg til å sove. Prinsessen reiste seg opp på albuen og så på ham, om han sov, og kilte ham under nesa. Gutten sov like godt. Så lugget hun ham i håret og i skjegget. Men han sov som en stokk, trodde hun. Så drog hun frem en stor slakterkniv under hodeputa og ville hakke hodet av ham. Men gutten for opp, slo kniven av hånda på henne, og grep henne i håret. Så pisket han henne med risene, og slet dem opp på henne, til det ikke var en pinne igjen. Da det var gjort, kastet han henne i mysekarret, og da fikk han se hva hun var for et dyr; hun var svart som en ravn over hele kroppen; men da han hadde skrubbet henne i myse, og skuret henne med surmelk, og skyllet henne opp i sødmelk, var trollhamma gått av henne, og hun var så blid og deilig, at hun aldri hadde vært så deilig før.
@@ -163,6 +171,8 @@ Så spurte gutten hva han skulle ha, for det han hadde vært med og hjulpet ham.
 «Ja det skulle han få.»
 
 Da han var borte, la gutten igjen all rikdommen sin, og reiste tomreps hjem. Så turte de hjemkommerøl, så det både hørtes og spurtes over syv kongeriger, og da de var ferdig med det, fikk de vinterdrift all vinteren både med bukkene og med de tolv hestene som far hans hadde, før de fikk kjørt hjem alt gullet og sølvet.
+
+![Illustrasjon](./fsv5.png)
 
 Om fem år kom følgesvennen igjen og skulle ha sin del. Da hadde mannen delt alt i to like deler.
 
@@ -182,9 +192,17 @@ Ja, det var så det. Han tok sverdet; men med det samme han løftet det og skull
 
 Han var vintapperen som sto i isklumpen utenfor kirkedøra, som alle spyttet på; og han hadde vært hans følgesvenn og hjulpet ham, fordi han gav det han hadde, for å skaffe ham fred og få ham i kristenjord.
 
+![Illustrasjon](./fsv6.png)
+
 Han hadde fått lov til å følge ham et år, og det var omme, da de skiltes siste gangen. Så hadde han fått lov til å se til ham igjen. Men nå måtte de skilles for alle tider, for nå ringte det etter ham med himmeriges klokker.
 
+![Illustrasjon](./fsv7.png)
+
 [^*]: Tverberg: berg som er åpent på tvers/siden
+
 [^**]: Steile: henrettelse på hjul og stake
+
 [^***]: Mønsås: møne og ås, takrygger på hus
+
 [^****]: Myse: valle, det som blir igjen etter at melk er til ost
+
