@@ -1,4 +1,4 @@
-# God dag, mann! Økseskaft!
+# «God dag, mann!» «Økseskaft!»
 
 Der var en gang en færgemann, som var så tumhørt at han hverken kunne høre eller samle det nogen sa til ham. Han hadde en kjærring og to sønner og en datter, og de brydde seg ikke om mannen, men leved lystig og vel, så lenge der var noget å leve av, og siden tok de på borg hos gjestgiveren og holdt bedt lag og kastud hver dag.
 
@@ -22,6 +22,8 @@ Lensmanden ristet på hodet og glantet stort på ham.
 
 «Hvor er kjærringen din, mann?» sa han.
 
+![Politimann og mann med økseskaft](./gms1.png)
+
 «Jeg skulle til å tjærebre henne,» sa færgemannen, «for hun ligger på stranden og er sprukket i begge ender.»
 
 «Hvor er datter din?»
@@ -31,3 +33,4 @@ Lensmanden ristet på hodet og glantet stort på ham.
 «Å reis du til helvete, din tull du er!» sa lensmanden.
 
 «Ja, det er ikke langt unda; når du kommer opp av bakken, så er du der straks,» sa mannen.
+

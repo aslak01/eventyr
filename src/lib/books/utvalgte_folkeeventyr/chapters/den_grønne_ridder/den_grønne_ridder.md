@@ -16,6 +16,11 @@ Som de stod så, kom en ung mann og en gammel mann, som også ville berge seg fo
 
 «Hva kommer det av, at denne kongsgården er kledd med sort?» sa den unge. «Vet du ikke det?» sa gamlingen, «prinsen her er dødssyk, han som de kalte den grønne ridder;» og så fortalte han hvordan det var gått til. Da den unge hadde hørt hvordan han hadde fått det, spurte han, om det ikke var noen som kunne gjøre ham god igjen. «Nei, det er ikke mer enn én råd,» sa han, «og det er, dersom den jomfru som satt i huset under jorda, kom mer and plukker legedomsurter på marka, koker dem i søt melk og vasker ham med tre ganger,» og så regnet han opp, hva det var for urter som skulle til, for at han skulle bli frisk. Dette hørte hun, og hun hørte vel etter også. Da regnet var over, gikk de to, og hun biet ikke lenge, hun heller. Da de kom hjem dit hvor de bodde, måtte de ut og hente alle slags urter på mark og i skog, både hun og terna, og de plukket og sanket sent og tidlig av alle dem hun skulle ha og koke. Så kjøpte hun seg en doktorhatt og en doktorkjole, gikk opp til kongen og bød seg til å gjøre prinsen god igjen.
 
+![Det sorte slott](./dgr1.png)
+
 Nei, det kunne ikke nytte, sa kongen; det hadde vært så mange der og prøvd det, men det var alltid blitt verre og ikke bedre. Hun ga seg ikke, men lova sikkert at han skulle bli god, og det både fort og vel. Ja, så skulle hun få lov å prøve da, og kom inn til den grønne ridder og vasket ham første gang. Da hun kom igjen den andre dagen, var han så god at han kunne sitte i senga; den neste dagen var han kar til å gå i værelset, og den tredje dagen var han så frisk som fiska i vannet. Han skulle ut på jakt, sa doktoren. Nå ble kongen så glad i doktoren som fuglen i lyse dagen. Men doktoren ville hjem. Da kastet hun kjolen og hatten, pyntet seg og laget til et måltid, og så lukket hun boka opp. Det var den samme gledesslått som før, og med det samme kom den grønne ridder. Han undret seg på hvordan hun var kommet dit. Men så fortalte hun hvordan alt var gått til, og da de hadde spist og drukket, tok han hende med like opp på slottet og fortalte kongen hvordan det var gått til fra først til sist.
 
 Så ble det bryllup og bryllups-tuering, og da de var ferdige med det, reiste de hjem. Da ble det stor glede på hennes far. Men stemora tok de og trillet i en spikertønne.
+
+![Rulle tønne](./dgr2.png)
+

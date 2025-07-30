@@ -1,5 +1,7 @@
 # Gutten som ville bli handelskar
 
+![Mann, gutt, gris](./gvbh1.png)
+
 Der var en gang en enke som hadde en sønn, og han hadde ikke lyst til annet enn å bli handelskar. Men de var så fattige at de ikke hadde noe som han kunne ta på å handle med. Det eneste mora eide, det var en purke, og den ba og tigget han så lenge og så vel om, at hun til slutt måtte la ham få den. Da han hadde fått den, skulle han av sted og selge den, så han kunne få noe å begynne å handle med. Han bød den fram både til lik og ulik, men det var ingen som ville kjøpe purke den tida. Til slutt kom han til en rik kakse; men mye vil ha mer, og denne her var av det slaget som aldri kunne få nok.
 
 «Skal du kjøpe purke idag?» sa gutten; «både stor purke, god purke, og riktig fed purke og,» sa han. «Hva skulle han ha for den?» sa kaksen. «Hun var minst verd en halv snes daler, om det var mellom brødre,» sa gutten; men det var slike knappe tider og så vondt for penger, så fikk han selge den for fire daler; det var så godt som til givendes.»
@@ -33,6 +35,8 @@ Litt oppi marka kom de til et stort tre. «Skal tro det er stort nok?» sa manne
 Da gauen ikke kom hjem, gjorde de mandgår etter ham fra bygda, og leitet all marka over, og endelig fant de ham under mastefurua, men da var han mer død enn levende. Da de hadde fått ham vel til gårds, kom gutten og hadde kledd seg ut som doktor og sa han kom fra utlandene, og han visste råd for all slags uråd. Da mannen hørte det, ville han ha ham til å doktere seg, og gutten mente det skulle ikke stå lenge på, men han måtte ha ham ut i en stue for seg selv, og der måtte han være alene med ham. «Hører I han skriker,» sa gutten, «så skal I ikke anse det; for des mer han skriker, des før blir han frisk.»
 
 «Først skal jeg årelade deg,» sa han; og så la han mannen gruve på langbenken og bant ham vel fast med tømmene; så kom tjorpeisen fram, og tok til å denge ham igjen alt det han orket. Mannen huja og skreik, for ryggen var sår, og det sved i bare kjøttet, og gutten dengte så det ikke var noen måte på det. «Her er gutten som du kjøpte purka av, å her er gutten som du kjøpte purka av,» sa han. Manden bar seg som det satt en kniv i ham; men det var ingen som brydde seg om det, for des mer han skreik, des før ble han frisk, mente de. Da gutten hadde gjort fra seg doktereringa, reiste han av gårde det forteste han kunne. Men de reiste etter, og fikk fatt på ham igjen og sette ham fast, og så ble han dømt til å henges. Og gauen var så harm på ham ennå, at han ikke ville han skulle henges, før han ble så frisk at han kunne gjøre det selv.
+
+![Bundet til tre](./gvbh2.png)
 
 Mens gutten satt der og ventet på at han skulle bli hengt, var en av husmennene til mannen ute en natt og stjal fra ham, og det så gutten. Du er en god tyverådd, tenkte han, og det skulle vel være artig, om jeg ikke skulle få gjort et spikk med deg, før de henger meg, sa han ved seg selv.
 
@@ -83,3 +87,6 @@ Han strøk sør i jordet til graven og ville sette seg; men i det samme stakk gu
 «Her er gutten du kjøpte purka av! Å her er gutten du kjøpte purka av!»
 
 Mannen av sted med kniva i kroppen, og ble så redd og forskrekket, at han hverken har vært hørt eller spurt siden.
+
+![Mann løper vekk](./gvbh3.png)
+

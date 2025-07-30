@@ -1,5 +1,7 @@
 # Gutten som skulle tjene tre år uten lønn
 
+![Mann og kone](./gsstitaul1.png)
+
 Det var en gang en fattig husmann, som hadde en eneste sønn; men han var så lat og uskikkelig, denne sønnen, han ville hverken folke seg eller ta seg til noen verdens ting. Skal jeg ikke bli fødende på denne lange gutten, så må jeg ha ham så langt bort at ingen kjenner ham, tenkte faren ved seg selv; rømmer han da, så er det ikke så lett fanget å komme hjem igjen. Ja, mannen tok med seg sønnen sin og for både vidt og bredt og bød ham frem til tjenestegutt; men der var ikke noen som ville ha ham.
 
 Langt om lenge kom de til en riking, som hadde det ord på seg, at han snudde skillingen syv ganger før han slapp den. Han skulle ta gutten til gårdsgut, og der skulle han tjene i tre år uten lønn; men når de tre årene var ute, skulle mannen gå til byen to morgener og kjøpe det første han møtte, som var å få, og den tredje morgenen skulle gutten gå til byen og kjøpe det første som han møtte: det skulle han få istedenfor lønn. Ja, gutten tjente årene ut, og han skikket seg bedre enn noen kunne tenkt. Han var ikke av de beste gårdsdengene, det er sikkert nok; men husbonden var ikke av det beste slaget, han heller, for han lot ham gå der hele tiden med de samme klærne han hadde da han kom, så til sist var de ikke annet enn bot på bot og lapp på lapp.
@@ -52,6 +54,8 @@ Så var der nylig kommet et stort skip fra utlandet, og det kunne de se fra vind
 
 «Var det ikke verre?» sa gutten. Så gikk han ned til stranda og satte seg i en sandhaug, og da han hadde sittet der lenge nok, ønsket han at der skulle ligge et skip på fjorden fullt ferdig med master og seil og fulle greier, som var maken til det som lå der før. Rett som det var, så lå det der, og da kongen så der var to skip for ett, kom han ned på stranda og skulle ha greie på dette; da så han gutten stod ute i en båt med en kost, likesom han skulle koste etter flekkene og jevne skjolder; men da han fikk se at kongen var innpå stranda, kastet han kosten og skreg: «Nå er skipet ferdig, får jeg dattera din nå?» «Det var nå det,» sa kongen; «du får vel prøve et stykke til først. Kan du bygge et slott, make til slottet mitt, på en times tid eller to, så får vi se,» sa kongen.
 
+![Møte kongen](./gsstitaul2.png)
+
 «Ikke verre?» ropte gutten og strøk av sted. Da han hadde drevet omkring så lenge at det led mot slutten på tiden, så ønsket han der skulle stå et slott maken til det som stod der før. Det var ikke lenge før det stod der, skal jeg tro, og det var ikke lenge heller før kongen kom både med dronningen og prinsessen og skulle se seg om i det nye slottet. Gutten stod der med kosten og kostet igjen han. «Her er slottet fiks og ferdig; får jeg henne nå?» skreg gutten.
 
 «Det var nå det — » sa kongen. «Du får komme inn, så vi kan tales ved om det,» sa han; for han skjønte at gutten kunne mer enn mat seg, og så gikk han og grundet på hvorledes han skulle bli av med ham. Ja kongen gikk da foran, og så dronningen, og så kom kongsdattera nærmest foran gutten. Best som han gikk, så ønsket gutten han skulle være den vakreste i hele verda, og med det samme var han det. Da kongsdattera fikk se hvor vakker han var blitt med ett, dyttet hun til dronningen, og hun til kongen igjen, og da de hadde glant seg mett, så kunne de grant skjønne at han var mer enn det var lik til, da han kom dit i fillepelsen sin. Så la de over at prinsessen skulle fare fint, til hun fikk greiet ut hvorledes det hadde seg med ham.
@@ -96,8 +100,11 @@ Mens katten holdt på å krype omkring og skulle prøve å luske seg inn i tårn
 
 «Kan hende det,» sa hunden; «så var det like så godt å ta livet først som sist; kanskje gutten kunne komme fra det da,» sa den.
 
+![Hund og katt](./gsstitaul3.png)
+
 «Å, vær ikke det,» sa rotta — hun var også med — ; «der skal ikke stort åp til, før jeg kommer inn, og er ringen der så sant, skal jeg nok snuse den opp,» sa hun. Ja rotta smatt inn i hunden, og det var ikke lenge før hun kom ut igjen med ringen. Så la katten av sted til tårnet og krafset seg oppover, til fant et hull som hun kunne få labben inn igjennom, og gav så gutten ringen igjen.
 
 Han hadde ikke fått den på fingeren, før han ønsket at tårnet skulle revne, og med det samme stod han midt i døra og skjelte kongen og dronningen og kongsdattera ut for noe skarvepakk. Kongen var ikke sen til å rope sammen krigsmakten sin, og sa til dem at de skulle kringsette tårnet og ta gutten, det kvittet enten de fikk ham død eller levende. Men gutten ønsket bare at hele soldatmakten skulle sitte til opp under armene i den store bløtmyra inne i fjellet, så hadde de kav nok med å komme opp igjen, de som ikke ble der. Da han så var ferdig med krigsmakten, tok han fatt på kongen, dronningen og kongsdattera igjen; han ønsket at de måtte bli sittende alle sine levedager i tårnet, der de hadde satt ham.
 
 Så tok han landet og riket etter kongen. Hunden ble til prins og katten til prinsesse igjen, henne tok han og giftet seg med, og så drakk de bryllup og turt både vel og lenge.
+

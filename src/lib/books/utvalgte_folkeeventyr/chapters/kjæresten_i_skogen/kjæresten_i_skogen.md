@@ -1,5 +1,7 @@
 # Kjæresten i skogen
 
+![Fugl i bur](./kjis1.png)
+
 Det var en gang en mann som hadde en datter. Hun var så vakker at hun var navnspurt over mange kongeriker, og friere kom det til henne så mange som blekker i løvfall. En av dem gjorde seg til av det at han var rikere enn alle andre; vakker og gild var han og; så skulle han få henne. Og siden kom han tit og ofte på besøk.
 
 Da det led om litt, så ville han at hun skulle komme til ham og se hvorledes han hadde det; han kunne ikke hente henne og følge henne, men den dagen hun skulle komme, skulle han strø erter etter veien lige hjem i husdøren til seg. Men hvorledes det var eller ikke var, så strødde han ertene en dag for tidlig.
@@ -27,6 +29,8 @@ Der lå det fullt med døde kropper og benrangler av drepte kvinnefolk. Hun ble 
 «Skjønn jomfru, skjønn jomfru, spring under sengen, under sengen; nå kommer han!»
 
 Hun var ikke sen til å lyde fuglen og gjemme seg under sengen; hun krøp så langt inn til veggen som hun kunne, ja hun var så redd, at hun gjerne hadde krøpet inn i veggen, om det hadde vært råd.
+
+![Soverom](./kjis2.png)
 
 Så kom kjæresten hennes med en annen jomfru. Hun bad så smått og så vent at han skulle spare livet, så skulle hun aldri åpenbare ham for noen; men der hjalp ingen bønn. Han rev av henne alt, både klærne og gulltet, så nær som en ring hun hadde på fingeren. Den sled han i, men kunne ikke få den av, og så hugget han av fingeren, så den spratt under sengen, og jomfruen som lå der, tok den til seg og gjemte den. Kjæresten sa til en liten gutt som var med ham, at han skulle krype under sengen og ta frem fingeren; ja, han la seg ned og tok innunder, og kjente henne som lå der; men hun klemte ham hardt i hånden, og så skjønte han meningen. «Den ligger så langt innunder at jeg ikke kan rekke den,» sa han; «det får være til det blir dag, så skal jeg ta den.»
 
@@ -87,3 +91,4 @@ Ja de ville gjerne høre, og de skulle bli sittende, det lovet de alle; kjærest
 «Jo, hos deg var det! Der er fingeren, og der er ringen, og der er mannen som hugget den av,» sa hun.
 
 Så tok de ham og slo ham ihjel og brente både ham og huset i skogen.
+

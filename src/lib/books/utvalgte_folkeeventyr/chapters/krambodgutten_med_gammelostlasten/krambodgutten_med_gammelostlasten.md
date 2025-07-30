@@ -16,8 +16,13 @@ De seilte i mange dager; så kom de til en vild ø. Der ville de opp og se efter
 
 Så foræret han ham et glass og en flaske med drikkevarer på, og sa det at han skulle sende en inn med bud til kjøgemesteren, at han skulle komme ut til ham. «Først skal du slå i et glass og drikke selv,» sa han; «så skal du slå i et og skjenke kjøgemesteren, og så skal du slå i det tredje og sende inn til bruden; men først skal du ta ringen av fingeren din og legge i det glasset du sender henne.»
 
+![Under treet](./kbgmgol1.png)
+
 Da kjøgemesteren kom inn med skjenken, sa alle hun måtte ikke drikke. Men kjøgemesteren sa: «Først drakk han, og så drakk jeg, så må vel hun trygt kunne drikke.» Da hun hadde drukket ut, kjente hun ringen som lå på bunnen av glasset, og ville ut, og da hun kom ut, kjente hun ham igjen, og tok ham om halsen og kysset ham, endda så skjegget han var; for du kan vite, han hadde hverken havt kost eller kniv på skjegget sitt i syv år.
 
 Men så kom kongen efter, og ville vite hvad det var for slags kjærlighet som var mellem dem. De blev hentet inn i et værelse, og fortalte hvorledes det var gått til fra først til sidst. Så befalte kongen å hente barberer, som skulle skrabe børstene av ham og fli ham, og skredder med ny stasklædning, og så reiste kongen inn i bryllupsstuen og spurte brudgommen, denne keisersønnen, hvad dom han ville felle over én som hadde stjålet liv og ære fra et menneske. Han svarte, at slik en skarv først skulle henges i galgen, og siden skulle kroppen brennes. Han blev taget på samme måden, som han hadde felt dommen over seg selv, og krambodgutten blev gift med kongsdatteren og leved både lenge og lykkelig.
 
 Så var jeg ikke lenger med, og jeg ved ikke hvorledes det gikk; men det ved jeg, at den som sidst fortalte dette eventyret, lever den dag idag, og det var Ole Olsen Hilli i Røldal.
+
+![Straff](./kbgmgol2.png)
+

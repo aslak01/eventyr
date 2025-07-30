@@ -8,6 +8,8 @@ Men så var det et par gamle folk, som hadde tre sønner; den ene het Per, den a
 
 Men Per han så knapt til siden, han slengte bare på nakken og gikk sin vei. «Ja ja,» sa kjærringa, «gå du, du skal få se det går som det går,» sa hun.
 
+![Per på vei](./rra1.png)
+
 Per gikk langt og lenge, og lengre enn langt, til han kom fram til kongsgården. Der stod kongen i svalen og ga hønsene mat. «God kveld, Gud signe jer,» sa Per. «Tippe tippe tippe, tuppe tuppe!» sa kongen og strødde og strødde både øst og vest, og brydde seg ikke om Per. «Ja, stå der du og strø korn og kall hønemål, til det blir en bjørn av deg,» sa Per ved seg selv; «du skal nok være fri for at jeg skal tale til deg,» mente han, og så gikk han inn i kjøkkenet og sette seg bort på benken som en annen storkar.
 
 «Hva er du for en ildgut?» sa kokka, for Per hadde ikke fått skjegg ennå. Det syntes han var spott og spe, og så tok han på å denge kokketøsa; men rett som det var, kom kongen og lot dem skjære tre røde remmer av ryggen på ham; så strødde de salt i såret og lot ham gå hjem igjen, samme vegen han var kommet.
@@ -46,6 +48,8 @@ Ja, hvordan det var, så fikk han nok prøve det, om han ville frelse rygskinnet
 
 Ja, han fikk prøve da, sa askeladden; for han hadde ikke hug til å gå med røde render under trøya, sa han.
 
+![Askeladden møter kjerring](./rra2.png)
+
 Om aftenen kikket askeladden gjennom nøkkelringa si, og da så han det at trollet var redd for timian. Han tok til å ruske opp all den timian han kunne komme over; noe strødde han i vannet og noe på landet, og resten strødde han om bredden på dammen.
 
 Så måtte trollet la fiska være i fred; men nå fikk sauene undgjelde for det; trollet jaget dem over alle hauger og hamrer hele den natta.
@@ -82,6 +86,8 @@ Men der skulle du sett blindebukk; hei! de for omkring i skogkanten; trollet rø
 
 «Hau, hau, der måtte troll være blindebukk lengre!» skreik trollet, så illsint var det. «Bi litt,» sa askeladden, «så skal jeg stå stille og rope, til du tar meg.» Imellomtida tok han en hampehekle og sprang om på den andre sida av tjernet, som det ikke var bunn i. «Kom nå, her står jeg!» skreik askeladden. — «Det er vel læger og skog?» — «Du kan vel høre her ingen skog er,» sa askeladden, og svor på, det hverken var stubber eller skog. «Kom nå!» Så bar det i vegen igjen. Plump! sa det; der lå trollet i tjernet, og askeladden hugd han i øynene med hekla, hver gang han fikk hodet over vannet.
 
+![Trollet som blindebukk](./rra3.png)
+
 Nå ba trollet så tynt for livet sitt, at gutten syntes det var synd på han; men først måtte han si fra seg prinsessa og skaffe fram den andre som han hadde taget før, og love at folk og fe skulle ha fred; så slapp trollet og krabbei hjem til berget sitt. Da var Rødereven kar igjen, kom ned av granen, tok prinsessa opp til slottet, og truet hende til å si at det var han som hadde frelst hende. Og så lusket han ned og tok imot den andre også, da askeladden hadde sluppet hende inn i hagen. Nå ble det slik glede i kongsgården, at det hørtes og spurtes over land og rike, og Røderev skulle ha bryllup med den yngste prinsessa.
 
 Ja, det var godt og vel; men det var ikke så vel ennå — for rett som det var, så hadde trollet gått ned i jorda og stoppet igjen alle vannårene; «kan jeg ikke gjøre annet ugagn, tenkte han, så skal de ikke få vann å koke bryllupsgrøten i.» Det var ikke annen råd enn å sende bud etter askeladden igjen. Han fikk seg en jernstang, som skulle være femten alen lang, og seks smeder, som skulle gjøre den gnistrende rød. Så kikket han gjennom nøkkelringa; da så han trollet likeså godt under jorda som over jorda, og kjørte så stanga ned igjennom marka og ned etter ryggen på trollet, så det luktet brent horn femten fjerdinger. «Hau, hau!» skreik trollet; «slipp meg opp!» Rett som det var, kom han settende opp gjennom hullet og var opbrent like til nakken. Men askeladden var ikke sen, han tok trollet og la det på en stang som var flettet med timian, og der måtte det ligge og si ham hvor det hadde fått øyne fra, siden han hakket dem ut med hampehekla. «Jeg stjal meg en rånype,» sa trollet; «den smurte jeg vel inn med smurning; siden skar jeg den til som jeg ville, og sette den inn med pumpespiker, og bedre øyne vil jeg ikke ønske noen kristemannn.»
@@ -90,7 +96,8 @@ Så kom kongen og begge prinsessene og ville se trollet, and Røderev gikk så k
 
 Så tynte de trollet, og så tok de til å dundre og drikke og danse i brylluppet til askeladden; for nå var han basen. Han fikk den yngste prinsessa og halve kongeriket.
 
-Så legger jeg mitt eventyr på en slede,  
-og kjører det til deg, som bedre kan kvede;  
-men kan du ikke kvede bedre enn jeg,  
-så skam få deg, for du laster meg.
+> Så legger jeg mitt eventyr på en slede,  
+> og kjører det til deg, som bedre kan kvede;  
+> men kan du ikke kvede bedre enn jeg,  
+> så skam få deg, for du laster meg.
+

@@ -2,6 +2,8 @@
 
 Der var en gang en klokker i bygden vår; han var kjær efter alt det som var vakkert og godt. Bygdefolket sa han hadde det meste vettet i vommen; for endda han likte vakre jenter og kjærringer både godt og vel, så likte han vel så godt god mad og godt drikke. «Ja en lever ikke lenge av elsk og søndenvind,» sa klokkeren; det var ordtaket hans. Derfor holdt han seg også helst til velstandskjærringerne, til dem som nylig var gift, eller til vakre jenter som skulle gifte seg til rigdom og gode gårdmenn; der var det best både for vakkert og lækkert, mente klokkeren. Det var ikke alle som syntes det var gjævt å ha en slik madfrier; men det var de som tykte det var nok så gjævt; for en klokker skulle da likesom være litt mer enn en bonde.
 
+![Bonde med katt](./kibv1.png)
+
 Så var der en ung rik jente som blev gift med grannemannen til klokkeren. Der smisket han seg inn, gjorde seg godvenner med mannen, og endda bedre venner blev han med kjærringen. Når mannen var hjemme, så låt han vel med ham; men når han var ved kvernen eller i skogen, på fløting og til tings, så sendte kjærringen bud på klokkeren, og så holdt de gjestebud og bedt lag, de to. Der var ingen som skjønte dette, før tjenestegutten fikk veiret av det. Han syntes han skulle snakke til husbonden om det også; men det ville aldri høve rigtigt, før en gang de var sammen i utengen efter løvkjærv. Der pratet de både likt og ulikt om jenter og kjærringer. Mannen han syntes han hadde vel veidet, da han fikk den rike vakre kjærringen, og det sa han:
 
 «Gud ske lov og takk, fordi hun var både bra og snil.»
@@ -44,7 +46,7 @@ Så gikk de ut samme veien som de var kommet inn, og gav seg til å banke og dun
 
 «Det er meg; luk opp, siger jeg!» sa mannen.
 
-Hun nugget på klokkeren. «Det er far, det er han far!» sa hun. Nei, han vørte det ikke, og rørte ikke på seg heller; så satte hun knerne i siden på ham, spente ham ut på gulvet, hoppet så over, tok klokkeren i hommelsbøterne og trakk ham opp i vedroen bag ovnen; der gjemte hun ham. Før fikk hun ikke tid til å lukke opp for mannen heller.
+Hun nugget på klokkeren. «Det er far, det er han far!» sa hun. Nei, han vørte det ikke, og rørte ikke på seg heller; så satte hun knerne i siden på ham, spente ham ut på gulvet, hoppet så over, tok klokkeren i aommelsbøterne[^1] og trakk ham opp i vedroen bag ovnen; der gjemte hun ham. Før fikk hun ikke tid til å lukke opp for mannen heller.
 
 «Skulle du efter døpevann først?» sa mannen.
 
@@ -73,6 +75,8 @@ Ja, han fikk det. Så satte de seg til å spise av nistetinen, og la et par veds
 «Jeg ser det på ansiktet ditt, hvad du har gjort, mor,» sa mannen; «men livet er sårt å miste, og han var da klokkeren i bygden vår. Gjorde jeg det som rett var, skulle jeg sende bud efter lensmanden.»
 
 «Gud velsigne deg, skaff bare klokkeren avsted,» sa kjærringen.
+
+![Liggende på gulvet](./kibv2.png)
 
 «Det er din sag og ikke min det,» sa mannen; «jeg har hverken bedt ham eller budsendt ham,» sa han; «men kan du få nogen til å hjelpe deg av med ham, skal det ikke være meg imod.»
 
@@ -108,6 +112,8 @@ Ret som det var, kom tyven flyende med votterne, nappet sekken og strøg hjem. D
 
 «Her har jeg en kult, mor!» skreg han.
 
+![Sekk på ryggen](./kibv3.png)
+
 «Det var gildt,» sa kjærringen. «Ingenting er godt i øine, men ikke i munnen; maden kan ingen savne, for den er mannens magt. Gud ske lov vi får mad i huset,» sa hun; «nu skal vi leve vel en stund.»
 
 «Jeg tok den største jeg,» sa mannen, satte seg opp i høisetet og pustet og tørket svetten av skolten; «han hadde både bukser og bleier,» sa han; han mente, at grisen var vel gjødd og fleskelagt. «Har du noget mad, kjærring?» sa han.
@@ -131,6 +137,8 @@ Hun gjorde som han sa, rev opp mulebaandet og skulle til å skjære flesk.
 «Det var gjødgrisen jeg tok,» sa mannen. Så kom han bort og skulle se. Jo, der var syn for sagen; det var klokkeren det, både med sko og med spender. Men det var det største svinet han hadde puttet i sekken, det blev han ved. Det var gjort som gjort var. «Sjøl er beste drengen, men hjelp er også god, så nær som i grødfatet; væk hende Mari, kjærring,» sa mannen.
 
 Ja da, de hadde en datter som var både flink og håndfast; hun hadde kars krefter og visste råd for al uråd. Hun skulle ta og grave ned klokkeren i en afdal, så det aldri kom for dagens lys, og for det skulle hun få en ny verkensklædning, som mor selv skulle havt. Jenten tok klokkeren om livet, slengte ham på nakken og strøg av gårde, og hatten tok hun med.
+
+![Sitter på trapp](./kibv4.png)
 
 Men da hun kom et stykke på veien, hørte hun felen låt; der var dansebal på en gård; der lurte hun seg inn og satte klokkeren oppe i den andre trappen. Han satt med hatten mellem hendene, som om han skulle bede om noget for selebøts skyld, og støttet seg til staven og opp til veggen. Så kom der en jente vimsende.
 
@@ -165,3 +173,6 @@ Nei, han rørte seg ikke. Gutten kjørte til, så det sa plump — og der lå kl
 «Skaden våger mens mannen sover; men mandskaden er meste skaden. Når den ene krukken støter til den andre, så brotner begge. Ta sadlen og legg på blakken og reis efter lensmanden, gut,» sa han, «så vi ikke legger oss borti ulykken for klokkeren skyld; en ulykke kommer sjelden alene; men leit er det å drukne på tørre landet,» sa han.
 
 Ja, gutten for avsted til lensmanden, og da tiden kom, kom lensmanden også. Men for mye hast er heller til last, og brågjort verk vil ikke vare. Det tok tid, før de fikk doktor og synsmenn til. Vi er alle vorherre en død skyldige; men da blev det greiet opp, at klokkeren var drebt tre ganger, før han falt i brønnen. Først hadde blytappen taget pusten fra ham, så hadde han fått en kule for pannen, og til syvende og sidst var nakkebenet knekket. Han var ikke ufeig, der han for. Det er ikke godt å vite hvorledes det er spurt og kommet ut; men en er ofte på orde, der en ikke er på borde, og ordet står oppe, når mannen ligger i mulden.
+
+[^1]: Haserne
+

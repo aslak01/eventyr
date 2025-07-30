@@ -29,3 +29,6 @@ Så gikk de et stykke til; der møtte de to bønder.
 «Det var av hjertet det,» sa fanden; «kom så med meg!» sa han.
 
 Da hjalp der hverken bønn eller påkallelse.
+
+![Fanden drar futen](./fof1.png)
+

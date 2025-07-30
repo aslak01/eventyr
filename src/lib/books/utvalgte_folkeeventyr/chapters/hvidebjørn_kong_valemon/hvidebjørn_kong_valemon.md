@@ -26,6 +26,8 @@ Neste torsdagen kom han igjen, og da gikk det lige ens. Krigsmagen var ute og sk
 
 Den tredje torsdagen kom han igjen. Da sloss han endda hårdere enn de forrige gangene; så syntes kongen han ikke kunne la ham slå ned hele krigsmagen, og så gav han ham den tredje datteren i Guds navn. Så tok han henne på ryggen og reiste avsted langt og lenger enn langt, og da de var kommet bort i skogen, så spurte han henne som han hadde spurt de andre, om hun hadde sittet mygere og sett klarere.
 
+![Prinsessen rir på Hvidebjørn](./hkv1.png)
+
 «Nei aldri!» sa hun.
 
 «Ja, du er den rette,» sa han.
@@ -38,9 +40,11 @@ Men hvorledes det var eller ikke, så fikk hun lysestubben med seg, da hun reist
 
 «Hvad er det du har gjort?» sa han. «Nu har du gjort oss ulykkelige begge to; der var ikke mer enn en måned igjen, hadde du bare holdt ut den, så hadde jeg vært frelst; for det er en troldkjærring som har forgjort meg, så jeg er hvitbjørn om dagen. Men nu er det forbi med oss, nu må jeg fare dit og ta henne.»
 
-Hun grått og bar seg ille; men han måtte reise, og han skulle reise. Så spurte hun om hun ikke kunne få være med. Der var ingen råd til det, sa han; men da han for avsted i bjørnehammen, tok hun tag i ragget likevel, kastet seg opp på ryggen av ham og holdt seg vel fast. Så gikk det avsted over ur og berg, gjennem holt og runner, til klerne blev revet av henne, og hun var så dødelig træt at hun slapp taget og ikke visste mer av seg.
+Hun grått og bar seg ille; men han måtte reise, og han skulle reise. Så spurte hun om hun ikke kunne få være med. Der var ingen råd til det, sa han; men da han for avsted i bjørnehammen, tok hun tag i ragget likevel, kastet seg opp på ryggen av ham og holdt seg vel fast. Så gikk det avsted over ur og berg, gjennem holt og runner[^1], til klerne blev revet av henne, og hun var så dødelig træt at hun slapp taget og ikke visste mer av seg.
 
 Da hun våknet, var hun i en stor skog, og så la hun avsted igjen; men hun visste ikke hvor det bar hen. Langt om lenge kom hun til en hytte; der var det to kvindfolk, en gammel kone og en vakker liden jentunge. Kongsdatteren spurte, om de hadde sett noget til Hvitebjørn kong Valemon.
+
+![Ved koia i skogen](./hkv2.png)
 
 «Ja, han for her idag tidlig; men han for så fort at du visst aldri tar ham igjen,» sa de.
 
@@ -78,7 +82,7 @@ Så tok kongsdatteren duken og takket for seg, og reiste avsted langt og lenger 
 
 «God dag igjen,» sa kjærringen; «det var kanskje du som skulle havd ham?» sa hun. Det var da det. «Ja, han for forbi oppefter berget for tre dager siden; men der kan ikke noget uflyvende slippe opp,» sa hun.
 
-I denne hytten var der så fullt av småbarn, og alle sammen hang de i stakken på mor sin og skreg på mad. Kjærringen satte på varmen en gryde full med runde småsten. Kongsdatteren spurte hvad det skulle bety. De var så fattige, sa kjærringen, at de hverken hadde til mad eller klær, og det var så vondt å høre barna skrike efter madbeten; men når hun satte gryden på varmen og sa: «Nu er eplerne snart kokt,» så var det som det døivet sulten, og de gav tål en stund,» sa hun.
+I denne hytten var der så fullt av småbarn, og alle sammen hang de i stakken på mor sin og skreg på mad. Kjærringen satte på varmen en gryde full med runde småsten. Kongsdatteren spurte hvad det skulle bety. De var så fattige, sa kjærringen, at de hverken hadde til mad eller klær, og det var så vondt å høre barna skrike efter madbeten; men når hun satte gryden på varmen og sa: «Nu er eplerne[^2] snart kokt,» så var det som det døivet sulten, og de gav tål en stund,» sa hun.
 
 Det varte ikke lenge før kongsdatteren fikk frem duken og flasken, det kan en nok vite, og da barna var mette og glade, klippet hun klærne til dem med guldsaksen.
 
@@ -94,7 +98,7 @@ Jo, her bodde hun, den troldkjærringen som hadde forgjort Hvitebjørn kong Vale
 
 Så satte hun seg utenfor vinduet, og til å klippe med guldsaksen, så fløiels- og silke-klerne føg som i en snekave. Da troldkjærringen fikk se det, ville hun kjøpe saksen; «for alt det skredderne strever, så moner det ikke,» sa hun; «der er for mange som skal klædes opp.»
 
-For penger var den ikke til salgs, sa kongsdatteren; men hun skulle få den, om hun fikk lov å sove med kjæresten hennes i natt. Ja, det kunne hun godt få, sa troldkjærringen; men hun ville selv svæve ham og selv vekke ham. Da han hadde lagt seg, gav hun ham en sovedrikk, så han ikke var i stand til å våkne, alt det kongsdatteren ropte og grått.
+For penger var den ikke til salgs, sa kongsdatteren; men hun skulle få den, om hun fikk lov å sove med kjæresten hennes i natt. Ja, det kunne hun godt få, sa troldkjærringen; men hun ville selv svæve[^3] ham og selv vekke ham. Da han hadde lagt seg, gav hun ham en sovedrikk, så han ikke var i stand til å våkne, alt det kongsdatteren ropte og grått.
 
 Den neste dagen gikk kongsdatteren utenfor vinduene igjen, og satte seg til å skjenke av flasken; det fosset som en bekk både med øl og med vin, og den blev aldri tom. Da troldkjærringen fikk se det, ville hun kjøpe den; for «alt det de strever med å brygge og brenne, så moner det ikke; der er for mange som skal ha drikke,» sa hun. For penger var den ikke til fals, sa kongsdatteren; men fikk hun lov å sove med kjæresten hennes i natt, skulle hun få den. Ja, det kunne hun godt få, sa troldkjærringen; men hun ville selv svæve ham og selv vekke ham. Da han hadde lagt seg, gav hun ham en sovedrikk igjen, så det blev ikke likere den natten enn den forrige; han var ikke god for å våkne, alt det kongsdatteren ropte og grått.
 
@@ -104,4 +108,15 @@ Den dagen gikk det lige ens med duken, som med saksen og flasken; da det var ved
 
 Da han hadde lagt seg, kom hun med sovedrikken; men den gangen passet han seg og lurte henne. Troldkjærringen trodde ham ikke mer enn som så, hun heller; for hun tok en stoppenål og stikk tvers igjennem armen på ham og ville prøve om han sov tungt nok; men endda så vondt det gjorde, rørte han seg ikke, og så fikk kongsdatteren lov å komme inn til ham.
 
+![Sovende prins](./hkv3.png)
+
 Da var alting godt og vel, og når de bare blev kvitt troldkjærringen, så var han frelst. Så fikk han tømmermennene til å gjøre en svivelem i den broen brudefærden skulle fare over; for de hadde den skikken der, at bruden red fremst i færden. Da hun kom utpå, svev lemmen rundt med bruden og alle de troldkjærrringer som var brudekonene hennes. Men kong Valemon og kongsdatteren og alle bryllupsfolkene for tilbage til slottet og tok med av guldet og pengene til troldkjærringen alt det de kunne føre, og for så avsted til hans land, og skulle holde det rette brylluppet. Men på veien var kong Valemon indom og tok med de tre småjentene, og nu fikk hun se, hvorfor det var han hadde taget fra henne barna og satt dem bort; det var for at de skulle hjelpe henne frem til ham. Så drakk de bryllup både stivt og sterkt.
+
+![Illustrasjon](./hkv4.png)
+
+[^1]: Det som «renner opp»; tett småskog av rot- og stubbeskudd.
+
+[^2]: Potetene
+
+[^3]: Få ham til å sove.
+

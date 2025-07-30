@@ -1,5 +1,7 @@
 # Gale-Mattis
 
+![Mann og kjerring](./gm1.png)
+
 Der var en gang en kjærring, som hadde en søn som het Mattis. Men han var så tullet at han ikke hadde forstand på nogen ting; ikke tok han seg stort til heller, men det vesle han gjorde, blev altid bagvendt og aldri rigtigt; derfor kaldte de ham aldri andet en Gale-Mattis.
 
 Dette syntes kjærringen var ilde, og endda værre syntes hun det var at sønnen gikk der og aldri tok seg andet til end drage seg ut med veggene.
@@ -49,6 +51,8 @@ Så tok kræmmeren frem et par synåler og gav ham; så fikk han fare over broen
 «Å du er en tull!» sa kjærringen; «du skulle stukket dem ut og inn i luen din.»
 
 «Ja, ti still, du mor, det skal jeg gjøre en anden gang,» sa gutten.
+
+![Dra på stein](./gm2.png)
 
 Neste dagen, da gutten var nede ved broen igjen, kom der en mann fra kvernen med en melkløv og ville over.
 
@@ -200,12 +204,14 @@ Så la han avsted igjen og møtte et ligfølge; da han kom midt for liget, hilst
 
 Ja, gutten gjorde alt det som mor hans bad ham om. Han la i veien og fridde til en jente, og hun syntes at gutten kunne ikke være så lei endda, og så sa hun ja, hun ville ha ham.
 
+![Knall og fall](./gm3.png)
+
 Da gutten kom hjem, ville kjærringen vite hvad jenten hans het. Men det visste han ikke. Så blev kjærringen sint, og sa at han fikk gå i veien igjen; for nu ville hun vite hvad jenten hans het. Med det samme gutten skulle reise hjem igjen, sanset han så mye, at han spurte om hvad hun het. Jo, hun het «Sølvi», sa hun. Gutten sprang og mullet ved seg selv:
 
-«Sølvi, Sølvi,
-tausa mi!
-Sølvi, Sølvi,
-tausa mi!»
+> «Sølvi, Sølvi,  
+> tausa mi!  
+> Sølvi, Sølvi,  
+> tausa mi!»
 
 Men ret som han rendte så fort, for at han skulle komme hjem før han hadde glemt det, stupte han over en tue, og så glemte han navnet igjen. Da han kom på benene, begynte han å lete rundt omkring tuen, men han fant ikke andet enn et grev. Det tok han, og til å grave og lete alt han orket. Som han stod der og grov, kom der en gammel mann.
 
@@ -217,12 +223,12 @@ Men ret som han rendte så fort, for at han skulle komme hjem før han hadde gle
 
 Da gutten hørte det, rendte han avsted med grevet i hånden og ropte:
 
-«Sølvi, Sølvi,
-tausa mi!»
+> «Sølvi, Sølvi,  
+> tausa mi!»
 
 Men da han var kommet litt bort på jordet, kom han i hug at han hadde taget grevet med seg, og så kastet han det tilbage, lige i foten på mannen. Mannen til å skrige og bære seg, som der satt en kniv i ham, og så glemte gutten navnet og løp hjem det forteste han kunne, og da han kom hjem, var det første mor hans spurte: «Hvad heter jenten din?» Gutten var lige klok; han visste det ikke bedre nu enn den første gangen.
 
-«Du er samme stortullen du,» sa kjærringen. «Du kommer nok ingen vei med dette heller du. Men nu får jeg selv reise i veien, og hente jenten din her hjem og få giftet deg. Imens får du bære vann på femte veggen, og så får du ta noget av bust, og noget av bog, og det grønneste i kålhagen får du ta, og koke alt, og når du har gjort det, får du fjære deg vel opp, så du er søt gut til jenten din kommer, og så kan du sette deg på stabben.»
+«Du er samme stortullen du,» sa kjærringen. «Du kommer nok ingen vei med dette heller du. Men nu får jeg selv reise i veien, og hente jenten din her hjem og få giftet deg. Imens får du bære vann på femte veggen[^1], og så får du ta noget av bust, og noget av bog[^2], og det grønneste i kålhagen får du ta, og koke alt, og når du har gjort det, får du fjære deg vel opp, så du er søt gut til jenten din kommer, og så kan du sette deg på stabben.»
 
 Ja, det mente gutten han nok skulle gjøre; han bar vann og slo inn i stuen, så det hadde skikk; men han kunne ikke få det til å stå høiere enn på det fjerde bjelkelaget; når det kom høiere, rant det ut. Så måtte han holde opp med det. Men nu hadde de en hund som het Bust, og en katt som het Bog; dem tok han og puttet i soddgryden. Det grønneste han fant i kålhagen, var en grøn kjole, som kjærringen hadde eslet sønnekonen sin; den hakket han fin og hadde på soddet; men grisen, som het Alt, den kokte han for seg selv i bryggepanden. Da gutten vel hadde gjort fra seg det, fant han seg en krukke med sirup og en fjærdyne; først smurte han seg med sirupen, og siden sprettet han opp dynen og veltet seg i fjæren, og så satte han seg på stabben ute i kjøkkenet, til moren og jenten kom.
 
@@ -235,6 +241,8 @@ De måtte gå omkring til kjøkkendøren, og da de kom inn, satt denne skikkelse
 «Jeg gjorde som du bad meg jeg, mor,» sa gutten; «jeg bar vann på femte veggen; men lige så fort som jeg bar inn, rant det ut, så jeg ikke fikk det høiere enn på den fjerde.»
 
 «Ja men Bust og Bog da?» sa kjærringen, og ville slå det bort i noget andet, «hvor har du gjort av dem?» sa hun.
+
+![Bustete mann](./gm4.png)
 
 «Jeg gjorde som du bad meg jeg, mor,» sa gutten, «jeg tok og la dem i soddgryden. De både skreg og de låt, og de bet og de klorte, og han Bust var sterk og sparket imod, men han måtte til til sidst likevel, og Alt, han koker i bryggepanden i storhuset, for ham var der ikke rum til i soddgryden!» sa han.
 
@@ -293,3 +301,10 @@ Men der var ingen ro å få, for ret som det var, skreg og gol gutten om at jent
 Gutten kløv opp på en hjell under taket og tendte ild i noget halm og flis og andet rask som lå der; men så blev der sådan røk at han ikke kunne holde ut inne; han måtte ut, og det var i det samme dagen sprakk. Kjærringen måtte også ta hyven fat, og da de kom ut, brente stuen, så luen stod høit opp igjennem taket.
 
 «Til lykke, til lykke! Hurra!» skreg gutten. Det syntes han var bryllupsmoro.
+
+![I seng med geit](./gm5.png)
+
+[^1]: Vaske de fem nederste omhvarv, omfar, eller bjelkelag i stuen.
+
+[^2]: «Bust og bog»: Flesk og fårekjøtt, fårebog, spekebog.
+

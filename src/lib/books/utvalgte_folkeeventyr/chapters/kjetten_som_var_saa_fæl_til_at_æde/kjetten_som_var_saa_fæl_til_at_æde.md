@@ -1,5 +1,7 @@
 # Kjetten som var så fæl til å ete
 
+![Mate pus](./ksvsftae1.png)
+
 Der var en gang en mann som hadde en kjette, og den var så fælt stor og slem til å ete, at han ikke kunne ha henne lenger. Så skulle hun til elvs med en stein om halsen; men før hun skulle avsted, fikk hun et måltid mad. Kjerringen satte til henne et grøtfad og et lite trug med matfett. Det rev hun i seg, og satte avsted ut gjennom vinduet. Der stod mannen på låven og tresket.
 
 «God dag, du mann i huset,» sa kjetten.
@@ -36,7 +38,7 @@ Så kom hun til en steinrøys; der stod røskatten og tittet ut.
 
 «Å jeg har fått litt, men jeg er mest fastende,» sa kjetten; «det var bare et grøtfad og et fetttrug og mannen i huset og kjerringen i fjøset og bjellekua på båsen og løvmannen i hagen, og husk om meg, tar jeg ikke deg og,» sa kjetten, og så tok hun og åt opp røskatten også.
 
-Da hun hadde gått litt til, kom hun til et haslekjær; der satt trebjørnen og sanket nøtter.
+Da hun hadde gått litt til, kom hun til et haslekjær; der satt trebjørnen[^1] og sanket nøtter.
 
 «God dag, du trebjørn i busken,» sa kjetten.
 
@@ -106,6 +108,8 @@ Da hun hadde gått et stykke til, kom hun til kirken; der møtte hun et likfølg
 
 «God dag, du kjette; har du fått deg noe mat i dag?» sa likfølget.
 
+![En kjempekatt](./ksvsftae2.png)
+
 «Å jeg har fått litt, men jeg er mest fastende,» sa kjetten; «det var bare et grøtfad og et fetttrug og mannen i huset og kjerringen i fjøset og bjellekua på båsen og løvmannen i hagen og røskatten i steinrøysen og trebjørnen i kjæret og Mikkel Snittom og hoppende hare og gråbein Glup og bjørn Byks opp og bjørninn Bidsk og bamse Brakar og brudefølget på veien, og husk om meg, så tar jeg deg og,» sa kjetten, og så satte hun på likfølget og åt både liket og følget.
 
 Da kjetten hadde fått til livs dette, så bar det til himmels med henne, og da hun hadde gått langt og lenger enn langt, så møtte hun månen i skyen.
@@ -130,8 +134,13 @@ Så gikk kjetten langt og lenger enn langt, til hun kom til en bro; der møtte h
 
 «God dag, du kjette; har du fått deg noe mat i dag?» sa bukken.
 
+![Katt stanget ned](./ksvsftae3.png)
+
 «Å jeg har fått litt, men jeg er mest fastende,» sa kjetten; «det var bare et grøtfad og et fetttrug og mannen i huset og kjerringen i fjøset og bjellekua på båsen og løvmannen i hagen og røskatten i steinrøysen og trebjørnen i kjæret og Mikkel Snittom og hoppende hare og gråbein Glup og bjørn Byks opp og bjørninn Bidsk og bamse Brakar og brudefølget i veien og likfølget ved kirken og månen i skyen og solen på himmelen, og husk om meg, nå tar jeg deg og,» sa kjetten.
 
 «Det skal vi nappes om,» sa bukken, og stanget til kjetten, så hun røyk utover broa og for til elvs, og der sprakk hun.
 
 Så krøp de fram og for hver til seg, og var like gode som før, alle de som kjetten hadde ett, både mannen i huset og kjerringen i fjøset, og bjellekua på båsen og løvmannen i hagen, og røskatten i steinrøysen og trebjørnen i kjæret, og Mikkel Snittom og hoppende hare, og gråbein Glup og bjørn Byks opp, og bjørninn Bidsk og bamse Brakar, og brudefølget på veien og likfølget ved kirken, og månen i skyen og solen på himmelen.
+
+[^1]: Ekorn
+
