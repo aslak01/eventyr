@@ -18,7 +18,9 @@ type PathHelper = ReturnType<typeof createPathHelper>;
 async function getContentHash(filePath: string): Promise<string | null> {
   try {
     const fileBuffer = await Bun.file(filePath).arrayBuffer();
-    const hash = createHash('sha256').update(new Uint8Array(fileBuffer)).digest('hex');
+    const hash = createHash("sha256")
+      .update(new Uint8Array(fileBuffer))
+      .digest("hex");
     return hash.substring(0, 16); // Use first 16 chars for brevity
   } catch (error) {
     console.log(`  ⚠️ Content hash failed for ${basename(filePath)}: ${error}`);
@@ -52,27 +54,37 @@ async function needsProcessing(
     if (currentContentHash === cachedData.contentHash) {
       // Content unchanged, verify cached files exist
       const fileChecks = [
-        cachedData.webpPath ? checkFileExists(cachedData.webpPath) : Promise.resolve(false),
-        cachedData.avifPath ? checkFileExists(cachedData.avifPath) : Promise.resolve(false),
-        ...cachedData.sizes.map(size => checkFileExists(size.path))
+        cachedData.webpPath
+          ? checkFileExists(cachedData.webpPath)
+          : Promise.resolve(false),
+        cachedData.avifPath
+          ? checkFileExists(cachedData.avifPath)
+          : Promise.resolve(false),
+        ...cachedData.sizes.map((size) => checkFileExists(size.path)),
       ];
-      
+
       const results = await Promise.all(fileChecks);
-      const hasValidCache = results.some(exists => exists);
+      const hasValidCache = results.some((exists) => exists);
 
       if (hasValidCache) {
         console.log(`  💾 Cached: ${basename(imagePath)}`);
         return false;
       } else {
-        console.log(`  🔄 Cache files missing for ${basename(imagePath)}, regenerating...`);
+        console.log(
+          `  🔄 Cache files missing for ${basename(imagePath)}, regenerating...`,
+        );
         return true;
       }
     } else {
-      console.log(`  🔄 Content changed for ${basename(imagePath)}, reprocessing`);
+      console.log(
+        `  🔄 Content changed for ${basename(imagePath)}, reprocessing`,
+      );
       return true;
     }
   } catch (error) {
-    console.log(`  ❌ Error checking cache for ${basename(imagePath)}: ${error}`);
+    console.log(
+      `  ❌ Error checking cache for ${basename(imagePath)}: ${error}`,
+    );
     return true;
   }
 }
@@ -83,17 +95,17 @@ async function checkFileExists(filePath: string): Promise<boolean> {
     // Convert web path back to filesystem path for checking
     // The filePath comes from cache and starts with /images/ or /eventyr/images/
     let fsPath: string;
-    if (filePath.startsWith('/images/')) {
+    if (filePath.startsWith("/images/")) {
       // Local development path: /images/book/file.webp -> dist/images/book/file.webp
-      fsPath = join('./dist', filePath);
-    } else if (filePath.includes('/images/')) {
+      fsPath = join("./dist", filePath);
+    } else if (filePath.includes("/images/")) {
       // Production path: /eventyr/images/book/file.webp -> dist/images/book/file.webp
-      const imagePart = filePath.substring(filePath.indexOf('/images/'));
-      fsPath = join('./dist', imagePart);
+      const imagePart = filePath.substring(filePath.indexOf("/images/"));
+      fsPath = join("./dist", imagePart);
     } else {
       return false;
     }
-    
+
     await stat(fsPath);
     return true;
   } catch {
@@ -106,10 +118,13 @@ export async function generateCacheKey(): Promise<string> {
   try {
     // Get hash of all image files for cache key
     const { execSync } = await import("child_process");
-    const imageHash = execSync('find src/lib/books -name "*.png" -o -name "*.jpg" -o -name "*.jpeg" -o -name "*.gif" -o -name "*.svg" -o -name "*.webp" | sort | xargs cat | sha256sum | cut -d" " -f1', { 
-      encoding: 'utf8',
-      cwd: process.cwd()
-    }).trim();
+    const imageHash = execSync(
+      'find src/lib/books -name "*.png" -o -name "*.jpg" -o -name "*.jpeg" -o -name "*.gif" -o -name "*.svg" -o -name "*.webp" | sort | xargs cat | sha256sum | cut -d" " -f1',
+      {
+        encoding: "utf8",
+        cwd: process.cwd(),
+      },
+    ).trim();
     return `image-cache-content-${imageHash.substring(0, 16)}`;
   } catch {
     // Fallback to timestamp if command fails
@@ -180,7 +195,9 @@ export async function optimizeImages(
   }
 
   // Save cache if updated
-  console.log(`🔧 Debug: cacheUpdated=${cacheUpdated}, cache entries: ${Object.keys(cache).length}`);
+  console.log(
+    `🔧 Debug: cacheUpdated=${cacheUpdated}, cache entries: ${Object.keys(cache).length}`,
+  );
   if (cacheUpdated) {
     await saveImageCache(config, cache);
     console.log("💾 Updated image cache");
@@ -329,7 +346,6 @@ export function processMarkdownImages(
     (match, alt, imagePath, ext, title) => {
       const fullImagePath = join(chapterPath, imagePath);
       const optimized = optimizedImages.get(fullImagePath);
-
       if (
         !optimized ||
         optimized?.sizes?.length < 1 ||
@@ -338,30 +354,57 @@ export function processMarkdownImages(
         console.warn(`No optimized image found for: ${imagePath}`);
         return match;
       }
-
       if (ext.toLowerCase() === "svg") {
         return `<img src="${optimized.sizes[0].path}" alt="${alt}"${title ? ` title="${title}"` : ""} />`;
       }
+
+      // Get all available widths and sort them
+      const availableWidths = optimized.sizes
+        .map((s) => s.width)
+        .filter((w) => w > 0)
+        .sort((a, b) => a - b);
+
+      // Find the maximum width available
+      const maxWidth = Math.max(...availableWidths);
+
+      // Generate dynamic sizes attribute based on actual image dimensions
+      const generateSizes = (widths: number[]): string => {
+        if (widths.length === 1) {
+          return `${widths[0]}px`;
+        }
+
+        // Create breakpoints based on available widths
+        const breakpoints = widths.slice(0, -1).map((width, index) => {
+          const nextWidth = widths[index + 1];
+          const breakpoint = Math.min(width * 2, nextWidth); // Use 2x the current width or next width, whichever is smaller
+          return `(max-width: ${breakpoint}px) ${width}px`;
+        });
+
+        // Add the largest size as the default
+        breakpoints.push(`${widths[widths.length - 1]}px`);
+
+        return breakpoints.join(", ");
+      };
+
+      const sizesAttribute = generateSizes(availableWidths);
 
       const webpSources = optimized.sizes
         .filter((s) => s.path.includes(".webp"))
         .map((s) => `${s.path} ${s.width}w`)
         .join(", ");
-
       const avifSources = optimized.sizes
         .filter((s) => s.path.includes(".avif"))
         .map((s) => `${s.path} ${s.width}w`)
         .join(", ");
-
       const jpegSources = optimized.sizes
         .filter((s) => s.path.includes(".jpeg"))
         .map((s) => `${s.path} ${s.width}w`)
         .join(", ");
 
       return `<picture>
-        ${avifSources ? `<source srcset="${avifSources}" type="image/avif" sizes="(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px" />` : ""}
-        ${webpSources ? `<source srcset="${webpSources}" type="image/webp" sizes="(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px" />` : ""}
-        <img src="${optimized.sizes[0].path}" srcset="${jpegSources}" alt="${alt}"${title ? ` title="${title}"` : ""} sizes="(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px" />
+        ${avifSources ? `<source srcset="${avifSources}" type="image/avif" sizes="${sizesAttribute}" />` : ""}
+        ${webpSources ? `<source srcset="${webpSources}" type="image/webp" sizes="${sizesAttribute}" />` : ""}
+        <img src="${optimized.sizes[0].path}" srcset="${jpegSources}" alt="${alt}"${title ? ` title="${title}"` : ""} sizes="${sizesAttribute}" />
       </picture>`;
     },
   );
