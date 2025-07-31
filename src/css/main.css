@@ -221,6 +221,11 @@ header nav {
     margin: 0;
     box-shadow: none;
   }
+  sup {
+    font-variant-position: super;
+    vertical-align: super;
+    font-size: x-small;
+  }
 }
 
 .header {
@@ -300,6 +305,15 @@ header nav {
 .tale-table {
   thead {
     text-align: left;
+  }
+  td {
+    max-width: 350px;
+    padding-right: 3ch;
+    font-variant-numeric: tabular-nums;
+  }
+  td.wordcount {
+    text-align: right;
+    padding-right: 0;
   }
   a {
     color: var(--secondary);

@@ -23,11 +23,7 @@ export function generateMainIndexHTML(
     .flat()
     .sort((a, b) => a.wordCount - b.wordCount);
 
-  const columns = [
-    { title: "Tittel" },
-    { title: "Bok" },
-    { title: "Ord" }
-  ];
+  const columns = [{ title: "Tittel" }, { title: "Bok" }, { title: "Ord" }];
 
   const talesHtml = sortableTableGenerator(
     columns,
@@ -36,16 +32,16 @@ export function generateMainIndexHTML(
     (tale) => `
 <tr>
 <td>
-<a href="${pathHelper.page(tale.htmlPath)}">
+<a href="${pathHelper.page(String(tale.htmlPath))}">
     ${tale.title}
 </a>
 </td>
 <td>
 <a href="${pathHelper.page(`/${tale.bookSlug}/`)}">${tale.book}</a>
 </td>
-<td>${tale.wordCount}</td>
+<td class="wordcount">${tale.wordCount}</td>
 </tr>
-`
+`,
   );
 
   const siteHeader = siteHeaderGenerator(pathHelper);
