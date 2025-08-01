@@ -159,6 +159,8 @@ export async function optimizeImages(
               sizes: optimized.sizes,
               webpPath: optimized.webpPath,
               avifPath: optimized.avifPath,
+              width: optimized.width,
+              height: optimized.height,
             };
             cacheUpdated = true;
           }
@@ -175,11 +177,43 @@ export async function optimizeImages(
           );
         }
 
+        // Check if cache entry needs migration (missing width/height)
+        let width = cachedData.width;
+        let height = cachedData.height;
+
+        if (width === undefined || height === undefined) {
+          // Cache entry needs migration - get dimensions from original image
+          try {
+            const image = sharp(imagePath);
+            const metadata = await image.metadata();
+            width = metadata.width || 0;
+            height = metadata.height || 0;
+
+            // Update cache entry with dimensions
+            cache[imagePath] = {
+              ...cachedData,
+              width,
+              height,
+            };
+            cacheUpdated = true;
+            console.log(`  🔄 Migrated cache entry: ${basename(imagePath)}`);
+          } catch (error) {
+            console.warn(
+              `  ⚠️ Could not get dimensions for ${basename(imagePath)}:`,
+              error,
+            );
+            width = 0;
+            height = 0;
+          }
+        }
+
         optimizedImages.set(imagePath, {
           originalPath: imagePath,
           webpPath: cachedData.webpPath,
           avifPath: cachedData.avifPath,
           sizes: cachedData.sizes,
+          width,
+          height,
         });
       }
     }
@@ -268,16 +302,34 @@ export async function processImage(
     if (ext === ".svg") {
       const svgPath = join(outputDir, basename(imagePath));
       await copyFile(imagePath, svgPath);
+
+      // For SVG files, we need to get dimensions from the file or use defaults
+      let width = 0;
+      let height = 0;
+      try {
+        const image = sharp(imagePath);
+        const metadata = await image.metadata();
+        width = metadata.width || 0;
+        height = metadata.height || 0;
+      } catch (error) {
+        console.warn(
+          `Could not get SVG dimensions for ${basename(imagePath)}:`,
+          error,
+        );
+      }
+
       return {
         originalPath: imagePath,
         webpPath: svgPath,
         avifPath: svgPath,
         sizes: [
           {
-            width: 0,
+            width,
             path: `/images/${bookSlug}/${basename(imagePath)}`,
           },
         ],
+        width,
+        height,
       };
     }
 
@@ -289,6 +341,8 @@ export async function processImage(
       webpPath: "",
       avifPath: "",
       sizes: [],
+      width: metadata.width || 0,
+      height: metadata.height || 0,
     };
 
     for (const size of config.imageSizes) {
@@ -341,7 +395,7 @@ export function processMarkdownImages(
         return match;
       }
       if (ext.toLowerCase() === "svg") {
-        return `<img src="${optimized.sizes[0].path}" alt="${alt}"${title ? ` title="${title}"` : ""} />`;
+        return `<img src="${optimized.sizes[0].path}" alt="${alt}"${title ? ` title="${title}"` : ""} width="${optimized.sizes[0].width || optimized.width}" height="${optimized.sizes[0].width ? Math.round((optimized.sizes[0].width * optimized.height) / optimized.width) : optimized.height}" />`;
       }
 
       // Get all available widths and sort them
@@ -390,7 +444,7 @@ export function processMarkdownImages(
       return `<picture>
         ${avifSources ? `<source srcset="${avifSources}" type="image/avif" sizes="${sizesAttribute}" />` : ""}
         ${webpSources ? `<source srcset="${webpSources}" type="image/webp" sizes="${sizesAttribute}" />` : ""}
-        <img src="${optimized.sizes[0].path}" srcset="${jpegSources}" alt="${alt}"${title ? ` title="${title}"` : ""} sizes="${sizesAttribute}" />
+        <img src="${optimized.sizes[0].path}" srcset="${jpegSources}" alt="${alt}"${title ? ` title="${title}"` : ""} sizes="${sizesAttribute}" width="${optimized.sizes[0].width}" height="${Math.round((optimized.sizes[0].width * optimized.height) / optimized.width)}" />
       </picture>`;
     },
   );

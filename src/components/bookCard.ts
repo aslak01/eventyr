@@ -11,7 +11,7 @@ export function bookCardGenerator(
     ? `<picture>
          <source srcset="${frontImage.avifPath}" type="image/avif">
          <source srcset="${frontImage.webpPath}" type="image/webp">
-         <img src="${frontImage.sizes[0]?.path || frontImage.originalPath}" alt="${book.name} cover" class="book-cover">
+         <img src="${frontImage.sizes[0]?.path || frontImage.originalPath}" alt="${book.name} cover" class="book-cover" width="${frontImage.sizes[0]?.width || frontImage.width}" height="${Math.round(((frontImage.sizes[0]?.width || frontImage.width) * frontImage.height) / frontImage.width)}">
        </picture>`
     : `<div class="book-cover-placeholder">📖</div>`;
 

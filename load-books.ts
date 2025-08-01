@@ -6,8 +6,10 @@ import type {
   BookData,
   BookInfo,
   Chapter,
+  ChapterLoadParams,
   GeneratorConfig,
 } from "./src/types/types.ts";
+
 import { getWordCount } from "./src/utils/strings.ts";
 
 export async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
@@ -116,14 +118,6 @@ async function loadBook(
 
   return bookData;
 }
-
-type ChapterLoadParams = {
-  chapterDir: string;
-  chapterTitle: string;
-  order: number;
-  chaptersPath: string;
-  bookData: BookData;
-};
 
 async function loadChapter({
   chapterDir,

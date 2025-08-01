@@ -39,6 +39,8 @@ export type OptimizedImage = {
   webpPath: string;
   avifPath: string;
   sizes: ImageSize[];
+  width: number;
+  height: number;
 };
 
 export type GeneratorConfig = {
@@ -54,6 +56,16 @@ export type ImageCacheEntry = {
   sizes: ImageSize[];
   webpPath: string;
   avifPath: string;
+  width: number;
+  height: number;
 };
 
 export type ImageCache = Record<string, ImageCacheEntry>;
+
+export type ChapterLoadParams = {
+  chapterDir: string;
+  chapterTitle: string;
+  order: number;
+  chaptersPath: string;
+  bookData: BookData;
+};
