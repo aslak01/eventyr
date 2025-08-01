@@ -1,23 +1,20 @@
 export const safeString = (string: string): string =>
   string.replace(/"/g, "&quot;");
 
-export function joinAuthors(arr: string[]) {
-  if (arr.length <= 1) {
-    return arr[0] || "";
-  } else if (arr.length === 2) {
-    return arr.join(" og ");
-  } else {
-    return arr.slice(0, -1).join(", ") + " og " + arr[arr.length - 1];
-  }
+export function joinAuthors(authors: string[]): string {
+  const { length } = authors;
+  if (length <= 1) return authors[0] || "";
+  if (length === 2) return authors.join(" og ");
+  return `${authors.slice(0, -1).join(", ")} og ${authors[length - 1]}`;
 }
 
-export function getWordCount(chapter: string): number {
-  return (
-    chapter
-      ?.replace(/!\[[^\]]*\]\([^)]*\)/g, "") // Remove markdown images
-      ?.replace(/\n/g, " ") // Replace newlines with spaces
-      .trim()
-      .split(/\s+/) // Split on any whitespace
-      .filter((word) => word.length > 0)?.length || 0
-  );
+export function getWordCount(text: string): number {
+  if (!text?.trim()) return 0;
+  
+  return text
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, "") // Remove markdown images
+    .replace(/\n+/g, " ") // Replace newlines with single space
+    .trim()
+    .split(/\s+/)
+    .filter(word => word.length > 0).length;
 }

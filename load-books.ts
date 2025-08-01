@@ -12,54 +12,45 @@ import { getWordCount } from "./src/utils/strings.ts";
 
 export async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
   const booksPath = join(process.cwd(), config.booksDir);
-  const books: BookData[] = [];
-
+  
   try {
-    try {
-      const bookDirs = await readdir(booksPath);
-
-      for (const slug of bookDirs) {
-        const bookPath = join(booksPath, slug);
-
-        try {
-          const bookDirStats = await stat(bookPath);
-
-          if (bookDirStats.isDirectory()) {
-            try {
-              const rawInfo = await readFile(
-                join(bookPath, "info.json"),
-                "utf8",
-              );
-              const info = JSON.parse(rawInfo);
-
-              const chaptersPath = join(bookPath, "chapters");
-              const chapters = await readdir(chaptersPath);
-
-              if (chapters.length > 0) {
-                const book = await loadBook(info, slug, bookPath);
-                books.push(book);
-              }
-            } catch (err) {
-              console.error(`missing/broken book info.json for ${slug}`);
-              console.error(err);
-              continue;
-            }
-          }
-        } catch {
-          console.log(`reading book ${slug} failed`);
-          continue;
-        }
+    const bookDirs = await readdir(booksPath);
+    const bookPromises = bookDirs.map(async (slug) => {
+      try {
+        return await loadSingleBook(slug, join(booksPath, slug));
+      } catch (error) {
+        const message = error instanceof Error ? error.message : String(error);
+        console.error(`Failed to load book "${slug}":`, message);
+        return null;
       }
-
-      return books;
-    } catch {
-      console.log(`📁 Books directory not found: ${booksPath}`);
-      return books;
-    }
-  } catch (error) {
-    console.error("Error loading books:", error);
-    return books;
+    });
+    
+    const results = await Promise.allSettled(bookPromises);
+    return results
+      .filter((result): result is PromiseFulfilledResult<BookData> => 
+        result.status === 'fulfilled' && result.value !== null
+      )
+      .map(result => result.value);
+  } catch {
+    console.log(`📁 Books directory not found: ${booksPath}`);
+    return [];
   }
+}
+
+async function loadSingleBook(slug: string, bookPath: string): Promise<BookData | null> {
+  const bookDirStats = await stat(bookPath);
+  if (!bookDirStats.isDirectory()) return null;
+  
+  const infoPath = join(bookPath, "info.json");
+  const rawInfo = await readFile(infoPath, "utf8");
+  const info: BookInfo = JSON.parse(rawInfo);
+  
+  const chaptersPath = join(bookPath, "chapters");
+  const chapters = await readdir(chaptersPath);
+  
+  if (chapters.length === 0) return null;
+  
+  return await loadBook(info, slug, bookPath);
 }
 
 async function loadBook(
@@ -82,93 +73,89 @@ async function loadBook(
   };
 
   const chaptersPath = join(bookPath, "chapters");
-  const chapterMds: {
-    markdownURI: string;
-    title: string;
-    dir: string;
-    order: number;
-  }[] = [];
-
   const chapterEntries = Object.entries(chapter_index);
-
-  if (!chapterEntries || chapterEntries.length === 0) {
+  if (chapterEntries.length === 0) {
     throw new Error(`No chapters for ${title}`);
   }
 
-  for (const [order, [chapterDir, title]] of chapterEntries.entries()) {
-    if (!chapterDir || !title) {
-      continue;
-    }
-    const dir = join(chaptersPath, chapterDir);
-    if (dir.startsWith(".") || !(await stat(dir)).isDirectory()) {
-      // skip `.DS_Store` and potential other non chapter things
-      continue;
-    }
-    const chapterFiles = await readdir(dir);
-
-    const markdownFiles = chapterFiles
-      .filter((file) => file.endsWith(".md"))
-      .map((mdFile) => join(dir, mdFile));
-
-    const pdfFiles = chapterFiles
-      .filter((file) => file.endsWith(".pdf"))
-      .map((pdfFile) => join(dir, pdfFile));
-    console.log(markdownFiles);
-
-    if (markdownFiles.length === 0) {
-      continue;
-    }
-
-    const markdownURI = markdownFiles[0];
-
-    if (!markdownURI) {
-      continue;
-    }
-
-    chapterMds.push({
-      markdownURI,
-      title,
-      dir: chapterDir,
-      order,
-      pdfURI: pdfFiles.length > 0 ? pdfFiles[0] : undefined,
-    });
-  }
-
-  for (const chap of chapterMds) {
-    const { markdownURI, title, dir, order, pdfURI } = chap;
-
+  const chapterPromises = chapterEntries.map(async ([chapterDir, chapterTitle], index) => {
+    if (!chapterDir || !chapterTitle) return null;
+    
     try {
-      const fileContent = await Bun.file(markdownURI).text();
-
-      const chapter: Chapter = {
-        title,
-        content: fileContent,
-        path: dir,
-        htmlPath: `/${bookData.slug}/${dir}.html`,
-        wordCount: getWordCount(fileContent),
-        book: bookData.name,
-        bookSlug: bookData.slug,
-        order,
-        pdfPath: pdfURI ? `/${bookData.slug}/${dir}.pdf` : undefined,
-        pdfSourcePath: pdfURI,
-      };
-
-      // // const titleMatch = fileContent.match(/^#\s+(.+)/m);
-      // // const title = titleMatch
-      // //   ? titleMatch[1]
-      // //   : chapterName.replace(/[-_]/g, " ");
-      if (!chapter) {
-        continue;
-      }
-      // bookData.chapters.push(chapter);
-      chapters.push(chapter);
-      console.log(`  📄 Loaded chapter: ${markdownURI} -> ${title}`);
+      return await loadChapter({
+        chapterDir,
+        chapterTitle,
+        order: index,
+        chaptersPath,
+        bookData
+      });
     } catch (error) {
-      console.error(`Error reading ${title}:`, error);
+      const message = error instanceof Error ? error.message : String(error);
+      console.error(`Error loading chapter "${chapterTitle}":`, message);
+      return null;
     }
-  }
+  });
+
+  const chapterResults = await Promise.allSettled(chapterPromises);
+  const loadedChapters = chapterResults
+    .filter((result): result is PromiseFulfilledResult<Chapter> => 
+      result.status === 'fulfilled' && result.value !== null
+    )
+    .map(result => result.value);
+
+  chapters.push(...loadedChapters);
 
   bookData.chapters = chapters;
 
   return bookData;
+}
+
+type ChapterLoadParams = {
+  chapterDir: string;
+  chapterTitle: string;
+  order: number;
+  chaptersPath: string;
+  bookData: BookData;
+};
+
+async function loadChapter({ chapterDir, chapterTitle, order, chaptersPath, bookData }: ChapterLoadParams): Promise<Chapter | null> {
+  const dir = join(chaptersPath, chapterDir);
+  
+  if (chapterDir.startsWith(".")) return null;
+  
+  const dirStats = await stat(dir);
+  if (!dirStats.isDirectory()) return null;
+  
+  const chapterFiles = await readdir(dir);
+  const markdownFiles = chapterFiles.filter(file => file.endsWith(".md"));
+  const pdfFiles = chapterFiles.filter(file => file.endsWith(".pdf"));
+  
+  if (markdownFiles.length === 0) return null;
+  
+  const markdownFile = markdownFiles[0];
+  if (!markdownFile) return null;
+  
+  const markdownPath = join(dir, markdownFile);
+  const pdfFile = pdfFiles[0];
+  const pdfPath = pdfFile ? join(dir, pdfFile) : undefined;
+  
+  console.log([markdownPath]);
+  
+  const fileContent = await Bun.file(markdownPath).text();
+  
+  const chapter: Chapter = {
+    title: chapterTitle,
+    content: fileContent,
+    path: chapterDir,
+    htmlPath: `/${bookData.slug}/${chapterDir}.html`,
+    wordCount: getWordCount(fileContent),
+    book: bookData.name,
+    bookSlug: bookData.slug,
+    order,
+    pdfPath: pdfPath ? `/${bookData.slug}/${chapterDir}.pdf` : undefined,
+    pdfSourcePath: pdfPath,
+  };
+  
+  console.log(`  📄 Loaded chapter: ${markdownPath} -> ${chapterTitle}`);
+  return chapter;
 }

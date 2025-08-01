@@ -8,11 +8,9 @@ import type {
   GeneratorConfig,
   OptimizedImage,
   ImageCache,
+  PathHelper,
 } from "../types/types";
-import type { createPathHelper } from "../utils/paths";
 import { writeFile } from "fs/promises";
-
-type PathHelper = ReturnType<typeof createPathHelper>;
 
 // Get content hash of image file - reliable across all environments
 async function getContentHash(filePath: string): Promise<string | null> {
@@ -371,6 +369,9 @@ export function processMarkdownImages(
         // Create breakpoints based on available widths
         const breakpoints = widths.slice(0, -1).map((width, index) => {
           const nextWidth = widths[index + 1];
+          if (!nextWidth) {
+            return `${width}px`;
+          }
           const breakpoint = Math.min(width * 2, nextWidth); // Use 2x the current width or next width, whichever is smaller
           return `(max-width: ${breakpoint}px) ${width}px`;
         });

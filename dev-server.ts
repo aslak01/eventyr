@@ -142,6 +142,9 @@ serve({
       const segments = path.split("/").filter(Boolean);
       if (segments.length === 2) {
         const [bookSlug, pdfFilename] = segments;
+        if (!bookSlug || !pdfFilename) {
+          return new Response("Bad Request", { status: 400 });
+        }
         const chapterName = pdfFilename.replace(".pdf", "");
         const pdfPath = join(
           import.meta.dir,

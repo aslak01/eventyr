@@ -8,12 +8,10 @@ export async function processJS(config: GeneratorConfig): Promise<void> {
   const jsDir = join(config.distDir, "js");
   await mkdir(jsDir, { recursive: true });
 
-  // Read the sortable library from node_modules
   const sortableLibPath =
     "./node_modules/sortable-tablesort/dist/sortable.min.js";
   const sortableContent = await readFile(sortableLibPath, "utf-8");
 
-  // Write to dist/js
   const outputPath = join(jsDir, "sortable.min.js");
   await writeFile(outputPath, sortableContent);
 

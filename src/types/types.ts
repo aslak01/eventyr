@@ -29,11 +29,16 @@ export type BookInfo = {
   chapter_index: Record<string, string>;
 };
 
+export type ImageSize = {
+  width: number;
+  path: string;
+};
+
 export type OptimizedImage = {
   originalPath: string;
   webpPath: string;
   avifPath: string;
-  sizes: { width: number; path: string }[];
+  sizes: ImageSize[];
 };
 
 export type GeneratorConfig = {
@@ -44,11 +49,16 @@ export type GeneratorConfig = {
   basePath: string;
 };
 
-export type ImageCache = {
-  [key: string]: {
-    contentHash: string;
-    sizes: { width: number; path: string }[];
-    webpPath: string;
-    avifPath: string;
-  };
+export type ImageCacheEntry = {
+  contentHash: string;
+  sizes: ImageSize[];
+  webpPath: string;
+  avifPath: string;
+};
+
+export type ImageCache = Record<string, ImageCacheEntry>;
+
+export type PathHelper = {
+  asset: (path: string) => string;
+  page: (path: string) => string;
 };

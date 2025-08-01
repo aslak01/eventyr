@@ -9,7 +9,6 @@ export function bookCardGenerator(
   optimizedImages: Map<string, OptimizedImage>,
   pathHelper: PathHelper,
 ): string {
-  // Look for front.png in this book's directory
   const frontImagePath = `${book.path}/front.png`;
   const frontImage = optimizedImages.get(frontImagePath);
   const imageHtml = frontImage

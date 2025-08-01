@@ -3,8 +3,7 @@ import markedFootnote from "marked-footnote";
 import markedHookFrontmatter from "marked-hook-frontmatter";
 import markedSequentialHooks from "marked-sequential-hooks";
 
-import type { BookData, Chapter, OptimizedImage } from "../types/types";
-import type { createPathHelper } from "../utils/paths";
+import type { BookData, Chapter, OptimizedImage, PathHelper } from "../types/types";
 
 import { processMarkdownImages } from "../image_processing/image-simple";
 import { htmlHead } from "../components/htmlHead";
@@ -13,8 +12,6 @@ import { siteFooterGenerator } from "../components/siteFooter";
 import { safeString } from "../utils/strings";
 import { headerGenerator } from "../components/header";
 import { templateEngine } from "../utils/template-engine";
-
-type PathHelper = ReturnType<typeof createPathHelper>;
 
 export function generateChapterHTML(
   book: BookData,
