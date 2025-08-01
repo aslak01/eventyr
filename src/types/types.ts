@@ -57,8 +57,3 @@ export type ImageCacheEntry = {
 };
 
 export type ImageCache = Record<string, ImageCacheEntry>;
-
-export type PathHelper = {
-  asset: (path: string) => string;
-  page: (path: string) => string;
-};

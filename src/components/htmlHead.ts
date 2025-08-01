@@ -1,16 +1,11 @@
-import type { createPathHelper } from "../utils/paths";
+const cssFileLink = (filename: string): string =>
+  `<link rel="stylesheet" href="/css/${filename}.css">`;
 
-type PathHelper = ReturnType<typeof createPathHelper>;
-
-const cssFileLink = (filename: string, pathHelper: PathHelper): string =>
-  `<link rel="stylesheet" href="${pathHelper.asset(`/css/${filename}.css`)}">`;
-
-const jsFileScript = (filename: string, pathHelper: PathHelper): string =>
-  `<script src="${pathHelper.asset(`/js/${filename}.js`)}"></script>`;
+const jsFileScript = (filename: string): string =>
+  `<script src="/js/${filename}.js"></script>`;
 
 export function htmlHead(
   title: string,
-  pathHelper: PathHelper,
   cssFiles?: string[],
   jsFiles?: string[],
 ): {
@@ -20,17 +15,15 @@ export function htmlHead(
   additionalJs: string;
 } {
   const allCssFiles = ["header-footer", ...(cssFiles || [])];
-  const additionalCss = allCssFiles
-    .map((file) => cssFileLink(file, pathHelper))
-    .join("");
+  const additionalCss = allCssFiles.map((file) => cssFileLink(file)).join("");
 
   const additionalJs = jsFiles
-    ? jsFiles.map((file) => jsFileScript(file, pathHelper)).join("")
+    ? jsFiles.map((file) => jsFileScript(file)).join("")
     : "";
 
   return {
     title,
-    mainCssPath: pathHelper.asset("/css/main.css"),
+    mainCssPath: "/css/main.css",
     additionalCss,
     additionalJs,
   };

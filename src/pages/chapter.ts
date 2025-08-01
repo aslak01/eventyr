@@ -3,7 +3,7 @@ import markedFootnote from "marked-footnote";
 import markedHookFrontmatter from "marked-hook-frontmatter";
 import markedSequentialHooks from "marked-sequential-hooks";
 
-import type { BookData, Chapter, OptimizedImage, PathHelper } from "../types/types";
+import type { BookData, Chapter, OptimizedImage } from "../types/types";
 
 import { processMarkdownImages } from "../image_processing/image-simple";
 import { htmlHead } from "../components/htmlHead";
@@ -17,7 +17,6 @@ export function generateChapterHTML(
   book: BookData,
   chapter: Chapter,
   optimizedImages: Map<string, OptimizedImage>,
-  pathHelper: PathHelper,
 ): string {
   const chapterDir = chapter.path.includes(".md")
     ? chapter.path.substring(0, chapter.path.lastIndexOf("/"))
@@ -65,22 +64,21 @@ export function generateChapterHTML(
 
   const headData = htmlHead(
     `${safeString(chapter.title)} - ${safeString(book.name)}`,
-    pathHelper,
   );
-  const header = headerGenerator(book, pathHelper, chapter);
-  const siteHeader = siteHeaderGenerator(pathHelper);
-  const siteFooter = siteFooterGenerator(pathHelper);
+  const header = headerGenerator(book, chapter);
+  const siteHeader = siteHeaderGenerator();
+  const siteFooter = siteFooterGenerator();
 
   const prevChapterLink = prevChapter
-    ? `<a href="${pathHelper.page(`/${book.slug}/${prevChapter.path}.html`)}" class="nav-link">← ${prevChapter.title.replace(/"/g, "&quot;")}</a>`
+    ? `<a href="/${book.slug}/${prevChapter.path}.html" class="nav-link">← ${prevChapter.title.replace(/"/g, "&quot;")}</a>`
     : "<span></span>";
 
   const nextChapterLink = nextChapter
-    ? `<a href="${pathHelper.page(`/${book.slug}/${nextChapter.path}.html`)}" class="nav-link">${nextChapter.title.replace(/"/g, "&quot;")} →</a>`
+    ? `<a href="/${book.slug}/${nextChapter.path}.html" class="nav-link">${nextChapter.title.replace(/"/g, "&quot;")} →</a>`
     : "<span></span>";
 
   const pdfLink = chapter.pdfPath
-    ? `<a href="${pathHelper.page(chapter.pdfPath)}" class="pdf-link" target="_blank">📄 Les som PDF</a>`
+    ? `<a href="${chapter.pdfPath}" class="pdf-link" target="_blank">📄 Les som PDF</a>`
     : "";
 
   const chapterSubtitle = frontmatterData.subtitle
@@ -96,7 +94,7 @@ export function generateChapterHTML(
     prevChapterLink,
     nextChapterLink,
     pdfLink,
-    bookUrl: pathHelper.page(`/${book.slug}/`),
+    bookUrl: `/${book.slug}/`,
     bookName: book.name,
     chapterTitle: safeString(chapter.title),
     chapterSubtitle,

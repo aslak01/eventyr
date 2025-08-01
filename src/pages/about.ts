@@ -1,15 +1,12 @@
 import { htmlHead } from "../components/htmlHead";
 import { siteHeaderGenerator } from "../components/siteHeader";
 import { siteFooterGenerator } from "../components/siteFooter";
-import type { createPathHelper } from "../utils/paths";
 import { templateEngine } from "../utils/template-engine";
 
-type PathHelper = ReturnType<typeof createPathHelper>;
-
-export function generateAboutHTML(pathHelper: PathHelper): string {
-  const headData = htmlHead("Om eventyrsamlingen", pathHelper);
-  const siteHeader = siteHeaderGenerator(pathHelper);
-  const siteFooter = siteFooterGenerator(pathHelper);
+export function generateAboutHTML(): string {
+  const headData = htmlHead("Om eventyrsamlingen");
+  const siteHeader = siteHeaderGenerator();
+  const siteFooter = siteFooterGenerator();
 
   return templateEngine.renderWithLayout("about-page.html", {
     ...headData,

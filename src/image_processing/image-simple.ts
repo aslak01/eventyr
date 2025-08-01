@@ -8,7 +8,6 @@ import type {
   GeneratorConfig,
   OptimizedImage,
   ImageCache,
-  PathHelper,
 } from "../types/types";
 import { writeFile } from "fs/promises";
 
@@ -133,7 +132,6 @@ export async function generateCacheKey(): Promise<string> {
 export async function optimizeImages(
   books: BookData[],
   config: GeneratorConfig,
-  pathHelper: PathHelper,
 ): Promise<Map<string, OptimizedImage>> {
   const optimizedImages = new Map<string, OptimizedImage>();
   const cache = await loadImageCache(config);
@@ -149,12 +147,7 @@ export async function optimizeImages(
       const needsUpdate = await needsProcessing(imagePath, cache);
 
       if (needsUpdate) {
-        const optimized = await processImage(
-          imagePath,
-          book.slug,
-          config,
-          pathHelper,
-        );
+        const optimized = await processImage(imagePath, book.slug, config);
         if (optimized) {
           optimizedImages.set(imagePath, optimized);
 
@@ -264,7 +257,6 @@ export async function processImage(
   imagePath: string,
   bookSlug: string,
   config: GeneratorConfig,
-  pathHelper: PathHelper,
 ): Promise<OptimizedImage | null> {
   const ext = extname(imagePath).toLowerCase();
   const baseName = basename(imagePath, ext);
@@ -283,9 +275,7 @@ export async function processImage(
         sizes: [
           {
             width: 0,
-            path: pathHelper.asset(
-              `/images/${bookSlug}/${basename(imagePath)}`,
-            ),
+            path: `/images/${bookSlug}/${basename(imagePath)}`,
           },
         ],
       };
@@ -313,7 +303,7 @@ export async function processImage(
           .toFormat(format, { quality: 85 })
           .toFile(outputPath);
 
-        const webPath = pathHelper.asset(`/images/${bookSlug}/${fileName}`);
+        const webPath = `/images/${bookSlug}/${fileName}`;
         optimized.sizes.push({ width: size, path: webPath });
 
         if (format === "webp" && !optimized.webpPath) {

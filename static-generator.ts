@@ -12,7 +12,6 @@ import { generateAboutHTML } from "./src/pages/about.ts";
 import { processCSS } from "./src/css/process.ts";
 import { processJS } from "./src/js/process.ts";
 import { loadBooks } from "./load-books.ts";
-import { createPathHelper } from "./src/utils/paths.ts";
 
 const defaultConfig: GeneratorConfig = {
   booksDir: "./src/lib/books",
@@ -43,23 +42,18 @@ async function generateSite(config: GeneratorConfig): Promise<void> {
   await processCSS(config);
   await processJS(config);
 
-  const pathHelper = createPathHelper(config.basePath);
-  const optimizedImages = await optimizeImages(books, config, pathHelper);
+  const optimizedImages = await optimizeImages(books, config);
 
-  const mainIndexHTML = generateMainIndexHTML(books, pathHelper);
+  const mainIndexHTML = generateMainIndexHTML(books);
   await writeFile(join(config.distDir, "index.html"), mainIndexHTML);
   console.log("📄 Generated main index.html");
 
-  const booksIndexHTML = generateBooksIndexHTML(
-    books,
-    optimizedImages,
-    pathHelper,
-  );
+  const booksIndexHTML = generateBooksIndexHTML(books, optimizedImages);
   await mkdir(join(config.distDir, "books"), { recursive: true });
   await writeFile(join(config.distDir, "books", "index.html"), booksIndexHTML);
   console.log("📄 Generated books index.html");
 
-  const aboutHTML = generateAboutHTML(pathHelper);
+  const aboutHTML = generateAboutHTML();
   await mkdir(join(config.distDir, "om"), { recursive: true });
   await writeFile(join(config.distDir, "om", "index.html"), aboutHTML);
   console.log("📄 Generated om/index.html");
@@ -68,17 +62,12 @@ async function generateSite(config: GeneratorConfig): Promise<void> {
     const bookDir = join(config.distDir, book.slug);
     await mkdir(bookDir, { recursive: true });
 
-    const bookIndexHTML = generateBookIndexHTML(book, pathHelper);
+    const bookIndexHTML = generateBookIndexHTML(book);
     await writeFile(join(bookDir, "index.html"), bookIndexHTML);
     console.log(`📄 Generated ${book.name}/index.html`);
 
     for (const chapter of Object.values(book.chapters)) {
-      const chapterHTML = generateChapterHTML(
-        book,
-        chapter,
-        optimizedImages,
-        pathHelper,
-      );
+      const chapterHTML = generateChapterHTML(book, chapter, optimizedImages);
       await writeFile(join(bookDir, `${chapter.path}.html`), chapterHTML);
       console.log(`📄 Generated ${book.name}/${chapter.path}.html`);
 

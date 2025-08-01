@@ -1,7 +1,4 @@
-import type { createPathHelper } from "../utils/paths";
 import { templateEngine } from "../utils/template-engine";
-
-type PathHelper = ReturnType<typeof createPathHelper>;
 
 interface TableColumn {
   title: string;
@@ -14,7 +11,6 @@ interface TableRow {
 export function sortableTableGenerator(
   columns: TableColumn[],
   rows: TableRow[],
-  pathHelper: PathHelper,
   rowRenderer: (row: TableRow) => string,
 ): string {
   const tableHeaders = columns

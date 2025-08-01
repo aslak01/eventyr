@@ -10,11 +10,11 @@ export function joinAuthors(authors: string[]): string {
 
 export function getWordCount(text: string): number {
   if (!text?.trim()) return 0;
-  
+
   return text
     .replace(/!\[[^\]]*\]\([^)]*\)/g, "") // Remove markdown images
     .replace(/\n+/g, " ") // Replace newlines with single space
     .trim()
     .split(/\s+/)
-    .filter(word => word.length > 0).length;
+    .filter((word) => word.length > 0).length;
 }

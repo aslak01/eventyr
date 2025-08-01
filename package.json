@@ -5,10 +5,10 @@
   "main": "static-site-generator.ts",
   "scripts": {
     "build": "bun run static-generator.ts",
-    "setup": "bun run setup.js",
-    "serve": "bun run server.ts",
     "dev": "bun run dev-server.ts",
-    "format": "prettier -w ."
+    "format": "prettier -w .",
+    "lint": "oxlint",
+    "check-types": "tsc --noEmit"
   },
   "keywords": [
     "bun",
