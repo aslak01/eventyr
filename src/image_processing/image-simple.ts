@@ -336,10 +336,8 @@ export async function processImage(
 
 export function processMarkdownImages(
   content: string,
-  bookSlug: string,
   optimizedImages: Map<string, OptimizedImage>,
   chapterPath: string,
-  pathHelper: PathHelper,
 ): string {
   return content.replace(
     /!\[([^\]]*)\]\(\.\/(.*?\.(png|jpg|jpeg|gif|svg|webp))\s*(?:"([^"]*)")?\)/gi,
@@ -363,9 +361,6 @@ export function processMarkdownImages(
         .map((s) => s.width)
         .filter((w) => w > 0)
         .sort((a, b) => a - b);
-
-      // Find the maximum width available
-      const maxWidth = Math.max(...availableWidths);
 
       // Generate dynamic sizes attribute based on actual image dimensions
       const generateSizes = (widths: number[]): string => {

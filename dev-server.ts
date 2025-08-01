@@ -93,7 +93,7 @@ console.log("🏗️  Running initial build...");
 await runBuild();
 
 // Start development server
-const server = serve({
+serve({
   port: PORT,
   async fetch(req) {
     const url = new URL(req.url);

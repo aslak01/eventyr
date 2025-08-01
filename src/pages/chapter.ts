@@ -30,30 +30,27 @@ export function generateChapterHTML(
 
   const processedContent = processMarkdownImages(
     chapter.content,
-    book.slug,
     optimizedImages,
     fullChapterPath,
-    pathHelper,
   );
 
   // Extract frontmatter and generate HTML
   let frontmatterData: any = {};
-  const marked = new Marked()
-    .use(
-      markedSequentialHooks({
-        markdownHooks: [markedHookFrontmatter({ dataPrefix: true })],
-        htmlHooks: [
-          (html, data) => {
-            frontmatterData = data.matter || {};
-            return html;
-          }
-        ]
-      }),
-      markedFootnote({
-        description: "Fotnoter",
-        backRefLabel: "Tilbake til referanse {0}",
-      }),
-    );
+  const marked = new Marked().use(
+    markedSequentialHooks({
+      markdownHooks: [markedHookFrontmatter({ dataPrefix: true })],
+      htmlHooks: [
+        (html, data) => {
+          frontmatterData = data.matter || {};
+          return html;
+        },
+      ],
+    }),
+    markedFootnote({
+      description: "Fotnoter",
+      backRefLabel: "Tilbake til referanse {0}",
+    }),
+  );
 
   const htmlContent = marked.parse(processedContent);
 
