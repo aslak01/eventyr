@@ -6,15 +6,15 @@ Den første som ble var ham der på Julsrud, var han som åtte gården før gamm
 
 Så var det en juledags morgen han Ola Julsrud skulle til kirke, men alt han lette og alt han spurte, så kunne han ikke finne helgebroka si.
 
-"Å, det er vel kjerringa som har gjemt den," tenkte han. For han hadde en kjering som var likeså nidsk som han selv, kan tenke.
+«Å, det er vel kjerringa som har gjemt den,» tenkte han. For han hadde en kjering som var likeså nidsk som han selv, kan tenke.
 
 Så tok han på seg hverdagsbrok og drog ned i stallen for å sele på hesten.
 
 Men da han kom dit stod hesten fullt påselet i spiltauet. Kirkeselen hadde den på og den gildeste selepute som noen kunne drømme om; men da han så bedre etter, så var den laget av helgebroka hans, og av selve broka lå fillene igjen framved hestebenene.
 
-"Å din rakkar," ropte mannen, han skjønte hvem som hadde vært på ferde.
+«Å din rakkar,» ropte mannen, han skjønte hvem som hadde vært på ferde.
 
-"Å din stakkar," sa det borti kroken, og han fikk se øynene og værhårene på en nisse som satt og lo.
+«Å din stakkar,» sa det borti kroken, og han fikk se øynene og værhårene på en nisse som satt og lo.
 
 Julsrudnissen fikk tak i hestestriglen og hev den innover; med det samme sprakk stallruta, og borte var det alt i hop.
 
@@ -24,9 +24,9 @@ Da han kom hjem om kvelden, var det alt blitt skymt, og da han kom bort til stal
 
 Julsruden tenkte det kunne være han Passop, finnehunden hans, og så sa han:
 
-"Ja, er det du da, bisken!" Og så knepset han med fingeren og gjorde seg så inderlig blid i røsten.
+«Ja, er det du da, bisken!» Og så knepset han med fingeren og gjorde seg så inderlig blid i røsten.
 
-"Ja, er det du da, nidsken!" fres det til og borte var det.
+«Ja, er det du da, nidsken!» fres det til og borte var det.
 
 Så var det utpå våren en dag, Julsrudkjerringa drev på i fjøset og melket.
 
@@ -42,9 +42,9 @@ Kjerringa slapp kjernen og dro inn i koven, men der lå ungen og sov så stille 
 
 Da kjerringa kom ut til kjernen igjen, var den dørende full av det som kua gir, men rømme var det ikke.
 
-"Å, ditt nissetroll!" skrek hun; hun skjønte det var ham som hadde vært framme.
+«Å, ditt nissetroll!» skrek hun; hun skjønte det var ham som hadde vært framme.
 
-"Å ditt nidske troll!" svarte det uti koven.
+«Å ditt nidske troll!» svarte det uti koven.
 
 Kjerringa tok glotanga og dro etter, men hun fikk bare se en grå rumpestubb som smatt ned gjennom kjellerlemmen.
 
@@ -58,7 +58,7 @@ Dette følge slo seg med i likferden og fulgte hele veien. Og hver gang de i lik
 
 Slik drev det på like til følget kom innom kirkeplanken. Da ropte det:
 
-"Ola Julsrud! Du har heder av likferden din!"
+«Ola Julsrud! Du har heder av likferden din!»
 
 Og da så alle som i følget var for et ufyse der hadde fulgt Julsruden til jorda; men med det samme begynte det å ringe og borte var det.
 
@@ -72,17 +72,17 @@ Men da han snudde seg, fikk han se en nisse sitte i prekestolen så børg og gil
 
 Da slo presten kors framfor seg, både ett og to.
 
-"I all verdens rike, hva er du for en?" sa han.
+«I all verdens rike, hva er du for en?» sa han.
 
-"I all verdens rike, hva er du for en?" svarte det, og borte var det alt i hop.
+«I all verdens rike, hva er du for en?» svarte det, og borte var det alt i hop.
 
 Men da presten satte seg i stolen igjen, kjente han seg så underlig myk og rar, og ikke syntes han han kjente seg selv igjen, så han visste hva han var for en. Og så ga han seg til å lete i bibelboka både høyt og lavt for å se etter hva han var for en og da han det vel hadde funnet, stod kaldsvetten i pannen på ham, og han var ikke likere enn at han seg i kne framved prekestolen og ga seg til å tigge og be, at han som høyere var, ville hjelpe ham på rette føtter igjen. Men da han syntes han hadde bedt både lenge og vel, snudde han seg, og da fikk han se den vesle nissen ligge på kne bortved ovnskroken og bære seg ille og jamre seg, han akkurat som presten gjorde.
 
 Men da ble presten harm. Han spratt ende opp og trampe i foten så det sang i stua.
 
-"Får jeg fred!" sa han.
+«Får jeg fred!» sa han.
 
-"Får jeg fred!" svarte det så mykt og sårt, som når barn gråter. Og presten så ikke annet enn et par glødende øyne som stirret på ham borte fra mørkeste kroken.
+«Får jeg fred!» svarte det så mykt og sårt, som når barn gråter. Og presten så ikke annet enn et par glødende øyne som stirret på ham borte fra mørkeste kroken.
 
 Samme kveld skulle presten kjøre i sognebud til en gammel krok som var ferdig. Det var enda månelyst og brennkulde. Rett som presten kjørte, kjente han han ble så kald, enda han hadde ulveskinnspels og grepvotter. Og da han kom til å se bortpå skyggen som drev og fulgte framved veien, fikk han se en liten stubbrumpet nisse, som satt bak på hundsvotten. Men da han snudde seg for å se etter, var det ingen ting. Men rett som han gløtter bort på skyggen igjen, så satt han der, denne nissen. Og slik varte og rakk det helt til han kom hjem om natten.
 
@@ -90,11 +90,11 @@ Men det syntes presten ble verre enn verst; slikt måtte kverkes med makt.
 
 Dagen etter, da det var blitt nissemørkt om kvelden, tok han bibelboka, gikk bent ned i stallen og satte seg til å lese på spreng. Da han var kommet til kong David, stod hesten i spiltauet skumsvett og skalv, og alle ruter var våte. Men presten selv han var like tørr.
 
-"Farvel med kong David," sa presten. Så ga han seg til å lese videre igjen, bare så duren stod.
+«Farvel med kong David,» sa presten. Så ga han seg til å lese videre igjen, bare så duren stod.
 
 Da han vel var kommet til kong Salomon, sprakk stallruta.
 
-"Farvel med kong Salomon," sa presten. Så ga han seg til å lese videre igjen, bare så duren stod. Men hver gang han stanset for å bla om, kom en lodden liten labb frem og hjalp ham, og hver gang han snudde seg rundt for å se, var det ingen verdens ting.
+«Farvel med kong Salomon,» sa presten. Så ga han seg til å lese videre igjen, bare så duren stod. Men hver gang han stanset for å bla om, kom en lodden liten labb frem og hjalp ham, og hver gang han snudde seg rundt for å se, var det ingen verdens ting.
 
 Da presten hadde lest hele det gamle testamente, sprang stalldøra opp med ett. Inn stod en underlig gufs så kald, og store stjerner tindret.
 
@@ -106,19 +106,19 @@ Men underligere skulle du vel aldri ha hørt! For rett som han leste så svetten
 
 Da ble presten kald og slo korsets tegn.
 
-"Vik fra meg, fordømte trollpakk!" ropte han — han holdt bibelen framfor seg.
+«Vik fra meg, fordømte trollpakk!» ropte han — han holdt bibelen framfor seg.
 
 Da ble nissene borte, alle som en, inn og inn i de mørkeste kroker.
 
-"Å-å-å-å-å—h!" sang det så sårt og langt.
+«Å-å-å-å-å—h!» sang det så sårt og langt.
 
 Og presten så ikke annet enn hundre glødende øyne, som stirret som stjerner i mørket.
 
 Men da han gikk opp fra stallen, skalv han som et løv og var hvit som snø.
 
-"I Guds navn, hva stygt har du sett?" spurte frua hans — hun foldet hendene sine.
+«I Guds navn, hva stygt har du sett?» spurte frua hans — hun foldet hendene sine.
 
-"Det har jeg sett," sa presten, "at de trenger nok prest under jorda også."
+«Det har jeg sett,» sa presten, «at de trenger nok prest under jorda også.»
 
 Dagen etter fikk han sott, og tredje natten døde han.
 

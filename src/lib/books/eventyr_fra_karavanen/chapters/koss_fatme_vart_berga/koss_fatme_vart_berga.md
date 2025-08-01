@@ -30,7 +30,7 @@ Gamle far ble rent fra seg av sorg, og Mustafa var ikke mindre ulykkelig. Det va
 
 Far var en hard mann. Da sorgen hadde lagt seg noe, kalte han Mustafa til seg og sa til ham:
 
-"Det er din skyld at jeg har mistet min alderdoms trøst og glede. Gå bort; jeg banner deg for all tid. Jeg banner deg og alle som kommer etter deg. Bare om du gir meg Fatme tilbake, løser jeg deg fra forbannelsen!"
+«Det er din skyld at jeg har mistet min alderdoms trøst og glede. Gå bort; jeg banner deg for all tid. Jeg banner deg og alle som kommer etter deg. Bare om du gir meg Fatme tilbake, løser jeg deg fra forbannelsen!»
 
 Dette hadde stakkars broren min ikke ventet. Han hadde lenge sett seg for at han ville lete opp søsteren og kjæresten og var nettopp ment på å be far om velsignelse til ferden. Og så fikk han forbannelse i stedet.
 
@@ -48,61 +48,61 @@ De kunne vel ha ridd en times tid, så svingte de inn i en liten sidedal. Nede i
 
 Broren min ble tatt inn i et telt som var noe større enn de andre. På en putebenk satt en liten gamling. Han var heslig stygg og svartbrun i huden. Enda han skapte seg til så en skulle tro han var noe til kar, forsto Mustafa snart at det ikke var han som eide teltet. For røverne spurte puslingen:
 
-"Hvor er høvdingen?"
+«Hvor er høvdingen?»
 
-"Han er ute på jakt," svarte puslingen, "men han har satt meg i stedet sitt."
+«Han er ute på jakt,» svarte puslingen, «men han har satt meg i stedet sitt.»
 
-"Det var da forsømt," mente den ene røveren, "for det må avgjøres snart om denne hunden her skal leve eller dø. Og det vet høvdingen og ikke du."
+«Det var da forsømt,» mente den ene røveren, «for det må avgjøres snart om denne hunden her skal leve eller dø. Og det vet høvdingen og ikke du.»
 
 Den lille puslingen ble sint, reiste seg opp og gav den andre et slag på øret. Men det slapp han å gjøre for ingen ting, og snart bar det i hop i vilt slåssing med disse to.
 
 I det samme gikk teltdøren opp, og inn kom en høy, staselig mann, ung og vakker som en prins av Persia.
 
-"Hvem er det som holder slikt spektakkel i teltet mitt?" ropte han.
+«Hvem er det som holder slikt spektakkel i teltet mitt?» ropte han.
 
 Det ble lenge stille. Endelig fortalte den ene av dem hvordan dette hadde gått til.
 
-Høvdingen ble rød av sinne. "Når har jeg satt deg i mitt sted, Hassan?" skreik han arrig.
+Høvdingen ble rød av sinne. «Når har jeg satt deg i mitt sted, Hassan?» skreik han arrig.
 
 Den lille puslingen krøp sammen til han så enda mindre ut enn før, og smett ut av teltet.
 
-Da han var gått, skjøv de tre røverne broren min fram for høvdingen og sa: "Her kommer vi med den du sendte oss ut etter og skulle fange."
+Da han var gått, skjøv de tre røverne broren min fram for høvdingen og sa: «Her kommer vi med den du sendte oss ut etter og skulle fange.»
 
 Høvdingen stod lenge og så på fangen. Endelig sa han:
 
-"Bassa Sulieika, eier du samvittighet, så vet du selv hvorfor du står her foran Orbasan."
+«Bassa Sulieika, eier du samvittighet, så vet du selv hvorfor du står her foran Orbasan.»
 
 Da broren min hørte dette, kastet han seg på kne og svarte:
 
-"Herre, du tar feil. Jeg er en fattig reisemann og ikke den Bassa du tror."
+«Herre, du tar feil. Jeg er en fattig reisemann og ikke den Bassa du tror.»
 
 Røverne ble storlig forundret da de hørte dette, men høvdingen sa:
 
-"Det er forgjeves å nekte hvem du er. Jeg skal føre folk fram for deg som nok skal vitne hvem du er."
+«Det er forgjeves å nekte hvem du er. Jeg skal føre folk fram for deg som nok skal vitne hvem du er.»
 
 En gammel kvinne ble hentet. Og da de spurte om ikke Mustafa var Bassa Sulieika, svarte hun:
 
-"Visst er han så. Jeg sverger ved Profeten at dette er Bassa og ingen annen."
+«Visst er han så. Jeg sverger ved Profeten at dette er Bassa og ingen annen.»
 
-"Ser du nå, din skurk, hva gagn du fikk av dette bedrageritrikkset ditt!" ropte høvdingen. "Du er ikke verdt at jeg tilsmusser kniven min med blodet ditt. I morgen tidlig skal jeg binde deg etter føttene til halen på hesten min og jage ham til skogs med deg til du er slut."
+«Ser du nå, din skurk, hva gagn du fikk av dette bedrageritrikkset ditt!» ropte høvdingen. «Du er ikke verdt at jeg tilsmusser kniven min med blodet ditt. I morgen tidlig skal jeg binde deg etter føttene til halen på hesten min og jage ham til skogs med deg til du er slut.»
 
-Da gav broren min opp alt håp. "Det er forbannelsen som kommer igjen," gråt han. "Nå er det ute med deg, stakkars søster mi, og med Zoraide likeså!"
+Da gav broren min opp alt håp. «Det er forbannelsen som kommer igjen,» gråt han. «Nå er det ute med deg, stakkars søster mi, og med Zoraide likeså!»
 
-"Du trenger aldri skape deg til; det er forgjeves," mente den ene røveren og bandt hendene hans bak på ryggen. "Se at du kommer deg ut av teltet før høvdingen rent mister tålmodigheten!"
+«Du trenger aldri skape deg til; det er forgjeves,» mente den ene røveren og bandt hendene hans bak på ryggen. «Se at du kommer deg ut av teltet før høvdingen rent mister tålmodigheten!»
 
-Broren min skulle nettopp til å gå da tre andre røvere i det samme kom inn med en fange mellom seg. De gikk bort til høvdingen med ham og sa: "Her kommer vi med Bassa, som du sa til oss."
+Broren min skulle nettopp til å gå da tre andre røvere i det samme kom inn med en fange mellom seg. De gikk bort til høvdingen med ham og sa: «Her kommer vi med Bassa, som du sa til oss.»
 
 Broren min fikk se fangen i ansiktet og merket hvor merkelig lik han var ham selv, bare at han var mørkere i hudfargen.
 
 Høvdingen stirret undret fra den ene fangen til den andre.
 
-"Hvem av dere er den riktige?" spurte han.
+«Hvem av dere er den riktige?» spurte han.
 
-"Mener du Bassa Sulieika," svarte den andre byrden, "så er det jeg."
+«Mener du Bassa Sulieika,» svarte den andre byrden, «så er det jeg.»
 
 Høvdingen vinket med hånden at de skulle føre Bassa ut. Der etter gikk han bort til broren min, skar av tauet med kniven og ba ham sette seg bort på putebenken ved siden av ham selv.
 
-"Det var leit dette," sa han, "at jeg skulle ta deg for den ukjura der. Men du får ikke dømme meg for hardt. Du så selv hvor like dere var hverandre."
+«Det var leit dette,» sa han, «at jeg skulle ta deg for den ukjura der. Men du får ikke dømme meg for hardt. Du så selv hvor like dere var hverandre.»
 
 Broren min ba bare om å få reise med det samme. Hver stund var dyr. Høvdingen spurte hva som sto på, og Mustafa fortalte alt. Den andre ba ham stoppe der i teltet om natten; både han og hesten kunne trenge å hvile ut. Så skulle han selv om morgenen vise ham en snarvei så han kunne nå på halvannen dag fram til Basra.
 
@@ -112,11 +112,11 @@ Da han våknet var han alene i teltet. Men han hørte mannsstemmer utenfor og kj
 
 Han lyttet etter og skalv da han hørte at puslingen tigget og ba høvdingen om å drepe den fremmede reisemannen så han ikke skulle melde dem. Mustafa forsto at puslingen var sint på ham fordi han hadde fått så ille behandling dagen før.
 
-Høvdingen drøyde et øyeblikk før han svarte. - "Nei," mente han, "det er gjesten min, og gjest skal holdes i ære. Heller ikke ser han ut som han vil svikte oss."
+Høvdingen drøyde et øyeblikk før han svarte. - «Nei,» mente han, «det er gjesten min, og gjest skal holdes i ære. Heller ikke ser han ut som han vil svikte oss.»
 
 Dermed løftet han på teltduken og steg inn.
 
-"Fred være med deg, Mustafa!" sa han. "La oss nå spise så du får komme av sted."
+«Fred være med deg, Mustafa!» sa han. «La oss nå spise så du får komme av sted.»
 
 Etter maten satte de seg på hver sin hest og red to og to i vei.
 
@@ -124,7 +124,7 @@ Høvdingen fortalte at den Bassa de hadde fanget eide skogen og hadde gitt dem l
 
 Da de var kommet ut av skogen, stanset høvdingen hesten og rettet broren min nøyaktig om veien. Så tok han Mustafa i hånden og sa:
 
-"Mustafa, på en underlig måte kom du til å være gjest hos røveren Orbasan. Jeg ber deg ikke holde skjult det du har sett og hørt. Uten grunn var du døden nær; det må jeg gjøre godt igjen. Ta denne kniven her i gave fra meg, og kommer du i nød og trenger hjelp, så send den til meg; da skal jeg skynde meg til deg. Og denne pungen her kan komme vel med på ferden."
+«Mustafa, på en underlig måte kom du til å være gjest hos røveren Orbasan. Jeg ber deg ikke holde skjult det du har sett og hørt. Uten grunn var du døden nær; det må jeg gjøre godt igjen. Ta denne kniven her i gave fra meg, og kommer du i nød og trenger hjelp, så send den til meg; da skal jeg skynde meg til deg. Og denne pungen her kan komme vel med på ferden.»
 
 Broren min takket og tok imot kniven. Men pungen ville han ikke ha. Orbasan tok ham en gang til i hånden, slapp pungen ned på marken og red bort, fort som en pil.
 
@@ -134,13 +134,13 @@ Så red han i vei det forteste han kunne.
 
 Lezah taushet et øyeblikk og så bort på den gamle kjøpmannen.
 
-"Nei, er dette sant, da får jeg bedre tanker om Orbasan. Mot broren din var han god, det er sikkert."
+«Nei, er dette sant, da får jeg bedre tanker om Orbasan. Mot broren din var han god, det er sikkert.»
 
-"Han har fart fram som en æresmann," ropte Muley. "Men jeg håper det ikke er slutt på historien enna. Vi vil alle gjerne høre hvordan det gikk med broren din, om han fikk berget Fatme og den vakre Zoraide."
+«Han har fart fram som en æresmann,» ropte Muley. «Men jeg håper det ikke er slutt på historien enna. Vi vil alle gjerne høre hvordan det gikk med broren din, om han fikk berget Fatme og den vakre Zoraide.»
 
-"Dersom dere har lyst på det, skal jeg så gjerne fortelle," svarte Lezah, "for broren min var ute for mangt og mye merkelig."
+«Dersom dere har lyst på det, skal jeg så gjerne fortelle,» svarte Lezah, «for broren min var ute for mangt og mye merkelig.»
 
-"Ved middagstid dagen etter dro Mustafa gjennom porten inn i Basra. Han fikk seg rom på et herberge og spurte etter når det slavemarkedet skulle være som årlig år ble holdt her. Han fikk til svar at han kom to dager for sent.
+«Ved middagstid dagen etter dro Mustafa gjennom porten inn i Basra. Han fikk seg rom på et herberge og spurte etter når det slavemarkedet skulle være som årlig år ble holdt her. Han fikk til svar at han kom to dager for sent.
 
 Han hadde tapt storlig ved dette, lot de ham vite. For siste markedsdag kom det folk med to slavinner som var så vakre at hele byen måtte av og beundre dem. Det hadde vært stor konkurranse om dem, og de hadde nok kostet mye for den som kjøpte dem.
 
@@ -164,13 +164,13 @@ Broren min ble overlag spent da han fikk vite dette, og gikk og la seg, glad i s
 
 Mustafa måtte knipe seg i armen og kjenne etter om han sov eller våket. Men mannen stod der like godt.
 
-"Hva skal du her?" ropte Mustafa da han endelig fikk ord for seg.
+«Hva skal du her?» ropte Mustafa da han endelig fikk ord for seg.
 
-"Ta det med tålmodighet, herre," flirte den lille mannen. "Jeg har nok gjettet hva ærend du kommer i. Og det er sikkert. Hadde jeg ikke med egen hånd hengt Bassa opp, ville jeg lite visst hva jeg skulle tenkt."
+«Ta det med tålmodighet, herre,» flirte den lille mannen. «Jeg har nok gjettet hva ærend du kommer i. Og det er sikkert. Hadde jeg ikke med egen hånd hengt Bassa opp, ville jeg lite visst hva jeg skulle tenkt.»
 
-"Si hva det er du vil," ropte Mustafa sint for at han var oppdaget.
+«Si hva det er du vil,» ropte Mustafa sint for at han var oppdaget.
 
-"Det var det jeg ville si," holdt puslingen ved, "at jeg kom ikke godt ut av det med høvdingen, og så rømte jeg. Men det er din skyld dette, Mustafa, fra først av. Og nå får du gi meg søsteren din til kone, så skal jeg hjelpe dere bort. Men vil du ikke det, går jeg beint til den nye husbonden min og forteller hva slags Bassa han har fått i hus."
+«Det var det jeg ville si,» holdt puslingen ved, «at jeg kom ikke godt ut av det med høvdingen, og så rømte jeg. Men det er din skyld dette, Mustafa, fra først av. Og nå får du gi meg søsteren din til kone, så skal jeg hjelpe dere bort. Men vil du ikke det, går jeg beint til den nye husbonden min og forteller hva slags Bassa han har fått i hus.»
 
 Mustafa ble nesten fra seg av sinne og redsel. Nå trodde han at han stod ved målet, og så skulle dette udyret komme slik på tvers. Det var bare et råd: han måtte drepe dette lille krekelet.
 
@@ -200,41 +200,41 @@ Legen kunne med nød skjule hvor spent han ble da han skulle få se igjen de to 
 
 De kom inn i et rom som var utstyrt på det fineste. Men her var ingen inne.
 
-"Kambabael, eller hva du nå heter kjære doktor," sa Tiuli-Kos, "ser du det hullet i muren der? Nå skal alle slavinnene etter tur stikke armen uttenfor, så ser du etter om de er friske."
+«Kambabael, eller hva du nå heter kjære doktor,» sa Tiuli-Kos, «ser du det hullet i muren der? Nå skal alle slavinnene etter tur stikke armen uttenfor, så ser du etter om de er friske.»
 
 Det hjalp ikke hva Mustafa sa; se dem fikk han ikke. Tiuli gikk bare med på å si fra hvordan hver av dem pleide å være med helsen. Han trakk en lang liste fram fra beltet og ropte opp navnet på slavinnene. For hver gang kom det en hånd uttenfor muren, og legen måtte kjenne på pulsen.
 
-Han hadde alt kjent på seks og sagt at de var friske. Da ropte Tiuli opp "Fatme", og en liten hvit arm stakk ut av muren. Mustafa skalv av glede da han fikk se denne hånden og sa alvorlig at hun var overlag syk.
+Han hadde alt kjent på seks og sagt at de var friske. Da ropte Tiuli opp «Fatme», og en liten hvit arm stakk ut av muren. Mustafa skalv av glede da han fikk se denne hånden og sa alvorlig at hun var overlag syk.
 
 Tiuli ble lei seg og ba den vise Kakamankabudibaba skynde seg og finne et råd til henne.
 
 Legen gikk ut og skrev på en liten seddel:
 
-"Fatme, jeg kan berge deg om du vil ta et pulver så du blir liggende i dvale et par dager. Jeg vet råd til å vekke deg opp igjen. Vil du det, så bare si at denne drikken ikke har hjulpet. Da vet jeg at du vil."
+«Fatme, jeg kan berge deg om du vil ta et pulver så du blir liggende i dvale et par dager. Jeg vet råd til å vekke deg opp igjen. Vil du det, så bare si at denne drikken ikke har hjulpet. Da vet jeg at du vil.»
 
 Han kom snart inn igjen til Tiuli og hadde med seg en helt uskadelig drikk. Han kjente Fatme på pulsen en gang til, stakk seddelen inn under armbåndet hennes og sendte drikken inn til henne gjennom hullet i muren.
 
 Tiuli var mye ute av seg for Fatme og bare tenkte på hvordan han skulle få henne frisk igjen. Med gråt i stemmen sa han til broren min:
 
-"Kanibaba, snakk rett ut og si hva du tror om Fatme."
+«Kanibaba, snakk rett ut og si hva du tror om Fatme.»
 
 Kakamankabudibaba trakk et tungt sukk og svarte:
 
-"Å herre, be himmelen om trøst. Hun har sterk feber, så det ser stygt ut."
+«Å herre, be himmelen om trøst. Hun har sterk feber, så det ser stygt ut.»
 
 Da ble Tiuli sint.
 
-"Hva sier du, din hund, hun som jeg ga to tusen gullpenger for, skal hun dø som en ku! Det sier jeg deg at gjør du henne ikke frisk igjen, så hugger jeg hodet av deg."
+«Hva sier du, din hund, hun som jeg ga to tusen gullpenger for, skal hun dø som en ku! Det sier jeg deg at gjør du henne ikke frisk igjen, så hugger jeg hodet av deg.»
 
 Da forsto broren min at han hadde vært for brutal og ga Tiuli bedre håp.
 
 Mens de stod og snakket om dette, kom en svart slave ut av kvinnestuen og sa til legen at drikken hadde ikke hjulpet.
 
-"Gjør deg for, Kamdababelba, eller hva du kaller deg, - jeg skal betale hvor mye det skal være," ylte Tiuli-Kos.
+«Gjør deg for, Kamdababelba, eller hva du kaller deg, - jeg skal betale hvor mye det skal være,» ylte Tiuli-Kos.
 
-"Jeg skal gi henne et pulver som gjør henne frisk igjen," svarte legen.
+«Jeg skal gi henne et pulver som gjør henne frisk igjen,» svarte legen.
 
-"Ja ja, gi henne et pulver!" hikstret gamlingen.
+«Ja ja, gi henne et pulver!» hikstret gamlingen.
 
 Mustafa gikk spent bort og hentet søvnpulveret. Han viste den svarte slaven hvor mye en skulle ta om gangen.
 
@@ -252,11 +252,11 @@ Mustafa hadde gjemt seg godt. Nå kom han fram og tente lys. Tok så opp det pul
 
 Det var en hel stund før han kom seg av dette nye slaget. Men endelig vant medkjenslen. Han tok pulveret og ga henne. Hun trakk ånde tungt, slo øynene opp og stirret villsomt rundt seg. Endelig så det ut til hun kom til sans igjen. Hun reiste seg opp av kisten og falt på kne for Mustafa.
 
-"Hvordan skal jeg takke deg, gode mann, for du har løst meg fra dette fryktelige fengselet?"
+«Hvordan skal jeg takke deg, gode mann, for du har løst meg fra dette fryktelige fengselet?»
 
 Mustafa spurte da hvordan det kunne ha seg at det var hun og ikke Fatme, søsteren hans, som hadde blitt berget.
 
-Hun så undrende på ham. "Nå forstår jeg hvorfor nettopp jeg har blitt frelst," sa hun. "Du må vite at der på slottet ga de meg navnet Fatme, og det er jeg som har fått både seddelen og pulveret."
+Hun så undrende på ham. «Nå forstår jeg hvorfor nettopp jeg har blitt frelst,» sa hun. «Du må vite at der på slottet ga de meg navnet Fatme, og det er jeg som har fått både seddelen og pulveret.»
 
 Broren min spurte etter hvordan det stod til med søsteren hans og Zoraide og fikk da høre at begge var der på slottet, men hadde fått andre navn av Tiuli. Han pleide alltid å bytte navn på de han kjøpte. Søsteren min og Zoraide het nå Mirza og Nurmahal.
 
@@ -264,9 +264,9 @@ Da Fatme så hvor tungt broren min tok det som var hendt, trøstet hun ham og lo
 
 Mustafa tok nytt håp og ba henne si hvilket råd det var. Hun fortalte:
 
-"Jeg har ikke vært mer enn fem måneder der hos Tiuli; men jeg har ikke tenkt på annet etter jeg kom dit enn å rømme bort. Men alene var jeg ikke god til det. Ute på borgtunet så du kanskje en brønn som sprøytet vann ut av ti rør. Denne brønnen tenkte jeg skulle hjelpe meg bort. Jeg kom i hu at hjemme hos far min hadde vi hatt en slik. Vannet i den kom gjennom en stor hul-renne. Jeg ville gjerne få vite om denne brønnen var bygget på samme måten, og så skrøt jeg en dag av den til Tiuli og spurte hvem som hadde bygget den. - Jeg har bygget den selv, svarte han. Det som en ser, er det minste. Men vannet i den kommer fra en bekk minst tusen meter borte og går gjennom en hul-renne på en mannshøyde. Og alt dette har jeg selv funnet på.
+«Jeg har ikke vært mer enn fem måneder der hos Tiuli; men jeg har ikke tenkt på annet etter jeg kom dit enn å rømme bort. Men alene var jeg ikke god til det. Ute på borgtunet så du kanskje en brønn som sprøytet vann ut av ti rør. Denne brønnen tenkte jeg skulle hjelpe meg bort. Jeg kom i hu at hjemme hos far min hadde vi hatt en slik. Vannet i den kom gjennom en stor hul-renne. Jeg ville gjerne få vite om denne brønnen var bygget på samme måten, og så skrøt jeg en dag av den til Tiuli og spurte hvem som hadde bygget den. - Jeg har bygget den selv, svarte han. Det som en ser, er det minste. Men vannet i den kommer fra en bekk minst tusen meter borte og går gjennom en hul-renne på en mannshøyde. Og alt dette har jeg selv funnet på.
 
-Da jeg hørte dette ønsket jeg titt og ofte at jeg hadde hatt mannskrefter. Da skulle jeg bare ha løsnet en stein fra siden på brønnen og så rømt ut den veien. - Nå skal jeg vise deg rennen. Gjennom den kan du komme inn i slottet om natten og få ut søsteren din. Men du må minst ha med deg et par menn og gjøre av med slavene som holder vakt."
+Da jeg hørte dette ønsket jeg titt og ofte at jeg hadde hatt mannskrefter. Da skulle jeg bare ha løsnet en stein fra siden på brønnen og så rømt ut den veien. - Nå skal jeg vise deg rennen. Gjennom den kan du komme inn i slottet om natten og få ut søsteren din. Men du må minst ha med deg et par menn og gjøre av med slavene som holder vakt.«
 
 Broren min tok nytt håp av dette. Han lovet Fatme at han skulle hjelpe henne hjem igjen bare hun ville vise ham vei inn på slottet.
 
@@ -290,7 +290,7 @@ Nå gjaldt det å finne den døren de skulle inn gjennom. Men her ble de ikke en
 
 Men Orbasan var ikke lenge rådvill.
 
-"Sverdet mitt skal åpne hver dør," ropte han og sprengte døren. De andre fulgte inn.
+«Sverdet mitt skal åpne hver dør,» ropte han og sprengte døren. De andre fulgte inn.
 
 Men det var nok ikke riktige døren likevel, var det likt til, for der på gulvet lå seks svarte slaver og sov.
 
@@ -302,7 +302,7 @@ Orbasan satte kniven for brystet på en av slavene og spurte hvor Nurmahal og Mi
 
 Mustafa var inne som en vind og fant både Fatme og Zoraide; de hadde våknet av larmen. I all hast samlet de sammen alt det de eide av klær og gullsmykker og fulgte med Mustafa. De to røverne ville rappe med seg det de fant, men Orbasan forbød det strengt.
 
-"Ingen skal få det å si at Orbasan brøt inn om natten i et hus og stjal gull!"
+«Ingen skal få det å si at Orbasan brøt inn om natten i et hus og stjal gull!»
 
 Mustafa hjalp jentene ned i brønnen. Mens hengte røverne puslingen opp på høyeste brønnkanten. Da de således hadde straffet denne lille skurken som han fortjente, steg de alle ned i rennen.
 
@@ -314,7 +314,7 @@ Gamle far ble nesten fra seg, så glad ble han da han fikk se dem alle igjen. Da
 
 Der måtte broren min fortelle alle begivenhetene sine fra først til sist. Og alle var med og skrøt av ham og av den gode røveren.
 
-Og da far forsto at Mustafa holdt av Zoraide, var han ikke sen, men ga ham lov til å gifte seg med henne."
+Og da far forsto at Mustafa holdt av Zoraide, var han ikke sen, men ga ham lov til å gifte seg med henne.
 
 Karavanen var kommet ut av ørkenen og reisefolket gledet seg som barn da de så igjen grønt gress og tett løvskog.
 

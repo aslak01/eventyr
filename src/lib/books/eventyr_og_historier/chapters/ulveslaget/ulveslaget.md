@@ -18,7 +18,7 @@ Så var det en iskald, stjerneklar vinterkveld i februar 1858. Oppe i Bergslibak
 
 Med ett tar min bror meg i armen og stanser.
 
-"Hør," sier han.
+«Hør,» sier han.
 
 Og fra skogsnaret oppe i grova hørtes et langt, sultent ul, syngende ut i stillheten. Det svarer fra en haug lenger borte og om en liten stund fjernt og finere fra den annen side av dalen.
 
@@ -26,27 +26,27 @@ Hektor står med høyt løftet hode og lytter, Ajaks reiser bust og knurrer.
 
 Vi kjente denne lyd fra før, vi smågutter, for vi hadde ofte hørt den om vinterkveldene; men det gikk grøssent over oss allikevel, det klang så underlig vilt og farlig i skogensomheten.
 
-"Jeg tror vi går hjem, jeg," sa min bror og snudde kjelken.
+«Jeg tror vi går hjem, jeg,» sa min bror og snudde kjelken.
 
 Da ropte det nede fra gården - vi satte oss på kjelken og i vei bar det.
 
 Nede på gården stod far.
 
-"Hører dere ulvene, gutter?" spurte han.
+«Hører dere ulvene, gutter?» spurte han.
 
 Vi stanset og lyttet igjen, men nå var det blikkstille.
 
-"Ja, det er det samme. Inn med dere," han klappet Hektor på hodet og så på at vi satte opp kjelkene, fikk av oss sneen og kom inn.
+«Ja, det er det samme. Inn med dere,» han klappet Hektor på hodet og så på at vi satte opp kjelkene, fikk av oss sneen og kom inn.
 
-"De er der nå igjen," sa han til mor, idet han satte seg og tok avisen.
+«De er der nå igjen,» sa han til mor, idet han satte seg og tok avisen.
 
-"Huff, dette begynner jo å bli rent uhyggelig," svarte mor, hun så opp og la boken fra seg. "Hørte dere noe, barn?" la hun til og reiste seg.
+«Huff, dette begynner jo å bli rent uhyggelig,» svarte mor, hun så opp og la boken fra seg. «Hørte dere noe, barn?» la hun til og reiste seg.
 
 Jo, vi hadde nok hørt.
 
 Og så blev det en fortelling uten all ende om Bok-Simen, som hadde møtt en ulv nord i Ellevollsveiene, og det bestet var så pågående, at den blev sittende og vise tenner til ham midt i selve allmannsveien - og om Nils skomaker, som hadde kappkjørt med to stykker hele Lomnessjøen oppover, og om sønn til klokkeren, som så tydelig syntes han hadde sett en i grisehuset en søndag morgen, men da han sprang inn etter far sin, og de kom ut med børsen, var den borte.
 
-"Ja, barn, der ser dere, det er best å være forsiktig," sa mor.
+«Ja, barn, der ser dere, det er best å være forsiktig,» sa mor.
 
 Så gikk hun til kjøkkengluggen og bad piken komme inn med kveldsmaten.
 
@@ -54,15 +54,15 @@ Den store moderatørlampe med det milde, gule lys blev flyttet, maten kom på bo
 
 Rett som vi sitter, kommer Ola Jonsen, drengen, inn fra vedskålen, kald av været og med sagmugg og sne over de frosne sokker. Han blir stående i den åpne dør.
 
-"Det var kanskje likest å ta inn hundan i natt, før her er nok ikke fritt før gråben," sier han.
+«Det var kanskje likest å ta inn hundan i natt, før her er nok ikke fritt før gråben,» sier han.
 
-"Har du sett noen?" spør far og reiser seg.
+«Har du sett noen?» spør far og reiser seg.
 
-"Nei, men jeg hørte en to-tre av dem opp i grova ista," svarer Ole Jonsen og tar av seg luen.
+«Nei, men jeg hørte en to-tre av dem opp i grova ista,» svarer Ole Jonsen og tar av seg luen.
 
-"Du får ta Ajaks inn i drengestuen, så kan Hektor ligge i barnekammeret - det er kanskje sikrest," sa mor.
+«Du får ta Ajaks inn i drengestuen, så kan Hektor ligge i barnekammeret - det er kanskje sikrest,» sa mor.
 
-"Ja-a!" jublet vi tre smågutter på en gang, for det å ha Hektor til sovekamerat var da så usigelig trygt og morsomt.
+«Ja-a!» jublet vi tre smågutter på en gang, for det å ha Hektor til sovekamerat var da så usigelig trygt og morsomt.
 
 Og mellom oss barn blev der da vi gikk fra bordet, megen ivrig tale om hva Hektor ville gjøre om ulven kom og ville ta oss. For Hektor var den sterkeste hund i hele verden, og han bet nok ihjel både en og to og tre - ja ti, tyve, hundre ulver, mange, mange fler enn der var i hele bygden.
 
@@ -72,7 +72,7 @@ Jeg vet ikke hvor lenge jeg kunne ha ligget slik, da jeg med ett farer opp i une
 
 Jeg setter i et skrik og slår hendene for øynene. Barnepiken, som lå i værelset tett ved, kommer inn oppskremt og spør med søvndrukken pust hva der er på ferde.
 
-"Ser du ikke der da?" roper jeg og peker.
+«Ser du ikke der da?» roper jeg og peker.
 
 Men med det samme gir Hektor - for han var det - et knurrende glefs og reiser seg høyt med begge labber i vinduskarmen.
 
@@ -80,11 +80,11 @@ Marit kommer bort til vinduet og skurer rimen av for å se ut, men blir stående
 
 Ut over sneen veltet og vred der seg mørke klumper av dyr som sloss, store og små, under skrik og vræl der steg og falt som en fjern foss gjennom natten.
 
-"Ulv!" hvisket Marit og snudde seg blek, tok meg i armen og drog meg under. Men Hektor lå med begge de brede labber høyt opp på døren, trykket på og ville ut.
+«Ulv!» hvisket Marit og snudde seg blek, tok meg i armen og drog meg under. Men Hektor lå med begge de brede labber høyt opp på døren, trykket på og ville ut.
 
 Da åpnet mor. Hektor la på sprang ut gjennom gangen og nedover trappene, men blev stanset av gangdøren som var stengt.
 
-"Klæ på barna," sa mor. "For dette her er gyselig," la hun til, gikk hen til vinduet og stirret ut, men vendte seg hurtig bort for ikke å se mere.
+«Klæ på barna,» sa mor. «For dette her er gyselig,» la hun til, gikk hen til vinduet og stirret ut, men vendte seg hurtig bort for ikke å se mere.
 
 Innen få minutter var alle i huset påklædd og oppe og blev stående og stirre og lytte nordover jordet til alt var slutt.
 
@@ -94,27 +94,27 @@ Med ett hører vi et rop og ser en mann komme springende fra drengestuen og opp 
 
 Far slår vinduet opp.
 
-"Gå ikke ut!" roper han.
+«Gå ikke ut!» roper han.
 
-"Hain Ajaks er med!" skriker Ola og blir stående barhodet og halvklædd i iskulden.
+«Hain Ajaks er med!» skriker Ola og blir stående barhodet og halvklædd i iskulden.
 
-"Slipp 'n Hektor!" roper han igjen, legger i vei til vedskålen, får tak i en øks og vil nordover.
+«Slipp 'n Hektor!» roper han igjen, legger i vei til vedskålen, får tak i en øks og vil nordover.
 
-"Du går ikke av flekken! Er du blitt splitter gal!" roper far av all sin makt.
+«Du går ikke av flekken! Er du blitt splitter gal!» roper far av all sin makt.
 
 Ola stanser og står rådvill.
 
 Da stiger der gjennom larmen et høyt hjelpeløst skrik av et mål, kjent blant hundre. I førstningen sterkt, jamrende, så mer og mere kvalt og svakt og til slutt bare som et gurglende gaul - den redsomme larm.
 
-"Dem river ihjel 'n!" ropte Marit, hun tok tak i vinduskarmen med begge hender og gråt høyt.
+«Dem river ihjel 'n!» ropte Marit, hun tok tak i vinduskarmen med begge hender og gråt høyt.
 
-"Ta ska' aller skje," hører vi Olas røst gjennom larmen og ser ham legge i vei.
+«Ta ska' aller skje,» hører vi Olas røst gjennom larmen og ser ham legge i vei.
 
 Men i samme øyeblikk klinger der et grovt, veldig gjø nede i gangen, og en stor larm hørtes.
 
 Hektor hadde kjent Ajaks mål. Den la seg på gangdøren med all sin makt, rev og slet med tenner og labber og ville ut.
 
-"Så i Guds navn, slipp hunden," ropte far - og Marit ned.
+«Så i Guds navn, slipp hunden,» ropte far - og Marit ned.
 
 Med høyt løftet hode setter det store dyr i tunge sprang nordover, forbi Ola Styggpåjord som springer andpusten med øksen i hånden, og rett inn i ulveflokken. Den gjør et slag hit og et slag dit med det veldige hode, før den finner det den søker. Men så tar den tak, og Ola Styggpåjord stanser og stirrer, og vi i vinduet står betatt og revet med i det skuespill av ubendig kraft og villhet som nå tok sin begynnelse.
 
@@ -148,13 +148,13 @@ Snart kom der folk fra alle bygdens gårder for å se og høre. Noen stod i veds
 
 Rett som vi stod der i vedskålen, blåfrosne av kulde, vi smågutter, og så på, kom en liten jente gråtende borttil.
 
-"Å er'n Flink etter?" spurte hun.
+«Å er'n Flink etter?» spurte hun.
 
-"Å seier du?" sa Ola Jonsen litt kvast.
+«Å seier du?» sa Ola Jonsen litt kvast.
 
-"Å er'n Flink etter," gjentok hun, bet i vottene og så seg rådløs omkring, mens tårene rant.
+«Å er'n Flink etter,» gjentok hun, bet i vottene og så seg rådløs omkring, mens tårene rant.
 
-"Du får sjå nordpå," svarte Ola Styggpåjord, han drog i ulveskinnet så det knaket i den magre skrott.
+«Du får sjå nordpå,» svarte Ola Styggpåjord, han drog i ulveskinnet så det knaket i den magre skrott.
 
 ![Ulv i uthus](./ulveslaget2.png)
 
@@ -172,7 +172,7 @@ Jeg syntes jeg måtte gå bort til den vesle jenten som var så alene, men jeg b
 
 Hun reiste seg om en stund, men slo seg ned igjen og blev sittende slik. Da kom Ola Jonsen ut av vedskålen og bort til bekken for å vaske fingrene sine. Han snudde seg dit jeg stirret, og fikk se jenten.
 
-"Hm," mumlet han, strøk av fingrene i sneen og ruslet bortover.
+«Hm,» mumlet han, strøk av fingrene i sneen og ruslet bortover.
 
 Da tok jeg meg sammen og fulgte.
 
@@ -180,31 +180,31 @@ Kommet borttil blev Ola Jonsen stående lenge, stilt og se på.
 
 Så sa han mykt og lavt:
 
-"Du får gå opp att nå, vechla mi!"
+«Du får gå opp att nå, vechla mi!»
 
 Jenten snudde seg halvt under og så bort, så fremmed, så fremmed.
 
-"Du frys deg førdervet," sier han enda mildere, går tett borttil og vil løfte henne opp.
+«Du frys deg førdervet,» sier han enda mildere, går tett borttil og vil løfte henne opp.
 
-"Vær rolig," svarer hun som bange, og synker ihop igjen.
+«Vær rolig,» svarer hun som bange, og synker ihop igjen.
 
-"Er det vechle hunden din dette kanskje?" Han bøyer seg over henne og godsnakker.
+«Er det vechle hunden din dette kanskje?» Han bøyer seg over henne og godsnakker.
 
-"Ja-ah," kom det som et skjelvende pust.
+«Ja-ah,» kom det som et skjelvende pust.
 
 Ola står en stund og tygger skråen hardt. Så bøyer han seg atter ned over jenten.
 
-"Je ska' hjelpe deg je kanskje," sier han. Hun ser opp på ham, undrende; hun skjønner ham ikke.
+«Je ska' hjelpe deg je kanskje,» sier han. Hun ser opp på ham, undrende; hun skjønner ham ikke.
 
 Så tar han varsomt under det stivfrosne, døde dyr for å løfte og bære. Men straks han får se hva det er igjen, slipper han fort.
 
-"Ta er ittnå for deg det lenger," sier han lavt og tar henne varsomt ved armen.
+«Ta er ittnå for deg det lenger,» sier han lavt og tar henne varsomt ved armen.
 
 Jenten ser på ham, skremt, men følger. Så vender hun seg med ett, stikker i å gråte og sier:
 
-"Ska'n ligge att, 'n Flink da?"
+«Ska'n ligge att, 'n Flink da?»
 
-"Far din tær'n nok," svarer Ola og drar henne med seg.
+«Far din tær'n nok,» svarer Ola og drar henne med seg.
 
 Hun vender seg enda et par ganger og stirrer med store, lengtende øyne nordover; så følger hun viljeløst.
 

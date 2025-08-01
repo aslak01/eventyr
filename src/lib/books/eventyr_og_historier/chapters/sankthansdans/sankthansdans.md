@@ -1,5 +1,5 @@
 ---
-subtitle: "En regle"
+subtitle: En regle
 ---
 
 # Sankthansdans

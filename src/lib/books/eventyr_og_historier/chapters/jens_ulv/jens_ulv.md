@@ -34,9 +34,9 @@ Lenge ble han stående, for han torde ikke gå; men til slutt tok han kuten skog
 
 Da han kom hjem om kvelden, var alt stille.
 
-"Du kommer att sent," sa klokkeren; han lå i senga og våknet, da gutten gikk gjennom stua.
+«Du kommer att sent,» sa klokkeren; han lå i senga og våknet, da gutten gikk gjennom stua.
 
-"Ja, jeg ble heftendes," svarte gutten, han torde ikke se bort på klokkeren, men gikk bare ende opp på loftet og la seg.
+«Ja, jeg ble heftendes,» svarte gutten, han torde ikke se bort på klokkeren, men gikk bare ende opp på loftet og la seg.
 
 Dagen etter da klokkerdrengen og Jens klokker bar opp løv på låven og drengen gikk sist, fikk han se at der satt tørr reinsdyrmåså i buksa på klokkeren. Da skjønte han alt. Og fjorten dager etter flyttet han.
 
@@ -66,34 +66,34 @@ Om en tur ble det stille der ute, og han hørte noen komme. Og inn gjennom kirke
 
 Presten gikk like inn til søsteren.
 
-"Hvor er bror din?" spurte han.
+«Hvor er bror din?» spurte han.
 
-"Her er jeg," sa klokkeren, han satt ved bordet og åt kveldsmat og stirret på presten.
+«Her er jeg,» sa klokkeren, han satt ved bordet og åt kveldsmat og stirret på presten.
 
 Presten ble blek.
 
 ![Katt på kirkegård](./ju2.png)
 
-"Det var bare kirkenøklene jeg ville levere," sa han og rakte dem frem.
+«Det var bare kirkenøklene jeg ville levere,» sa han og rakte dem frem.
 
-"Takk," sa klokkeren og rakte hånda ut. Men hånda var grå av gravmuld.
+«Takk,» sa klokkeren og rakte hånda ut. Men hånda var grå av gravmuld.
 
-"Det er godt jeg vet de er i gode hender," sier presten, han ser skarpt på klokkeren.
+«Det er godt jeg vet de er i gode hender,» sier presten, han ser skarpt på klokkeren.
 
-"Å, hendene er nå som Gud har skapt dem," svarer klokkeren, og det lyser rødt av de vassblå øynene.
+«Å, hendene er nå som Gud har skapt dem,» svarer klokkeren, og det lyser rødt av de vassblå øynene.
 
 Noen tid etter ble Jens klokker syk, og da måneden vel var gått, skjønte alle at rett nå var det slutt.
 
 Så var det siste dagen. Presten var kommet og satt ved senga; Jens ulv lå blek og stille. Rett som han lå, skalv han, og øynene stod store på presten.
 
-"Fryser du?" spurte presten — han dro feiden oppover brystet. Da ga Jens ulv et ul så uhygge stygt og stirret og stirret mot sengefoten.
+«Fryser du?» spurte presten — han dro feiden oppover brystet. Da ga Jens ulv et ul så uhygge stygt og stirret og stirret mot sengefoten.
 
 Og da presten så etter, lå foten bar med klør som av ulv på tærne.
 
 Da slo presten hendene i hop.
 
-"Gud forbarme seg for føtter du har!" sa han.
+«Gud forbarme seg for føtter du har!» sa han.
 
-"Ja, han må da vel det!" sa Jens ulv — han stirret rødøyd på presten.
+«Ja, han må da vel det!» sa Jens ulv — han stirret rødøyd på presten.
 
 Samme natten døde han; men siden var det fritt for varulv i dalen.

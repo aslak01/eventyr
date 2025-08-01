@@ -14,19 +14,19 @@ Nå dreiv han på hesten og hadde snart nådd bort til følget.
 
 Det var noe så sjeldent at en ensom mann kom ridende gjennom ørkenen, at vaktmennene skyndte seg og rettet spyd mot ham.
 
-"Hva står på!" ropte rytteren. "Tror dere en ensom mann kommer og vil ta på dere, så mange som dere er?"
+«Hva står på!» ropte rytteren. «Tror dere en ensom mann kommer og vil ta på dere, så mange som dere er?»
 
 Da skammet de seg og tok spydene til seg.
 
 Høvdingen i vaktflokken red bort til mannkaren og spurte hva han ville.
 
-"Hvor er eieren av karavanen?" spurte rytteren.
+«Hvor er eieren av karavanen?» spurte rytteren.
 
-"Det er ikke en mann alene som eier den," var svaret, "men en flokk kjøpmenn som har vært i Mekka og nå er på hjemveien. Vi følger dem gjennom ørkenen, med det all slags rampete folk farer og reiser og er ute etter rike reisefolk."
+«Det er ikke en mann alene som eier den,» var svaret, «men en flokk kjøpmenn som har vært i Mekka og nå er på hjemveien. Vi følger dem gjennom ørkenen, med det all slags rampete folk farer og reiser og er ute etter rike reisefolk.»
 
-"Ta meg til kjøpmennene da," sa framandkaren.
+«Ta meg til kjøpmennene da,» sa framandkaren.
 
-"Det kan vi ikke," svarte høvdingen. "Vi må lengre og kan ikke stoppe her. Kjøpmennene er langt etter, minst en fjerdedels vei. Men vil du være med dit vi holder middagskvile, kan du få dem i tale."
+«Det kan vi ikke,» svarte høvdingen. «Vi må lengre og kan ikke stoppe her. Kjøpmennene er langt etter, minst en fjerdedels vei. Men vil du være med dit vi holder middagskvile, kan du få dem i tale.»
 
 Framandkaren svarte ikke. Han tok fram en lang pipe som var bundet fast til salen, og gav seg til å røyke så det gav etter, alt mens han satt og red der ved siden av høvdingen.
 
@@ -46,30 +46,32 @@ I midten var et stort telt av blå silkeduk. Dit førte høvdingen framandkaren.
 
 De fem kjøpmennene satt på gullsømme puter, og svarte slaver bar til dem mat og drikke.
 
-"Hvem kommer du med der?" ropte den yngste kjøpmannen til høvdingen.
+«Hvem kommer du med der?» ropte den yngste kjøpmannen til høvdingen.
 
 Før denne fikk komme til ords, sa framandmannen:
 
-"Jeg heter Selim Baruch og er fra Bagdad. Jeg skulle til Mekka, men så ble jeg fanget av en røverflokk, og først for tre dager siden var jeg så heldig jeg kom meg løs. Selve Guds profet må det ha vært som lot meg høre bjelleklanget fra kamelene deres, så jeg fikk komme til folk. - Dere må la meg få reise i følge med dere til vi kommer fram til Bagdad. Dere skal ikke ha gjort dette for ingenting, for selve storvesiren (førsteministeren) er far min."
+«Jeg heter Selim Baruch og er fra Bagdad. Jeg skulle til Mekka, men så ble jeg fanget av en røverflokk, og først for tre dager siden var jeg så heldig jeg kom meg løs. Selve Guds profet må det ha vært som lot meg høre bjelleklanget fra kamelene deres, så jeg fikk komme til folk. - Dere må la meg få reise i følge med dere til vi kommer fram til Bagdad. Dere skal ikke ha gjort dette for ingenting, for selve storvesiren[^1] er far min.»
 
 Den eldste kjøpmannen svarte som så:
 
-"Selim Baruch, velkommen skal du være! Vi gjør så gjerne alt vi kan for deg. Du får sette deg inn til oss og ta til takke, slik vi har det."
+«Selim Baruch, velkommen skal du være! Vi gjør så gjerne alt vi kan for deg. Du får sette deg inn til oss og ta til takke, slik vi har det.»
 
 Selim satte seg bort til kjøpmennene og spiste og drakk i lag med dem. Siden kom slavene og bar bort maten, og tente en lang pipe til hver av dem.
 
 Kjøpmennene satt der og røykte og talte lenge ikke et ord. Endelig sa den yngste av dem:
 
-"Således har vi nå sittet på tredje dagen og ikke hatt noe som helst foran oss som kunne få tiden til å gå. - Vet ikke du, framandmann, noe vi kunne fordrive tiden med?"
+«Således har vi nå sittet på tredje dagen og ikke hatt noe som helst foran oss som kunne få tiden til å gå. - Vet ikke du, framandmann, noe vi kunne fordrive tiden med?»
 
 Framandkaren svarte:
 
-"Når dere først spør meg, så vet jeg saktens et råd. Vi kunne fortelle hver vår historie, så kommer nok tiden til å gå."
+«Når dere først spør meg, så vet jeg saktens et råd. Vi kunne fortelle hver vår historie, så kommer nok tiden til å gå.»
 
-"Det har du min sanne rett i, Selim Baruch," sa den gamle kjøpmannen. "Det gjør vi, det!"
+«Det har du min sanne rett i, Selim Baruch,» sa den gamle kjøpmannen. «Det gjør vi, det!»
 
-"Det var godt dere likte det," sa Selim. "Jeg skal så gjerne selv fortelle noe først."
+«Det var godt dere likte det,» sa Selim. «Jeg skal så gjerne selv fortelle noe først.»
 
 Kjøpmennene trakk seg velnøyde inn til seg, så de skulle bedre høre.
 
 Og så fortalte Selim Baruch historien om
+
+[^1]: Statsministeren

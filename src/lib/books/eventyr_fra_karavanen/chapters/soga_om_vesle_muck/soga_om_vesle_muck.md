@@ -14,11 +14,11 @@ Løyeligst var likevel den store sabelen han gikk og dro på seg alltid! Den var
 
 Vi hadde funnet på et vers, som vi alltid skrålet etter ham:
 
-«Lille Muck! Lille Muck!  
-Ja du er en løyelig bukk!  
-Hode har du som et berg,  
-kroppen er som på en dverg.  
-Lille Muck! Lille bukk!»
+> «Lille Muck! Lille Muck!  
+> Ja du er en løyelig bukk!  
+> Hode har du som et berg,  
+> kroppen er som på en dverg.  
+> Lille Muck! Lille bukk!»
 
 Slik har vi skrålet etter ham mange ganger. Og jeg må innrømme at jeg ikke har vært noe bedre enn de andre. Mer enn en gang kan jeg huske at jeg slet i busse-rullen hans og trådte ned i de store tøflene, så stakkaren falt på nesen, så lang han var. Dette syntes jeg var så løyelig at jeg lo og lo, til jeg holdt på å miste pusten.
 
@@ -42,8 +42,8 @@ Men han gikk gate opp og gate ned, og ikke en dør åpnet seg for ham, og ingen 
 
 Han stod nettopp og stirret opp på et stort, staselig hus og ønsket han kunne komme inn der. Da gikk et vindu opp, og en gammel kjerring stakk hodet ut igjennom og ropte:
 
-«Kom alle hit!  
-På bordet ligger duken hvit!»
+> «Kom alle hit!  
+> På bordet ligger duken hvit!»
 
 Husdøren gikk opp, og Muck så at flere hunder og katter smøyg seg opp trappen og inn. I det samme kjente han den fineste matlukt ut til seg. Han var ikke god til å stå imot, men fulgte etter kattene inn i kjøkkenet. Der møtte han den samme gamle kjerringen han hadde sett gjennom vinduet. Hun kom bort og spurte sint hva ærend han hadde der.
 

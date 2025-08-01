@@ -12,11 +12,11 @@ I Basra gikk vi om bord i et skip som skulle til India. Det var god bør da vi l
 
 Vi tok seilene ned og bare drev med stormen. Natten kom. Det var klarvær og kaldt, og kapteinen begynte å tro at han hadde tatt feil. Men det beste var at et skip vi ikke før hadde sett, strøk tett forbi oss. Ville rop og larm og støy lød fra dekket der, og jeg måtte storlig undre meg over at de ville holde slikt syndigt leven om bord nettopp nå som uvær var forventet. Men kapteinen som sto ved siden av meg ble naglebleik med ett.
 
-"Skipet mitt kommer til å gå til grunns," ropte han. "Der seiler døden."
+«Skipet mitt kommer til å gå til grunns,» ropte han. «Der seiler døden.»
 
 Før jeg fikk spørre hva han mente, kom skipsfolket farende:
 
-"Så dere det!" skreik de. "Det er ute med oss!"
+«Så dere det!» skreik de. «Det er ute med oss!»
 
 Kapteinen ba høyt en bønn og satte seg selv til rors. Men forgjeves var det. Stormen kom farende og økte på for hver stund. Og før en time var gått, støtte skipet på grunn. Båtene ble satt på vannet og ikke før var siste matrosen kommet ned, så sank skipet for øynene på oss.
 
@@ -42,7 +42,7 @@ Lenge om lenge tok vi mot til oss og gikk videre. For hvert skritt vi tok måtte
 
 Endelig kom vi til en trapp som gikk ned under dekk. Uvillig stoppet vi her og så på hverandre.
 
-"Å herre," sa den trofaste tjeneren. "Her må ha hendt noe grusomt. Men om så skipet er fullt av drapsmenn, vil jeg heller gå rett i armene på dem enn å være lenger sammen med disse likene."
+«Å herre,» sa den trofaste tjeneren. «Her må ha hendt noe grusomt. Men om så skipet er fullt av drapsmenn, vil jeg heller gå rett i armene på dem enn å være lenger sammen med disse likene.»
 
 Jeg tenkte som ham, og vi tok mot til oss og steg ned. Men det var stille som i graven her også; det svarte i de tomme rommene for hvert skritt vi tok. Vi stoppet opp utenfor kahyttdøren. Jeg la øret til nøkkelhullet og lyttet etter. Alt var stille. Jeg skjøv opp døren. Alt lå i uorden. Klær, våpen og annet om hverandre. Mannskapet, eller i det minste kapteinen, måtte ha sittet og drukket for ikke lenge siden, for vinen lå enda og fløt bortetter bordet.
 
@@ -66,11 +66,11 @@ Jeg lo av drømmen min og stod opp, gikk ned til gamle Ibrahim.
 
 Han så på meg med forskremte øyne.
 
-"Å herre!" ropte han. "Jeg vil heller ligge på havets bunn enn å være her en natt til."
+«Å herre!» ropte han. «Jeg vil heller ligge på havets bunn enn å være her en natt til.»
 
 Jeg spurte hva som stod på, og han svarte:
 
-"Da jeg hadde sovet et par timer, våknet jeg og hørte at det gikk fram og tilbake på dekk. Jeg tenkte først det var deg. Men siden hørte jeg at det var minst tjue som sprang omkring, ropte og skreik. Til slutt kom tunge mannstrinn ned trappen. Siden visste jeg ikke mer til meg. Bare av og til var det som jeg våknet et øyeblikk, og da så jeg den samme mannen som stod naglet til masten på dekk sitte på den stolen der og synge og drikke. Og han som ligger ved siden av ham på dekk i røde skarlagnsklær, han satt ved siden av og drakk."
+«Da jeg hadde sovet et par timer, våknet jeg og hørte at det gikk fram og tilbake på dekk. Jeg tenkte først det var deg. Men siden hørte jeg at det var minst tjue som sprang omkring, ropte og skreik. Til slutt kom tunge mannstrinn ned trappen. Siden visste jeg ikke mer til meg. Bare av og til var det som jeg våknet et øyeblikk, og da så jeg den samme mannen som stod naglet til masten på dekk sitte på den stolen der og synge og drikke. Og han som ligger ved siden av ham på dekk i røde skarlagnsklær, han satt ved siden av og drakk.»
 
 Så fortalte den gamle tjeneren.
 
@@ -78,7 +78,7 @@ Dere kan tro jeg ble til mote. Jeg hadde da også hørt de døde. Å seile med s
 
 Ibrahim satt og grunet på noe.
 
-"Nå vet jeg det," ropte han. Han kom i hu et vers som bestefaren hans hadde lært ham og som skulle hjelpe mot alle slags trolldom. Han mente på at dette verset skulle hjelpe mot den tunge søvn-dvalen neste natt, særlig når vi av hjerte ba til Gud.
+«Nå vet jeg det,» ropte han. Han kom i hu et vers som bestefaren hans hadde lært ham og som skulle hjelpe mot alle slags trolldom. Han mente på at dette verset skulle hjelpe mot den tunge søvn-dvalen neste natt, særlig når vi av hjerte ba til Gud.
 
 I stor angst ventet vi på natten. Ved siden av kahytten var et lite kammer. Der ville vi sitte. Vi boret flere hull i døren så vi kunne se over hele kahytten. Siden stengte og låste vi igjen, og Ibrahim skrev Guds navn på alle fire veggene. Dermed ga vi oss til ro.
 
@@ -88,12 +88,12 @@ Det beste var at det var som alt livnet på dekk. Tau og seil slo mot masten. Tr
 
 I flere minutter satt vi med ånden i halsen og lyttet etter. Da hørte vi noen komme ned kahytttrappen. I det samme tok gamlingen til å lese verset sitt som bestefaren hadde lært ham:
 
-_Kommer dere fra luften?  
-Stiger dere fra dype hav?  
-Fra kirkegårdstuften?  
-Eller fra logehavet?  
-Gud kan byde dere!  
-Ham må dere alle lyde!_
+> _Kommer dere fra luften?  
+> Stiger dere fra dype hav?  
+> Fra kirkegårdstuften?  
+> Eller fra logehavet?  
+> Gud kan byde dere!  
+> Ham må dere alle lyde!_
 
 Jeg må innrømme at jeg ikke hadde stor tro på dette verset. Og jeg kjente håret reise seg til vers på meg da kahyttdøren gikk opp.
 
@@ -145,15 +145,15 @@ Straks lot mannen øynene opp og trakk ånde dypt. Og såret etter spikeren tok 
 
 Nå var det lett å få spikeren ut, og mannen tumlet i hop ned på dekk.
 
-"Hvem har tatt meg hit?" spurte han så snart han kom seg, så vidt han kunne snakke.
+«Hvem har tatt meg hit?» spurte han så snart han kom seg, så vidt han kunne snakke.
 
 Muli pekte på meg, og jeg gikk bort til ham.
 
-"Stor takk skal du ha, framandmann! Du har frelst meg fra en lang pine. I femti år har kroppen min latt fare på sjøen. Og hver eneste natt var sjelen fordømt til å vende tilbake til den. Men nå har hodet mitt kommet jorden nær, så nå er jeg løst og kan få hvile i fred."
+«Stor takk skal du ha, framandmann! Du har frelst meg fra en lang pine. I femti år har kroppen min latt fare på sjøen. Og hver eneste natt var sjelen fordømt til å vende tilbake til den. Men nå har hodet mitt kommet jorden nær, så nå er jeg løst og kan få hvile i fred.»
 
 Jeg ba ham fortelle hvordan han var kommet i denne fryktelige tilstanden, og han svarte:
 
-"For femti år siden var jeg en rik og vel respektert mann og bodde i Algier. Men havesyken tok meg, så jeg rustet ut et skip og ga meg til å være sjørøver. Jeg hadde holdt på med dette en lang tid. Men så var det en gang jeg tok om bord en prest som skulle få fare fritt til den og den byen.
+«For femti år siden var jeg en rik og vel respektert mann og bodde i Algier. Men havesyken tok meg, så jeg rustet ut et skip og ga meg til å være sjørøver. Jeg hadde holdt på med dette en lang tid. Men så var det en gang jeg tok om bord en prest som skulle få fare fritt til den og den byen.
 
 Jeg og folkene mine var råtasser som spottet denne helligmannen og bare gjorde ap med ham.
 
@@ -167,7 +167,7 @@ Men motparten hadde også fått banesar. Og snart var skipet bare en eneste stor
 
 Således har vi nå seilt i femti år. Vi får ikke leve og ikke dø. For hvordan skulle vi komme til lands? Om natten setter vi alle seil til, for vi hadde det håpet at vi kunne få renne skuta på grunn så vi fikk hvile de trøtte hodene våre på havets bunn. - Vi har ikke fått det.
 
-Men nå får jeg dø. Enda en gang takker jeg deg, ukjente frelsermann. Kan rikdom lønne deg, så ta skipet og alt som i det er."
+Men nå får jeg dø. Enda en gang takker jeg deg, ukjente frelsermann. Kan rikdom lønne deg, så ta skipet og alt som i det er.«
 
 Da kapteinen hadde sagt dette sank hodet ned på brystet, og død var han. Han falt sammen nettopp som alle de andre. Støvet etter ham samlet vi opp og gravde det ned på land.
 
@@ -177,14 +177,14 @@ Jeg tok ikke beveien hjem. Jeg var først innom flere øyer og land og tilbød f
 
 Da jeg kom til Basra ble folk rent forbauset over alt jeg hadde samlet sammen og kunne ikke annet tro enn at jeg måtte ha funnet en gullgruve et eller annet sted. Jeg lot dem selvsagt tro hva de ville. Men her i ettertid pleier ungdommene i Basra å ta ut i verden alt i atten årsalderen og prøve lykken.
 
-Jeg ga meg til for godt i Basra og har levd der i fred og ro i mange år. Men hvert femte år gjør jeg alltid en ferd til Mekka og takker Herren for hans nåde og ber ham ta den stakkars kapteinen og skipsfolkene hans til seg i sin himmel."
+Jeg ga meg til for godt i Basra og har levd der i fred og ro i mange år. Men hvert femte år gjør jeg alltid en ferd til Mekka og takker Herren for hans nåde og ber ham ta den stakkars kapteinen og skipsfolkene hans til seg i sin himmel.«
 
-Dagen etter da karavanen var kommet til hvileplassen, sa Selim, framandmannen, til den yngste kjøpmannen: "Dere er nok den yngste her i laget. Men dere er jevnt så lettsindig og glad. Vil dere ikke fortelle oss en historie som kan sette liv i oss?"
+Dagen etter da karavanen var kommet til hvileplassen, sa Selim, framandmannen, til den yngste kjøpmannen: «Dere er nok den yngste her i laget. Men dere er jevnt så lettsindig og glad. Vil dere ikke fortelle oss en historie som kan sette liv i oss?»
 
-"Jeg kunne nok alltids fortelle noe," svarte Muley. "Men de eldste må gå først. Zalevkos er stødt så mørk og sorgtung. Skulle ikke han ville fortelle oss, tror dere, om det som har gjort livet hans så tungt. Kanskje gjør det ham godt å lette sinnet for kamerater som bare vil ham vel."
+«Jeg kunne nok alltids fortelle noe,» svarte Muley. «Men de eldste må gå først. Zalevkos er stødt så mørk og sorgtung. Skulle ikke han ville fortelle oss, tror dere, om det som har gjort livet hans så tungt. Kanskje gjør det ham godt å lette sinnet for kamerater som bare vil ham vel.»
 
 Den han snakket om var en gresk kjøpmann i førtiårsalderen. Han var pen å se til og traust, men jevnt sorgtung og tungsindig. Han hadde bare en hånd, og så trodde flere av reisefellene at dette kanskje var årsaken til tunglyndigheten hans.
 
 Zalevkos svarte som så:
 
-"Muley sier jeg er tunglynd og melankolk. Ja, nå skal dere høre hva det er som har gjort meg slik. Dere ser jeg har mistet venstre hånden. Det har ikke vært slik fra først av. Jeg måtte av med den i den frykteligste stunden jeg har levd. Om det var min egen skyld eller ei, får dere selv dømme om når dere hører"
+«Muley sier jeg er tunglynd og melankolk. Ja, nå skal dere høre hva det er som har gjort meg slik. Dere ser jeg har mistet venstre hånden. Det har ikke vært slik fra først av. Jeg måtte av med den i den frykteligste stunden jeg har levd. Om det var min egen skyld eller ei, får dere selv dømme om når dere hører»

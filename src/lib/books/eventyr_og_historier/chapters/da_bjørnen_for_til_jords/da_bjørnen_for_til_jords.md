@@ -1,5 +1,5 @@
 ---
-subtitle: "En regle"
+subtitle: En regle
 ---
 
 # Da bjørnen for til jords
@@ -16,31 +16,31 @@ Det var dødens stillhet da ferden drog frem. Etter liket kom reven, for han var
 
 Og bakover i følget kom alle skogens dyr, mindre og mindre, og alle hadde de slik sorg og bedrøvelse, fordi bjørnen var død.
 
-"Det er tungt at de beste skal vandre," sa reven.
+«Det er tungt at de beste skal vandre,» sa reven.
 
-"Den som lærte ham å kjenne, glemmer ham aldri," sa elgen.
+«Den som lærte ham å kjenne, glemmer ham aldri,» sa elgen.
 
-"Mø! Aldri skal jeg glemme den gangen han tok seg av meg og mine," sa kua — hun hadde slått seg til følget hun også.
+«Mø! Aldri skal jeg glemme den gangen han tok seg av meg og mine,» sa kua — hun hadde slått seg til følget hun også.
 
-"Nehehei —" sa bukken, han gikk der med langt skjegg og halen ende til værs av skjære bedrøvelsen.
+«Nehehei —» sa bukken, han gikk der med langt skjegg og halen ende til værs av skjære bedrøvelsen.
 
-"Og slik familieforsørger som han var," sa ulven.
+«Og slik familieforsørger som han var,» sa ulven.
 
-"Det er sant!" skrek en høk, den fløy og stilte og slo lavt over trærne der følget drog.
+«Det er sant!» skrek en høk, den fløy og stilte og slo lavt over trærne der følget drog.
 
-"Jeg skjønner ikke hvordan det skal gå, jeg," sa haren, den skvatt hit og dit og var rent som forstyrret av sorg.
+«Jeg skjønner ikke hvordan det skal gå, jeg,» sa haren, den skvatt hit og dit og var rent som forstyrret av sorg.
 
-"Slik støtte han var for oss småfolk — ih ih ih," sa hakkespetten.
+«Slik støtte han var for oss småfolk — ih ih ih,» sa hakkespetten.
 
-"Og så rent som han holdt det i skogen! Det var grei skuring det," sa grisen — den måtte støtte seg opp mot en granlegg i bare bevegelse.
+«Og så rent som han holdt det i skogen! Det var grei skuring det,» sa grisen — den måtte støtte seg opp mot en granlegg i bare bevegelse.
 
-"Ja, det var et tap," sa skjæren.
+«Ja, det var et tap,» sa skjæren.
 
-"Å barna! Å barna!" sa kråken — den satt på en grantopp og strakte hals og bar seg.
+«Å barna! Å barna!» sa kråken — den satt på en grantopp og strakte hals og bar seg.
 
-"Uhuhu! Jeg kjente det på meg! Uhuhu!" tutet uglen.
+«Uhuhu! Jeg kjente det på meg! Uhuhu!» tutet uglen.
 
-"Å ja — å ja, den veien skal vi alle dra!" sa kålmarken — den var med i gravølet, for den hadde tatt mål av kisten.
+«Å ja — å ja, den veien skal vi alle dra!» sa kålmarken — den var med i gravølet, for den hadde tatt mål av kisten.
 
 Men bakerst i følget krabbet en maur. Den var liten og eitrende sint og sa ikke et ord, men tenke gjorde den så det forslo.
 
@@ -48,52 +48,52 @@ Og da bjørnen vel var kommet i jorden, og da reven hadde gjort hva den skulle v
 
 Men som de gikk og gikk og ikke sa et ord, tok sinnet mauren.
 
-"Gudskjelov!" sa den.
+«Gudskjelov!» sa den.
 
-"Hva for slag?" spurte musen, hun gikk baketter.
+«Hva for slag?» spurte musen, hun gikk baketter.
 
-"Ingenting," sa mauren, den var så sur som syre.
+«Ingenting,» sa mauren, den var så sur som syre.
 
-"Ja det samme sier jeg," sa musen.
+«Ja det samme sier jeg,» sa musen.
 
 ![Smådyr på bakken](./dbftj1.png)
 
-"En skal ikke si alt en vet," svarte mauren.
+«En skal ikke si alt en vet,» svarte mauren.
 
-"Jeg vet en historie, jeg," sier muldvarpen.
+«Jeg vet en historie, jeg,» sier muldvarpen.
 
-"Hoho!" lo gjøken — den gjemte nebbet.
+«Hoho!» lo gjøken — den gjemte nebbet.
 
-"Hysj!" hysjet århanen — den ble rød i toppen av bare undseelse. "O ho ho ho ho—ho!" lo den.
+«Hysj!» hysjet århanen — den ble rød i toppen av bare undseelse. «O ho ho ho ho—ho!» lo den.
 
-"Ha ha ha!" lo skjæren, men tok seg i det.
+«Ha ha ha!» lo skjæren, men tok seg i det.
 
-"Å, en kan nå si hva en vil, så var han en bra kar," knurret skogduen.
+«Å, en kan nå si hva en vil, så var han en bra kar,» knurret skogduen.
 
-"E — mø!" sa kua og vrengte med øynene. "Meg stjal han en kalv fra — e mø!" rauted hun.
+«E — mø!» sa kua og vrengte med øynene. «Meg stjal han en kalv fra — e mø!» rauted hun.
 
-"Å for en røver!" sukket reven.
+«Å for en røver!» sukket reven.
 
-"Uh for et ubest!" hylte ulven.
+«Uh for et ubest!» hylte ulven.
 
-"Huff, jeg er så glad han er død!" hutret haren og skvatt hit og dit.
+«Huff, jeg er så glad han er død!» hutret haren og skvatt hit og dit.
 
-"Åh! Åh! Åh! Åh!" føset grisen og satte avsted i kåte byks hit og dit innover.
+«Åh! Åh! Åh! Åh!» føset grisen og satte avsted i kåte byks hit og dit innover.
 
 Og elgen gjorde et hopp, himmelhøyt, og la på sprang så vasspruten stod, og ulvene hylte, revene skrattet, og kråkene skrek, og musene knistret, og det var en jubel i skogen, så alt stod i røk, fordi bjørnen var faret til jords.
 
 Men langveis fra syd kom en flokk grågås farende, og da de fikk se og fikk høre alt det syndige leven i skogen, ble de livende redde — allting gikk i stykker for dem, og de kaklet og kaklet:
 
-"Å du! Nei, nå har jeg aldri hørt maken! Nei maken har jeg aldri hørt! Har du hørt maken? Nei maken —! Og du!"
+«Å du! Nei, nå har jeg aldri hørt maken! Nei maken har jeg aldri hørt! Har du hørt maken? Nei maken —! Og du!»
 
 Og slik kaklet de, så lenge en kunne høre dem nordover.
 
-"Hi, hi, hi!" lo mauren, han satt igjen alene nede i seterveien og frydet seg så inderlig at eiteret sprutet av ham.
+«Hi, hi, hi!» lo mauren, han satt igjen alene nede i seterveien og frydet seg så inderlig at eiteret sprutet av ham.
 
 Men høyt oppe i luften steg en ørn i svære ringer for å få se hva det var for en uro i skogen. Og da den var kommet høyt nok opp, ble den stående stille på en flekk av bare forundring. For den syntes den så en maur nede på veien. Og så steg den høyere og høyere for å se bedre.
 
-"Hva er det?" skrek den. "Hva er det?"
+«Hva er det?» skrek den. «Hva er det?»
 
 Mauren skvatt til, satte seg opp og lyttet.
 
-"Jeg følger ikke," sa den.
+«Jeg følger ikke,» sa den.

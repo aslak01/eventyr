@@ -6,7 +6,7 @@ Det kom flere franske kjøpmenn i huset hos oss, og en av dem fikk overtalt far 
 
 Jeg ble mer enn glad da jeg fikk høre at jeg skulle få lov, og kunne nesten ikke ha tålmodighet til kjøpmannen var klar til hjemferden. Kvelden før jeg skulle av sted, tok far meg inn i soverommet sitt. På bordet lå gode klær og våpen og en pung gullpenger.
 
-Far tok meg om halsen og sa: "Se her, gutten min, her har jeg gjort i stand reiseutstyret ditt. Det jeg eier er ikke stort. Tredjedelen får du med deg nå, andre tredjedelen må jeg selv ha til å livnære meg med, og den tredje skal ligge til du kommer tilbake."
+Far tok meg om halsen og sa: «Se her, gutten min, her har jeg gjort i stand reiseutstyret ditt. Det jeg eier er ikke stort. Tredjedelen får du med deg nå, andre tredjedelen må jeg selv ha til å livnære meg med, og den tredje skal ligge til du kommer tilbake.»
 
 Så talte gamle far og fikk tårer i øynene. Det var nettopp som han kjente på seg at vi aldri skulle finnes mer.
 
@@ -16,7 +16,7 @@ I tre år bodde jeg der i byen og lærte alt det som en god lege må vite. Men j
 
 I all denne tiden hadde jeg ikke hørt fra far. Til slutt var jeg ikke god til å holde meg for lengsel og dro hjem igjen med første høve. Jeg kom meg godt og vel tilbake til Konstantinopel. Men huset vårt fant jeg stengt og låst, og naboene kunne fortelle at far var død for to måneder siden. Nøklene fikk jeg hos en prest jeg kjente. Inne stod alt som før jeg reiste. Bare gullpengene som han hadde rådet om jeg skulle få når jeg kom hjem igjen, var ikke til å finne noen steder.
 
-Jeg spurte presten, og han svarte: "Far din døde hellig. Han har gitt alt gullet til kirken."
+Jeg spurte presten, og han svarte: «Far din døde hellig. Han har gitt alt gullet til kirken.»
 
 Jeg hadde vondt med å tro dette. Far hadde aldri vært den som gikk fra ordet sitt. Men hva råd var der. Jeg hadde ikke vitne på presten og måtte bare være glad han ikke hadde tatt fra meg både hus og krambu i tillegg.
 
@@ -50,27 +50,27 @@ Nå hørte jeg at klokka i kirketårnet slo tolv, og i det samme stod det en hø
 
 Jeg ble ikke lite skremmet da han stod der så brått foran meg, men jeg herdet meg og sa:
 
-"Er det du som har sendt bud etter meg, så si hva du vil."
+«Er det du som har sendt bud etter meg, så si hva du vil.»
 
-Rødkappen snudde seg og sa: "Følg med!"
+Rødkappen snudde seg og sa: «Følg med!»
 
 Dette syntes noe uhyggelig. Gå to og to med denne ukjente! Jeg sto der jeg sto, og svarte bare:
 
-"Nei, min gode mann, først må du si hvor som helst vi skal. Og så kunne du gjerne vise meg et glimt av ansiktet ditt. Har du noe godt for, trenger du ikke skjule det bort."
+«Nei, min gode mann, først må du si hvor som helst vi skal. Og så kunne du gjerne vise meg et glimt av ansiktet ditt. Har du noe godt for, trenger du ikke skjule det bort.»
 
 Rødkappen brydde seg aldri om å svare.
 
-"Vil du ikke være med, Zalevkos, kan du være der du er," svarte han og gikk fra meg.
+«Vil du ikke være med, Zalevkos, kan du være der du er,» svarte han og gikk fra meg.
 
 Da ble jeg sint for alvor og ropte:
 
-"Mener du at en mann som jeg lar meg holde for narr av hvem som helst! Jeg vil ikke ha gjort meg bryet med å komme hit for ingenting i denne kulden, så mye kan du vite!"
+«Mener du at en mann som jeg lar meg holde for narr av hvem som helst! Jeg vil ikke ha gjort meg bryet med å komme hit for ingenting i denne kulden, så mye kan du vite!»
 
 Jeg sprang etter ham og grep ham i kappen. Men kappen ble hengende igjen i hånden min, og framandmannen var alt av syne bak en husvegg.
 
 Sakte om senn blidnet jeg. Jeg hadde da kappen; kanskje kunne den gi nøkkelen til denne gåten. Jeg tok den på meg og snudde hjem igjen. Da jeg kom noen skritt lenger bort, strøk det en forbi meg og hvisket på fransk:
 
-"Vokt deg, herre greve, i natt kan ingenting gjøres."
+«Vokt deg, herre greve, i natt kan ingenting gjøres.»
 
 Før jeg fikk se meg til, var mannen borte. Jeg forsto godt at disse ordene gjaldt kappen og ikke meg, men ellers var jeg like vis.
 
@@ -86,7 +86,7 @@ Jeg spurte alle som kom inn om de hadde sett slik kappe før, men det svarte de 
 
 Det var kvelden, og jeg skulle nettopp til å stenge boden. Da kom en ung mann som flere ganger hadde vært og budt på kappen, inn til meg, slengte en pengepung på disken og ropte:
 
-"Jeg må ha kappen din, Zalevkos, om jeg så skal bli ruinert etterpå. Her har du de to hundre gullpengene!"
+«Jeg må ha kappen din, Zalevkos, om jeg så skal bli ruinert etterpå. Her har du de to hundre gullpengene!»
 
 Dermed gav han seg til å telle opp pengene.
 
@@ -96,37 +96,37 @@ Men hva råd var der. Jeg lot ham få kappen, for jeg tenkte som så at det var 
 
 Mannen tok kappen på seg og ville gå. Men da han var kommet bort til døren, snudde han seg og kastet til meg en seddel som hadde vært festet i kappen. Jeg tok likegyldig mot seddelen, men jeg skal si jeg ble forskrekket da jeg leste:
 
-"Kom i natt med kappen til den bruen du vet, på samme klokkeslett, så skal du få fire hundre gullpenger."
+«Kom i natt med kappen til den bruen du vet, på samme klokkeslett, så skal du få fire hundre gullpenger.»
 
 Jeg stod som tordneslått. Der hadde jeg mistet to hundre gullpenger! Men jeg drygde ikke lang stund. I en fart sopte jeg sammen pengene på disken og sprang etter mannen med dem.
 
 Jeg tok ham snart igjen og ropte:
 
-"Se der! Ta tilbake pengene dine, gode venn, og gi meg kappen tilbake; den er ikke til salgs."
+«Se der! Ta tilbake pengene dine, gode venn, og gi meg kappen tilbake; den er ikke til salgs.»
 
 Mannen mente først det bare var spøk, men da han forsto at det var alvoret mitt, ble han sint og skjellte og bar seg ad, til vi til slutt kom i klammeri med hverandre. Så kom politiet og dro oss for retten. Domaren ble ikke lite undret da han hørte hva striden gjaldt. Jeg tilbød kjøperen tjue, tretti, femti, alt opp til hundre gullpenger om han ville la meg få kappen tilbake. Og pengene gjorde til slutt så mye at han gav seg. Han fikk hundre gullpenger av meg, og jeg gikk derfra med kappen, enda alle folk trodde jeg hadde blitt fullstendig gal. Men jeg brydde meg lite om hva folk sa; jeg visste med meg at jeg kom til å tjene på handelen uansett.
 
 Jeg kunne nesten ikke vente til om kvelden og var på bruen lenge før tiden. Lenge om lenge slo klokka tolv, og på slaget kom en høy mann bort til meg. Det var ikke råd å ta feil av den karen. Det var mannen fra kvelden før.
 
-"Har du kappen med deg?" spurte han.
+«Har du kappen med deg?» spurte han.
 
-"Ja," svarte jeg, "men den kostet meg hundre gullpenger ekstra."
+«Ja,» svarte jeg, «men den kostet meg hundre gullpenger ekstra.»
 
-"Jeg vet det," svarte han. "Se der! Der har du de fire hundre gullpengene dine."
+«Jeg vet det,» svarte han. «Se der! Der har du de fire hundre gullpengene dine.»
 
 Vi gikk bort til en lykt, og han talte opp pengene. Det var fire hundre gullpenger, det var rett nok. De skinte så vakkert i månelyset at jeg ble helt opphisset. Jeg tenkte nok ikke den gang at det var den siste gleden jeg fikk her i verden.
 
 Jeg stakk pengene i lommen og ville se bedre på framandmannen. Men han hadde denne gangen maske for ansiktet.
 
-"Du skal ha så mange takk," sa jeg. "Er det ellers noe jeg kan være til tjeneste med? Men det sier jeg på forhånd, noe vondt vil jeg ikke være med på."
+«Du skal ha så mange takk,» sa jeg. «Er det ellers noe jeg kan være til tjeneste med? Men det sier jeg på forhånd, noe vondt vil jeg ikke være med på.»
 
-"Det trenger du ikke frykte for," svarte han og slengte kappen om seg.
+«Det trenger du ikke frykte for,» svarte han og slengte kappen om seg.
 
-"Jeg trenger deg til lege, - men ikke til noe levende menneske. Det er til en som er død."
+«Jeg trenger deg til lege, - men ikke til noe levende menneske. Det er til en som er død.»
 
-"Hvordan kan det ha seg!" ropte jeg forbauset.
+«Hvordan kan det ha seg!» ropte jeg forbauset.
 
-"Jeg og søsteren min er kommet langveisfra," fortalte han og vinket til meg at jeg skulle følge med. "Vi har vært her og besøkt en god venn av oss. - I går døde søsteren min så brått, og slektningene vil ha henne i jorden i morgen. Men nå er det gammel skikk hos oss at alle som hører slekten til skal legges i samme grav som fedrene våre. Og alle som har dødd i utlandet har de latt balsamere og føre hjem. Nå vil ikke slektningene her at vi skal gjøre dette med søsteren min. Men jeg tør ikke vise meg for gamle far min uten at jeg i det minste har med meg hodet av henne hjem."
+«Jeg og søsteren min er kommet langveisfra,» fortalte han og vinket til meg at jeg skulle følge med. «Vi har vært her og besøkt en god venn av oss. - I går døde søsteren min så brått, og slektningene vil ha henne i jorden i morgen. Men nå er det gammel skikk hos oss at alle som hører slekten til skal legges i samme grav som fedrene våre. Og alle som har dødd i utlandet har de latt balsamere og føre hjem. Nå vil ikke slektningene her at vi skal gjøre dette med søsteren min. Men jeg tør ikke vise meg for gamle far min uten at jeg i det minste har med meg hodet av henne hjem.»
 
 Den skikken å skjære av et menneskehode og balsamere det syntes jeg var fryktelig. Men jeg ville ikke legge stein til byrden og si noe som kunne tynge ham i sorgen. Jeg måtte likevel spørre hvorfor alt dette skulle gå så skjult.
 
@@ -152,15 +152,15 @@ Men det var ingen lett sak, særlig da jeg kom etter at jeg hadde mistet begge k
 
 Jeg åpnet boden til vanlig tid, og naboene kom inn som de pleide og ville slå av en prat.
 
-"Nei, men har du hørt om det fryktelige mordet som er gjort i natt?" ropte de. Jeg lot ikke som jeg hadde greie på noe som helst.
+«Nei, men har du hørt om det fryktelige mordet som er gjort i natt?» ropte de. Jeg lot ikke som jeg hadde greie på noe som helst.
 
-"Hva slags! Vet du ikke at Bianka, vakreste blomsten i Firenze, datteren til borgermesteren, har blitt drept i natt? Å herre meg! Så jeg ikke henne kanskje levende i går på gaten, hun kjørte en tur med brudgommen sin. I denne dag skulle hun ha hatt bryllup."
+«Hva slags! Vet du ikke at Bianka, vakreste blomsten i Firenze, datteren til borgermesteren, har blitt drept i natt? Å herre meg! Så jeg ikke henne kanskje levende i går på gaten, hun kjørte en tur med brudgommen sin. I denne dag skulle hun ha hatt bryllup.»
 
 Hvert ordet de sa var som et stikk i hjertet mitt. Og hver en som kom snakket om det samme, og den ene fortalte det verre enn den andre. Men ingen kunne fortelle det så fryktelig som jeg selv hadde sett det.
 
 Ved middagstid kom en konstabel inn på boden og ba om han måtte få snakke med meg to og to. De som var inne, styrte jeg inn i siderommet så lenge.
 
-"Herr Zalevkos," sa konstabelen og trakk fram de sakene jeg hadde savnet. "Er det du som eier dette?"
+«Herr Zalevkos,» sa konstabelen og trakk fram de sakene jeg hadde savnet. «Er det du som eier dette?»
 
 Det kom for meg at jeg burde nekte alt, men gjennom glasruten i døren så jeg inn i siderommet at verten min og andre var der som kunne vitne mot meg. Jeg ville derfor ikke gjøre vondt verre med å lyve, og gikk med på at jeg var eieren. Konstabelen ba meg følge med inn i en stor bygning som jeg snart forsto måtte være fengselet. Der lot han meg sitte igjen alene i et øde lite fangerom.
 
@@ -176,7 +176,7 @@ Jeg fortalte høyt og klart hvordan alt hadde gått til.
 
 Mens jeg talte satt borgermesteren der så rød som blod i ansiktet, og da jeg sluttet hveste han inn:
 
-"Du din skurk! Er det ikke nok med at du har gjort denne udåden av skjær havesyke, om du ikke i tillegg skal prøve å velte skylden over på en annen."
+«Du din skurk! Er det ikke nok med at du har gjort denne udåden av skjær havesyke, om du ikke i tillegg skal prøve å velte skylden over på en annen.»
 
 Men senatoren stoppet ham og nektet ham å tale. Han hadde av egen fri vilje sagt fra seg dommerembetet her. I tillegg var det slett ikke bevist at jeg hadde gjort dette av havesyke; han hadde selv sagt at ingen ting var borte. Han gikk så langt at han sa borgermesteren måtte stå til rette for hvordan datteren hadde levd. Da først kunne en få greie på om jeg hadde sagt sant eller ei.
 
@@ -192,7 +192,7 @@ Så langt var det kommet med meg! Langt borte i et fremmed land skulle jeg få e
 
 Jeg satt om kvelden samme dagen og tenkte fram og tilbake på denne underlige skjebnen. Da gikk døren opp. En mann kom inn og gav seg uten et ord til å stå der og se på meg.
 
-"Er det slik jeg skal finne deg igjen, Zalevkos," sa han lenge om lenge.
+«Er det slik jeg skal finne deg igjen, Zalevkos,» sa han lenge om lenge.
 
 Jeg hadde ikke kjent ham der i halvmørket; nå hørte jeg straks på stemmen hvem det var. Det var Valetti, en av de få studentvennene jeg hadde i Paris.
 
@@ -202,7 +202,7 @@ Jeg fortalte ham historien fra først til sist. Han ble storlig forbauset og ikk
 
 Jeg gjorde min ed på at hvert ordet var sant, og at jeg ikke visste meg å ha annet galt gjort enn at jeg lot meg blende av gullet så jeg ikke traste forstå hvor det bar av.
 
-"Du har ikke kjent Bianka før da?" spurte han.
+«Du har ikke kjent Bianka før da?» spurte han.
 
 Jeg svarte, som sant var, at jeg aldri hadde sett henne for øyne før.
 
@@ -214,7 +214,7 @@ Valetti tok meg om halsen, gråt og lovet han skulle gjøre alt han kunne så je
 
 To lange dager satt jeg der og ventet. Endelig kom han.
 
-"Jeg kan gi deg trøst, om den er liten," sa Valetti. "Du får leve, men må miste den ene hånden."
+«Jeg kan gi deg trøst, om den er liten,» sa Valetti. «Du får leve, men må miste den ene hånden.»
 
 Han fortalte at det var helt umulig å få borgermesteren til å ta saken opp igjen. Men til slutt gikk han med på at jeg skulle slippe med å miste venstre hånd og jages som en hund ut av landet.
 
@@ -230,7 +230,7 @@ Jeg fulgte selvsagt bort med en gang og ble vel mottatt av alle gamle bekjentska
 
 En gammel kjøpmann hadde et brev til meg fra mannen som hadde kjøpt huset. I det stod:
 
-"Zalevkos! To hender er klar til å gjøre hva som skal gjøres, så du ikke skal savne den ene. Huset som du ser og alt som i det er, hører deg til, og du skal hvert år få så mye penger at de må regne deg for en rik mann. Kan du tilgi den som er ulykkelig enn du?"
+«Zalevkos! To hender er klar til å gjøre hva som skal gjøres, så du ikke skal savne den ene. Huset som du ser og alt som i det er, hører deg til, og du skal hvert år få så mye penger at de må regne deg for en rik mann. Kan du tilgi den som er ulykkelig enn du?»
 
 Jeg trodde nok jeg forsto hvem dette brevet var fra, og kjøpmannen fortalte i tillegg at mannen som hadde vært der gikk kledd i en rød kappe og så ut som en franskmann.
 
@@ -246,23 +246,23 @@ Zalevkos hadde fortalt ut historien sin. Alle hadde sittet storlig grepet. Særl
 
 De satt lenge og snakket om denne historien.
 
-"Hater du ikke denne Rødkappen som er skyld i at du mistet hånden, ja til og med satte livet ditt på spill?" spurte framandmannen.
+«Hater du ikke denne Rødkappen som er skyld i at du mistet hånden, ja til og med satte livet ditt på spill?» spurte framandmannen.
 
-"Det var nok de stunder før," svarte grekeren, "at jeg klaget ham for Gud, med det han hadde ødelagt livet mitt. Men jeg fant trøst i ordet om at en skal elske fienden sin. Og ellers så er han sannsynligvis mer ulykkelig han enn jeg."
+«Det var nok de stunder før,» svarte grekeren, «at jeg klaget ham for Gud, med det han hadde ødelagt livet mitt. Men jeg fant trøst i ordet om at en skal elske fienden sin. Og ellers så er han sannsynligvis mer ulykkelig han enn jeg.»
 
-"Du er en god mann," sa framandmannen og tok ham i hånden.
+«Du er en god mann,» sa framandmannen og tok ham i hånden.
 
-I det samme kom høvdingen for vakten inn i teltet. Han så heller engstelig ut og sa det var ikke verdt å gi seg til lenger, for det var nettopp her på denne stedet at karavanene pleide å bli overfalt. "Og vaktmennene tror de har sett flere ryttere borte på vidda."
+I det samme kom høvdingen for vakten inn i teltet. Han så heller engstelig ut og sa det var ikke verdt å gi seg til lenger, for det var nettopp her på denne stedet at karavanene pleide å bli overfalt. «Og vaktmennene tror de har sett flere ryttere borte på vidda.»
 
 Kjøpmennene ble skremte da de fikk vite dette. Men framandmannen undret seg på at det skulle så lite til å sette dem i angst. De var da så mange at de trengte ikke å være redde en flokk arabertamp.
 
-"Ja, ser du, gode mann," svarte høvdingen, "var det bare slikt pakk, kunne en nok trygt legge seg til hvile. Men nå en tid har den fryktelige Orbasan vist seg igjen, og da gjelder det å være på post."
+«Ja, ser du, gode mann,» svarte høvdingen, «var det bare slikt pakk, kunne en nok trygt legge seg til hvile. Men nå en tid har den fryktelige Orbasan vist seg igjen, og da gjelder det å være på post.»
 
 Framandmannen spurte hvem denne Orbasan var. Og Ahmed svarte:
 
-"Det går mange sagn blant folk om denne merkelige mannen. Noen holder ham for en trollmann; for det beste er han alene har slåss med syv-åtte mann. Andre tror det er en djerv frank som ulykken har drevet ut i ørkenen. Men så mye er sikkert at en fryktelig tyv og røver er det."
+«Det går mange sagn blant folk om denne merkelige mannen. Noen holder ham for en trollmann; for det beste er han alene har slåss med syv-åtte mann. Andre tror det er en djerv frank som ulykken har drevet ut i ørkenen. Men så mye er sikkert at en fryktelig tyv og røver er det.»
 
-"Det har du ikke lov til å si," mente en av kjøpmennene. "La ham være røver så mye han vil; en god mann er det uansett. Det har broren min erfart. Alle de han har under seg har han gjort folk av. Og så lenge han farer gjennom ørkenen våger ingen andre røverflokker seg til. Dessuten plyndrer og stjeler han ikke som andre; han bare krever en skatt av karavanene. Og de som legger denne skatten med det gode får fare i fred. For Orbasan er herre i ørkenen."
+«Det har du ikke lov til å si,» mente en av kjøpmennene. «La ham være røver så mye han vil; en god mann er det uansett. Det har broren min erfart. Alle de han har under seg har han gjort folk av. Og så lenge han farer gjennom ørkenen våger ingen andre røverflokker seg til. Dessuten plyndrer og stjeler han ikke som andre; han bare krever en skatt av karavanene. Og de som legger denne skatten med det gode får fare i fred. For Orbasan er herre i ørkenen.»
 
 Slik gikk praten fram og tilbake i teltet. Men vaktmennene som var satt ut rundt hvileplassen begynte å bli heller utrygge. En rytterflokk kom ridende imot dem. Vaktmannen skyndte seg inn i teltet og meldte dette.
 
@@ -282,9 +282,9 @@ Hele følget stod et øyeblikk og så med undring snart på rytterne og snart p�
 
 Til slutt ropte Muley:
 
-"Hvem er du, mektige mann, som kan tvinge ville røverflokker bare med et tegn?"
+«Hvem er du, mektige mann, som kan tvinge ville røverflokker bare med et tegn?»
 
-"Dere gjør for mye av dette," svarte Selim Baruch. "Jeg fikk tak i dette merket da jeg rømte fra røverne. Hva det betyr vet jeg ikke riktig selv. Bare det vet jeg at den som reiser under dette merket er under mektig vern."
+«Dere gjør for mye av dette,» svarte Selim Baruch. «Jeg fikk tak i dette merket da jeg rømte fra røverne. Hva det betyr vet jeg ikke riktig selv. Bare det vet jeg at den som reiser under dette merket er under mektig vern.»
 
 Kjøpmennene takket framandmannen og kalte ham sin redningsmann. Rytterflokken hadde vært så stor at karavanen sikkert ikke hadde greid seg imot dem.
 
@@ -294,4 +294,4 @@ Dagen etter nådde de så langt at de bare hadde en dagsferd igjen til de kom ut
 
 Da kjøpmennene var kommet til sete i det store teltet, tok kjøpmann Lezah så til orde:
 
-"Jeg nevnte i går at Orbasan var en god kar. Nå skal jeg fortelle hvordan det gikk med broren min, så får dere selv dømme."
+«Jeg nevnte i går at Orbasan var en god kar. Nå skal jeg fortelle hvordan det gikk med broren min, så får dere selv dømme.»
