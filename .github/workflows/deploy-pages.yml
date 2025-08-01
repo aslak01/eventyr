@@ -39,9 +39,9 @@ jobs:
           path: |
             dist/images
             dist/.image-cache.json
-          key: image-cache-v2-${{ github.sha }}
+          key: image-cache-v4-${{ hashFiles('src/lib/books/**/*.{png,jpg,jpeg,gif,svg,webp}') }}
           restore-keys: |
-            image-cache-v2-
+            image-cache-v4-
 
       - name: Cache debug info
         run: |
