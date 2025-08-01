@@ -196,7 +196,9 @@ export async function optimizeImages(
               height,
             };
             cacheUpdated = true;
-            console.log(`  🔄 Migrated cache entry: ${basename(imagePath)}`);
+            console.log(
+              `  ✅ Migrated ${basename(imagePath)}: ${width}x${height}`,
+            );
           } catch (error) {
             console.warn(
               `  ⚠️ Could not get dimensions for ${basename(imagePath)}:`,
@@ -205,6 +207,8 @@ export async function optimizeImages(
             width = 0;
             height = 0;
           }
+        } else {
+          console.log(`  💾 Using cached: ${basename(imagePath)}`);
         }
 
         optimizedImages.set(imagePath, {
