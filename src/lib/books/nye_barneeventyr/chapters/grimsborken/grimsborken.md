@@ -82,7 +82,7 @@ Da gutten kom ned igjen til kongsgården, spurte han kongen om ikke kongsdattere
 
 Gutten gikk ned i stallen igjen, og sturen og ille ved var han, det kan du nok vite. Der fortalte han til Grimsborken at nå hadde kongen forlangt at han skulle skaffe kongsdatteren så gild brudehest som han hadde brudgomshest, ellers skulle han miste livet: «det blir ugreit nok, tenker jeg,» sa han, «for maken din finnes vel ikke i verden.»
 
-«Å jo, der er maken til meg,» svarte Grimsborken; «men lett blir det ikke å få den; den er i helvede den. Men vi får vel prøve. Nå skal du gå opp til kongen og forlange ny skoning under meg, og til den må det tyve pund jern og tolv pund stål igjen, og to smeder, én til å smi og én til å legge under, men se vel til at hakene og grevene blir riktig kvasse; og tolv tønner rug og tolv tønner bygg og tolv okseskrotter må vi ha med oss; og alle tolv oksehudene, med tolv hundre spiker i hver, må du også forlange; alt det må vi ha, og en tjæretønne til med tolv tønner tjære i.»
+«Å jo, der er maken til meg,» svarte Grimsborken; «men lett blir det ikke å få den; den er i helvete den. Men vi får vel prøve. Nå skal du gå opp til kongen og forlange ny skoning under meg, og til den må det tyve pund jern og tolv pund stål igjen, og to smeder, én til å smi og én til å legge under, men se vel til at hakene og grevene blir riktig kvasse; og tolv tønner rug og tolv tønner bygg og tolv okseskrotter må vi ha med oss; og alle tolv oksehudene, med tolv hundre spiker i hver, må du også forlange; alt det må vi ha, og en tjæretønne til med tolv tønner tjære i.»
 
 Gutten gikk opp til kongen og forlangte alt Grimsborken hadde sagt, og kongen syntes nå igjen det var skam å nekte ham det, og så fikk han det alt i hop.
 
@@ -90,9 +90,9 @@ Så satte han seg opp på Grimsborken og red av garde, og da han så hadde ridd 
 
 «Ja, det suser fælt oppe i luften; jeg blir rent redd, jeg,» sa gutten.
 
-«Det er alle de ville fugler fra skogen som kommer flygende; de er sendt ut for å stoppe oss,» sa Grimsborken. «Men skjær hull på kornsekkene du, så får de så mye å stime med, at de glemmer oss.»
+«Det er alle de ville fugler fra skogen som kommer flygende; de er sendt ut for å stoppe oss,» sa Grimsborken. «Men skjær hull på kornsekkene du, så får de så mye å drive med, at de glemmer oss.»
 
-Ja, det gjorde gutten, han skar hull på kornsekkene, så byggen og rugen rant utover til alle kanter. Så kom alle de ville fuglene fra skogen flygende så tykt at det svartnet for solen; men da de fikk se kornet, så kunne de ikke holde seg, men slo seg ned og tok på å hakke og pikke opp kornet og rugen, og til sist røk de i hop og sloss seg imellom; gutten og Grimsborken gjorde de ikke noe, dem glemte de rent.
+Ja, det gjorde gutten, han skar hull på kornsekkene, så byggen og rugen rant utover til alle kanter. Så kom alle de ville fuglene fra skogen flygende så tykt at det svartnet for solen; men da de fikk se kornet, så kunne de ikke holde seg, men slo seg ned og tok til å hakke og pikke opp kornet og rugen, og til sist røk de i hop og sloss seg imellom; gutten og Grimsborken gjorde de ikke noe, dem glemte de rent.
 
 Nå red gutten igjen både langt og lenge, over berg og daler, over åser og moer; så la Grimsborken til å lytte igjen, og så spurte den gutten om han hørte noe nå.
 
@@ -124,7 +124,7 @@ De reiste en blåne eller vel så det igjen, så knegget Grimsborken tredje gang
 
 «Nå er den her,» sa Grimsborken. «Skynd deg nå og kast over meg oksehudene med spikerne i, og tjæretønna kaster du bortetter bakken; klyv så opp i den store grana der. Når den kommer, spruter den varme ut av begge neseborene, og så tar det fatt i tjæretønna. Legg så vel merke: dersom luen stiger, så vinner jeg; men dersom den faller, så taper jeg. Men ser du jeg vinner, så kaster du på den bisslet — det må du ta av meg; og så er den spak.»
 
-Nettop gutten hadde fått kastet spikerhudene over Grimsborken og tjæretønna bortover bakken og vel var kommet oppi grana, så kom det en hest, så varmen sprutet av den, og så fløy det ild i tjæretønna med det samme; og den og Grimsborken til å slåss, så steinen danset himmelshøit. De bet og de slo både med framføttene og med bakføttene, og somme tider så gutten på dem, og somme tider så han på tjæretønna, men til sist steg luen: for hvor den andre hesten bet og hvor den slo, så traff den spikerhudene, og så måtte den gi seg. Da gutten så det, var han ikke sen om å komme ned av treet og få kastet bisslet på den, og da var den så spak, at han kunne styre den med en tvinnetråd. Den hesten var også borket, og så lik Grimsborken at ingen kunne skille den ene fra den andre.
+Nettop da gutten hadde fått kastet spikerhudene over Grimsborken og tjæretønna bortover bakken og vel var kommet oppi grana, så kom det en hest, så varmen sprutet av den, og så fløy det ild i tjæretønna med det samme; og den og Grimsborken til å slåss, så steinen danset himmellshøyt. De bet og de slo både med framføttene og med bakføttene, og noen ganger så gutten på dem, og noen ganger så han på tjæretønna, men til sist steg luen: for hvor den andre hesten bet og hvor den slo, så traff den spikerhudene, og så måtte den gi seg. Da gutten så det, var han ikke sen om å komme ned fra treet og få kastet bisslet på den, og da var den så spak, at han kunne styre den med en tvinnetråd. Den hesten var også borket, og så lik Grimsborken at ingen kunne skille den ene fra den andre.
 
 Gutten satte seg opp på den borkete hesten han hadde fanget, og red hjem igjen til kongsgården, og Grimsborken sprang med løs. Da han kom der, sto kongen ute på tunet.
 
@@ -132,7 +132,7 @@ Gutten satte seg opp på den borkete hesten han hadde fanget, og red hjem igjen 
 
 Kongen gikk og så på begge Borkene, både høyt og lavt, både framme og bak, men det var ikke et hår annerledes på den ene enn på den andre.
 
-«Nei,» sa kongen, «det kan jeg ikke si deg; og siden du har skaffet datter mi så gild brudehest, skal du ha henne. Men ett må vi prøve først; om det er så laga. Nå skal først kongsdatteren gjemme seg to ganger,» sa han, «og siden skal du gjemme deg to ganger; dersom du kan finne henne de gangene hun har gjemt seg, men ikke hun finne deg i gjemmestedet ditt, så er det så laga, og så skal du ha kongsdatteren.»
+«Nei,» sa kongen, «det kan jeg ikke si deg; og siden du har skaffet datter mi så gild brudehest, skal du ha henne. Men en ting må vi prøve først; om det er så laga. Nå skal først kongsdatteren gjemme seg to ganger,» sa han, «og siden skal du gjemme deg to ganger; dersom du kan finne henne de gangene hun har gjemt seg, men ikke hun finne deg i gjemmestedet ditt, så er det så laga, og så skal du ha kongsdatteren.»
 
 «Det står nå ikke i akkorden, det heller,» sa gutten; «men vi får vel prøve, siden det så skal være,» og så skulle kongsdatteren til å gjemme seg først.
 
@@ -144,9 +144,9 @@ Gutten nappet børsa og la ned til vannet, han. «Jeg vil nok klemme på denne a
 
 «Nei, nei, kjære vene, skyt ikke! det er meg,» sa kongsdatteren. Så hadde han funnet henne den gangen.
 
-Andre gangen skapte hun seg til et brød, og la seg på bordet mellem fire andre; og så lik var hun de andre brødene, at ingen kunne skille dem fra hverandre. Men gutten gikk ned i stallen til Grimsborken igjen, og sa at nå hadde kongsdatteren gjemt seg, og han visste slett ikke hvor det var blitt av henne. «Å, ta bare og bryn en dyktig brødkniv, og lat som du vil skjære tvert igjennem det tredje brødet fra venstre hånd, av de fem brødene som ligger på kjøkkenbordet i kongsgården, så kommer hun nok frem igjen,» sa Grimsborken.
+Andre gangen skapte hun seg til et brød, og la seg på bordet mellom fire andre; og så lik var hun de andre brødene, at ingen kunne skille dem fra hverandre. Men gutten gikk ned i stallen til Grimsborken igjen, og sa at nå hadde kongsdatteren gjemt seg, og han visste slett ikke hvor det var blitt av henne. «Å, ta bare og bryn en dyktig brødkniv, og lat som du vil skjære tvert igjennem det tredje brødet fra venstre hånd, av de fem brødene som ligger på kjøkkenbordet i kongsgården, så kommer hun nok frem igjen,» sa Grimsborken.
 
-Ja, gutten opp i kjøkkenet og til å bryne den største brødkniven han kunne finne, grep så det tredje brødet fra venstre hånd og satte kniven på det, som han ville skjære det tvert igjennem. «Jeg vil ha meg en skalk av dette brødet,» sa han.
+Ja, gutten opp i kjøkkenet og til å bryne den største brødkniven han kunne finne, grep så det tredje brødet fra venstre hånd og satte kniven på det, som han ville skjære det tvert igjennom. «Jeg vil ha meg en skalk av dette brødet,» sa han.
 
 ![Forvandlet brød](./forvandlet_brød.png)
 
@@ -156,7 +156,7 @@ Så skulle han til å gjemme seg; men ham sa Grimsborken så vel fore, at han ik
 
 «Ja, siden jeg ikke kan finne deg, så får du komme frem igjen av deg selv,» sa hun, og straks sto gutten der på stallgulvet.
 
-Andre gangen sa Grimsborken igjen hva han skulle gjøre seg til, og den gang skapte han seg til en jordklump og satte seg mellem hoven og skoen på den venstre framfoten til Borken; kongsdatteren gikk og lette og lette igjen, både ute og inne, og til sist kom hun da i stallen og ville opp i spiltauet til Grimsborken. Ja, denne gangen lot han henne komme opp til seg; og hun snuste både høyt og lavt; men under hovene kunne hun ikke komme, han sto for fast på hælene til det, Grimsborken; og så kunne hun ikke finne gutten.
+Andre gangen sa Grimsborken igjen hva han skulle gjøre seg til, og den gang skapte han seg til en jordklump og satte seg mellom hoven og skoen på den venstre framfoten til Borken; kongsdatteren gikk og lette og lette igjen, både ute og inne, og til sist kom hun da i stallen og ville opp i spiltauet til Grimsborken. Ja, denne gangen lot han henne komme opp til seg; og hun snuste både høyt og lavt; men under hovene kunne hun ikke komme, han sto for fast på hælene til det, Grimsborken; og så kunne hun ikke finne gutten.
 
 «Ja, så får du komme frem igjen av deg selv da, siden jeg ikke kan finne deg,» sa kongsdatteren, og i det samme sto gutten ved siden av henne på stallgulvet.
 
@@ -166,4 +166,4 @@ Andre gangen sa Grimsborken igjen hva han skulle gjøre seg til, og den gang ska
 
 Det ble laget til bryllup både vel og snart, og gutten satte seg på Grimsborken, og kongsdatteren på maken hans; så du kan nok vite de ikke var lenge om kirkeveien.
 
-[^1]: På svensk "gulsvartbrun". Grunnfargen er gullig, grålig eller hvit med partier av mørkere hår innimellom; hårfargen på ben, man og hale som regel svart.
+[^1]: På svensk «gulsvartbrun». Grunnfargen er gullig, grålig eller hvit med partier av mørkere hår innimellom; hårfargen på ben, man og hale som regel svart.
