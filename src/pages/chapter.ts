@@ -30,7 +30,6 @@ export function generateChapterHTML(
     fullChapterPath,
   );
 
-  // Extract frontmatter and generate HTML
   let frontmatterData: any = {};
   const marked = new Marked().use(
     markedSequentialHooks({

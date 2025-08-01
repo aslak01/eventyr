@@ -64,7 +64,6 @@ jobs:
         run: bun run build
         env:
           NODE_ENV: production
-          BASE_PATH: /eventyr
 
       - name: Post-build cache verification
         run: |

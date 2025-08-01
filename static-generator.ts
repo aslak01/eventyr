@@ -18,8 +18,6 @@ const defaultConfig: GeneratorConfig = {
   distDir: "./dist",
   imageSizes: [200, 400, 800, 1200],
   imageFormats: ["webp", "avif", "jpeg"],
-  basePath:
-    process.env.NODE_ENV === "production" ? process.env.BASE_PATH || "" : "",
 };
 
 function createGenerator(
