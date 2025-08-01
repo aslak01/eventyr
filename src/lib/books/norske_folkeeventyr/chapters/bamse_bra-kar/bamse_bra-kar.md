@@ -57,4 +57,3 @@ Så tok han med seg en ladd børse på slæden, og da Mikkel kom og tenkte han s
 ![Rev](./bb3.png)
 
 [^1]: vun = vunnen, sjanse til å komme unna
-

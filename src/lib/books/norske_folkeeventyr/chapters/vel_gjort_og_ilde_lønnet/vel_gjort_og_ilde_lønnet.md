@@ -83,4 +83,3 @@ Det syntes mannen var et godt råd, og tok to sinte røde hunder, puttet dem i s
 [^**]: Målet: stemmen, måten å snakke på
 
 [^***]: Tyrilåg: gammel trevirke, tømmerstokk
-

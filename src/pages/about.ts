@@ -17,4 +17,3 @@ export function generateAboutHTML(pathHelper: PathHelper): string {
     siteFooter,
   });
 }
-

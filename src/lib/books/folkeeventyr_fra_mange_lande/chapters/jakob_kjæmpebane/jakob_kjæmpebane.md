@@ -50,4 +50,3 @@ Jakob sa han ville friste, og neste morgen gjorde han seg ferdig. Da han kom opp
 Jakob tok trompeten og satte i å blåse, og da visste de to derinde at nå var deres makt til ende. Jakob drepte risen med sitt sverd; men heksemesteren fløy bort med en hvirvelvind. Hertugdatteren og alle de forgjorte riddere og fruer skiftet nå ham og ble til mennesker igjen, og slottet ble borte som en røyk.
 
 Nå ble Jakob Kjæmpebanes ry større enn noensinne, hertugen gav ham sin fagre datter til viv, kong Artur gav ham borg og gods, og der levde han og hans frue siden i lykke og gammen til sine dagers ende.
-

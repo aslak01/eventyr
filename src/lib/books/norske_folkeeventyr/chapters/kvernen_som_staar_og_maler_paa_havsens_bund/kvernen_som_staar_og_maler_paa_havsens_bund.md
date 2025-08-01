@@ -75,4 +75,3 @@ Der står kvernen på havets bunn og maler den dag i dag, og derfor er det sjøe
 [^4]: Dugurd - morgenmåltid for slåttefolka
 
 [^5]: Mager - uttrykk for kraftige bannskap
-

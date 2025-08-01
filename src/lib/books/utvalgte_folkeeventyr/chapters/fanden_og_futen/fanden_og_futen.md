@@ -31,4 +31,3 @@ Så gikk de et stykke til; der møtte de to bønder.
 Da hjalp der hverken bønn eller påkallelse.
 
 ![Fanden drar futen](./fof1.png)
-

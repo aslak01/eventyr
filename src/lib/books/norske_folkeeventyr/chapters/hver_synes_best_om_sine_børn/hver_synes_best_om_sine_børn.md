@@ -19,4 +19,3 @@ Men da han kom tilbake, hadde han i hånden et helt knippe myrsnipeunger, som ha
 «Å ja!» svarte snipen, «vet du ikke at hver synes best om sine barn.»
 
 ![Illustrasjon](./hsbosb1.png)
-

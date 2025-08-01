@@ -155,4 +155,3 @@ Dronningen ble blek av redsel; men allikevel svarte hun: «Vi skylder ham dette 
 Da gledet kongen seg, fordi hun tenkte på samme måte som han selv, gikk bort og lukket opp skapet, hentet frem barna og den tro Johannes, og sa: «Gud være lovet, han er frelst, og småguttene våre har vi også fått igjen.»
 
 Og så fortalte han henne hvordan det hele var gått til. Siden levde de sammen lykkelig og vel alle sine dager.
-

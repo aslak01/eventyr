@@ -81,4 +81,3 @@ Men da kokken hørte det, ble hun sint. «Hva er det du sier!» skreik hun, og d
 [^7]: skrup = tyv
 
 [^8]: tvaren = sleiven, suppeskeia
-

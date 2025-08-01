@@ -10,4 +10,3 @@ export function siteFooterGenerator(pathHelper: PathHelper) {
     talesUrl: pathHelper.page("/"),
   });
 }
-

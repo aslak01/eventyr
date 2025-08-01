@@ -83,4 +83,3 @@ Da han kom inn til kongsdatteren, sad Døden ved hodegjerdet, men han sad og blu
 ![Illustrasjon](./gmd3.png)
 
 [^*]: Hovedgjerdet: gavlen av sengen der hodet ligger
-

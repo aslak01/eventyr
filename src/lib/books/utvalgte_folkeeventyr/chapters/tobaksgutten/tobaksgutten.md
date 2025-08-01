@@ -33,4 +33,3 @@ Da han hadde vært en tid hos kongen igjen, begynte han å stunde etter borgerme
 «Vet du hvem som er inne, mor?» sa datteren. «Nei,» sa borgermesterfrua. «Det er han som far solgte for tobakk,» sa hun. Med det samme danet frua og falt overende på gulvet. Så kom borgermesteren etter, og da han hørte hvordan det hang sammen, ble det ikke stort likere med ham. «Det er ikke noe å få støkk av,» sa tobaksgutten; «jeg er bare kommet for å få den veslejenta jeg kyste på skolevegen,» sa han. Og til borgermesterkona sa han det: «Du skal aldri foragte fattigmanns barn; det er ingen som vet hva det kan bli av det; for barn er mannsemne, og vettet kommer med veksten.»
 
 ![Skip](./tg3.png)
-

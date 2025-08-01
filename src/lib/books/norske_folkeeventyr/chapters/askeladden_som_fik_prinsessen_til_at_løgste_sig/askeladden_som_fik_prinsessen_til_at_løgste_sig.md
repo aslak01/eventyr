@@ -33,4 +33,3 @@ Så var det også tre brødre som skulle prøve lykken. De to eldste la da førs
 [^3]: bustereip = tau laget av linnfiber
 
 [^4]: grynsodd = morgensol
-

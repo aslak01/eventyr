@@ -11,4 +11,3 @@ Ja, hun til å lete både høyt og lavt. Til sist så glantet hun langs oppetter
 Det var jente som hadde godt av synet det.
 
 [^1]: Ljoren (ljaaren) åpnes og lukkes med en lang stang som kalles ljorestangen.
-

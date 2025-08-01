@@ -177,4 +177,3 @@ Det kunne det ikke være mer enn én mening om, mente alle, og da Halvor hørte 
 [^**]: Fjerding: gammel lengdemål, ca. 20-30 centimeter
 
 [^***]: Drikke bruden av jentelaget: gammel bryllupsskikk hvor man skålte for bruden
-

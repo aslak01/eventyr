@@ -118,4 +118,3 @@ Så var det ved juletider mange år etter — mannen var i skogen og hogg ved ti
 ![Trollfjes](./pg7.png)
 
 [^1]: Uhyrskjer: gamle norske ord for monstre eller farlige skapninger
-

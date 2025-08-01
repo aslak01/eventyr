@@ -100,4 +100,3 @@ Så tynte de trollet, og så tok de til å dundre og drikke og danse i brylluppe
 > og kjører det til deg, som bedre kan kvede;  
 > men kan du ikke kvede bedre enn jeg,  
 > så skam få deg, for du laster meg.
-

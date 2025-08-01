@@ -103,4 +103,3 @@ Idet ble hun til den deiligste prinsesse som noen ville se for sine øyne, så H
 [^*]: Bøling: storfe, kveg
 
 [^**]: Blakke: mørke hester, ofte med lysere flekker
-

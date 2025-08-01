@@ -41,4 +41,3 @@ Trollene bar seg ille, og sa at ingen av dem kunne gå, når de ikke hadde øyet
 ![Troll](./smaaguttene4.png)
 
 [^1]: Veide: puste tungt, stønne
-

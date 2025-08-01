@@ -305,4 +305,3 @@ Ja, så kom det ord og skor i hvorledes kapteinen og løytnanten hadde båret se
 [^***]: Blei: kile av tre eller metall
 
 [^****]: Ture: skryte, føre store ord
-

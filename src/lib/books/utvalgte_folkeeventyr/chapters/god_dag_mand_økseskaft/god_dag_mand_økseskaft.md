@@ -33,4 +33,3 @@ Lensmanden ristet på hodet og glantet stort på ham.
 «Å reis du til helvete, din tull du er!» sa lensmanden.
 
 «Ja, det er ikke langt unda; når du kommer opp av bakken, så er du der straks,» sa mannen.
-

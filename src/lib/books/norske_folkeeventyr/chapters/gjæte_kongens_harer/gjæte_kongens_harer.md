@@ -131,4 +131,3 @@ Så syntes kongen og dronningen at det var best han fikk prinsessen og halve rik
 [^4]: eksersérmo = eksersisplassen, øvingsplassen
 
 [^5]: velmålt = rikelig, mer enn nok
-

@@ -13,7 +13,12 @@ export function htmlHead(
   pathHelper: PathHelper,
   cssFiles?: string[],
   jsFiles?: string[],
-): { title: string; mainCssPath: string; additionalCss: string; additionalJs: string } {
+): {
+  title: string;
+  mainCssPath: string;
+  additionalCss: string;
+  additionalJs: string;
+} {
   const allCssFiles = ["header-footer", ...(cssFiles || [])];
   const additionalCss = allCssFiles
     .map((file) => cssFileLink(file, pathHelper))

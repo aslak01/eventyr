@@ -143,4 +143,3 @@ Så gikk kjetten langt og lenger enn langt, til hun kom til en bro; der møtte h
 Så krøp de fram og for hver til seg, og var like gode som før, alle de som kjetten hadde ett, både mannen i huset og kjerringen i fjøset, og bjellekua på båsen og løvmannen i hagen, og røskatten i steinrøysen og trebjørnen i kjæret, og Mikkel Snittom og hoppende hare, og gråbein Glup og bjørn Byks opp, og bjørninn Bidsk og bamse Brakar, og brudefølget på veien og likfølget ved kirken, og månen i skyen og solen på himmelen.
 
 [^1]: Ekorn
-

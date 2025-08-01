@@ -1,13 +1,8 @@
 {
   "title": "Udvalgte folkeeventyr",
-  "author": [
-    "Peter Christen Asbjørnsen",
-    "Moltke Moe"
-  ],
+  "author": ["Peter Christen Asbjørnsen", "Moltke Moe"],
   "published": 1907,
-  "illustrator": [
-    "Theodor Kittelsen"
-  ],
+  "illustrator": ["Theodor Kittelsen"],
   "chapter_index": {
     "kjæresten_i_skogen": "Kjæresten i skogen",
     "venner_i_liv_og_død": "Venner i liv og død",

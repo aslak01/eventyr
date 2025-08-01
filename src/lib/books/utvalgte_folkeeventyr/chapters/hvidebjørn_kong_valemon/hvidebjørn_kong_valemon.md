@@ -119,4 +119,3 @@ Da var alting godt og vel, og når de bare blev kvitt troldkjærringen, så var 
 [^2]: Potetene
 
 [^3]: Få ham til å sove.
-

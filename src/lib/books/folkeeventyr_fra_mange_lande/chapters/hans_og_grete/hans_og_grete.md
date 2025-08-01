@@ -108,4 +108,3 @@ Anda kom da til dem, og Hans satte seg på ryggen, og ba søstera sette seg hos 
 Grete ristet forkleet sitt, så perlene og edelsteinene hopet seg utover hele golvet, og Hans tok opp etter opp av lommene. Da var det slutt med all nød og sorg, og de levde i glede alle sine dager.
 
 Snipp snapp snute, nu er eventyret ute.
-

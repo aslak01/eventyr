@@ -13,16 +13,13 @@ export function generateBookIndexHTML(
   pathHelper: PathHelper,
 ): string {
   const headData = htmlHead(
-    `${book.name}`, 
+    `${book.name}`,
     pathHelper,
     ["sortable"],
-    ["sortable.min"]
+    ["sortable.min"],
   );
 
-  const columns = [
-    { title: "Tittel" },
-    { title: "Ord" }
-  ];
+  const columns = [{ title: "Tittel" }, { title: "Ord" }];
 
   const chaptersHtml = sortableTableGenerator(
     columns,
@@ -37,7 +34,7 @@ export function generateBookIndexHTML(
 </td>
 <td>${chapter.wordCount}</td>
 </tr>
-`
+`,
   );
 
   const siteHeader = siteHeaderGenerator(pathHelper);

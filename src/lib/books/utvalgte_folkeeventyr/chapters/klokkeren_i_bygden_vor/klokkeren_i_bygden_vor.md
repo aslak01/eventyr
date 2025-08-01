@@ -175,4 +175,3 @@ Nei, han rørte seg ikke. Gutten kjørte til, så det sa plump — og der lå kl
 Ja, gutten for avsted til lensmanden, og da tiden kom, kom lensmanden også. Men for mye hast er heller til last, og brågjort verk vil ikke vare. Det tok tid, før de fikk doktor og synsmenn til. Vi er alle vorherre en død skyldige; men da blev det greiet opp, at klokkeren var drebt tre ganger, før han falt i brønnen. Først hadde blytappen taget pusten fra ham, så hadde han fått en kule for pannen, og til syvende og sidst var nakkebenet knekket. Han var ikke ufeig, der han for. Det er ikke godt å vite hvorledes det er spurt og kommet ut; men en er ofte på orde, der en ikke er på borde, og ordet står oppe, når mannen ligger i mulden.
 
 [^1]: Haserne
-

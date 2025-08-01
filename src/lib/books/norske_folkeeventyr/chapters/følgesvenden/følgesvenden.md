@@ -205,4 +205,3 @@ Han hadde fått lov til å følge ham et år, og det var omme, da de skiltes sis
 [^***]: Mønsås: møne og ås, takrygger på hus
 
 [^****]: Myse: valle, det som blir igjen etter at melk er til ost
-

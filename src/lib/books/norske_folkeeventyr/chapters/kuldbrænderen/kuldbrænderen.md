@@ -69,4 +69,3 @@ Kullbrenneren vred bare hendene og bar seg ille: «Å, du ulykkeligste kryp og k
 [^4]: Damekvinner - velstående kvinner, «fine damer»
 
 [^5]: Hurv - støv, rusk og skrap
-

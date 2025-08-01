@@ -149,4 +149,3 @@ Så var prinsessen målbundet.
 [^**]: Rennet: løpt omkring
 
 [^***]: Skjærunge: skjære (fugl)
-

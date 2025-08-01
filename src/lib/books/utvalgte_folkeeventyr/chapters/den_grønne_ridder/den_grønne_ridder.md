@@ -23,4 +23,3 @@ Nei, det kunne ikke nytte, sa kongen; det hadde vært så mange der og prøvd de
 Så ble det bryllup og bryllups-tuering, og da de var ferdige med det, reiste de hjem. Da ble det stor glede på hennes far. Men stemora tok de og trillet i en spikertønne.
 
 ![Rulle tønne](./dgr2.png)
-

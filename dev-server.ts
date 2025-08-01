@@ -149,9 +149,9 @@ serve({
           bookSlug,
           "chapters",
           chapterName,
-          pdfFilename
+          pdfFilename,
         );
-        
+
         const pdfFile = Bun.file(pdfPath);
         if (await pdfFile.exists()) {
           console.log("📄 Serving PDF:", pdfPath);

@@ -21,4 +21,3 @@ Det var syv års gammel grøt; men den var vel ingensteds å få, sa han.
 Jo, det var renfærdige folk!
 
 ![Gammel grøt](./sagg2.png)
-

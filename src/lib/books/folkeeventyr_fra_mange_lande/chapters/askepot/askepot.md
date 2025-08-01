@@ -75,4 +75,3 @@ Og da de hadde ropt dette, kom de begge flyvende og satte seg hos Askepot, en p�
 ![Prøve sko](./ap2.png)
 
 Da kongssønnen skulle holde bryllup, kom de falske søstrene og gjorde seg så blide mot Askepot, for å få del i hennes lykke. Og da brudefølget drog til kirke, ville den eldste endelig gå på den høyre sida av henne, og den yngste på den venstre. Da pikket duene et øye ut på hver av dem. På hjemveien fra kirke gikk den eldste på den venstre, og den yngste på den høyre sida. Og så pikket duene ut det andre øyet på hver av søstrene. Således blev de straffet for sin ondskap og falskhet, og var blinde siden alle sine levedager.
-

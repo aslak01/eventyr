@@ -63,4 +63,3 @@ Da så kona kom igjen og fikk se det, ble hun så sint, at hun tok det vesle fl�
 [^2]: En gammelt uttrykk som betyr at dyrene er døde - skallen ligger i elva og kroppen i skogen
 
 [^3]: Hvit tupp på halen
-

@@ -27,4 +27,3 @@ Men så kom mannen som eide ulvestua. Først drog han opp kjerringa, og så slo 
 [^**]: Ulvestue = felle for å fange ulv
 
 [^***]: Fantekjerring = omstreifende tiggerske
-

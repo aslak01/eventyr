@@ -25,4 +25,3 @@ Men så kom kongen efter, og ville vite hvad det var for slags kjærlighet som v
 Så var jeg ikke lenger med, og jeg ved ikke hvorledes det gikk; men det ved jeg, at den som sidst fortalte dette eventyret, lever den dag idag, og det var Ole Olsen Hilli i Røldal.
 
 ![Straff](./kbgmgol2.png)
-

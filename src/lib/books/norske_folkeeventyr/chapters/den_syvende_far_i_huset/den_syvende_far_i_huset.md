@@ -53,4 +53,3 @@ Og nå kom det inn et bord som var dekket med de kosteligste retter og med øl o
 [^2]: Fell: tørket skinn eller hud
 
 [^3]: Talltit: liten fugl, her brukt om noe som piper svakt
-

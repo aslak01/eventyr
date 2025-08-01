@@ -307,4 +307,3 @@ Gutten kløv opp på en hjell under taket og tendte ild i noget halm og flis og 
 [^1]: Vaske de fem nederste omhvarv, omfar, eller bjelkelag i stuen.
 
 [^2]: «Bust og bog»: Flesk og fårekjøtt, fårebog, spekebog.
-

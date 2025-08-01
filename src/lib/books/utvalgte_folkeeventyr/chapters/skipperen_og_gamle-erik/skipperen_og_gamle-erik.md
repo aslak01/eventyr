@@ -13,4 +13,3 @@ Det var knapt de hadde fått flisa over bord etter arbeidet, så kom Gamle-Erik 
 Gamle-Erik var ikke klokere, enn at han lot seg narre, han strevde og svettet, og svetten den fosset som bekker ned over ham, så de gjerne kunne drevet en kvernkall nederst i ryggskarren; men han pumpa opp av Nordsjøen og ut i Nordsjøen. Det arbeidet ble han trøtt av til sist, og da han ikke orket mer, for han hjem i fullt sinne til sin oldemor og ville hvile seg. Skipperen lot han være skipper, mens han ville, og er han ikke død, så farer han vel ennu og seiler dit han vil, og dreier vinden etter som han snur hatten sin.
 
 ![Mann i hatt](./skoge2.png)
-

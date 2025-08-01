@@ -25,4 +25,3 @@ Så kom det en rev luskende.
 «Å, det var ikke så ille engang,» sa haren, «for hun brente opp kjerringen med.»
 
 ![Rev](./hshvg2.png)
-

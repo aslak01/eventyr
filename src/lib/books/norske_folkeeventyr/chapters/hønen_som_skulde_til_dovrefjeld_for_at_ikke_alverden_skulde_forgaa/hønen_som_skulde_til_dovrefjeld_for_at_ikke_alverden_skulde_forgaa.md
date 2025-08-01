@@ -103,4 +103,3 @@ Så våknet høna igjen og hoppet opp på en høyere pinne.
 «Fy, her stinker så, her stinker så!» sa hun, og da fikk hun opp øynene og fikk se at reven hadde ett dem begge to, både gåsa og anda; så fløy hun opp på den høyeste pinnen og satte seg der og kikket opp igjennom pipa. «Nei, nei, se alle de deilige gjessene som flyver der!» sa hun til reven.
 
 Mikkel ut og skulle hente seg en fet steg til. I mellomtida vekket høna hanen, og sa hvorledes det var gått med gasse vasse og ande vande. Så fløy hane pane og høne pøne ut igjennom pipa, og hvis de ikke var kommet til Dovrefjell, hadde det vist vært forbi med verden.
-

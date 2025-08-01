@@ -69,4 +69,3 @@ Ja, jentene hengte på den vesle blakke alt det de hadde, og så gikk gutten ned
 Det ramlet svært i trappa; for hun steg ikke ned i silkesko, den bruden. Men da døra gikk opp og herremannsbruden kom inn i storstusalen, var det ikke fritt for der ble knis og flir. Og herremannen var så vel fornøyd av den bruden, at de sa han ikke fridde oftere.
 
 [^*]: Kakse = en rik og innbilsk person
-

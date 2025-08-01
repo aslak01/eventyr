@@ -1,13 +1,8 @@
 {
   "title": "Eventyr og historier",
-  "author": [
-    "Jacob Breda Bull"
-  ],
+  "author": ["Jacob Breda Bull"],
   "published": 1928,
-  "illustrator": [
-    "A. Block",
-    "Louis Moe"
-  ],
+  "illustrator": ["A. Block", "Louis Moe"],
   "chapter_index": {
     "gutten_som_døyvet_trollet": "Gutten som døyvet trollet",
     "trolljo": "Trolljo",

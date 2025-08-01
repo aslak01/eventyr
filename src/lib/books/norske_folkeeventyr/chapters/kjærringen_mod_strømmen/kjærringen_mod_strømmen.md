@@ -43,4 +43,3 @@ Men da det led om litt, syntes han det var ille at hun skulle ligge der og ikke 
 Å ja, de gikk oppetter og leita og søkte ovenfor fossen. Der lå kjerringa, det var riktig nok. Det var kjerringa mot strømmen det.
 
 ![Bonden](./kms4.png)
-

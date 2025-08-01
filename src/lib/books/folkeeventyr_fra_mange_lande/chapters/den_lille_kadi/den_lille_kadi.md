@@ -35,4 +35,3 @@ Fra denne dag tok kalifen Soliman til seg og lot ham lære opp i all slags lærd
 [^**]: Oljebær, frukt av oljetreet.
 
 [^***]: Dommer
-

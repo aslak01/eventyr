@@ -45,4 +45,3 @@ Der tok kongen i mot ham ute i svalen både med krone og spir, og var så gild a
 [^2]: far = fagområde, sterke side
 
 [^3]: lavde = strålte, lyste
-

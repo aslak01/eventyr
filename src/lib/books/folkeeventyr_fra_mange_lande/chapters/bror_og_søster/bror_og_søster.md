@@ -59,4 +59,3 @@ Så stelte hun med barnet, som hun pleide, før hun ble borte. Kongen turde ikke
 > Det er siste gang jeg har lov å gå.»
 
 Da kunne kongen ikke bære seg lenger, men sprang bort til henne og ropte: «Du kan ikke være noen annen enn min egen kjære hustru!» Og i samme øyeblikk kom hun ved Guds nåde atter til live, ble rød og hvit og vakker, som før, og helt frisk og rask. Hun fortalte da kongen om all den ondskapen som heksa og hennes datter hadde gjort mot henne. Kongen lot dem begge føre for retten, og de fikk sin dom. Datteren ble jaget ut i skogen, og der gjorde villdyrene det snart av med henne; men heksa ble kastet på bål og måtte ynkelig brenne opp. Og da hun var brent til aske, så var det ute med all hennes trolldom, og råbukken fikk sin menneskeskikkelse igjen. Siden levde bror og søster lykkelig sammen til sin død.
-

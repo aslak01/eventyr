@@ -89,4 +89,3 @@ Langt om lenge kom ulven ut igjen.
 [^3]: En berghule hvor det bodde ulver («gråbein» er et gammelt navn på ulv)
 
 [^4]: Ulver (gråtass = ulv)
-

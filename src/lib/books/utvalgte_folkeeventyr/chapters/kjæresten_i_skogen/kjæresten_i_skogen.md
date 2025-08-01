@@ -91,4 +91,3 @@ Ja de ville gjerne høre, og de skulle bli sittende, det lovet de alle; kjærest
 «Jo, hos deg var det! Der er fingeren, og der er ringen, og der er mannen som hugget den av,» sa hun.
 
 Så tok de ham og slo ham ihjel og brente både ham og huset i skogen.
-

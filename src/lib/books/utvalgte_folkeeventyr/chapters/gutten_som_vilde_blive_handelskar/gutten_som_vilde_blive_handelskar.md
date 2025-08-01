@@ -89,4 +89,3 @@ Han strøk sør i jordet til graven og ville sette seg; men i det samme stakk gu
 Mannen av sted med kniva i kroppen, og ble så redd og forskrekket, at han hverken har vært hørt eller spurt siden.
 
 ![Mann løper vekk](./gvbh3.png)
-

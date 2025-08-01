@@ -7,7 +7,7 @@ type PathHelper = ReturnType<typeof createPathHelper>;
 export function bookCardGenerator(
   book: BookData,
   optimizedImages: Map<string, OptimizedImage>,
-  pathHelper: PathHelper
+  pathHelper: PathHelper,
 ): string {
   // Look for front.png in this book's directory
   const frontImagePath = `${book.path}/front.png`;

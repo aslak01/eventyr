@@ -1,14 +1,9 @@
 {
   "title": "Norske folkeeventyr",
-  "author": [
-    "Peter Christen Asbjørnsen",
-    "Moltke Moe"
-  ],
+  "author": ["Peter Christen Asbjørnsen", "Moltke Moe"],
   "translator": [],
   "published": 1911,
-  "illustrator": [
-    "Erik Werenskiold"
-  ],
+  "illustrator": ["Erik Werenskiold"],
   "chapter_index": {
     "smaagutterne_som_traf_troldene_paa_hedalsskogen": "Småguttene som traff trollene på Hedalsskogen",
     "den_syvende_far_i_huset": "Den syvende far i huset",

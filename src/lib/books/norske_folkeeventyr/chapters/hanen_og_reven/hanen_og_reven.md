@@ -37,4 +37,3 @@ Den gang var det hanen som brukte revekroken[^***].
 [^**]: Brevsynt: som kan lese
 
 [^***]: Revekroken: å lure, å være listig som en rev
-

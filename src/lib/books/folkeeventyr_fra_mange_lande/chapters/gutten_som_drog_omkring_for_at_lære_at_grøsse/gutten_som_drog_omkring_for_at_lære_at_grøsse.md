@@ -101,4 +101,3 @@ Gullet blev hentet fram, og bryllupet blev holdt, og den unge kongen var meget g
 Så hadde han da endelig lært å grøsse.
 
 ![Vætet seng](./gsdokfalag2.png)
-

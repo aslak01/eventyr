@@ -33,4 +33,3 @@ Så sa han takk for seg, og bar ikke frem målemet sitt den gangen heller.
 [^*]: Bie: vente
 
 [^**]: Målemet: frieriet
-

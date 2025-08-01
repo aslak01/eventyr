@@ -107,4 +107,3 @@ Mens katten holdt på å krype omkring og skulle prøve å luske seg inn i tårn
 Han hadde ikke fått den på fingeren, før han ønsket at tårnet skulle revne, og med det samme stod han midt i døra og skjelte kongen og dronningen og kongsdattera ut for noe skarvepakk. Kongen var ikke sen til å rope sammen krigsmakten sin, og sa til dem at de skulle kringsette tårnet og ta gutten, det kvittet enten de fikk ham død eller levende. Men gutten ønsket bare at hele soldatmakten skulle sitte til opp under armene i den store bløtmyra inne i fjellet, så hadde de kav nok med å komme opp igjen, de som ikke ble der. Da han så var ferdig med krigsmakten, tok han fatt på kongen, dronningen og kongsdattera igjen; han ønsket at de måtte bli sittende alle sine levedager i tårnet, der de hadde satt ham.
 
 Så tok han landet og riket etter kongen. Hunden ble til prins og katten til prinsesse igjen, henne tok han og giftet seg med, og så drakk de bryllup og turt både vel og lenge.
-

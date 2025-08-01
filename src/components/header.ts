@@ -5,8 +5,12 @@ import { templateEngine } from "../utils/template-engine";
 
 type PathHelper = ReturnType<typeof createPathHelper>;
 
-export function headerGenerator(book: BookData, pathHelper: PathHelper, chapter?: Chapter) {
-  const chapterBreadcrumb = chapter 
+export function headerGenerator(
+  book: BookData,
+  pathHelper: PathHelper,
+  chapter?: Chapter,
+) {
+  const chapterBreadcrumb = chapter
     ? `<span class="breadcrumb-separator">></span><span class="breadcrumb-current">${safeString(chapter.title)}</span>`
     : "";
 
