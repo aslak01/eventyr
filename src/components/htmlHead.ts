@@ -14,7 +14,7 @@ export function htmlHead(
   additionalCss: string;
   additionalJs: string;
 } {
-  const allCssFiles = ["header-footer", ...(cssFiles || [])];
+  const allCssFiles = [...(cssFiles || [])];
   const additionalCss = allCssFiles.map((file) => cssFileLink(file)).join("");
 
   const additionalJs = jsFiles

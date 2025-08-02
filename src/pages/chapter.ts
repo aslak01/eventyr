@@ -49,17 +49,13 @@ export function generateChapterHTML(
 
   const htmlContent = marked.parse(processedContent);
 
-  const chapters = book.chapters;
+  const { chapters } = book;
+  const { order } = chapter;
 
-  const currentIndex = chapter.order;
-
-  const prevChapter =
-    currentIndex > 0 ? chapters[chapter.order - 1] : undefined;
+  const prevChapter = order > 0 ? chapters[order - 1] : undefined;
 
   const nextChapter =
-    currentIndex < chapters.length - 1
-      ? book.chapters[currentIndex + 1]
-      : undefined;
+    order < chapters.length - 1 ? book.chapters[order + 1] : undefined;
 
   const headData = htmlHead(
     `${safeString(chapter.title)} - ${safeString(book.name)}`,
