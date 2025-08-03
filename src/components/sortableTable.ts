@@ -14,7 +14,7 @@ export function sortableTableGenerator(
   rowRenderer: (row: TableRow) => string,
 ): string {
   const tableHeaders = columns
-    .map((column) => `<th>${column.title}</th>`)
+    .map((column) => `<th class="${column.title}">${column.title}</th>`)
     .join("");
 
   const tableRows = rows.map((row) => rowRenderer(row)).join("");

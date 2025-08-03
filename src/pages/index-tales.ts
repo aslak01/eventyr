@@ -24,7 +24,7 @@ export function generateMainIndexHTML(books: BookData[]): string {
     ${tale.title}
 </a>
 </td>
-<td>
+<td class="Bok">
 <a href="/${tale.bookSlug}/">${tale.book}</a>
 </td>
 <td class="wordcount">${tale.wordCount}</td>
