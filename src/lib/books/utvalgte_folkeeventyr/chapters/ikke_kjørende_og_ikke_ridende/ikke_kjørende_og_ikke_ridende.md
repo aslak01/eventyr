@@ -29,6 +29,6 @@ Tok så en saubukk og satte seg på, så at bena slepte på jorda; så subbet hu
 > ikke gående  
 > og ikke akende.
 
-Og det var i skjellet mellom natt og dag.
+Og det var i skillet mellom natt og dag.
 
-Da hun kom frem til vaktene, ba hun at hun måtte få snakke med prinsen; de ville ikke lukke henne inn, fordi hun så ut som et spektakel. Men av denne styren våknet prinsen og kom til vinduet. Så subbet hun dit bort, og vred det ene hornet av bukken. Det tok hun, stod opp på ryggen av den og banket på vinduet med. Så måtte de lukke opp og gjøre henne til prinsesse.
+Da hun kom frem til vaktene, ba hun at hun måtte få snakke med prinsen; de ville ikke lukke henne inn, fordi hun så ut som et spektakkel. Men av denne styren våknet prinsen og kom til vinduet. Så subbet hun dit bort, og vred det ene hornet av bukken. Det tok hun, stod opp på ryggen av den og banket på vinduet med. Så måtte de lukke opp og gjøre henne til prinsesse.
