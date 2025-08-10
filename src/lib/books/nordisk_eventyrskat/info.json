@@ -1,0 +1,19 @@
+{
+  "title": "Nordisk eventyrskat",
+  "author": [
+    "Peter Christen Asbjørnsen",
+    "Hans Christian Andersen"
+  ],
+  "published": 1879,
+  "illustrator": [
+    "Theodor Kittelsen"
+  ],
+  "chapter_index": {
+    "pandekagen": "Pannekaken",
+    "gutten_som_gik_til_nordenvinden_paa_krav": "Gutten som gikk til nordavinden for å kreve melet tilbake",
+    "veslefrik_med_felen": "Veslefrikk med fela",
+    "keiserens_nye_klæder": "Keiserens nye klær",
+    "den_standhaftige_tinsoldat": "Den standhaftige tinnsoldat",
+    "den_lille_pige_med_svovelstikkene": "Piken med fyrstikkene"
+  }
+}
