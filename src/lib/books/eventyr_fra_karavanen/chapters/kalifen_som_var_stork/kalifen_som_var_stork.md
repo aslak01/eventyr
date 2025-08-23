@@ -2,15 +2,15 @@
 
 ## I
 
-Kalif Chasid i Bagdad lå en ettermiddag og strakte seg late bortpå en putebenk. Han hadde nettopp sovet middag og var rett i godhumør. Det var han alltid når han hadde fått middagskvile.
+Kalif Chasid i Bagdad lå en ettermiddag og strakte seg lat bortpå en putebenk. Han hadde nettopp sovet middag og var i godt humør. Det var han alltid når han hadde fått middagshvile.
 
-Dette visste storviseren hans og likte gjerne å være hos ham på denne tiden.
+Dette visste storvisiren hans og han likte å komme til ham på denne tiden.
 
-I dag kom han også, men så så kjedelig og lei seg ut at kalifen måtte spørre om noe særlig sto på.
+I dag kom han også, men så så trist og lei seg ut at kalifen måtte spørre om noe sto på.
 
-Storviseren la armene i kors på brystet, bøyde seg dypt for kalifen, og svarte:
+Storvisiren la armene i kors på brystet, bøyde seg dypt for kalifen, og svarte:
 
-«Herre, det står en kjøpmann utenfor slottet, og han har så mange gode ting jeg gjerne ville ha kjøpt. Men jeg er snau for penger i dag, så det er rådløst å tenke på den ting.»
+«Herre, det står en kjøpmann utenfor slottet, og han har så mange gode ting jeg gjerne ville ha kjøpt. Men jeg er snau for penger i dag, så det er bortkasta å tenke på de tingene.»
 
 Kalifen ville gjerne gjøre ministeren sin en glede og sendte bud på kjøpmannen.
 
