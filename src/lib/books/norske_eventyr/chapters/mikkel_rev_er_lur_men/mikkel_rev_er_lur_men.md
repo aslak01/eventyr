@@ -1,6 +1,6 @@
 # Mikkel rev er lur, men —
 
-Vesle-Kvinten gikk der og slang mellom moserabbene oppe i Storheia og visste ikke sin arme råd hva han skulle slå nevene sine i. Han hadde jo alltid vært både yrkeslysten og forelaksom av seg, så det manglet ikke på det.
+Vesle-Kvinten gikk der og slang mellom moserabbene oppe i Storheia og visste ikke sin arme råd hva han skulle slå nevene sine i. Han hadde jo alltid vært både yrkeslysten og foretaksom av seg, så det manglet ikke på det.
 
 Men da det ikke ville by seg noe som helst, visste han ikke bedre råd enn å gi seg på jakt. For bare det å høre at muskedunderen skrallet mellom åsene var en stor oppkvikkelse for en liten trollsjel oppe i Storheia. Han labbet inn etter den digre børsa, slengte den over skulderen og sabbet seg avgårde. Han føyk som en vettskremt hare gjennom skog, over berg, over myr og etter ulendte stier. Men da han hadde trasket både drøyt og lenge, møtte han Mikkel rev.
 
@@ -40,13 +40,13 @@ Skuddet smalt og Mikkel satte etter.
 
 Slik dreiv de på i det vide og det brede, og da den tolvte århøna stupte for skuddet, sa Vesle-Kvinten:
 
-— No har jeg ikke flere skudd igjen, så no får det være nok for i dag.
+— Nå har jeg ikke flere skudd igjen, så nå får det være nok for i dag.
 
 — Nei jaså, sier du det, flirte Mikkel. Da får du lia så mange slags takk da, for nå trur jeg at jeg har berget meg med levemåte gjennom svarteste vinteren. Farvel da!
 
 Den gjorde noen kåte sprett over lynget, men enda var ikke Vesle-Kvinten ferdig.
 
-— Jaha, det var det jeg visste, sa han, og no vil jeg ha meg et reveskinn på kjøpet. Lukk øynene dine, så skal jeg gi deg fripass, jeg, og det vil jeg hverken ha takk eller betaling for, her kommer det siste skuddet!
+— Jaha, det var det jeg visste, sa han, og nå vil jeg ha meg et reveskinn på kjøpet. Lukk øynene dine, så skal jeg gi deg fripass, jeg, og det vil jeg hverken ha takk eller betaling for, her kommer det siste skuddet!
 
 — Å, kjære, snille Vesle-Kvinten, skreik reven, jeg ber deg så tynt om nåde for denne ene gangen, jeg skal følge deg til hiet og gi deg alle århønene tilbake.
 
@@ -54,6 +54,6 @@ Dermed ruslet de oppover til revehiet, reven foran med Vesle-Kvinten og muskedun
 
 Det gikk både fort og gæli å få fuglene ut av hiet, men da Kvinten skulle til å bunte dem sammen, la han muskedunderen fra seg. Og det var det mest toskete Vesle-Kvinten ennå hadde gjort, skulle jeg tro, for dermed kastet Mikkel seg over den. Han slo opp en kald latter med det samme og ropte:
 
-— No er det min tur, og no slipper du fuglene og nøyter deg heimover fortere enn fortest!
+— Nå er det min tur, og nå slipper du fuglene og nøyter deg heimover fortere enn fortest!
 
-— Bare smell av du, Mikkel, det fins ikke skudd i den likevel — nei, no ble du rettelig lurt igjen! ropte Vesle-Kvinten.
+— Bare smell av du, Mikkel, det fins ikke skudd i den likevel — nei, nå ble du rettelig lurt igjen! ropte Vesle-Kvinten.
