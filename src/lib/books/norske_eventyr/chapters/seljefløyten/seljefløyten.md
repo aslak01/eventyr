@@ -8,7 +8,7 @@ Da syntes den gamle musekongen det gikk for vidt med galskapen, og ønsket at de
 
 — Kjære, snille hare, du som er så grovelig pen og snill, ikke har jeg imot hverken deg eller fløyten din, men dess mer du spiller, jo flere mus kommer det bort for meg. Og skal du klemme på slik, blir jeg snart alene mus i riket! Å jeg sørger meg nesten ihjel!
 
-Men haren sa som det var, den kunne ikke tenke seg å leve uten å spille på fløyten, og en er seg selv nær mest, mente den.
+Men haren sa som det var, den kunne ikke tenke seg å leve uten å spille på fløyten, og en er seg selv nærmest, mente den.
 
 Musekongen ruslet videre og klaget sin nød. Langt om lenge møtte den Mikkel Rev.
 
@@ -40,13 +40,13 @@ Da Vesle-Kvinten kom opp på heia, skapte han seg til og begynte å danse og spr
 
 ![Musekongen klaget sin nød til haren](./haren.png)
 
-— Hihihi, flirte reven så tårene rant, ja, no kan du danse no, Vesle-Kvinten, til du dør, så slipper du å gjøre meg flere puss!
+— Hihihi, flirte reven så tårene rant, ja, nå kan du danse nå, Vesle-Kvinten, til du dør, så slipper du å gjøre meg flere puss!
 
 — Å, skån meg, å, skån meg! Du skal få gull og grønne skoger om du vil holde opp å fløyte. Å, å, å! Armene mine er blitt lamme, jeg kan ikke røre dem mer, jeg kan ikke løfte dem engang!
 
 — Bravo! ropte Mikkel og stilte seg opp foran Vesle-Kvinten og riktig ertet ham med å blåse ham like opp i ansiktet.
 
-Men det sto ikke lenge på, for med det samme trev Vesle-Kvinten seljefløyten fra Mikkel og ga den samtidig et kraftig spark på snuten, så den gikk kant i kant over lyngrabbene.
+Men det sto ikke lenge på, for med det samme rev Vesle-Kvinten seljefløyten fra Mikkel og ga den samtidig et kraftig spark på snuten, så den gikk kant i kant over lyngrabbene.
 
 Vesle-Kvinten gjorde opp en liten varme med ildstålet, og snart ble det bare aska igjen av hele seljefløyten.
 
