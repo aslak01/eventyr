@@ -2,7 +2,7 @@
 
 Den store, stygge og ukristelige Vassfjelljutulen hadde dratt av gårde med kongsdatteren, og ingen makt i verden var god til å løse henne ut, enda de prøvde alt som prøves kunne.
 
-— Ja, ja, sa kongen, så vet jeg ingen annen utveg enn å sette troll mot troll da, koste hva det koste vil.
+— Ja, ja, sa kongen, så vet jeg ingen annen utvei enn å sette troll mot troll da, koste hva det koste vil.
 
 Dermed skikket han noen karer av gårde til Storheia for å hente Stor-Kvinten. Og det tok ikke lange økta før han kom sabbende til kongens gård for å gjøre tjeneste.
 
@@ -12,12 +12,12 @@ Dermed skikket han noen karer av gårde til Storheia for å hente Stor-Kvinten. 
 
 — Kan du frelse datter mi fra Vassfjelljutulen, skal du få en tønne gull for strevet, sa kongen.
 
-— Jeg får vel prøve, brummet Stor-Kvinten. Og dermed sleivet han av gårde så det knaket i både røtter og trær. Da han langt om lenge kom fram til Vassfjelletskaret, ropte han så det sang i bergveggen:
+— Jeg får vel prøve, brummet Stor-Kvinten. Og dermed sleivet han av gårde så det knaket i både røtter og trær. Da han langt om lenge kom fram til Vassfjellskaret, ropte han så det sang i bergveggen:
 
 _Kruse duse jutulhein  
 vil jeg, skal jeg det!  
 Syn meg holdet ut av stein.  
-Krase druse jutulhein  
+Krase druse jutulbein  
 skal jeg før sol går ned!  
 Jeg vil krase stein og flint  
 til støv og røyk,  
@@ -33,9 +33,9 @@ det største trollet i sitt slag.
 Øie meg, du digre Kvint,  
 no har du terga meg for sint!_
 
-Trollene gjøv i hop så jord og stein, filler og hår sto som en røyk omkring dem. De remjet og skreik og klorte, de sparket og slo og nøs så skommet valt i store flak i alle retninger. Og slik dreiv de da på både vel og lenge, til Stor-Kvinten måtte gi seg.
+Trollene gjøv i hop så jord og stein, filler og hår sto som en røyk omkring dem. De remjet og skreik og klorte, de sparket og slo og nøs så skummet valt i store flak i alle retninger. Og slik dreiv de da på både vel og lenge, til Stor-Kvinten måtte gi seg.
 
-— Jamen er du stri å dras med, sa Kvinten og ga jutulen labben til fred og forsoning. — Fra denne dag vil jeg ikke vøre deg med hverken vondt eller godt, og lykke til da, Vassfjelljutul!
+— Jamen er du stri å dras med, sa Kvinten og ga jutulen labben til fred og forsoning. — Fra denne dag vil jeg ikke gjøre deg med hverken vondt eller godt, og lykke til da, Vassfjelljutul!
 
 Dermed ruslet Stor-Kvinten heim til Storheia igjen, både fillete og blodig.
 
@@ -63,20 +63,20 @@ Han krabbet beinvegen opp mot Vassfjellet, satte seg på en stor stein og begynt
 
 Dette syntes Vesle-Kvinten låt både vel og bra, og dermed ga han seg i lag med jutulen inn i fjellet. Det lukket seg etter dem med et stort brak etter hvert som de gikk. Inne i hulen kunne Vesle-Kvinten fra grueilden se den ulykkelige kongsdatteren sammenkrøpet borti en krok, hun hulket og gråt slik at det gjorde hjertens vondt å høre på.
 
-— Ja, no får du spille for meg og kongsdatteren da! ropte jutulen.
+— Ja, nå får du spille for meg og kongsdatteren da! ropte jutulen.
 
 — Harpen låter ikke i lukket fjell, sa Vesle-Kvinten.
 
 — Sier du det, snøvlet jutulen, og så smalt det igjen. Og gjennom en stor sprekk i fjellet sivet dagslyset inn.
 
-Vesle-Kvinten klimpret i veg på gullharpen sin, og vakrere toner hadde jutulen aldri i sine levedager hørt maken til. Jo lenger Kvinten spilte, jo vakrere ble tonene, og jutulen lå bortpå brisken og lyttet og drømte. Til slutt dormet han inn og ble liggende å snorke så det knaket i hulen.
+Vesle-Kvinten klimpret i vei på gullharpen sin, og vakrere toner hadde jutulen aldri i sine levedager hørt maken til. Jo lenger Kvinten spilte, jo vakrere ble tonene, og jutulen lå bortpå brisken og lyttet og drømte. Til slutt dormet han inn og ble liggende å snorke så det knaket i hulen.
 
-— No er det best du svinter deg, hvisket Vesle-Kvinten til kongsdatteren, jeg blir sittende her og spille til sola kommer inn, for da sprekker jutulen.
+— Nå er det best du svinter deg, hvisket Vesle-Kvinten til kongsdatteren, jeg blir sittende her og spille til sola kommer inn, for da sprekker jutulen.
 
 Kongsdatteren sprang alt hun orket, og da hun langt om lenge kom til kongsgården igjen, smalt det oppi Vassfjellet.
 
 Kongen ble så glad at han lyste til fest på kirkebakken for hele landet og alt folket. Han sendte også mannskap til Vassfjellet for å leite etter Vesle-Kvinten, men ingen Vesle-Kvint var å se.
 
-Oppe på Storheivarden satt Kvinten og spilte på gullharpen sin, spilte liksom for hele verden og gjorde seg usynlig for alminnelige mennesker. Han ville ikke vite om noe stas, han, seiv om han hadde reddet både en og hundre kongsdøtre.
+Oppe på Storheivarden satt Kvinten og spilte på gullharpen sin, spilte liksom for hele verden og gjorde seg usynlig for alminnelige mennesker. Han ville ikke vite om noe stas, han, selv om han hadde reddet både en og hundre kongsdøtre.
 
 — Ære, stas og vide spurlag er bra, men bør aldri være målet for en god gjerning, tenkte han og slo videre på gullharpen sin.
