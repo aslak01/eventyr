@@ -26,7 +26,7 @@ Klokkerdrengen slo et slag nordover for å finne en hjemsti som han visste lå f
 
 Klokkerdrengen ble kald der han stod, men kom seg alikevel bakom en unggran, som vokste like ved hjemstien.
 
-Den som ulte, kom fort dragende, og i måneskinnet så han det var en krugget mann med stav i hånd. Kommet frem til myren rettet han seg, mannen, dro vær mest som en hund og ulte. Gikk så fort i vei, like forbi busken der klokkergutten stod. Men denne ble stående som fjetret; for da han fikk se ham i ansiktet, der han dro forbi, så han at det var Jens klokker, husbonden hans.
+Den som ulte, kom fort dragende, og i måneskinnet så han det var en krukket mann med stav i hånd. Kommet frem til myren rettet han seg, mannen, dro vær mest som en hund og ulte. Gikk så fort i vei, like forbi busken der klokkergutten stod. Men denne ble stående som fjetret; for da han fikk se ham i ansiktet, der han dro forbi, så han at det var Jens klokker, husbonden hans.
 
 ![Ute i skogen](./ju1.png)
 
@@ -40,9 +40,9 @@ Da han kom hjem om kvelden, var alt stille.
 
 Dagen etter da klokkerdrengen og Jens klokker bar opp løv på låven og drengen gikk sist, fikk han se at der satt tørr reinsdyrmåså i buksa på klokkeren. Da skjønte han alt. Og fjorten dager etter flyttet han.
 
-Men fra den dag begynte de i bygden å tale om klokkeren sin, og før året var gått hadde han liksom av seg selv fått øknavn Jens ulv.
+Men fra den dag begynte de i bygden å tale om klokkeren sin, og før året var gått hadde han liksom av seg selv fått øknavnet Jens ulv.
 
-Ryktet om at klokkeren var varulv, kom snart presten for øre, men han trodde ikke stort på det. For ved all sin gjerning i Guds hellige hus var Jens klokker så andaktsfull, og når han leste kirke bønnen fra kordøra, var det slik hengivelse i stemmen, som om han takket og ba for seg selv alene.
+Ryktet om at klokkeren var varulv, kom snart presten for øre, men han trodde ikke stort på det. For ved all sin gjerning i Guds hellige hus var Jens klokker så andaktsfull, og når han leste kirkebønnen fra kordøra, var det slik hengivelse i stemmen, som om han takket og ba for seg selv alene.
 
 Men så var det en kveld presten skulle opp til kirken for å hente Guds ords bok som han hadde glemt etter seg sist han prekte.
 
@@ -62,7 +62,7 @@ Presten gikk så nær at han fikk spruten av gravjorda rett som det var i ansikt
 
 Da skjønte presten at det var Jens klokker, som var på nattferd. Så satte han seg stille hen i kirkegårdsvalen og ventet.
 
-Om en tur ble det stille der ute, og han hørte noen komme. Og inn gjennom kirkeporten smøy et underlig dyr, halvt ulv, halvt katt. Da smellet presten kirkeporten igjen, låste og tok nøklene ut. Gikk så sydover til klokkergården og leste hele tiden Fader vår gang på gang. Men da han skulle inn av porten ved klokkergården, snudde han seg og så seg attende mot kirken. Og der så han klokkeren sitte som varulv i kirketårnsluka og mjau og bære seg som en katt.
+Om en tur ble det stille der ute, og han hørte noen komme. Og inn gjennom kirkeporten smøyg et underlig dyr, halvt ulv, halvt katt. Da smelte presten kirkeporten igjen, låste og tok nøklene ut. Gikk så sydover til klokkergården og leste hele tiden Fader vår gang på gang. Men da han skulle inn av porten ved klokkergården, snudde han seg og så seg attende mot kirken. Og der så han klokkeren sitte som varulv i kirketårnsluka og mjaua og bar seg som en katt.
 
 Presten gikk like inn til søsteren.
 
