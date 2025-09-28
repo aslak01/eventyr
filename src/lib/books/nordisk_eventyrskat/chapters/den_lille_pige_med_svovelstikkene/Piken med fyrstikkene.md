@@ -29,4 +29,3 @@ Og hun strøk i hast hele resten av fyrstikkene som var i knippet. Hun ville ret
 Men i kroken ved huset satt i den kalde morgenstunda den lille pika med de røde kinnene, med smil om munnen – død, frosset i hjel den siste kvelden i det gamle året.
 
 Nyttårsmorgen gikk opp over det lille liket som satt med fyrstikkene, hvorav et knippe var nesten brent. «Hun har villet varme seg,» sa folk. Ingen visste hva vakkert hun hadde sett, i hvilken glans hun med gamle mormor var gått inn til nyttårsglede.
-

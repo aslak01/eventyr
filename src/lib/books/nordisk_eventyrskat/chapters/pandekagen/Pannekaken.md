@@ -107,4 +107,3 @@ Pannekaken gjorde så.
 «Nøff, køff!» sa grisen og tok pannekaken i én jafs, og da pannekaken ikke kom lenger, er ikke eventyret lenger heller.
 
 ![Gylte grisesylte](./pk6.png)
-

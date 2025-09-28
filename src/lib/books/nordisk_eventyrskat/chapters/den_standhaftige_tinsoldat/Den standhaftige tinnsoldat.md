@@ -74,4 +74,5 @@ Tinnsoldaten sto ganske belyst og følte en hete som var forferdel-ig, men om de
 Da gikk det en dør opp, vinden tok i danser-innen, og hun fløy som en sylfide rett inn i kakkel-ovnen til tinnsoldaten, blusse-t opp i lue og var borte. Så smelte-t tinnsoldaten til en klatt, og da pika dagen etter tok asken ut, fant hun ham som et lite tinnhjerte. Av danser-innen derimot var det kun palette-n, og den var brent kullsort.
 
 [^1]: Pallett = pynt av glimme-r/metall
+
 [^2]: Kommers = handel, regning

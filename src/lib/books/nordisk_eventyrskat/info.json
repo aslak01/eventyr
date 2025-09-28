@@ -1,13 +1,8 @@
 {
   "title": "Nordisk eventyrskat",
-  "author": [
-    "Peter Christen Asbjørnsen",
-    "Hans Christian Andersen"
-  ],
+  "author": ["Peter Christen Asbjørnsen", "Hans Christian Andersen"],
   "published": 1879,
-  "illustrator": [
-    "Theodor Kittelsen"
-  ],
+  "illustrator": ["Theodor Kittelsen"],
   "chapter_index": {
     "pandekagen": "Pannekaken",
     "gutten_som_gik_til_nordenvinden_paa_krav": "Gutten som gikk til nordavinden for å kreve melet tilbake",

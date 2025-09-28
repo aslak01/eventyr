@@ -127,4 +127,5 @@ Veslefrikk var ikke lenge om å få fela til å låte, og alle de som var der, t
 Der var ikke noen som tenkte på å gjøre noe med Veslefrikk, og han fikk gå med børsa og fela si som han ville, og han levde vel alle sine dager, for det var ingen som kunne si nei til det første han ba om.
 
 [^1]: Børse = gevær
+
 [^2]: Finmut = penger, gull
