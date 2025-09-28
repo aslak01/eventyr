@@ -45,13 +45,16 @@ describe("loadBooks", () => {
       published: 2023,
       illustrator: [],
       chapter_index: {
-        "chapter-1": "Chapter One"
-      }
+        "chapter-1": "Chapter One",
+      },
     };
     writeFileSync(join(bookDir, "info.json"), JSON.stringify(bookInfo));
 
     // Create chapter markdown
-    writeFileSync(join(chapter1Dir, "chapter-1.md"), "# Chapter One\n\nThis is test content.");
+    writeFileSync(
+      join(chapter1Dir, "chapter-1.md"),
+      "# Chapter One\n\nThis is test content.",
+    );
 
     const result = await loadBooks(testConfig);
 
@@ -78,7 +81,7 @@ describe("loadBooks", () => {
       author: ["Author One"],
       published: 2021,
       illustrator: [],
-      chapter_index: { "chapter-1": "First Chapter" }
+      chapter_index: { "chapter-1": "First Chapter" },
     };
     writeFileSync(join(book1Dir, "info.json"), JSON.stringify(book1Info));
     writeFileSync(join(chapter1_1Dir, "chapter-1.md"), "Content 1");
@@ -95,7 +98,7 @@ describe("loadBooks", () => {
       author: ["Author Two"],
       published: 2022,
       illustrator: [],
-      chapter_index: { "intro": "Introduction" }
+      chapter_index: { intro: "Introduction" },
     };
     writeFileSync(join(book2Dir, "info.json"), JSON.stringify(book2Info));
     writeFileSync(join(chapter2_1Dir, "intro.md"), "Intro content");
@@ -103,7 +106,10 @@ describe("loadBooks", () => {
     const result = await loadBooks(testConfig);
 
     expect(result).toHaveLength(2);
-    expect(result.map(book => book.name).sort()).toEqual(["Book One", "Book Two"]);
+    expect(result.map((book) => book.name).sort()).toEqual([
+      "Book One",
+      "Book Two",
+    ]);
   });
 
   test("calculates word count for chapters", async () => {
@@ -118,7 +124,7 @@ describe("loadBooks", () => {
       author: ["Test Author"],
       published: 2023,
       illustrator: [],
-      chapter_index: { "test-chapter": "Test Chapter" }
+      chapter_index: { "test-chapter": "Test Chapter" },
     };
     writeFileSync(join(bookDir, "info.json"), JSON.stringify(bookInfo));
 
@@ -143,14 +149,18 @@ describe("loadBooks", () => {
       author: ["Author One", "Author Two", "Author Three"],
       published: 2023,
       illustrator: ["Illustrator One"],
-      chapter_index: { "chapter": "Single Chapter" }
+      chapter_index: { chapter: "Single Chapter" },
     };
     writeFileSync(join(bookDir, "info.json"), JSON.stringify(bookInfo));
     writeFileSync(join(chapterDir, "chapter.md"), "Content");
 
     const result = await loadBooks(testConfig);
 
-    expect(result[0].author).toEqual(["Author One", "Author Two", "Author Three"]);
+    expect(result[0].author).toEqual([
+      "Author One",
+      "Author Two",
+      "Author Three",
+    ]);
   });
 
   test("handles PDF files in chapters", async () => {
@@ -165,7 +175,7 @@ describe("loadBooks", () => {
       author: ["PDF Author"],
       published: 2023,
       illustrator: [],
-      chapter_index: { "pdf-chapter": "PDF Chapter" }
+      chapter_index: { "pdf-chapter": "PDF Chapter" },
     };
     writeFileSync(join(bookDir, "info.json"), JSON.stringify(bookInfo));
     writeFileSync(join(chapterDir, "pdf-chapter.md"), "Chapter content");
@@ -190,9 +200,12 @@ describe("loadBooks", () => {
       author: ["Author"],
       published: 2023,
       illustrator: [],
-      chapter_index: { "chapter": "Chapter" }
+      chapter_index: { chapter: "Chapter" },
     };
-    writeFileSync(join(validBookDir, "info.json"), JSON.stringify(validBookInfo));
+    writeFileSync(
+      join(validBookDir, "info.json"),
+      JSON.stringify(validBookInfo),
+    );
     writeFileSync(join(validChapterDir, "chapter.md"), "Content");
 
     // Create invalid book (missing info.json)
@@ -211,7 +224,7 @@ describe("loadBooks", () => {
   test("skips chapters without markdown files", async () => {
     const bookDir = join(testBooksDir, "mixed-chapters-book");
     const chaptersDir = join(bookDir, "chapters");
-    
+
     // Valid chapter with markdown
     const validChapterDir = join(chaptersDir, "valid-chapter");
     mkdirSync(validChapterDir, { recursive: true });
@@ -220,7 +233,10 @@ describe("loadBooks", () => {
     // Invalid chapter without markdown
     const invalidChapterDir = join(chaptersDir, "invalid-chapter");
     mkdirSync(invalidChapterDir, { recursive: true });
-    writeFileSync(join(invalidChapterDir, "invalid-chapter.txt"), "Invalid content");
+    writeFileSync(
+      join(invalidChapterDir, "invalid-chapter.txt"),
+      "Invalid content",
+    );
 
     const bookInfo = {
       title: "Mixed Chapters Book",
@@ -229,8 +245,8 @@ describe("loadBooks", () => {
       illustrator: [],
       chapter_index: {
         "valid-chapter": "Valid Chapter",
-        "invalid-chapter": "Invalid Chapter"
-      }
+        "invalid-chapter": "Invalid Chapter",
+      },
     };
     writeFileSync(join(bookDir, "info.json"), JSON.stringify(bookInfo));
 

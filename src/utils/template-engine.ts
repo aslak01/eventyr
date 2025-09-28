@@ -15,13 +15,25 @@ export interface TemplateEngine {
   clearCache: () => void;
 }
 
-const getNestedProperty = (obj: any, path: string): any =>
-  path.split(".").reduce((current, prop) => current?.[prop], obj);
+const getNestedProperty = (obj: TemplateContext, path: string): unknown => {
+  const parts = path.split(".");
+  let current: unknown = obj;
+
+  for (const prop of parts) {
+    if (current && typeof current === "object" && prop in current) {
+      current = (current as Record<string, unknown>)[prop];
+    } else {
+      return undefined;
+    }
+  }
+
+  return current;
+};
 
 const interpolate = (template: string, context: TemplateContext): string =>
   template.replace(/\{\{(\w+(?:\.\w+)*)\}\}/g, (match, path) => {
     const value = getNestedProperty(context, path);
-    return value !== undefined ? String(value) : match;
+    return value !== undefined && value !== null ? String(value) : match;
   });
 
 // Factory function that creates a template engine
