@@ -7,13 +7,13 @@ import { optimizeImages } from "./src/image_processing/image-simple.ts";
 import { generateMainIndexHTML } from "./src/pages/index-tales.ts";
 import { generateBooksIndexHTML } from "./src/pages/index-books.ts";
 import { generateBookIndexHTML } from "./src/pages/index-book.ts";
+import { isNonEmptyString } from "./src/utils/type-guards.ts";
 import { generateChapterHTML } from "./src/pages/chapter.ts";
 import { generateAboutHTML } from "./src/pages/about.ts";
 import { processCSS } from "./src/css/process.ts";
 import { processJS } from "./src/js/process.ts";
 import { loadBooks } from "./load-books.ts";
 import { logger } from "./src/utils/logger.ts";
-import { isNonEmptyString } from "./src/utils/type-guards.ts";
 
 const defaultConfig: GeneratorConfig = {
   booksDir: "./src/lib/books",

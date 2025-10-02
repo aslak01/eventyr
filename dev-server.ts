@@ -9,6 +9,7 @@ import {
   validatePath,
   validateBookSlug,
   validatePdfFilename,
+  validateFileExtension,
   ValidationError,
 } from "./src/utils/validation.ts";
 import { isNonEmptyString } from "./src/utils/type-guards.ts";
@@ -18,8 +19,7 @@ const config = getConfig();
 // Store connected clients for live reload with cleanup
 const clients = new Set<ReadableStreamDefaultController>();
 
-// Client cleanup interval
-const CLIENT_CLEANUP_INTERVAL = 30000; // 30 seconds
+const CLIENT_CLEANUP_INTERVAL = 30000;
 
 interface ClientConnection {
   controller: ReadableStreamDefaultController;
@@ -164,8 +164,8 @@ try {
 serve({
   port: config.server.port,
   async fetch(req) {
+    const url = new URL(req.url);
     try {
-      const url = new URL(req.url);
       let path = decodeURIComponent(url.pathname);
 
       logger.debug("Request received", { method: req.method, path });

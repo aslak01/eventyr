@@ -1,7 +1,6 @@
-import { test, expect, describe, beforeEach, afterEach } from "bun:test";
+import { test, expect, describe } from "bun:test";
 import { createGenerator } from "./static-generator.ts";
 import type { GeneratorConfig } from "./src/types/types.ts";
-import { rmSync } from "fs";
 
 describe("createGenerator", () => {
   test("uses default config when no options provided", () => {

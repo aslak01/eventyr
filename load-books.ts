@@ -12,11 +12,7 @@ import type {
 
 import { getWordCount } from "./src/utils/strings.ts";
 import { logger } from "./src/utils/logger.ts";
-import {
-  isValidBookInfo,
-  isNonEmptyString,
-  assertIsString,
-} from "./src/utils/type-guards.ts";
+import { isValidBookInfo, isNonEmptyString } from "./src/utils/type-guards.ts";
 
 export async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
   if (!config?.booksDir) {

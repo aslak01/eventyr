@@ -40,8 +40,6 @@ export function bookCardGenerator(
   let authors: string;
   if (Array.isArray(book.author) && book.author.length > 0) {
     authors = book.author.filter(isNonEmptyString).join(", ");
-  } else if (typeof book.author === "string" && book.author.trim()) {
-    authors = book.author;
   } else {
     authors = "Unknown Author";
   }

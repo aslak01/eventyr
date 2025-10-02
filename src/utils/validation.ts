@@ -32,14 +32,23 @@ export function validatePath(path: string, basePath?: string): string {
   }
 
   // Normalize and resolve the path to prevent bypasses
-  const normalizedPath = normalize(path);
+  let normalizedPath = normalize(path);
+
+  // Remove leading slash for relative resolution when using basePath
+  if (basePath && normalizedPath.startsWith("/")) {
+    normalizedPath = normalizedPath.slice(1);
+  }
 
   if (basePath) {
     const resolvedPath = resolve(basePath, normalizedPath);
     const resolvedBase = resolve(basePath);
 
     // Ensure the resolved path is within the base directory
-    if (!resolvedPath.startsWith(resolvedBase)) {
+    // The resolved path should either be exactly the base path or start with base path + separator
+    if (
+      resolvedPath !== resolvedBase &&
+      !resolvedPath.startsWith(resolvedBase + "/")
+    ) {
       throw new ValidationError("Path escapes base directory");
     }
 
