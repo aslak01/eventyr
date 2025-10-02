@@ -59,13 +59,17 @@ describe("loadBooks", () => {
     const result = await loadBooks(testConfig);
 
     expect(result).toHaveLength(1);
-    expect(result[0].name).toBe("Test Book");
-    expect(result[0].author).toEqual(["Test Author"]);
-    expect(result[0].published).toBe(2023);
-    expect(result[0].slug).toBe("test-book");
-    expect(result[0].chapters).toHaveLength(1);
-    expect(result[0].chapters[0].title).toBe("Chapter One");
-    expect(result[0].chapters[0].path).toBe("chapter-1");
+    const book = result[0];
+    if (!book) throw new Error("Expected book to exist");
+    expect(book.name).toBe("Test Book");
+    expect(book.author).toEqual(["Test Author"]);
+    expect(book.published).toBe(2023);
+    expect(book.slug).toBe("test-book");
+    expect(book.chapters).toHaveLength(1);
+    const chapter = book.chapters[0];
+    if (!chapter) throw new Error("Expected chapter to exist");
+    expect(chapter.title).toBe("Chapter One");
+    expect(chapter.path).toBe("chapter-1");
   });
 
   test("loads multiple books", async () => {
@@ -134,7 +138,11 @@ describe("loadBooks", () => {
 
     const result = await loadBooks(testConfig);
 
-    expect(result[0].chapters[0].wordCount).toBe(5);
+    const book = result[0];
+    if (!book) throw new Error("Expected book to exist");
+    const chapter = book.chapters[0];
+    if (!chapter) throw new Error("Expected chapter to exist");
+    expect(chapter.wordCount).toBe(5);
   });
 
   test("handles books with multiple authors", async () => {
@@ -156,11 +164,9 @@ describe("loadBooks", () => {
 
     const result = await loadBooks(testConfig);
 
-    expect(result[0].author).toEqual([
-      "Author One",
-      "Author Two",
-      "Author Three",
-    ]);
+    const book = result[0];
+    if (!book) throw new Error("Expected book to exist");
+    expect(book.author).toEqual(["Author One", "Author Two", "Author Three"]);
   });
 
   test("handles PDF files in chapters", async () => {
@@ -183,8 +189,12 @@ describe("loadBooks", () => {
 
     const result = await loadBooks(testConfig);
 
-    expect(result[0].chapters[0].pdfPath).toBe("/pdf-book/pdf-chapter.pdf");
-    expect(result[0].chapters[0].pdfSourcePath).toContain("pdf-chapter.pdf");
+    const book = result[0];
+    if (!book) throw new Error("Expected book to exist");
+    const chapter = book.chapters[0];
+    if (!chapter) throw new Error("Expected chapter to exist");
+    expect(chapter.pdfPath).toBe("/pdf-book/pdf-chapter.pdf");
+    expect(chapter.pdfSourcePath).toContain("pdf-chapter.pdf");
   });
 
   test("skips invalid book directories", async () => {
@@ -218,7 +228,9 @@ describe("loadBooks", () => {
     const result = await loadBooks(testConfig);
 
     expect(result).toHaveLength(1);
-    expect(result[0].name).toBe("Valid Book");
+    const book = result[0];
+    if (!book) throw new Error("Expected book to exist");
+    expect(book.name).toBe("Valid Book");
   });
 
   test("skips chapters without markdown files", async () => {
@@ -252,7 +264,11 @@ describe("loadBooks", () => {
 
     const result = await loadBooks(testConfig);
 
-    expect(result[0].chapters).toHaveLength(1);
-    expect(result[0].chapters[0].title).toBe("Valid Chapter");
+    const book = result[0];
+    if (!book) throw new Error("Expected book to exist");
+    expect(book.chapters).toHaveLength(1);
+    const chapter = book.chapters[0];
+    if (!chapter) throw new Error("Expected chapter to exist");
+    expect(chapter.title).toBe("Valid Chapter");
   });
 });
