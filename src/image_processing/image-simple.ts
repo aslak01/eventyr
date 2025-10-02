@@ -252,7 +252,7 @@ export async function findImages(bookPath: string): Promise<string[]> {
         }
       }
     } catch (error) {
-      console.error(`Error reading book root ${bookPath}:`, error);
+      // Silently handle missing book root directory
     }
 
     // Then, check for images in chapter directories
@@ -278,11 +278,11 @@ export async function findImages(bookPath: string): Promise<string[]> {
             }
           }
         } catch (error) {
-          console.error(`Error reading chapter ${chapter}:`, error);
+          // Silently handle chapter read errors
         }
       }
     } catch (error) {
-      console.error(`Error reading chapters directory ${chaptersPath}:`, error);
+      // Silently handle missing chapters directory
     }
   } catch (error) {
     console.error(`Error finding images in ${bookPath}:`, error);

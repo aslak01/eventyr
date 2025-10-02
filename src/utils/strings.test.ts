@@ -15,7 +15,9 @@ describe("safeString", () => {
   });
 
   test("handles multiple quotes", () => {
-    expect(safeString('"Hello" "world" "test"')).toBe("&quot;Hello&quot; &quot;world&quot; &quot;test&quot;");
+    expect(safeString('"Hello" "world" "test"')).toBe(
+      "&quot;Hello&quot; &quot;world&quot; &quot;test&quot;",
+    );
   });
 });
 
@@ -29,7 +31,9 @@ describe("joinAuthors", () => {
   });
 
   test("joins two authors with 'og'", () => {
-    expect(joinAuthors(["John Doe", "Jane Smith"])).toBe("John Doe og Jane Smith");
+    expect(joinAuthors(["John Doe", "Jane Smith"])).toBe(
+      "John Doe og Jane Smith",
+    );
   });
 
   test("joins three authors with comma and 'og'", () => {
@@ -37,7 +41,9 @@ describe("joinAuthors", () => {
   });
 
   test("joins four authors correctly", () => {
-    expect(joinAuthors(["John", "Jane", "Bob", "Alice"])).toBe("John, Jane, Bob og Alice");
+    expect(joinAuthors(["John", "Jane", "Bob", "Alice"])).toBe(
+      "John, Jane, Bob og Alice",
+    );
   });
 });
 

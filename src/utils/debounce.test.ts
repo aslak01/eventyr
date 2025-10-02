@@ -10,7 +10,7 @@ describe("debounce", () => {
     debouncedFn();
     expect(callCount).toBe(0);
 
-    await new Promise(resolve => setTimeout(resolve, 150));
+    await new Promise((resolve) => setTimeout(resolve, 150));
     expect(callCount).toBe(1);
   });
 
@@ -23,7 +23,7 @@ describe("debounce", () => {
     debouncedFn();
     debouncedFn();
 
-    await new Promise(resolve => setTimeout(resolve, 150));
+    await new Promise((resolve) => setTimeout(resolve, 150));
     expect(callCount).toBe(1);
   });
 
@@ -36,7 +36,7 @@ describe("debounce", () => {
 
     debouncedFn("hello", 42, true);
 
-    await new Promise(resolve => setTimeout(resolve, 100));
+    await new Promise((resolve) => setTimeout(resolve, 100));
     expect(lastArgs).toEqual(["hello", 42, true]);
   });
 
@@ -49,7 +49,7 @@ describe("debounce", () => {
 
     debouncedFn("test", 123);
 
-    await new Promise(resolve => setTimeout(resolve, 100));
+    await new Promise((resolve) => setTimeout(resolve, 100));
     expect(result).toBe("test-123");
   });
 
@@ -61,10 +61,10 @@ describe("debounce", () => {
     // Call 10 times rapidly
     for (let i = 0; i < 10; i++) {
       debouncedFn();
-      await new Promise(resolve => setTimeout(resolve, 10));
+      await new Promise((resolve) => setTimeout(resolve, 10));
     }
 
-    await new Promise(resolve => setTimeout(resolve, 150));
+    await new Promise((resolve) => setTimeout(resolve, 150));
     expect(callCount).toBe(1);
   });
 });
