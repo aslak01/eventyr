@@ -10,6 +10,7 @@ export type Chapter = {
   pdfPath?: string;
   pdfSourcePath?: string;
   subtitle?: string;
+  ageRating?: AgeRating;
 };
 
 export type BookData = {
@@ -21,12 +22,19 @@ export type BookData = {
   published: number;
 };
 
+export type AgeRating = 3 | 5 | 7 | 9;
+
+export type ChapterMeta = {
+  title: string;
+  ageRating: AgeRating;
+};
+
 export type BookInfo = {
   title: string;
   author: string[];
   published: number;
   illustrator: string[];
-  chapter_index: Record<string, string>;
+  chapter_index: Record<string, string | ChapterMeta>;
 };
 
 export type ImageSize = {
@@ -67,4 +75,5 @@ export type ChapterLoadParams = {
   order: number;
   chaptersPath: string;
   bookData: BookData;
+  ageRating?: AgeRating;
 };

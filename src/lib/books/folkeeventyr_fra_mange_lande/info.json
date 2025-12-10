@@ -1,34 +1,109 @@
 {
   "title": "Folkeeventyr fra mange lande",
-  "author": [],
+  "author": ["T. Vetlesen"],
   "translator": ["T. Vetlesen"],
   "published": 1911,
   "illustrator": [],
   "chapter_index": {
-    "den_tro_johannes": "Den tro Johannes",
-    "hans_og_grete": "Hans og Grete",
-    "sinbad_farmand": "Sinbad Farmand",
-    "gutten_som_drog_omkring_for_at_lære_at_grøsse": "Gutten som dro omkring for å lære å grøsse",
-    "tommelitens_liv_og_hændelser_i_england": "Tommelitens liv og hendelser i England",
-    "trollskibet": "Trollskipet",
-    "liljejomfruen": "Liljejomfruen",
-    "katten_med_støvler_paa": "Katten med støvler",
-    "gjætergutten": "Gjetergutten",
-    "askepot": "Askepott",
-    "piken_i_museskindskaapen": "Piken i museskinnskåpen",
-    "trolhesten": "Trollhesten",
-    "risen_og_veslegutten": "Risen og veslegutten",
-    "ulv_kongesøn": "Ulv kongesønn",
-    "bror_og_søster": "Bror og søster",
-    "aladdin_og_den_vidunderlige_lampe": "Aladdin og den vidunderlige lampe",
-    "jakob_kjæmpebane": "Jakob kjempebane",
-    "de_to_brødre": "De to brødre",
-    "den_lille_kadi": "Den lille kadi",
-    "kjærringen_som_ikke_var_nyfiken": "Kjerringen som ikke var nyskjerrig",
-    "den_dødes_søn": "Den dødes sønn",
-    "kong_trosteskjæg": "Kong Trosteskjegg",
-    "sterke-matti": "Sterke-Matti",
-    "røverbrudgommen": "Røverbrudgommen",
-    "blaaskjeg": "Blåskjegg"
+    "den_tro_johannes": {
+      "title": "Den tro Johannes",
+      "ageRating": 5
+    },
+    "hans_og_grete": {
+      "title": "Hans og Grete",
+      "ageRating": 5
+    },
+    "sinbad_farmand": {
+      "title": "Sinbad Farmand",
+      "ageRating": 3
+    },
+    "gutten_som_dro_omkring_for_aa_laere_aa_groesse": {
+      "title": "Gutten som dro omkring for å lære å grøsse",
+      "ageRating": 5
+    },
+    "tommelitens_liv_og_hendelser_i_england": {
+      "title": "Tommelitens liv og hendelser i England",
+      "ageRating": 3
+    },
+    "trollskipet": {
+      "title": "Trollskipet",
+      "ageRating": 3
+    },
+    "liljejomfruen": {
+      "title": "Liljejomfruen",
+      "ageRating": 3
+    },
+    "katten_med_stoevler": {
+      "title": "Katten med støvler",
+      "ageRating": 3
+    },
+    "gjetergutten": {
+      "title": "Gjetergutten",
+      "ageRating": 3
+    },
+    "askepott": {
+      "title": "Askepott",
+      "ageRating": 3
+    },
+    "piken_i_museskinnskaapen": {
+      "title": "Piken i museskinnskåpen",
+      "ageRating": 3
+    },
+    "trollhesten": {
+      "title": "Trollhesten",
+      "ageRating": 3
+    },
+    "risen_og_veslegutten": {
+      "title": "Risen og veslegutten",
+      "ageRating": 3
+    },
+    "ulv_kongesoenn": {
+      "title": "Ulv kongesønn",
+      "ageRating": 3
+    },
+    "bror_og_soester": {
+      "title": "Bror og søster",
+      "ageRating": 5
+    },
+    "aladdin_og_den_vidunderlige_lampe": {
+      "title": "Aladdin og den vidunderlige lampe",
+      "ageRating": 3
+    },
+    "jakob_kjempebane": {
+      "title": "Jakob kjempebane",
+      "ageRating": 3
+    },
+    "de_to_broedre": {
+      "title": "De to brødre",
+      "ageRating": 3
+    },
+    "den_lille_kadi": {
+      "title": "Den lille kadi",
+      "ageRating": 3
+    },
+    "kjerringen_som_ikke_var_nyskjerrig": {
+      "title": "Kjerringen som ikke var nyskjerrig",
+      "ageRating": 3
+    },
+    "den_doedes_soenn": {
+      "title": "Den dødes sønn",
+      "ageRating": 5
+    },
+    "kong_trosteskjegg": {
+      "title": "Kong Trosteskjegg",
+      "ageRating": 3
+    },
+    "sterke_matti": {
+      "title": "Sterke-Matti",
+      "ageRating": 3
+    },
+    "roeverbrudgommen": {
+      "title": "Røverbrudgommen",
+      "ageRating": 7
+    },
+    "blaaskjegg": {
+      "title": "Blåskjegg",
+      "ageRating": 7
+    }
   }
 }

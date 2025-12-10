@@ -1,7 +1,9 @@
 import type {
+  AgeRating,
   BookData,
   BookInfo,
   Chapter,
+  ChapterMeta,
   OptimizedImage,
 } from "../types/types.ts";
 
@@ -30,6 +32,22 @@ export function isNonEmptyString(value: unknown): value is string {
   return isString(value) && value.trim().length > 0;
 }
 
+export function isValidAgeRating(value: unknown): value is AgeRating {
+  return value === 3 || value === 5 || value === 7 || value === 9;
+}
+
+export function isValidChapterMeta(value: unknown): value is ChapterMeta {
+  if (typeof value !== "object" || value === null) return false;
+  const obj = value as Record<string, unknown>;
+  return isNonEmptyString(obj.title) && isValidAgeRating(obj.ageRating);
+}
+
+export function isValidChapterIndexEntry(
+  value: unknown,
+): value is string | ChapterMeta {
+  return isNonEmptyString(value) || isValidChapterMeta(value);
+}
+
 export function isValidBookInfo(value: unknown): value is BookInfo {
   if (typeof value !== "object" || value === null) return false;
 
@@ -38,7 +56,6 @@ export function isValidBookInfo(value: unknown): value is BookInfo {
   return (
     isNonEmptyString(obj.title) &&
     isStringArray(obj.author) &&
-    obj.author.length > 0 &&
     isNumber(obj.published) &&
     obj.published > 0 &&
     isStringArray(obj.illustrator) &&
@@ -46,7 +63,8 @@ export function isValidBookInfo(value: unknown): value is BookInfo {
     obj.chapter_index !== null &&
     Object.keys(obj.chapter_index).length > 0 &&
     Object.entries(obj.chapter_index).every(
-      ([key, value]) => isNonEmptyString(key) && isNonEmptyString(value),
+      ([key, value]) =>
+        isNonEmptyString(key) && isValidChapterIndexEntry(value),
     )
   );
 }
@@ -69,7 +87,8 @@ export function isValidChapter(value: unknown): value is Chapter {
     obj.order >= 0 &&
     (obj.pdfPath === undefined || isString(obj.pdfPath)) &&
     (obj.pdfSourcePath === undefined || isString(obj.pdfSourcePath)) &&
-    (obj.subtitle === undefined || isString(obj.subtitle))
+    (obj.subtitle === undefined || isString(obj.subtitle)) &&
+    (obj.ageRating === undefined || isValidAgeRating(obj.ageRating))
   );
 }
 

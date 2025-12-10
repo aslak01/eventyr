@@ -4,25 +4,85 @@
   "published": 1920,
   "illustrator": [],
   "chapter_index": {
-    "sterke_dummas": "Sterke Dummas",
-    "risen_og_veslegutten": "Risen og veslegutten",
-    "trylleringen": "Trylleringen",
-    "trollmændene": "Trollmennene",
-    "ulvekhanens_datter": "Ulvekhanens datter",
-    "solhesten": "Solhesten",
-    "trollskibet": "Trollskipet",
-    "vorherre_og_st_peder_paa_vandring": "Vårherre og St. Peter på vandring",
-    "liljejomfruen": "Liljejomfruen",
-    "trollmanden_piau-lu_eller_dragetanden": "Trollmannen Piau-lu eller Dragetannen",
-    "de_forvandlede_barn": "De forvandlede barn",
-    "malmkongen": "Malmkongen",
-    "guldgjøk": "Gullgjøk",
-    "vetikke": "Vetikke",
-    "ilmarin_smeds_frierfærd": "Illmarin smeds frierferd",
-    "stallo_og_lappebrødrene_sodno": "Stallo og lappebrødrene Sodno",
-    "den_skjønne_havfrue": "Den skjønne havfrue",
-    "fattigmanden_og_døden": "Fattigmannen og døden",
-    "tommelitens_liv_og_hendelser_i_england": "Tommelitens liv og hendelser i England",
-    "manden_som_skjønte_alleslags_sprog": "Mannen som skjønte alleslags språk"
+    "sterke_dummas": {
+      "title": "Sterke Dummas",
+      "ageRating": 3
+    },
+    "risen_og_veslegutten": {
+      "title": "Risen og veslegutten",
+      "ageRating": 3
+    },
+    "trylleringen": {
+      "title": "Trylleringen",
+      "ageRating": 3
+    },
+    "trollmennene": {
+      "title": "Trollmennene",
+      "ageRating": 3
+    },
+    "ulvekhanens_datter": {
+      "title": "Ulvekhanens datter",
+      "ageRating": 3
+    },
+    "solhesten": {
+      "title": "Solhesten",
+      "ageRating": 3
+    },
+    "trollskipet": {
+      "title": "Trollskipet",
+      "ageRating": 3
+    },
+    "vaarherre_og_st_peter_paa_vandring": {
+      "title": "Vårherre og St. Peter på vandring",
+      "ageRating": 3
+    },
+    "liljejomfruen": {
+      "title": "Liljejomfruen",
+      "ageRating": 3
+    },
+    "trollmannen_piau_lu_eller_dragetannen": {
+      "title": "Trollmannen Piau-lu eller Dragetannen",
+      "ageRating": 5
+    },
+    "de_forvandlede_barn": {
+      "title": "De forvandlede barn",
+      "ageRating": 3
+    },
+    "malmkongen": {
+      "title": "Malmkongen",
+      "ageRating": 5
+    },
+    "gullgjoek": {
+      "title": "Gullgjøk",
+      "ageRating": 3
+    },
+    "vetikke": {
+      "title": "Vetikke",
+      "ageRating": 3
+    },
+    "illmarin_smeds_frierferd": {
+      "title": "Illmarin smeds frierferd",
+      "ageRating": 3
+    },
+    "stallo_og_lappebroedrene_sodno": {
+      "title": "Stallo og lappebrødrene Sodno",
+      "ageRating": 5
+    },
+    "den_skjoenne_havfrue": {
+      "title": "Den skjønne havfrue",
+      "ageRating": 3
+    },
+    "fattigmannen_og_doeden": {
+      "title": "Fattigmannen og døden",
+      "ageRating": 5
+    },
+    "tommelitens_liv_og_hendelser_i_england": {
+      "title": "Tommelitens liv og hendelser i England",
+      "ageRating": 3
+    },
+    "mannen_som_skjoente_alleslags_spraak": {
+      "title": "Mannen som skjønte alleslags språk",
+      "ageRating": 3
+    }
   }
 }

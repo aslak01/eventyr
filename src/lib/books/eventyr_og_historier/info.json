@@ -4,21 +4,69 @@
   "published": 1928,
   "illustrator": ["A. Block", "Louis Moe"],
   "chapter_index": {
-    "gutten_som_døyvet_trollet": "Gutten som døyvet trollet",
-    "trolljo": "Trolljo",
-    "gullblom": "Gullblom",
-    "styggvakker-mari": "Styggvakker-Mari",
-    "mons_fra_mi-au": "Mons fra Mi-au",
-    "latter-ola": "Latter-Ola",
-    "jens_ulv": "Jens ulv",
-    "underjordsfolk": "Underjordsfolk",
-    "julsrudnissen": "Julsrudnissen",
-    "skriveren_og_tassengrå": "Skriveren og Tassengrå",
-    "vriomvrang": "Vriomvrang",
-    "da_bjørnen_for_til_jords": "Da bjørnen for til jords",
-    "sankthansdans": "Sankthansdans",
-    "spirrevipp_og_spurrevupp": "Spirrevipp og Spurrevupp",
-    "marit": "Marit",
-    "ulveslaget": "Ulveslaget"
+    "gutten_som_doeyvet_trollet": {
+      "title": "Gutten som døyvet trollet",
+      "ageRating": 3
+    },
+    "trolljo": {
+      "title": "Trolljo",
+      "ageRating": 3
+    },
+    "gullblom": {
+      "title": "Gullblom",
+      "ageRating": 3
+    },
+    "styggvakker_mari": {
+      "title": "Styggvakker-Mari",
+      "ageRating": 3
+    },
+    "mons_fra_mi_au": {
+      "title": "Mons fra Mi-au",
+      "ageRating": 3
+    },
+    "latter_ola": {
+      "title": "Latter-Ola",
+      "ageRating": 3
+    },
+    "jens_ulv": {
+      "title": "Jens ulv",
+      "ageRating": 3
+    },
+    "underjordsfolk": {
+      "title": "Underjordsfolk",
+      "ageRating": 3
+    },
+    "julsrudnissen": {
+      "title": "Julsrudnissen",
+      "ageRating": 3
+    },
+    "skriveren_og_tassengraa": {
+      "title": "Skriveren og Tassengrå",
+      "ageRating": 3
+    },
+    "vriomvrang": {
+      "title": "Vriomvrang",
+      "ageRating": 3
+    },
+    "da_bjoernen_for_til_jords": {
+      "title": "Da bjørnen for til jords",
+      "ageRating": 3
+    },
+    "sankthansdans": {
+      "title": "Sankthansdans",
+      "ageRating": 3
+    },
+    "spirrevipp_og_spurrevupp": {
+      "title": "Spirrevipp og Spurrevupp",
+      "ageRating": 3
+    },
+    "marit": {
+      "title": "Marit",
+      "ageRating": 3
+    },
+    "ulveslaget": {
+      "title": "Ulveslaget",
+      "ageRating": 5
+    }
   }
 }

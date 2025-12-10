@@ -4,27 +4,93 @@
   "published": 1914,
   "illustrator": [],
   "chapter_index": {
-    "møllergutten_og_katten": "Møllergutten og katten",
-    "kraakene": "Kråkene",
-    "hans_pindsvin": "Hans Pinnsvin",
-    "jøden_i_tornebusken": "Jøden i tornebusken",
-    "den_utlærte_jæger": "Den utlærte jeger",
-    "om_den_kloke_lille_skredder": "Om den kloke lille skredder",
-    "det_blaa_lys": "Det blå lys",
-    "de_tre_feltskjærere": "De tre feltskjærerne",
-    "de_tre_haandverkssvenner": "De tre håndverkssvenner",
-    "kongssønnen_som_ikke_var_redd_for_noget": "Kongesønnen som ikke var redd for noe",
-    "den_gamle_i_skogen": "Den gamle i skogen",
-    "de_tre_brødre": "De tre brødre",
-    "djævelen_og_hans_oldemor": "Djevelen og hans oldemor",
-    "de_fire_kunstrike_brødre": "De fire kunstrike brødre",
-    "ræven_og_hesten": "Reven og hesten",
-    "de_itudansede_sko": "De utdansede skoene",
-    "de_seks_tjenere": "De seks tjenere",
-    "næpen": "Nepen",
-    "vorherres_og_fandens_dyr": "Vårherres og fandens dyr",
-    "den_unge_kjæmpe": "Den unge kjempe",
-    "løgneventyr": "Løgneventyr",
-    "nattergalen_og_blindsnogen": "Nattergalen og blindsnoken"
+    "moellergutten_og_katten": {
+      "title": "Møllergutten og katten",
+      "ageRating": 3
+    },
+    "kraakene": {
+      "title": "Kråkene",
+      "ageRating": 3
+    },
+    "hans_pinnsvin": {
+      "title": "Hans Pinnsvin",
+      "ageRating": 3
+    },
+    "joeden_i_tornebusken": {
+      "title": "Jøden i tornebusken",
+      "ageRating": 7
+    },
+    "den_utlaerte_jeger": {
+      "title": "Den utlærte jeger",
+      "ageRating": 3
+    },
+    "om_den_kloke_lille_skredder": {
+      "title": "Om den kloke lille skredder",
+      "ageRating": 3
+    },
+    "det_blaa_lys": {
+      "title": "Det blå lys",
+      "ageRating": 5
+    },
+    "de_tre_feltskjaererne": {
+      "title": "De tre feltskjærerne",
+      "ageRating": 5
+    },
+    "de_tre_haandverkssvenner": {
+      "title": "De tre håndverkssvenner",
+      "ageRating": 5
+    },
+    "kongesoennen_som_ikke_var_redd_for_noe": {
+      "title": "Kongesønnen som ikke var redd for noe",
+      "ageRating": 5
+    },
+    "den_gamle_i_skogen": {
+      "title": "Den gamle i skogen",
+      "ageRating": 3
+    },
+    "de_tre_broedre": {
+      "title": "De tre brødre",
+      "ageRating": 3
+    },
+    "djevelen_og_hans_oldemor": {
+      "title": "Djevelen og hans oldemor",
+      "ageRating": 5
+    },
+    "de_fire_kunstrike_broedre": {
+      "title": "De fire kunstrike brødre",
+      "ageRating": 3
+    },
+    "reven_og_hesten": {
+      "title": "Reven og hesten",
+      "ageRating": 3
+    },
+    "de_utdansede_skoene": {
+      "title": "De utdansede skoene",
+      "ageRating": 5
+    },
+    "de_seks_tjenere": {
+      "title": "De seks tjenere",
+      "ageRating": 3
+    },
+    "nepen": {
+      "title": "Nepen",
+      "ageRating": 3
+    },
+    "vaarherres_og_fandens_dyr": {
+      "title": "Vårherres og fandens dyr",
+      "ageRating": 3
+    },
+    "den_unge_kjempe": {
+      "title": "Den unge kjempe",
+      "ageRating": 3
+    },
+    "loegneventyr": {
+      "title": "Løgneventyr",
+      "ageRating": 3
+    },
+    "nattergalen_og_blindsnoken": {
+      "title": "Nattergalen og blindsnoken",
+      "ageRating": 3
+    }
   }
 }

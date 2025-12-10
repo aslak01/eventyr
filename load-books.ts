@@ -3,10 +3,12 @@ import { readdir, stat } from "fs/promises";
 import { readFile } from "fs/promises";
 
 import type {
+  AgeRating,
   BookData,
   BookInfo,
   Chapter,
   ChapterLoadParams,
+  ChapterMeta,
   GeneratorConfig,
 } from "./src/types/types.ts";
 
@@ -183,7 +185,13 @@ async function loadBook(
   }
 
   const chapterPromises = chapterEntries.map(
-    async ([chapterDir, chapterTitle], index): Promise<Chapter | null> => {
+    async ([chapterDir, chapterEntry], index): Promise<Chapter | null> => {
+      // Handle both string and ChapterMeta formats
+      const chapterTitle =
+        typeof chapterEntry === "string" ? chapterEntry : chapterEntry.title;
+      const ageRating: AgeRating | undefined =
+        typeof chapterEntry === "object" ? chapterEntry.ageRating : undefined;
+
       if (!isNonEmptyString(chapterDir) || !isNonEmptyString(chapterTitle)) {
         logger.warn("Invalid chapter entry", {
           chapterDir,
@@ -200,6 +208,7 @@ async function loadBook(
           order: index,
           chaptersPath,
           bookData,
+          ageRating,
         });
       } catch (error) {
         const errorMessage =
@@ -244,6 +253,7 @@ async function loadChapter({
   order,
   chaptersPath,
   bookData,
+  ageRating,
 }: ChapterLoadParams): Promise<Chapter | null> {
   if (!isNonEmptyString(chapterDir) || !isNonEmptyString(chapterTitle)) {
     logger.error("Invalid chapter parameters", { chapterDir, chapterTitle });
@@ -325,6 +335,7 @@ async function loadChapter({
       order,
       pdfPath: pdfPath ? `/${bookData.slug}/${chapterDir}.pdf` : undefined,
       pdfSourcePath: pdfPath,
+      ageRating,
     };
 
     logger.debug("Chapter loaded successfully", {

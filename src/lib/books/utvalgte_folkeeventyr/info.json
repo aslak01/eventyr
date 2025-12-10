@@ -4,26 +4,89 @@
   "published": 1907,
   "illustrator": ["Theodor Kittelsen"],
   "chapter_index": {
-    "kjæresten_i_skogen": "Kjæresten i skogen",
-    "venner_i_liv_og_død": "Venner i liv og død",
-    "gutten_som_skulde_tjene_tre_aar_uden_løn": "Gutten som skulle tjene tre år uten lønn",
-    "tre_citroner": "Tre sitroner",
-    "ikke_kjørende_og_ikke_ridende": "Ikke kjørende og ikke ridende",
-    "skipperen_og_gamle-erik": "Skipperen og Gamle-Erik",
-    "gutten_som_gjorde_sig_til_løve_falk_og_maur": "Gutten som gjorde seg til løve, falk og maur",
-    "tobaksgutten": "Tobakksgutten",
-    "guldslottet_som_hang_i_luften": "Gullslottet som hang i luften",
-    "røderev_og_askeladden": "Rødrev og Askeladden",
-    "gutten_som_vilde_blive_handelskar": "Gutten som ville bli handelskar",
-    "den_grønne_ridder": "Den grønne ridder",
-    "gale-mattis": "Gale-Mattis",
-    "klokkeren_i_bygden_vor": "Klokkeren i bygden vår",
-    "hvidebjørn_kong_valemon": "Hvitebjørn kong Valemon",
-    "god_dag_mand_økseskaft": "God dag mann, økseskaft",
-    "krambodgutten_med_gammelostlasten": "Krambodgutten med gammelostlasten",
-    "kjetten_som_var_saa_fæl_til_at_æde": "Kjetten som var så fæl til å ete",
-    "fanden_og_futen": "Fanden og futen",
-    "tsju_pus_vil_du_ned_af_bordet": "Tsju pus, gå ned fra bordet",
-    "syv_aars_gammel_grød": "Sju år gammel grøt"
+    "kjaeresten_i_skogen": {
+      "title": "Kjæresten i skogen",
+      "ageRating": 3
+    },
+    "venner_i_liv_og_doed": {
+      "title": "Venner i liv og død",
+      "ageRating": 5
+    },
+    "gutten_som_skulle_tjene_tre_aar_uten_loenn": {
+      "title": "Gutten som skulle tjene tre år uten lønn",
+      "ageRating": 3
+    },
+    "tre_sitroner": {
+      "title": "Tre sitroner",
+      "ageRating": 3
+    },
+    "ikke_kjoerende_og_ikke_ridende": {
+      "title": "Ikke kjørende og ikke ridende",
+      "ageRating": 3
+    },
+    "skipperen_og_gamle_erik": {
+      "title": "Skipperen og Gamle-Erik",
+      "ageRating": 3
+    },
+    "gutten_som_gjorde_seg_til_loeve_falk_og_maur": {
+      "title": "Gutten som gjorde seg til løve, falk og maur",
+      "ageRating": 3
+    },
+    "tobakksgutten": {
+      "title": "Tobakksgutten",
+      "ageRating": 3
+    },
+    "gullslottet_som_hang_i_luften": {
+      "title": "Gullslottet som hang i luften",
+      "ageRating": 3
+    },
+    "roedrev_og_askeladden": {
+      "title": "Rødrev og Askeladden",
+      "ageRating": 3
+    },
+    "gutten_som_ville_bli_handelskar": {
+      "title": "Gutten som ville bli handelskar",
+      "ageRating": 3
+    },
+    "den_groenne_ridder": {
+      "title": "Den grønne ridder",
+      "ageRating": 3
+    },
+    "gale_mattis": {
+      "title": "Gale-Mattis",
+      "ageRating": 3
+    },
+    "klokkeren_i_bygden_vaar": {
+      "title": "Klokkeren i bygden vår",
+      "ageRating": 3
+    },
+    "hvitebjoern_kong_valemon": {
+      "title": "Hvitebjørn kong Valemon",
+      "ageRating": 3
+    },
+    "god_dag_mann_oekseskaft": {
+      "title": "God dag mann, økseskaft",
+      "ageRating": 3
+    },
+    "krambodgutten_med_gammelostlasten": {
+      "title": "Krambodgutten med gammelostlasten",
+      "ageRating": 3
+    },
+    "kjetten_som_var_saa_fael_til_aa_ete": {
+      "title": "Kjetten som var så fæl til å ete",
+      "ageRating": 3
+    },
+    "fanden_og_futen": {
+      "title": "Fanden og futen",
+      "ageRating": 3
+    },
+    "tsju_pus_gaa_ned_fra_bordet": {
+      "title": "Tsju pus, gå ned fra bordet",
+      "ageRating": 3
+    },
+    "sju_aar_gammel_groet": {
+      "title": "Sju år gammel grøt",
+      "ageRating": 3
+    }
   }
 }

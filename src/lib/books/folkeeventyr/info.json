@@ -1,5 +1,64 @@
 {
   "title": "Norske folke-eventyr",
   "author": ["Georg Sverdrup"],
-  "published": 1925
+  "published": 1925,
+  "illustrator": [],
+  "chapter_index": {
+    "bonde_vaerskjegg": {
+      "title": "Bonde Værskjegg",
+      "ageRating": 3
+    },
+    "den_lille_gutten_som_skulle_av_og_male": {
+      "title": "Den lille gutten som skulle av og male",
+      "ageRating": 3
+    },
+    "gutten_som_stoepte_tinnoeyne_til_trollet": {
+      "title": "Gutten som støpte tinnøyne til trollet",
+      "ageRating": 3
+    },
+    "hvorfor_bjoernen_er_stubbrumpet": {
+      "title": "Hvorfor bjørnen er stubbrumpet",
+      "ageRating": 3
+    },
+    "kvernen_som_staar_og_maler_paa_havets_bunn": {
+      "title": "Kvernen som står og maler på havets bunn",
+      "ageRating": 3
+    },
+    "lonketuss": {
+      "title": "Lonketuss",
+      "ageRating": 3
+    },
+    "risen_som_ikke_hadde_noe_hjerte_paa_seg": {
+      "title": "Risen som ikke hadde noe hjerte på seg",
+      "ageRating": 3
+    },
+    "rulleskaft": {
+      "title": "Rulleskaft",
+      "ageRating": 3
+    },
+    "snoefri": {
+      "title": "Snøfri",
+      "ageRating": 5
+    },
+    "slik_loenner_de_gode_gjerninger": {
+      "title": "Slik lønner de gode gjerninger",
+      "ageRating": 3
+    },
+    "sol_ramme": {
+      "title": "Sol ramme",
+      "ageRating": 5
+    },
+    "somme_kjerringer_er_slike": {
+      "title": "Somme kjerringer er slike",
+      "ageRating": 3
+    },
+    "tro_og_utro": {
+      "title": "Tro og Utro",
+      "ageRating": 5
+    },
+    "tykkebonde": {
+      "title": "Tykkebonde",
+      "ageRating": 3
+    }
+  }
 }

@@ -4,11 +4,29 @@
   "published": 1879,
   "illustrator": ["Theodor Kittelsen"],
   "chapter_index": {
-    "pandekagen": "Pannekaken",
-    "gutten_som_gik_til_nordenvinden_paa_krav": "Gutten som gikk til nordavinden for å kreve melet tilbake",
-    "veslefrik_med_felen": "Veslefrikk med fela",
-    "keiserens_nye_klæder": "Keiserens nye klær",
-    "den_standhaftige_tinsoldat": "Den standhaftige tinnsoldat",
-    "den_lille_pige_med_svovelstikkene": "Piken med fyrstikkene"
+    "pannekaken": {
+      "title": "Pannekaken",
+      "ageRating": 3
+    },
+    "gutten_som_gikk_til_nordavinden_for_aa_kreve_melet_tilbake": {
+      "title": "Gutten som gikk til nordavinden for å kreve melet tilbake",
+      "ageRating": 3
+    },
+    "veslefrikk_med_fela": {
+      "title": "Veslefrikk med fela",
+      "ageRating": 3
+    },
+    "keiserens_nye_klaer": {
+      "title": "Keiserens nye klær",
+      "ageRating": 3
+    },
+    "den_standhaftige_tinnsoldat": {
+      "title": "Den standhaftige tinnsoldat",
+      "ageRating": 3
+    },
+    "piken_med_fyrstikkene": {
+      "title": "Piken med fyrstikkene",
+      "ageRating": 5
+    }
   }
 }
