@@ -4,19 +4,61 @@
   "published": 1930,
   "illustrator": ["Theodor Kittelsen"],
   "chapter_index": {
-    "hanen_og_høna": "Hanen og høna",
-    "jomfru_maria_som_gudmor": "Jomfru Maria som gudmor",
-    "de_tre_monstrene": "De tre monstrene",
-    "høna_tripper_i_berget": "Høna tripper i berget",
-    "per_og_pål_og_espen_askeladd": "Per og Pål og Espen Askeladd",
-    "kari_trestakk": "Kari Trestakk",
-    "askeladden_som_stjal_sølvendene_sengeteppet_og_gullharpen_til_trollet": "Askeladden som stjal sølvendene, sengeteppet og gullharpen til trollet",
-    "jomfruen_på_glassberget": "Jomfruen på glassberget",
-    "de_syv_folene": "De syv folene",
-    "hanen_gjøken_og_århanen": "Hanen, gjøken og århanen",
-    "de_tre_prinsesser_i_hvittenland": "De tre prinsesser i Hvittenland",
-    "kjetta_på_dovre": "Kjetta på dovre",
-    "grisen_og_levemåten_hans": "Grisen og levemåten hans",
-    "reveenka": "Reve-enka"
+    "hanen_og_hoena": {
+      "title": "Hanen og høna",
+      "ageRating": 3
+    },
+    "jomfru_maria_som_gudmor": {
+      "title": "Jomfru Maria som gudmor",
+      "ageRating": 5
+    },
+    "de_tre_monstrene": {
+      "title": "De tre monstrene",
+      "ageRating": 3
+    },
+    "hoena_tripper_i_berget": {
+      "title": "Høna tripper i berget",
+      "ageRating": 3
+    },
+    "per_og_paal_og_espen_askeladd": {
+      "title": "Per og Pål og Espen Askeladd",
+      "ageRating": 3
+    },
+    "kari_trestakk": {
+      "title": "Kari Trestakk",
+      "ageRating": 3
+    },
+    "askeladden_som_stjal_soelvendene_sengeteppet_og_gullharpen_til_trollet": {
+      "title": "Askeladden som stjal sølvendene, sengeteppet og gullharpen til trollet",
+      "ageRating": 3
+    },
+    "jomfruen_paa_glassberget": {
+      "title": "Jomfruen på glassberget",
+      "ageRating": 3
+    },
+    "de_syv_folene": {
+      "title": "De syv folene",
+      "ageRating": 3
+    },
+    "hanen_gjoeken_og_aarhanen": {
+      "title": "Hanen, gjøken og århanen",
+      "ageRating": 3
+    },
+    "de_tre_prinsesser_i_hvittenland": {
+      "title": "De tre prinsesser i Hvittenland",
+      "ageRating": 5
+    },
+    "kjetta_paa_dovre": {
+      "title": "Kjetta på dovre",
+      "ageRating": 3
+    },
+    "grisen_og_levemaaten_hans": {
+      "title": "Grisen og levemåten hans",
+      "ageRating": 3
+    },
+    "reve_enka": {
+      "title": "Reve-enka",
+      "ageRating": 3
+    }
   }
 }

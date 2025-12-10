@@ -5,16 +5,49 @@
   "published": 1927,
   "illustrator": ["Theodor Kittelsen"],
   "chapter_index": {
-    "bjørnen_og_reven": "Bjørnen og reven",
-    "lurvehette": "Lurvehette",
-    "tro_og_utro": "Tro og Utro",
-    "en_frierhistorie": "En frierhistorie",
-    "lillekort": "Lillekort",
-    "buskebrura": "Buskebrura",
-    "hanen_og_høna_i_nøtteskogen": "Hanen og høna i nøtteskogen",
-    "rike_per_kremmer": "Rike Per Kremmer",
-    "den_rettferdige_fireskilling": "Den rettferdige fireskilling",
-    "grimsborken": "Grimsborken",
-    "tommeliten": "Tommeliten"
+    "bjoernen_og_reven": {
+      "title": "Bjørnen og reven",
+      "ageRating": 3
+    },
+    "lurvehette": {
+      "title": "Lurvehette",
+      "ageRating": 5
+    },
+    "tro_og_utro": {
+      "title": "Tro og Utro",
+      "ageRating": 5
+    },
+    "en_frierhistorie": {
+      "title": "En frierhistorie",
+      "ageRating": 3
+    },
+    "lillekort": {
+      "title": "Lillekort",
+      "ageRating": 5
+    },
+    "buskebrura": {
+      "title": "Buskebrura",
+      "ageRating": 5
+    },
+    "hanen_og_hoena_i_noetteskogen": {
+      "title": "Hanen og høna i nøtteskogen",
+      "ageRating": 3
+    },
+    "rike_per_kremmer": {
+      "title": "Rike Per Kremmer",
+      "ageRating": 5
+    },
+    "den_rettferdige_fireskilling": {
+      "title": "Den rettferdige fireskilling",
+      "ageRating": 3
+    },
+    "grimsborken": {
+      "title": "Grimsborken",
+      "ageRating": 5
+    },
+    "tommeliten": {
+      "title": "Tommeliten",
+      "ageRating": 3
+    }
   }
 }

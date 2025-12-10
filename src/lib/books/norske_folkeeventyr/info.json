@@ -5,32 +5,113 @@
   "published": 1911,
   "illustrator": ["Erik Werenskiold"],
   "chapter_index": {
-    "smaagutterne_som_traf_troldene_paa_hedalsskogen": "Småguttene som traff trollene på Hedalsskogen",
-    "den_syvende_far_i_huset": "Den syvende far i huset",
-    "per_gynt": "Per Gynt",
-    "bamse_bra-kar": "Bamse Bra-kar",
-    "gjæte_kongens_harer": "Gjete kongens harer",
-    "presten_og_klokkeren": "Presten og klokkeren",
-    "askeladden_som_fik_prinsessen_til_at_løgste_sig": "Askeladden som fikk prinsessen til å løgste seg",
-    "tyrihans_som_fik_kongsdatteren_til_at_le": "Tyrihans som fikk kongsdatteren til å le",
-    "kuldbrænderen": "Kullbrenneren",
-    "væren_og_grisen_som_skulde_til_skogs_og_bo_for_sig_selv": "Væren og grisen som skulle til skogs for å bo for seg selv",
-    "reven_som_gjæter": "Reven som gjeter",
-    "kvernen_som_staar_og_maler_paa_havsens_bund": "Kvernen som står og maler på havets bunn",
-    "kjærringen_mod_strømmen": "Kjerringen mot strømmen",
-    "haren_som_havde_været_gift": "Haren som hadde vært gift",
-    "herremandsbruden": "Herremannsbruden",
-    "han_far_sjøl_i_stua": "Han far sjøl i stua",
-    "hver_synes_best_om_sine_børn": "Hver synes best om sine barn",
-    "hønen_som_skulde_til_dovrefjeld_for_at_ikke_alverden_skulde_forgaa": "Hønen som skulle til Dovrefjell for at ikke verden skulle forgå",
-    "herreper": "Herreper",
-    "soria_moria_slot": "Soria Moria slott",
-    "vel_gjort_og_ilde_lønnet": "Vel gjort og ille lønnet",
-    "hanen_og_reven": "Hanen og reven",
-    "de_tre_kongsdøtre_i_berget_det_blaa": "De tre kongsdøtre i berget det blå",
-    "gutten_med_øldunken": "Gutten med øldunken",
-    "stabbursnøkkelen_i_rokkehodet": "Stabbursnøkkelen i rokkehodet",
-    "prinsessen_som_ingen_kunde_maalbinde": "Prinsessen som ingen kunne målbinde",
-    "følgesvenden": "Følgesvennen"
+    "smaaguttene_som_traff_trollene_paa_hedalsskogen": {
+      "title": "Småguttene som traff trollene på Hedalsskogen",
+      "ageRating": 3
+    },
+    "den_syvende_far_i_huset": {
+      "title": "Den syvende far i huset",
+      "ageRating": 3
+    },
+    "per_gynt": {
+      "title": "Per Gynt",
+      "ageRating": 3
+    },
+    "bamse_bra_kar": {
+      "title": "Bamse Bra-kar",
+      "ageRating": 3
+    },
+    "gjete_kongens_harer": {
+      "title": "Gjete kongens harer",
+      "ageRating": 3
+    },
+    "presten_og_klokkeren": {
+      "title": "Presten og klokkeren",
+      "ageRating": 3
+    },
+    "askeladden_som_fikk_prinsessen_til_aa_loegste_seg": {
+      "title": "Askeladden som fikk prinsessen til å løgste seg",
+      "ageRating": 3
+    },
+    "tyrihans_som_fikk_kongsdatteren_til_aa_le": {
+      "title": "Tyrihans som fikk kongsdatteren til å le",
+      "ageRating": 3
+    },
+    "kullbrenneren": {
+      "title": "Kullbrenneren",
+      "ageRating": 3
+    },
+    "vaeren_og_grisen_som_skulle_til_skogs_for_aa_bo_for_seg_selv": {
+      "title": "Væren og grisen som skulle til skogs for å bo for seg selv",
+      "ageRating": 3
+    },
+    "reven_som_gjeter": {
+      "title": "Reven som gjeter",
+      "ageRating": 3
+    },
+    "kvernen_som_staar_og_maler_paa_havets_bunn": {
+      "title": "Kvernen som står og maler på havets bunn",
+      "ageRating": 3
+    },
+    "kjerringen_mot_stroemmen": {
+      "title": "Kjerringen mot strømmen",
+      "ageRating": 3
+    },
+    "haren_som_hadde_vaert_gift": {
+      "title": "Haren som hadde vært gift",
+      "ageRating": 3
+    },
+    "herremannsbruden": {
+      "title": "Herremannsbruden",
+      "ageRating": 5
+    },
+    "han_far_sjoel_i_stua": {
+      "title": "Han far sjøl i stua",
+      "ageRating": 3
+    },
+    "hver_synes_best_om_sine_barn": {
+      "title": "Hver synes best om sine barn",
+      "ageRating": 3
+    },
+    "hoenen_som_skulle_til_dovrefjell_for_at_ikke_verden_skulle_forgaa": {
+      "title": "Hønen som skulle til Dovrefjell for at ikke verden skulle forgå",
+      "ageRating": 3
+    },
+    "herreper": {
+      "title": "Herreper",
+      "ageRating": 3
+    },
+    "soria_moria_slott": {
+      "title": "Soria Moria slott",
+      "ageRating": 3
+    },
+    "vel_gjort_og_ille_loennet": {
+      "title": "Vel gjort og ille lønnet",
+      "ageRating": 3
+    },
+    "hanen_og_reven": {
+      "title": "Hanen og reven",
+      "ageRating": 3
+    },
+    "de_tre_kongsdoetre_i_berget_det_blaa": {
+      "title": "De tre kongsdøtre i berget det blå",
+      "ageRating": 3
+    },
+    "gutten_med_oeldunken": {
+      "title": "Gutten med øldunken",
+      "ageRating": 3
+    },
+    "stabbursnoekkelen_i_rokkehodet": {
+      "title": "Stabbursnøkkelen i rokkehodet",
+      "ageRating": 3
+    },
+    "prinsessen_som_ingen_kunne_maalbinde": {
+      "title": "Prinsessen som ingen kunne målbinde",
+      "ageRating": 3
+    },
+    "foelgesvennen": {
+      "title": "Følgesvennen",
+      "ageRating": 5
+    }
   }
 }

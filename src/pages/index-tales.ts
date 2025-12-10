@@ -12,7 +12,12 @@ export function generateMainIndexHTML(books: BookData[]): string {
     .flat()
     .sort((a, b) => a.wordCount - b.wordCount);
 
-  const columns = [{ title: "Tittel" }, { title: "Bok" }, { title: "Ord" }];
+  const columns = [
+    { title: "Tittel" },
+    { title: "Bok" },
+    { title: "Alder" },
+    { title: "Ord" },
+  ];
 
   const talesHtml = sortableTableGenerator(
     columns,
@@ -27,6 +32,7 @@ export function generateMainIndexHTML(books: BookData[]): string {
 <td class="Bok">
 <a href="/${tale.bookSlug}/">${tale.book}</a>
 </td>
+<td class="age-rating">${tale.ageRating ? `${tale.ageRating}+` : "-"}</td>
 <td class="wordcount">${tale.wordCount}</td>
 </tr>
 `,

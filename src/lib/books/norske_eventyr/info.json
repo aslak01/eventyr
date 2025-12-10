@@ -4,22 +4,73 @@
   "published": 1942,
   "illustrator": ["Nils Moa"],
   "chapter_index": {
-    "vesle-kvinten_og_svala": "Vesle-Kvinten og svala",
-    "honningdronningen_nord_i_engene": "Honningdronningen nord i engene",
-    "kornet_som_skulde_males": "Kornet som skulle males",
-    "tannverk_i_storheia": "Tannverk i Storheia",
-    "julekveld_i_storheia": "Julekveld i Storheia",
-    "vesle-kvinten_svever_mellom_liv_og_død": "Vesle-Kvinten svever mellom liv og død",
-    "vesle-kvinten_koker_suppe_som_sier_seks": "Vesle-Kvinten koker suppe som sier seks",
-    "mikkel_rev_er_lur_men": "Mikkel rev er lur men -",
-    "vesle-kvinten_og_dragen": "Vesle-Kvinten og dragen",
-    "sauene_i_blåheimen": "Sauene i Blåheimen",
-    "rakkarmjølet_og_tussesplintene": "Rakkarmjølet og Tussesplintene",
-    "den_endeløse_skogen": "Den endeløse skogen",
-    "hærbærntrollet_og_de_glade_laksene": "Hærbærntrollet og de glade laksene",
-    "seljefløyten": "Seljefløyten",
-    "vesle-kvinten_bygger_hønsegård": "Vesle-Kvinten bygger hønsegård",
-    "gullharpen": "Gullharpen",
-    "greshoppene_og_de_røde_prinsene": "Gresshoppene og de røde prinsene"
+    "vesle_kvinten_og_svala": {
+      "title": "Vesle-Kvinten og svala",
+      "ageRating": 3
+    },
+    "honningdronningen_nord_i_engene": {
+      "title": "Honningdronningen nord i engene",
+      "ageRating": 3
+    },
+    "kornet_som_skulle_males": {
+      "title": "Kornet som skulle males",
+      "ageRating": 3
+    },
+    "tannverk_i_storheia": {
+      "title": "Tannverk i Storheia",
+      "ageRating": 3
+    },
+    "julekveld_i_storheia": {
+      "title": "Julekveld i Storheia",
+      "ageRating": 3
+    },
+    "vesle_kvinten_svever_mellom_liv_og_doed": {
+      "title": "Vesle-Kvinten svever mellom liv og død",
+      "ageRating": 3
+    },
+    "vesle_kvinten_koker_suppe_som_sier_seks": {
+      "title": "Vesle-Kvinten koker suppe som sier seks",
+      "ageRating": 3
+    },
+    "mikkel_rev_er_lur_men": {
+      "title": "Mikkel rev er lur men -",
+      "ageRating": 3
+    },
+    "vesle_kvinten_og_dragen": {
+      "title": "Vesle-Kvinten og dragen",
+      "ageRating": 3
+    },
+    "sauene_i_blaaheimen": {
+      "title": "Sauene i Blåheimen",
+      "ageRating": 3
+    },
+    "rakkarmjoelet_og_tussesplintene": {
+      "title": "Rakkarmjølet og Tussesplintene",
+      "ageRating": 3
+    },
+    "den_endeloese_skogen": {
+      "title": "Den endeløse skogen",
+      "ageRating": 3
+    },
+    "haerbaerntrollet_og_de_glade_laksene": {
+      "title": "Hærbærntrollet og de glade laksene",
+      "ageRating": 3
+    },
+    "seljefloeyten": {
+      "title": "Seljefløyten",
+      "ageRating": 3
+    },
+    "vesle_kvinten_bygger_hoensegaard": {
+      "title": "Vesle-Kvinten bygger hønsegård",
+      "ageRating": 3
+    },
+    "gullharpen": {
+      "title": "Gullharpen",
+      "ageRating": 3
+    },
+    "gresshoppene_og_de_roede_prinsene": {
+      "title": "Gresshoppene og de røde prinsene",
+      "ageRating": 3
+    }
   }
 }
