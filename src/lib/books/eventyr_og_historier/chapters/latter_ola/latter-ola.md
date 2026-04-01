@@ -6,7 +6,7 @@ subtitle: En historie
 
 Det var en gang et par folk, som bodde for seg selv i en liten hytte ved allmannveien.
 
-Disse folk hadde en liten gutt, og den gutten hette Ola.
+Disse folka hadde en liten gutt, og den gutten hette Ola.
 
 Nå er det en gang så, at alle folk synes at verden er så full av sorg og elendighet, og det syntes folkene i hytta også. Men Ola, gutten deres, han syntes at alt var bare moro, han. Aldri gråt han, og lo gjorde han av allting.
 
@@ -42,7 +42,7 @@ Da moren fikk se dette, ble hun rent som fra sans og samling.
 
 «Ler du av det, din bytting!» sa faren og ville til å denge gutten, enda blodet rant så det silte.
 
-«Jeg ler av det,» sa Latter-Ola, «at å mor renner omkring, for det at blodet renner av deg, og så er det blodet som renner av deg, for det at å mor renner omkring,» sa han.
+«Jeg ler av det,» sa Latter-Ola, «at a mor renner omkring, for det at blodet renner av deg, og så er det blodet som renner av deg, for det at å mor renner omkring,» sa han.
 
 Da måtte faren smile han også, og så fant moren frem en fille og bandt om såret så blodet stanset.
 
