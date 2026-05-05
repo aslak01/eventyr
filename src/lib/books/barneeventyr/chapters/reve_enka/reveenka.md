@@ -1,8 +1,8 @@
 # Reve-enka.
 
-Det var engang en rev og en revefrue, som bodde langt inne i skogen i revehuset. De var venner og vel forlikt, og levde så godt ihop, som parfolk kan gjøre. Men så var det en dag reven hadde vært i hønsehuset til bonden, og der åt han rubb og stubb, og det var vel mye for ham. Så blev han syk og døde; og alt det revemor sørget og gråt, så hjalp det ikke, han var død og blev død.
+Det var engang en rev og en revefrue, som bodde langt inne i skogen i revehuset. De var venner og vel forlikt, og levde så godt ihop, som parfolk kan gjøre. Men så var det en dag reven hadde vært i hønsehuset til bonden, og der åt han rubb og stubb, og det var vel mye for ham. Så ble han syk og døde; og alt det revemor sørget og gråt, så hjalp det ikke, han var død og ble død.
 
-Men da han var kommet godt i jorden, og gravølet vel var over, så tok det på å komme friere til enka. Om lørdagskvelden banket det tre slag i døren til revehuset. «Å gå ut, du Korse, og se hva det er,» sa reve-enka; hun hadde ei kjette til tjenestjente, og hun hette Korse. Da jenta kom ut, så stod det en bjørn på tråkka.
+Men da han var kommet godt i jorden, og gravølet vel var over, så begynte det å komme friere til enka. Om lørdagskvelden banket det tre slag i døren til revehuset. «Å gå ut, du Korse, og se hva det er,» sa reve-enka; hun hadde ei kjette til tjenestjente, og hun het Korse. Da jenta kom ut, så stod det en bjørn på tråkka.
 
 «Godkveld,» hilste bjørnen.
 
@@ -31,9 +31,9 @@ Da kjetta kom inn, spurte matmoren:
 «Hvem er det som tasser og banker på,
 så jeg ikke må kveldsfred få?»
 
-«Det er frierne dine,» svarte kjetta; «jeg skulde be deg ut å gå, skulde du få et godt råd.»
+«Det er frierne dine,» svarte kjetta; «jeg skulle be deg ut å gå, skulle du få et godt råd.»
 
-«Hva lett har kufta?» spurte revefruen.
+«Hvilken farge har frakken?» spurte revefruen.
 
 «Ven vakker brun,» sa jenta; «svær kar og kvast syn,» sa hun.
 
@@ -59,17 +59,17 @@ Jo, hun var da det.
 
 «Be henne ut å gå, skal hun få et godt råd,» sa gråbeinen.
 
-«Hvem er det som flyer og banker på, så jeg ikke må kveldsfred få?» spurte reveenka.
+«Hvem er det som flyr og banker på, så jeg ikke må kveldsfred få?» spurte reveenka.
 
-«Å det er frierer, vet jeg,» sa kjetta. «Jeg skulde be deg ut å gå, skulde du få et godt råd,» sa hun.
+«Å det er friere, vet jeg,» sa kjetta. «Jeg skulle be deg ut å gå, skulle du få et godt råd,» sa hun.
 
-Nei, først vilde revefruen vite hva slags lett kufta hadde.
+Nei, først ville revefruen vite hvilken farge frakken hadde.
 
 «Ven vakker grå; lang kropp og lite på,» svarte Korse.
 
 «La'n gå, la'n gå, jeg trenger ikke hans råd!» sa enka; og da gråtassen fikk det budet, måtte han gjøre vendereise, han med.
 
-Tredje lørdagskvelden gikk det like ens. Det banket tre slag på døren, og kjetta reiste ut og skulde se efter. Så var det en hare.
+Tredje lørdagskvelden gikk det like ens. Det banket tre slag på døren, og kjetta reiste ut og skulle se etter. Så var det en hare.
 
 «Godkveld,» sa han.
 
@@ -85,11 +85,11 @@ Ja, det var da det, og så spurte han også, om reveenka var hjemme og hva hun t
 
 «Det er nok friere det, mor!» svarte jenta.
 
-Ja, så vilde hun vite hva lett kufta hadde denne gangen.
+Ja, så ville hun vite hvilken farge frakken hadde denne gangen.
 
 «Ven vakker hvit, tett vadmel og uten slit,» sa kjetta.
 
-Men det blev ikke bedre, det: «La'n gå, la'n gå, jeg trenger ikke hans råd,» svarte reveenka.
+Men det ble ikke bedre, det: «La'n gå, la'n gå, jeg trenger ikke hans råd,» svarte reveenka.
 
 Så var det den fjerde lørdagskvelden. Best det var, kom det tre slag i døren til revehuset igjen.
 
@@ -109,16 +109,16 @@ Så gikk Korse inn.
 
 «Hvem er det som svinser og banker på, så jeg ikke må kveldsfred få?» spurte matmoren.
 
-«A du vet da det,» sa kjetta, «det er frierne dine, det. Jeg skulde be deg ut å gå, så skulde du få gode råd.»
+«A du vet da det,» sa kjetta, «det er frierne dine, det. Jeg skulle be deg ut å gå, så skulle du få gode råd.»
 
-«Hva lett har kufta?» spurte reveenka.
+«Hvilken farge har frakken?» spurte reveenka.
 
-«Ven vakker rød, — just som hans, er død,» svarte kjetta.
+«Ven vakker rød, — just som hans, som er død,» svarte kjetta.
 
 «Kjære, be ham inn å sjå, han har gode råd!» sa enka.
 
 «Send meg hit mine sokker små, jeg vil gjerne med ham gå; send meg hit mine sko å knappe, jeg vil gjerne med ham lakke.»
 
-Han vilde hun ha, og så blev det bedt lag og bryllup hos reveenka med det samme. Og dersom han ikke har vært i hønsegården, han også, så lever de i revehuset den dag idag.
+Han ville hun ha, og så ble det bedt lag og bryllup hos reveenka med det samme. Og dersom han ikke har vært i hønsegården, han også, så lever de i revehuset den dag idag.
 
 ![Reven](./reven.png)
