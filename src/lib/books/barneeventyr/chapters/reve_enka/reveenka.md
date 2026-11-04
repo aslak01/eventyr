@@ -1,8 +1,8 @@
 # Reve-enka.
 
-Det var engang en rev og en revefrue, som bodde langt inne i skogen i revehuset. De var venner og vel forlikt, og levde så godt ihop, som parfolk kan gjøre. Men så var det en dag reven hadde vært i hønsehuset til bonden, og der åt han rubb og stubb, og det var vel mye for ham. Så ble han syk og døde; og alt det revemor sørget og gråt, så hjalp det ikke, han var død og ble død.
+Det var engang en rev og en revefrue, som bodde langt inne i skogen i revehuset. De var venner og vel forlikt, og levde så godt i hop, som parfolk kan gjøre. Men så var det en dag reven hadde vært i hønsehuset til bonden, og der åt han rubb og stubb, og det var vel mye for ham. Så ble han syk og døde; og alt det revemor sørget og gråt, så hjalp det ikke, han var død og ble død.
 
-Men da han var kommet godt i jorden, og gravølet vel var over, så begynte det å komme friere til enka. Om lørdagskvelden banket det tre slag i døren til revehuset. «Å gå ut, du Korse, og se hva det er,» sa reve-enka; hun hadde ei kjette til tjenestjente, og hun het Korse. Da jenta kom ut, så stod det en bjørn på tråkka.
+Men da han var kommet godt i jorden, og gravølet vel var over, så begynte det å komme friere til enka. Om lørdagskvelden banket det tre slag i døren til revehuset. «Å gå ut, du Korse, og se hva det er,» sa reve-enka; hun hadde ei kjette til tjenestjente, og hun het Korse. Da jenta kom ut, så sto det en bjørn på tråkka.
 
 «Godkveld,» hilste bjørnen.
 
@@ -47,7 +47,7 @@ hun vil ikke ha noe råd.»
 
 Ja, så var det ikke annet for, bamsen måtte snu og fare sin vei, dit han kom fra.
 
-Næste lørdagskvelden banket det på igjen. Den gangen stod en ulv utenfor.
+Neste lørdagskvelden banket det på igjen. Den gangen sto en ulv utenfor.
 
 «Godkveld,» sa ulven, «er reveenka hjemme?»
 
@@ -93,7 +93,7 @@ Men det ble ikke bedre, det: «La'n gå, la'n gå, jeg trenger ikke hans råd,»
 
 Så var det den fjerde lørdagskvelden. Best det var, kom det tre slag i døren til revehuset igjen.
 
-«Gå ut og se hva som er på ferde du,» sa enka til tjenestjenta. Da kjetta kom ut, stod det en rev på dørhella.
+«Gå ut og se hva som er på ferde du,» sa enka til tjenestjenta. Da kjetta kom ut, sto det en rev på dørhella.
 
 «Godkveld og takk for sist,» sa reven.
 
@@ -119,6 +119,6 @@ Så gikk Korse inn.
 
 «Send meg hit mine sokker små, jeg vil gjerne med ham gå; send meg hit mine sko å knappe, jeg vil gjerne med ham lakke.»
 
-Han ville hun ha, og så ble det bedt lag og bryllup hos reveenka med det samme. Og dersom han ikke har vært i hønsegården, han også, så lever de i revehuset den dag idag.
+Han ville hun ha, og så ble det bedt lag og bryllup hos reveenka med det samme. Og hvis han ikke har vært i hønsegården, han også, så lever de i revehuset den dag i dag.
 
 ![Reven](./reven.png)

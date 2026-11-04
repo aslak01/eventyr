@@ -1,6 +1,6 @@
 # Pannekaken
 
-Det var en gang en kone som hadde syv sultne barn, og til dem stekte hun pannekake. Råmelkskake var det, og den lå i panna og øste så tykk og god at det var en lyst å se på den. Og barna stod rundt omkring, og gamlefar satt og så på.
+Det var en gang en kone som hadde syv sultne barn, og til dem stekte hun pannekake. Råmelkskake var det, og den lå i panna og øste så tykk og god at det var en lyst å se på den. Og barna sto rundt omkring, og gamlefar satt og så på.
 
 ![Bake pannekake](./pk1.png)
 
@@ -22,7 +22,7 @@ Det var en gang en kone som hadde syv sultne barn, og til dem stekte hun panneka
 
 Da pannekaken hørte dette, ble den redd, og akkurat som det var, så snudde den seg av seg selv og ville ut av panna. Men den falt ned i den på den andre siden igjen, og da den hadde stekt seg litt på den også, så den ble fastere i fisken, og da hoppet den ut på gulvet og rullet av sted som et hjul ut gjennom døra og bort etter veien.
 
-![Rulle avsted](./pk2.png)
+![Rulle av sted](./pk2.png)
 
 Hei da!
 
@@ -78,7 +78,7 @@ Da den hadde rullet en lang, lang stund, møtte den en gås.
 
 «Kjære min pannekake, rull ikke så fort, men vent litt og la meg få spise deg,» sa gåsa.
 
-«Når jeg har gått fra kone Krone, gamlefar og syv skrikebarn, fra Mann Brand, høne Pone, hane Pane og fra ande Vande, så kan jeg vel få gå fra deg, gåse Våse,» sa pannekaken og rullet av sted igjen. Da den så hadde rullet en lang, lang stund igjen, så møtte den en gasse.
+«Når jeg har gått fra kone Krone, gamlefar og syv skrikebarn, fra Mann Brand, høne Pøne, hane Pane og fra ande Vande, så kan jeg vel få gå fra deg, gåse Våse,» sa pannekaken og rullet av sted igjen. Da den så hadde rullet en lang, lang stund igjen, så møtte den en gasse.
 
 «God dag, pannekake,» sa gassen.
 
@@ -86,7 +86,7 @@ Da den hadde rullet en lang, lang stund, møtte den en gås.
 
 «Kjære min pannekake, rull ikke så fort, men vent litt og la meg få spise deg,» sa gassen.
 
-«Når jeg har gått fra kone Krone, gamlefar og syv skrikebarn, fra Mann Brand, fra høne Pone, hane Pane, ande Vande og fra gåse Våse, så kan jeg vel få gå fra deg, gasse Vasse,» sa pannekaken og tok på å rulle og rulle, det forteste den orket.
+«Når jeg har gått fra kone Krone, gamlefar og syv skrikebarn, fra Mann Brand, fra høne Pøne, hane Pane, ande Vande og fra gåse Våse, så kan jeg vel få gå fra deg, gasse Vasse,» sa pannekaken og tok på å rulle og rulle, det forteste den orket.
 
 Da den hadde rullet en lang, lang stund, så møtte den en gris.
 
@@ -94,7 +94,7 @@ Da den hadde rullet en lang, lang stund, så møtte den en gris.
 
 «God dag, gylte Grisesylte,» sa pannekaken og begynte å rulle og rulle, det forteste den orket.
 
-«Nei, vent litt,» sa grisen, «du trenger ikke å brassflyve så, vi to kan da gå i ro og slå følge over skogen, for det skal ikke være riktig trygt der,» sa den.
+«Nei, vent litt,» sa grisen, «du trenger ikke å fly så fort, vi to kan da gå i ro og slå følge over skogen, for det skal ikke være riktig trygt der,» sa den.
 
 Det syntes pannekaken det kunne være noe i, og så gjorde de så. Men da de hadde gått en stund, kom de til en bekk.
 

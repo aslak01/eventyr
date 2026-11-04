@@ -6,11 +6,11 @@ En dag som Vesle-Kvinten tuslet omkring i Blåheimen og gjette geitene, kom Stor
 
 Jo, det syntes Vesle-Kvinten også var både godt og gagnlig, og dermed ga han seg til å plukke ut de to geitene som de helst kunne unnvære.
 
-Så stappet han skinnranselen sin dyktig med niste og ruslet avsted med de to geitene. Da de hadde gått slik både vel og lenge, råkte de borti ei gammel kjerring som satt oppi berget og gråt og bar seg ille.
+Så stappet han skinnranselen sin dyktig med niste og ruslet av sted med de to geitene. Da de hadde gått slik både vel og lenge, råkte de borti ei gammel kjerring som satt oppi berget og gråt og bar seg ille.
 
 — Hva er det du gråter for da, gamlemor? sa Vesle-Kvinten, det gikk ham så sårt til hjertet.
 
-— Trøste og bære meg, klaget hun seg. Den eneste sønnen min er kommet bort på saustøla nord i Blåfjellet, og no sørger jeg meg nesten ihjel.
+— Trøste og bære meg, klaget hun seg. Den eneste sønnen min er kommet bort på saustøla nord i Blåfjellet, og nå sørger jeg meg nesten ihjel.
 
 Da hun fikk se Vesle-Kvinten dra på disse to geitene, måtte hun da virkelig spørre hva mening han hadde med dette.
 
@@ -40,15 +40,15 @@ Dermed tok han fram knivstellet sitt og ga seg til å spikke og spikke i røtten
 
 Da hun fikk høre hvilket ærend Vesle-Kvinten var ute i med geitefølget sitt, sa hun:
 
-— Ta den grønne steinen her og ha den vel bevart i lomma, den vil hjelpe deg over alle farer. Jeg kjenner saukongens makt i Blåfjellet, jeg, og sannelig kunne det gått deg ille nok dersom du ikke hadde møtt meg nå. Folk som tråkker på sauraksten i Blåfjellet på denne tid av døgnet, blir forgjort til sau når de møter saukongens blikk. Når trollskapen ikke vil bite på deg, kan du nok skjønne at kongen vil få stor respekt for deg, og geitene bytter han da så gjerne bort i sauer. Men når han ber deg velge i flokken, så må du være klar over at alle sauene er klippet i ørene så nær som to stykker. De to sauene skal du ta med deg.
+— Ta den grønne steinen her og ha den vel bevart i lomma, den vil hjelpe deg over alle farer. Jeg kjenner saukongens makt i Blåfjellet, jeg, og sannelig kunne det gått deg ille nok hvis du ikke hadde møtt meg nå. Folk som tråkker på sauraksten i Blåfjellet på denne tid av døgnet, blir forgjort til sau når de møter saukongens blikk. Når trollskapen ikke vil bite på deg, kan du nok skjønne at kongen vil få stor respekt for deg, og geitene bytter han da så gjerne bort i sauer. Men når han ber deg velge i flokken, så må du være klar over at alle sauene er klippet i ørene så nær som to stykker. De to sauene skal du ta med deg.
 
 ![Her har jeg stått i klemma i sju døgn, sa hun.](./klemma.png)
 
 Vesle-Kvinten takket for gode råd og ruslet videre. Da han hadde gått både langt og lenge, kom han da endelig fram til Blåfjellet. Der hadde han ikke før tatt i grindlåsen før selveste stygge saukongen sto rett foran ham og riktig borra ham ned med de grønne øynene sine.
 
-— Hva er du til gutt og kar som det ikke vil bite trollskap på da? Og hva mener du med å ha et slikt aparte[^2] følge? spurte han.
+— Hva er du til gutt og kar som det ikke vil bite trollskap på da? Og hva mener du med å ha et slikt aparte følge? spurte han.
 
-— For å svare på det første, så kan hverken troll eller vold bite på meg, og for å svare på det andre, så tenkte jeg du kunne skaffe meg et rettelig saubruk for disse to geitene, svarte Vesle-Kvinten.
+— For å svare på det første, så kan verken troll eller vold bite på meg, og for å svare på det andre, så tenkte jeg du kunne skaffe meg et rettelig saubruk for disse to geitene, svarte Vesle-Kvinten.
 
 — Jaså ja, du tenkte vel det, svarte kongen. Han fikk rettelig respekt for gutten, og derfor torde han ikke riktig si nei heller.
 
@@ -58,7 +58,7 @@ Vesle-Kvinten så gjorde, og da han hadde lett både vel og lenge, fant han de t
 
 — Nå, sa Stor-Kvinten da han så sønnen sin komme draende med sauene, det var ikke rare geitene du fikk heller, ser jeg, men en skal aldri være fortull og dømme sauene etter ulla.
 
-Men som det lakket utpå seinhøsten og sauene ikke ville gi hverken ull eller melk, ble Stor-Kvinten rettelig harm, skrallere saubruk hadde han aldri i sine levedager sett maken til. Han skjente og smelte Vesle-Kvinten huden full hver evige dag som gikk. Den vesle både gråt og bar seg og visste ikke sin arme råd. Så bestemte han seg for å gå tilbake til saukongen med sauene igjen. Men som han skulle somle seg avgårde, ble han var at den grønne steinen i lomma hans var borte. Så var det ikke noe mer å gjøre med det da, klaget han seg.
+Men som det lakket utpå seinhøsten og sauene ikke ville gi verken ull eller melk, ble Stor-Kvinten rettelig harm, skrallere saubruk hadde han aldri i sine levedager sett maken til. Han skjente og smelte Vesle-Kvinten huden full hver evige dag som gikk. Den vesle både gråt og bar seg og visste ikke sin arme råd. Så bestemte han seg for å gå tilbake til saukongen med sauene igjen. Men som han skulle somle seg avgårde, ble han var at den grønne steinen i lomma hans var borte. Så var det ikke noe mer å gjøre med det da, klaget han seg.
 
 Nå hendte det en dag da Vesle-Kvinten gikk omkring i Storheia og gjetet, at far hans kom leggende med en diger øks i neven.
 
@@ -73,5 +73,3 @@ Den gamle kona ble ør av glede da hun fikk igjen gutten sin, og den gamle kalle
 — Du Vesle-Kvinten, du Vesle-Kvinten, sa han.
 
 [^1]: Heldig
-
-[^2]: Uvanlig, fra fransk _à part_

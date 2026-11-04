@@ -8,7 +8,7 @@ Da han kom til løvhesjen, rygget han sleden med hesten tett inntil, og gikk opp
 
 ![Bamse 2](./bb2.png)
 
-Bamse har ord for at han ikke skal være redd av seg; men han var ikke veldig fornøyd med skyssen denne gangen, der han satt; han holdt seg fast det beste han orket, og glante stygt til alle kanter, om han skulle kunne kaste seg av; men han var nok ikke vant med å kjøre, og så syntes han at der ikke var noen vun[^1].
+Bamse har ord for at han ikke skal være redd av seg; men han var ikke veldig fornøyd med skyssen denne gangen, der han satt; han holdt seg fast det beste han orket, og glante stygt til alle kanter, om han skulle kunne kaste seg av; men han var nok ikke vant med å kjøre, og så syntes han at det ikke var noen vun[^1].
 
 Da han hadde kjørt et langt stykke, møtte han en kremmer.
 
@@ -16,25 +16,25 @@ Da han hadde kjørt et langt stykke, møtte han en kremmer.
 
 Men bjørnen svarte ikke et ord, han hadde nok med å holde seg fast.
 
-Om en stund så møtte han en fattigkjærring. Hun hilste og nikket med hodet, og bad om en skilling i guds navn. Bjørnen sa ingen ting, men holdt seg fast og kjørte utover det forteste han klarte.
+Om en stund så møtte han en fattigkjærring. Hun hilste og nikket med hodet, og ba om en skilling i guds navn. Bjørnen sa ingenting, men holdt seg fast og kjørte utover det forteste han klarte.
 
 Da han kom et stykke lenger ned, møtte han Mikkel rev. «Hei, hei, er du ute og kjører?» skreik Mikkel; «bi litt, la meg få sitte bakpå og være skyssgutt!» Bamsen sa ikke et ord, men holdt seg vel fast, og kjørte så fort som hesten ville renne. «Ja, vil du ikke ta meg med, så skal jeg spå deg det, at om du kjører som en finmutt-kar i dag, henger du i morgen med ryggen bar,» skreik reven etter ham. Bjørnen hørte ikke et ord av det som Mikkel sa; han kjørte like fort.
 
 Men da hesten kom på gården, satte den inn igjennom stalldøren i fullt firsprang, så den kledde av seg både sele og slede, og bjørnen slo skallen i dørbjelken, og så lå han død på flekken.
 
-Bonden han lå i hesjen og veltet og veltet løvkjerv, til han trodde han hadde fullt lass på sleden; men da han skulle til å gjøre lasset, hadde han hverken hest eller slede. Så måtte han traske etter, for å finne hesten sin igjen.
+Bonden han lå i hesjen og veltet og veltet løvkjerv, til han trodde han hadde fullt lass på sleden; men da han skulle til å gjøre lasset, hadde han verken hest eller slede. Så måtte han traske etter, for å finne hesten sin igjen.
 
 Om en stund møtte han kremmeren.
 
 «Har du møtt noen hest og slede?» sa han til kremmeren.
 
-«Nei,» sa kremmeren, «men jeg møtte futen ned på her; han for så fort, han skulle visst bort og flå noen.»
+«Nei,» sa kremmeren, «men jeg møtte futen ned på her; han fór så fort, han skulle visst bort og flå noen.»
 
 Om en stund så møtte bonden fattigkjerringen.
 
 «Har du møtt noen hest og slede?» sa han til fattigkjerringen.
 
-«Nei,» sa kjerringen; «men jeg møtte presten ned på her; han skulle visst i sognebud, for han for så fort, og bondeskøds hadde han.»
+«Nei,» sa kjerringen; «men jeg møtte presten ned på her; han skulle visst i sognebud, for han fór så fort, og bondeskøds hadde han.»
 
 En stund etter møtte bonden reven.
 
@@ -48,7 +48,7 @@ En stund etter møtte bonden reven.
 
 «Hva gir du for skyssen?» sa bonden.
 
-«Du kan få vått og tørt, hva du lyster,» sa reven; «alltid får du like så mye av meg som av Bamse Bra-kar; for han pleier å være grov til å ta seg betalt, når han tar skyss og henger seg på hesteryggen.»
+«Du kan få vått og tørt, hva du lyster,» sa reven; «alltid får du like mye av meg som av Bamse Bra-kar; for han pleier å være grov til å ta seg betalt, når han tar skyss og henger seg på hesteryggen.»
 
 «Ja, du skal få skyss over fjellet,» sa bonden, «hvis du vil møte meg her i morgen ved dette leitet.» Han skjønte at Mikkel gjorde narr av ham og var ute med revstrekene sine.
 
@@ -56,4 +56,4 @@ Så tok han med seg en ladd børse på sleden, og da Mikkel kom og tenkte han sk
 
 ![Rev](./bb3.png)
 
-[^1]: vun = vunnen, sjanse til å komme unna
+[^1]: vun = von, håp om å komme unna

@@ -4,7 +4,7 @@ subtitle: En regle
 
 # Mons fra Mi-au
 
-Det var engang en gård som het Mi-au og på den gården stod der et hus, og ved det huset lå der en have, og i den haven vokste et tre, og under det treet satt der en katt.
+Det var engang en gård som het Mi-au og på den gården sto det et hus, og ved det huset lå det en hage, og i den hagen vokste et tre, og under det treet satt det en katt.
 
 Og den satt så sur og så stille og så stur, knep øynene sammen mot solen og gren, for den hadde så tungt for å leve.
 
@@ -13,7 +13,7 @@ Og den satt så sur og så stille og så stur, knep øynene sammen mot solen og 
 > «Miau!  
 > Det er slemt å ha gård,  
 > når det er så dårlige år!  
-> Miau!«
+> Miau!»
 
 svarte katten.
 
@@ -22,12 +22,12 @@ svarte katten.
 > «Miau!  
 > Men det er slemt å ha hus,  
 > når det er så vondt for mus!  
-> Miau!«
+> Miau!»
 
 svarte katten.
 
 > «Du har hage med tre;  
-> det er ikke alle som har det,«
+> det er ikke alle som har det,»
 
 sa spurven.
 
@@ -36,30 +36,30 @@ sa spurven.
 > når alle skal ligge og gnage,  
 > og det er vondt å ha tre,  
 > når en aldri får ha det i fred.  
-> Miau!«
+> Miau!»
 
 svarte katten.
 
 > «Kvorr! kvorr!  
 > Det er slemt å være katt,  
 > når en aldri får noen fatt!  
-> God natt!«
+> God natt!»
 
 sa spurven og så fløy den.
 
 Men katten knep øynene sammen igjen og satte seg til å sture i solskinnet. For den hadde så vondt for å leve.
 
-Rett som den satt kom der en humle surrende.
+Rett som den satt kom det en humle surrende.
 
-«Det er synd at ikke noen vet om det; men Gud bevare min munn!» sa humlen og krøp inn i en blomst, blev traktert og gikk ut igjen.
+«Det er synd at ikke noen vet om det; men Gud bevare min munn!» sa humlen og krøp inn i en blomst, ble traktert og gikk ut igjen.
 
-«Det er synd at ikke noen vet om det!» sa den og krøp inn i en annen blomst, blev traktert og krøp ut igjen.
+«Det er synd at ikke noen vet om det!» sa den og krøp inn i en annen blomst, ble traktert og krøp ut igjen.
 
 «Det er synd, er stor ubotelig synd, at ikke noen vet om det! Men Gud bevare min munn!»
 
-Slik fløy den fra blomst til blomst og fortalte og blev traktert overalt, før den gikk.
+Slik fløy den fra blomst til blomst og fortalte og ble traktert overalt, før den gikk.
 
-«Aa den sladderen, den sladderen!» mol Mons fra Mi-au, han satt og spisset ørene og var så sur fordi han ingenting fikk høre.
+«Å den sladderen, den sladderen!» mol Mons fra Mi-au, han satt og spisset ørene og var så sur fordi han ingenting fikk høre.
 
 Men da humlen kom like borttil slo den labben i den som et lyn.
 
@@ -67,7 +67,7 @@ Men da humlen kom like borttil slo den labben i den som et lyn.
 
 «Miau!» skrek katten og slapp som den hadde brent seg.
 
-«Det var det verste! Det skal jeg fare langt bort og fortelle,» sa humlen; den seilte avsted som en sort prikk, høyt over trærne, opp i luften og blev borte.
+«Det var det verste! Det skal jeg fare langt bort og fortelle,» sa humlen; den seilte av sted som en svart prikk, høyt over trærne, opp i luften og ble borte.
 
 ![Høne og katt](./mfma1.png)
 
@@ -75,15 +75,15 @@ Men da humlen kom like borttil slo den labben i den som et lyn.
 > Klore går nok an, men stikke!  
 > Isj da!  
 > slikt nå gjør jeg ikke!  
-> Au!«
+> Au!»
 
 sa katten, den satt og livet og løftet på den hovne labben sin.
 
-Rett som den satt, kom der en høne snikende gjennom en åpning i gjerdet. Den strakte halsen hit - og trakk den i seg igjen, strakte den dit og trakk den i seg igjen.
+Rett som den satt, kom det en høne snikende gjennom en åpning i gjerdet. Den strakte halsen hit - og trakk den i seg igjen, strakte den dit og trakk den i seg igjen.
 
 > «Humlen er slem til å stikke og lyve,  
-> men det verste av alt hva jeg vet, det er tyve.  
-> Miau!«
+> men det verste av alt som jeg vet, det er tyve.  
+> Miau!»
 
 tenkte katten, men den satt huggende stille og så på hønen.
 
@@ -114,7 +114,7 @@ Så hoppet den ned igjen, gikk langsomt bort under treet og løftet og strakte f
 > «Feil har jeg nok av, folk kan så si;  
 > men rapse og stjele,  
 > den feil er jeg fri!  
-> Miau!«
+> Miau!»
 
 sa katten.
 
@@ -129,7 +129,7 @@ Og katten satt stille og knep øynene sammen; for det var så søtt å være i f
 Men da musen kom ganske nær, slo den kloen i.
 
 > «Du har en skrott og jeg har en mage;  
-> da får en tro, det er så laga,«
+> da får en tro, det er så laga,»
 
 sa katten.
 
@@ -139,21 +139,21 @@ sa katten.
 
 Og så slapp den musen.
 
-Men da den vel hadde sloppet, syntes den det var så synd på den skamferte musen at den skulle leve, og så slo den kloen i den igjen.
+Men da den vel hadde sluppet, syntes den det var så synd på den skamferte musen at den skulle leve, og så slo den kloen i den igjen.
 
 «Spar! spar!» skrek musen.
 
 > «Miau!  
 > Jeg sparer flere jeg enn mangen!  
-> Jeg dreper bare en om gangen!«
+> Jeg dreper bare en om gangen!»
 
 svarte katten, og så åt den musen.
 
-Men da sa ikke musen mere.
+Men da sa ikke musen mer.
 
 Og så gikk katten bortunder treet igjen og satte seg og syntes det var så tungt å leve. For det var så mange små mus som hadde det vondt i verden. Og den slikket seg om munnen for å holde seg ren; for ren må en holde seg - det er en grunnregel for alle rovdyr.
 
-Men utenfor skigarden stod der en grisenoe, og ved siden av den stod en fet gris og tenkte.
+Men utenfor skigarden sto det en grisenoe, og ved siden av den sto en fet gris og tenkte.
 
 «Hm!» sa grisen.
 

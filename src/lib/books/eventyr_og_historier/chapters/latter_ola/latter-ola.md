@@ -6,7 +6,7 @@ subtitle: En historie
 
 Det var en gang et par folk, som bodde for seg selv i en liten hytte ved allmannveien.
 
-Disse folka hadde en liten gutt, og den gutten hette Ola.
+Disse folka hadde en liten gutt, og den gutten het Ola.
 
 Nå er det en gang så, at alle folk synes at verden er så full av sorg og elendighet, og det syntes folkene i hytta også. Men Ola, gutten deres, han syntes at alt var bare moro, han. Aldri gråt han, og lo gjorde han av allting.
 
@@ -16,7 +16,7 @@ Derfor kalte de ham også for Latter-Ola.
 
 Men foreldrene hans var så rent ille ved, fordi de hadde fått en slik bytting til gutt.
 
-Så var det en dag mor hans stod og kokte grøt. Døra stod åpen, og hun glante og glodde etter dem som gikk forbi.
+Så var det en dag mor hans sto og kokte grøt. Døra sto åpen, og hun glante og glodde etter dem som gikk forbi.
 
 Rett som det var, veltet hun grøtgryten og svidde hendene sine.
 
@@ -32,7 +32,7 @@ Om en stund kom far hans inn med noen økseskaftemner han skulle lage til.
 
 Han satte seg borte ved åren, ga gutten et emne med, og så ga de seg til å spikke og telje alt de orket.
 
-Rett som det var, skar faren en diger flenge i hånda si, så blodspruten stod.
+Rett som det var, skar faren en diger flenge i hånda si, så blodspruten sto.
 
 Da moren fikk se dette, ble hun rent som fra sans og samling.
 
@@ -60,7 +60,7 @@ Da slapp moren ham.
 
 Rett som det var, kom futen inn i stua, alvorlig som en prest, og skulle ta alt det som fantes.
 
-Og faren stod mørk og så ned, og moren satt ved bordet og gråt.
+Og faren sto mørk og så ned, og moren satt ved bordet og gråt.
 
 «Jeg gjør bare det som rett er, jeg,» sa futen og skrev opp.
 

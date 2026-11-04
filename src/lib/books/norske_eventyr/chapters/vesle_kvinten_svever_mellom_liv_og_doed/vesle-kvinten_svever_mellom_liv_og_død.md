@@ -6,13 +6,13 @@ En strålende sommerdag som Vesle-Kvinten ruslet og slang i stiene omkring Storh
 
 Om Vesle-Kvinten hadde kvasst stål og slikt slag? Jo, det skulle han mene. Det var lite håp og redningsløst foruten stål å være for en liten trollsplint i Storheia.
 
-— Og dersom du vil, sa Vesle-Kvinten, så kan du gjerne sette deg ned og ta verden med ro mens jeg skjærer og kjerver kvistene for deg. Her har du nisteskreppa mi, og når du har spist deg god og mett så er jeg vel tilbake med kvistene også.
+— Og hvis du vil, sa Vesle-Kvinten, så kan du gjerne sette deg ned og ta verden med ro mens jeg skjærer og kjerver kvistene for deg. Her har du nisteskreppa mi, og når du har spist deg god og mett så er jeg vel tilbake med kvistene også.
 
-Heksen ble så gla at hun reint brummet og snøvlet av glede, en slik liten gullklump skulle hun sannelig like å eie, det var nok en både sjelden og god vare det, tenkte hun.
+Heksen ble så glad at hun reint brummet og snøvlet av glede, en slik liten gullklump skulle hun sannelig like å eie, det var nok en både sjelden og god vare det, tenkte hun.
 
 Som det led på kom da endelig Vesle-Kvinten tilbake med en diger kvase med limekvister.
 
-— Ja, det blir saker å dra til Bloksberg med det, sa hun og logret med snyteskaftet sitt av bare glede. Men ikke skjønner jeg hva godt jeg kan gjøre til gjengeld — jeg eier ikke mer enn du ser.
+— Ja, det blir saker å dra til Bloksberg med det, sa hun og logret med snyteskaftet sitt av bare glede. Men ikke skjønner jeg hva godt jeg kan gjøre til gjengjeld — jeg eier ikke mer enn du ser.
 
 — Det er det samme det, sa Vesle-Kvinten. Jeg liker å hjelpe der hjelpen trengs!
 
@@ -26,17 +26,17 @@ Vesle-Kvinten ruslet videre og kom langt om lenge til en åpen mark hvor blåvei
 
 Som han ble gående slik og bøye seg med den vesle akterskrotten sin vendt mot skyene, kom det en diger ørn dalende rett ned på ham, og med klørne i buksebaken hans suste den avgårde gjennom luften både fort og snart.
 
-Vesle-Kvinten både sparket og gnall og ba om livet, men dess mer han bar seg, dess hurtigere bar det avgårde gjennom luftens rike. Og da de hadde fløyet riktig lenge, slo ørnen ned på en høy og spiss fjelltopp.
+Vesle-Kvinten både sparket og gnall og ba om livet, men jo mer han bar seg, desto fortere bar det avgårde gjennom luftens rike. Og da de hadde fløyet riktig lenge, slo ørnen ned på en høy og spiss fjelltopp.
 
-— Her skal du sitte alle dine livens dager, sa ørnen, og ikke skal du få hverken vått eller tørt heller fordi du hjalp denne heksen med limekvistene.
+— Her skal du sitte alle dine livens dager, sa ørnen, og ikke skal du få verken vått eller tørt heller fordi du hjalp denne heksen med limekvistene.
 
 Og dermed fløy ørnen bort igjen.
 
 Vesle-Kvinten dreiv omkring både i dager og uker oppe på denne fjelltoppen og visste ikke sin arme råd hvordan han skulle komme ned på jorda igjen. Det var ikke så mye som et skarve fotfeste engang, bare døden og evigheten rundt omkring, tenkte han.
 
-— Nå er du ille faren, Vesle-Kvinten far! sa han til seg selv. Du ser nok aldri hverken Storheia eller folket ditt igjen på dette viset.
+— Nå er du ille faren, Vesle-Kvinten far! sa han til seg selv. Du ser nok aldri verken Storheia eller folket ditt igjen på dette viset.
 
-Han la seg på ryggen med hendene under hodet og glante opp i skyene og ventet på at døden skulle komme. Han snudde hodet sitt både hit og dit, men døden var ikke å se hverken her eller der.
+Han la seg på ryggen med hendene under hodet og glante opp i skyene og ventet på at døden skulle komme. Han snudde hodet sitt både hit og dit, men døden var ikke å se verken her eller der.
 
 Men en vakker dag — det var jonsokkvelden — ble det plutselig slik ståk og styr oppi luften, slik jarnring og kvining alle steder, og best det var ble det aldeles svart av gamle kjerringer som suste avgårde på limene sine for å fly til Bloksberg.
 

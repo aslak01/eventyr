@@ -8,11 +8,11 @@ Det var stor sorg i skogen. For bjørnen var død, og det er ikke greit, må vit
 
 Større likferd enn det som nå var ute, hadde de ikke sett i manns minne i skogen. Og grevlingen, han som graven grov, mente på det, at gildere lik var det nå heller ikke faret i jorden i hans tid, og han hadde gravet ned mange.
 
-Fra Kivdalen drog de ut, der sørgehuset var, og til stormyra skulle de, der skogen hadde sin store kirkegård.
+Fra Kivdalen dro de ut, der sørgehuset var, og til stormyra skulle de, der skogen hadde sin store kirkegård.
 
-Og så lang var ferden, at da snuten på elgen som drog liket, kom frem på stormyra, så bjørnebinnen som satt igjen i Kivdalen og gråt, den siste muserumpe bli borte nede i Kivdalsvingen, der skogens kirkevei gikk.
+Og så lang var ferden, at da snuten på elgen som dro liket, kom frem på stormyra, så bjørnebinnen som satt igjen i Kivdalen og gråt, den siste muserumpe bli borte nede i Kivdalsvingen, der skogens kirkevei gikk.
 
-Det var dødens stillhet da ferden drog frem. Etter liket kom reven, for han var prest i skogen. Etter reven kom ulven og gråt og bar seg, for han var av nærmeste slekten og skulle arve. Etter ulven kom jerven. Han hadde faret over alle fjell for å hedre slekten sin.
+Det var dødens stillhet da ferden dro frem. Etter liket kom reven, for han var prest i skogen. Etter reven kom ulven og gråt og bar seg, for han var av nærmeste slekten og skulle arve. Etter ulven kom jerven. Han hadde faret over alle fjell for å hedre slekten sin.
 
 Og bakover i følget kom alle skogens dyr, mindre og mindre, og alle hadde de slik sorg og bedrøvelse, fordi bjørnen var død.
 
@@ -26,7 +26,7 @@ Og bakover i følget kom alle skogens dyr, mindre og mindre, og alle hadde de sl
 
 «Og slik familieforsørger som han var,» sa ulven.
 
-«Det er sant!» skrek en høk, den fløy og stilte og slo lavt over trærne der følget drog.
+«Det er sant!» skrek en høk, den fløy og stilte og slo lavt over trærne der følget dro.
 
 «Jeg skjønner ikke hvordan det skal gå, jeg,» sa haren, den skvatt hit og dit og var rent som forstyrret av sorg.
 
@@ -70,7 +70,7 @@ Men som de gikk og gikk og ikke sa et ord, tok sinnet mauren.
 
 «Å, en kan nå si hva en vil, så var han en bra kar,» knurret skogduen.
 
-«E — mø!» sa kua og vrengte med øynene. «Meg stjal han en kalv fra — e mø!» rauted hun.
+«E — mø!» sa kua og vrengte med øynene. «Meg stjal han en kalv fra — e mø!» rautet hun.
 
 «Å for en røver!» sukket reven.
 
@@ -80,7 +80,7 @@ Men som de gikk og gikk og ikke sa et ord, tok sinnet mauren.
 
 «Åh! Åh! Åh! Åh!» føset grisen og satte avsted i kåte byks hit og dit innover.
 
-Og elgen gjorde et hopp, himmelhøyt, og la på sprang så vasspruten stod, og ulvene hylte, revene skrattet, og kråkene skrek, og musene knistret, og det var en jubel i skogen, så alt stod i røk, fordi bjørnen var faret til jords.
+Og elgen gjorde et hopp, himmelhøyt, og la på sprang så vasspruten sto, og ulvene hylte, revene skrattet, og kråkene skrek, og musene knistret, og det var en jubel i skogen, så alt sto i røyk, fordi bjørnen var faret til jords.
 
 Men langveis fra syd kom en flokk grågås farende, og da de fikk se og fikk høre alt det syndige leven i skogen, ble de livende redde — allting gikk i stykker for dem, og de kaklet og kaklet:
 

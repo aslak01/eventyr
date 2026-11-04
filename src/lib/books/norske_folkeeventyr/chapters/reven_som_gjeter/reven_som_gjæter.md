@@ -46,20 +46,18 @@ Da hun hadde gått et stykke til, så møtte hun en rev.
 
 «Dill—dall—holom!» sa reven, så grant og fint.
 
-«Ja, deg vil jeg ha til gjeter,» sa kona, og så satte hun reven til å gjete kreaturene sine. Den første dagen reven gjette, spiste han opp alle geitene til kona; den andre dagen gjorde han ende på alle sauene hennes, og den tredje dagen spiste han opp alle kyrne[^1].
+«Ja, deg vil jeg ha til gjeter,» sa kona, og så satte hun reven til å gjete kreaturene sine. Den første dagen reven gjette, spiste han opp alle geitene til kona; den andre dagen gjorde han ende på alle sauene hennes, og den tredje dagen spiste han opp alle kyrne.
 
 Da han så kom hjem om kvelden, spurte kona hvor han hadde gjort av alle kreaturene hennes.
 
-«Skallen, skallen er i åa og kroppen i holtet[^2],» sa reven.
+«Skallen, skallen er i åa og kroppen i holtet[^1],» sa reven.
 
 Hun sto nettopp og kjerna; men hun syntes at hun likevel måtte se etter dem, og mens hun var borte, smatt reven ned i kjerna og spiste opp fløten.
 
-Da så kona kom igjen og fikk se det, ble hun så sint, at hun tok det vesle fløtegrandet som var igjen, og slo etter reven, så den fikk en skvett på enden av halen. Derav kommer det at reven har hvit rovetipp[^3].
+Da så kona kom igjen og fikk se det, ble hun så sint, at hun tok det vesle fløtegrandet som var igjen, og slo etter reven, så den fikk en skvett på enden av halen. Det er derfor reven har hvit rovetipp[^2].
 
 ![Rev](./rsg3.png)
 
-[^1]: Kyr - hunn av storfe
+[^1]: Et gammelt uttrykk som betyr at dyrene er døde - skallen ligger i elva og kroppen i skogen
 
-[^2]: En gammelt uttrykk som betyr at dyrene er døde - skallen ligger i elva og kroppen i skogen
-
-[^3]: Hvit tupp på halen
+[^2]: Hvit tupp på halen

@@ -66,11 +66,11 @@ Da de kom et stykke lenger, møtte de en hane.
 
 «Ja, morgenstund har gull i munn; la ham få være med!» sa grisen; han var alltid den største storsoveren. «Søvnen er en stor tyv; han vil alltid stjele halve tida,» sa han.
 
-Så for de til skogs i flokk og i følge og bygde huset: grisen hugg tømmer, og væren kjørte det hjem; haren var tømmermann, gnog plugger og hamra i vegger og tak; gåsa nappa mose og dytta i veggefarene; hanen gol, og passa at de ikke forsov seg om morgenen. Og da huset var ferdig, og taket neverdekt og torvlagt, så levde de for seg selv, og hadde det både godt og vel. «Det er godt både i øst og vest, men enda er hjemme best,» sa væren.
+Så fór de til skogs i flokk og i følge og bygde huset: grisen hugg tømmer, og væren kjørte det hjem; haren var tømmermann, gnog plugger og hamra i vegger og tak; gåsa nappa mose og dytta i veggefarene; hanen gol, og passa at de ikke forsov seg om morgenen. Og da huset var ferdig, og taket neverdekt og torvlagt, så levde de for seg selv, og hadde det både godt og vel. «Det er godt både i øst og vest, men enda er hjemme best,» sa væren.
 
 Men et stykke lenger borti skogen var en gråbeinkule[^2], som det bodde to gråtasser[^3] i. Da de fikk se det var kommet opp et nytt hus i nabolaget, ville de vite hva det var for folk de hadde fått til naboer; for de tenkte som så: «en god granne er bedre enn bror i fremmed land; og bedre er det å bo i en god grend enn være vidt kjent.»
 
-Så ga den ene seg et ærend, gikk inn og ville låne varme til pipa si. Med det samme han kom inn igjennom døra, stanga væren til ham, så han stupte på hodet bort i peisen; grisen til å hugge og bite, gåsa til å hvese og klype; hanen opp på hanebjelken til å gale og smale; og haren ble så rent forskrekket at han for både høyt og lavt og trampa og tråkka i alle røer.
+Så ga den ene seg et ærend, gikk inn og ville låne varme til pipa si. Med det samme han kom inn gjennom døra, stanga væren til ham, så han stupte på hodet bort i peisen; grisen til å hugge og bite, gåsa til å hvese og klype; hanen opp på hanebjelken til å gale og smale; og haren ble så rent forskrekket at han fór både høyt og lavt og trampa og tråkka i alle røer.
 
 Langt om lenge kom ulven ut igjen.
 
@@ -78,7 +78,7 @@ Langt om lenge kom ulven ut igjen.
 
 «Ja, det var en artig pipevarme og et artig selskap,» sa han som hadde vært inne; «slikt folkeferd har jeg aldri vært ute for før. Men som en søker lag, så får en ære, og uventa gjest får uvant kost,» sa ulven.
 
-«Da jeg kom innenfor døra, drev skomakeren til meg med læstesekken, så jeg røyk på hodet like fram i smia; der satt to smeder; de blåste og de hveste med belgen, og kløyp og slo med glødende tenger og stenger, så det og kjøttstykker ut av skrotta på meg. Skytteren han for og ramla og leita etter børsa si, men lykken var at han ikke fant den. Og så satt det en opp under taket og flaksa og gol: 'Hekt kroken i ham, dra ham hit, dra ham hit!' skrek han; hadde han fått tak i meg, hadde jeg aldri kommet levende ut.»
+«Da jeg kom innenfor døra, drev skomakeren til meg med læstesekken, så jeg røyk på hodet like fram i smia; der satt to smeder; de blåste og de hveste med belgen, og kløyp og slo med glødende tenger og stenger, så kjøttstykkene røk ut av skrotta på meg. Skytteren han fór og ramla og leita etter børsa si, men lykken var at han ikke fant den. Og så satt det en opp under taket og flaksa og gol: 'Hekt kroken i ham, dra ham hit, dra ham hit!' skrek han; hadde han fått tak i meg, hadde jeg aldri kommet levende ut.»
 
 ![Ulv](./vogsstsobfss3.png)
 

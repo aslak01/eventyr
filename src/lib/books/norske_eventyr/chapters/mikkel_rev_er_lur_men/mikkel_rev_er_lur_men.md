@@ -2,13 +2,13 @@
 
 Vesle-Kvinten gikk der og slang mellom moserabbene oppe i Storheia og visste ikke sin arme råd hva han skulle slå nevene sine i. Han hadde jo alltid vært både yrkeslysten og foretaksom av seg, så det manglet ikke på det.
 
-Men da det ikke ville by seg noe som helst, visste han ikke bedre råd enn å gi seg på jakt. For bare det å høre at muskedunderen skrallet mellom åsene var en stor oppkvikkelse for en liten trollsjel oppe i Storheia. Han labbet inn etter den digre børsa, slengte den over skulderen og sabbet seg avgårde. Han føyk som en vettskremt hare gjennom skog, over berg, over myr og etter ulendte stier. Men da han hadde trasket både drøyt og lenge, møtte han Mikkel rev.
+Men da det ikke ville by seg noe som helst, visste han ikke bedre råd enn å gi seg på jakt. For bare det å høre at muskedunderen skrallet mellom åsene var en stor oppkvikkelse for en liten trollsjel oppe i Storheia. Han labbet inn etter den digre børsa, slengte den over skulderen og sabbet seg av gårde. Han føyk som en vettskremt hare gjennom skog, over berg, over myr og etter ulendte stier. Men da han hadde trasket både drøyt og lenge, møtte han Mikkel rev.
 
 — Nei, god dag, sa den og smilte omkapp med selve godværet. Så sannelig tror jeg ikke det er selve Vesle-Kvinten jeg er råket ut for, og tar jeg ikke feil, så tenker han seg på jakt og!
 
 — Akkurat, svarte Vesle-Kvinten.
 
-— Men det blir skrøpelig jakt uten bikkje med god snute, spør jeg. Det er det samme, jeg skal ikke være så nøye med umaken jeg heller, for no har jeg ligget i hiet mitt i både dager og uker, så det er sannelig på tide at jeg får bruke kroppen og teften litt. Og hvis du vil, så byr jeg meg fram som bikkje, og for dette skal jeg ikke kreve hverken takk eller betaling.
+— Men det blir skrøpelig jakt uten bikkje med god snute, spør jeg. Det er det samme, jeg skal ikke være så nøye med umaken jeg heller, for nå har jeg ligget i hiet mitt i både dager og uker, så det er sannelig på tide at jeg får bruke kroppen og teften litt. Og hvis du vil, så byr jeg meg fram som bikkje, og for dette skal jeg ikke kreve hverken takk eller betaling.
 
 Nei, jaså du, tenkte Vesle-Kvinten. Han hadde ennå ikke hørt snakk om at Mikkel Rev kunne gjøre den minste umak uten størst betaling. Men hvorom alt var, han blåste i alle baktankene og tenkte som så at en gang måtte vel Mikkel som alle de andre skapningene stå til rette for sine synder, og den dagen kom vel tidsnok.
 
@@ -18,7 +18,7 @@ Så ruslet Vesle-Kvinten videre. Mikkel vimset foran med snuten høyt i været, 
 
 ![Men det blir vel skrøpelig jakt uten bikkje med god snute spår jeg](./mikkel.png)
 
-Vesle-Kvinten la inn en diger ladning og sendte den avgårde så det jamret i skogen. Mikkel la på sprang alt han var kar til, og det tok ikke lang økta før han kom tilbake med fuglen heller.
+Vesle-Kvinten la inn en diger ladning og sendte den av gårde så det jamret i skogen. Mikkel la på sprang alt han var kar til, og det tok ikke lang økta før han kom tilbake med fuglen heller.
 
 — Nå svinter jeg borti uren der borte og gjemmer hver fugl du skyter, så kommer de ikke i fremmede hender, og så slipper vi å drasse på dem, sa Mikkel.
 
@@ -30,7 +30,7 @@ Da Mikkel kom tilbake, bar det videre gjennom skogen.
 
 Vesle-Kvinten smelte i vei med det neste skuddet, som drønnet bare så mye verre enn det første.
 
-— Prima vare, fin og feit, lo Mikkel da han fløy avgårde for å gjemme fuglen borti uren. Og da han kom tilbake igjen, ga de seg på vei videre inn gjennom skogen.
+— Prima vare, fin og feit, lo Mikkel da han fløy av gårde for å gjemme fuglen borti uren. Og da han kom tilbake igjen, ga de seg på vei videre inn gjennom skogen.
 
 — Pass på! Øverst i grana der borte sitter ei århøne!
 

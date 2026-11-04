@@ -1,6 +1,6 @@
 # Julekveld i Storheia
 
-I de siste dagene før jul stakk trollungen Vesle-Kvinten det lurvete hodet sitt ut gjennom hulen for å se om jula kom. Han glodde alle veger og været gjennom luften om han skulle se likt til noe som hadde med jul å gjøre. Om kveldene kravlet han møysommelig opp på Storheivarden, og der ble han stående lange økter og stirre inn i stjernevrimmelen. For sannelig syntes han at stjernene ble både blankere og gildere jo nærmere jula det lei. Ikke var han kar om å få sove om nettene, og om dagene gikk han bare og vred seg og var kjed og trodde aldri det skulle bli endskap på dem heller. Enda han hadde mer enn nok å tumle med også.
+I de siste dagene før jul stakk trollungen Vesle-Kvinten det lurvete hodet sitt ut av hulen for å se om jula kom. Han glodde alle veger og været gjennom luften om han skulle se likt til noe som hadde med jul å gjøre. Om kveldene kravlet han møysommelig opp på Storheivarden, og der ble han stående lange økter og stirre inn i stjernevrimmelen. For sannelig syntes han at stjernene ble både blankere og gildere jo nærmere jula det lei. Ikke var han kar om å få sove om nettene, og om dagene gikk han bare og vred seg og var lei og trodde aldri det skulle bli endskap på dem heller. Enda han hadde mer enn nok å tumle med også.
 
 Han hjalp far sin, han Stor-Kvinten, med å lage juleøl. Hele den slagne dag sto han pal og rørte opp bunnfallet i kjæret for å gi ølet styrkemon. Det var rikelig tilsatt med humle, og derfor ble det mørkt og seigt som sju lange, svarte vinternetter i Storheia.
 
@@ -8,9 +8,9 @@ Siden ga han mor si, hu Gull, en håndsrekning med baksten. Han skulle da til og
 
 Men det var en ting han grublet støtt på, og det var julegåvene. En gang hadde han hørt Stor-Kvinten mumle noe om at jo snillere ungene var, jo fler gaver ble de velsignet med. Og skulle ikke han, selveste Vesle-Kvinten, få gaver? Han som ikke hadde rukket annet hele det slagne året enn å yte hjelp og bistand i både øst og vest. Råkte han så sant borti en gammel, forkommen skikkelse som kunne være stedt i nød, så hadde han da aldri vært så nøye med umaken. Enten det så var folk eller dyr. Ja, han hadde til og med gjort både prinsesser og prinser lykkelige for levetiden.
 
-Her ene dagen hadde Vesle-Kvinten tullet og lagt i veg til byen alene. Han har en diger bylt på ryggen. Folk stanset opp og grunnet på hva det vel kunne være for en underlig raring som kom ruslende bortover Kongens gate. Da han kom til torget, slengte han bylten i fanget til nissen som satt under den store julegrana og tok imot gaver til de fattige. Som dette var unnagjort og han sto slik og grunnet, ble han var noe han hverken hadde sett eller hørt maken til før. Det var et musikkkorps som kom troppende nedover gaten.
+Her ene dagen hadde Vesle-Kvinten tullet og lagt i veg til byen alene. Han hadde en diger bylt på ryggen. Folk stanset opp og grunnet på hva det vel kunne være for en underlig raring som kom ruslende bortover Kongens gate. Da han kom til torget, slengte han bylten i fanget til nissen som satt under den store julegrana og tok imot gaver til de fattige. Som dette var unnagjort og han sto slik og grunnet, ble han var noe han verken hadde sett eller hørt maken til før. Det var et musikkkorps som kom troppende nedover gaten.
 
-Da ble Vesle-Kvinten så livende redd at han tok hyven opp til Storheia med det samme, og så fort bar det avsted at ikke engang lynet kunne ha nådd ham igjen.
+Da ble Vesle-Kvinten så livende redd at han tok hyven opp til Storheia med det samme, og så fort bar det av sted at ikke engang lynet kunne ha nådd ham igjen.
 
 Og julekvelds formiddag kan du tru trollfamilien i Storheia la seg i skuringa og pussinga. Alle ting skulle jo være så pent og blankt at det kunne skinne på lang lei. Og så måtte Vesle-Kvinten hjelpe far sin med å støpe digre kjertelys i alskens farger, og etterpå strødde han duftende einerhar over golvet.
 
@@ -18,7 +18,7 @@ Til slutt ble julegrana satt på plass, og den pyntet Vesle-Kvinten med mye rart
 
 Så ringte da jula inn.
 
-Stor-Kvinten og Vesle-Kvinten sto i andakt utafor hulen og ønsket jula velkommen til Storheia, mens klokkekalmet fra domkirken bølget gjennom lufta og kalte til fred over hele verden. Klokkekalmet og stjerrelyset og den glitrende snøen fikk seiv et trollhjerte til å banke i andakt med høgtiden.
+Stor-Kvinten og Vesle-Kvinten sto i andakt utafor hulen og ønsket jula velkommen til Storheia, mens klokkekalmet fra domkirken bølget gjennom lufta og kalte til fred over hele verden. Klokkekalmet og stjernelyset og den glitrende snøen fikk selv et trollhjerte til å banke i andakt med høgtiden.
 
 — Til lykke med jula da, vesleklompen min, sa Stor-Kvinten.
 
@@ -28,7 +28,7 @@ Stor-Kvinten og Vesle-Kvinten sto i andakt utafor hulen og ønsket jula velkomme
 
 — Men hvorfor er menneskene så redd for oss troll da, far?
 
-— Jeg lurer støtt på det samme jeg, klompen min. Og hvorfor er vi troll så redde menneskene da? Jaja, det fins da vel både onde og gode troll her i verden, og det er vel slik hos menneskene også, kan jeg tenke meg. Men i jula er det fred og forsoning mellom alle skapninger, det er både visst og sant.
+— Jeg lurer støtt på det samme jeg, klompen min. Og hvorfor er vi troll så redde for menneskene da? Jaja, det fins da vel både onde og gode troll her i verden, og det er vel slik hos menneskene også, kan jeg tenke meg. Men i jula er det fred og forsoning mellom alle skapninger, det er både visst og sant.
 
 ![Så ringte jula inn](./julekveld.png)
 

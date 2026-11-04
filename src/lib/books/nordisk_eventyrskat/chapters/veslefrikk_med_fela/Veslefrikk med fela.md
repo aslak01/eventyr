@@ -22,11 +22,13 @@ Veslefrikk syntes nok det var store penger, for han hadde aldri eiet så mye. Me
 
 «Når du har fått det vi er forlikte om, og tre skilling til, så har ikke jeg mer med deg,» sa lensmanna.
 
+![Tre skilling i lønn](./vmf1.png)
+
 Men han skulle da få lov å gå ut i kjøkkenet og få litt mat i nistesekken sin, og så gikk han på byveien og skulle kjøpe klær.
 
-Han var både lystig og glad, for han hadde aldri sett en skilling før, og akkurat som det var, så kjente han etter om han hadde dem alle tre.
+Han var både lystig og glad, for han hadde aldri sett en skilling før, og rett som det var, kjente han etter om han hadde dem alle tre.
 
-Da han hadde gått langt og lenger enn langt, var han kommet inn i en trang dal med høye fjell på alle kanter, så han ikke syntes det var noen vei å komme frem. Han tok til å undres hva det kunne være på hin side av disse fjellene, og hvordan han skulle komme over dem.
+Da han hadde gått langt og lenger enn langt, var han kommet inn i en trang dal med høye fjell på alle kanter, så han ikke syntes det var noen vei å komme frem. Han tok til å undre seg på hva det kunne være på den andre siden av disse fjellene, og hvordan han skulle komme over dem.
 
 Men han måtte opp, og så steg han i veien. Han orket lite og måtte hvile innimellom, og da regnet han etter hvor mange penger han hadde.
 
@@ -42,7 +44,7 @@ Da han kom opp på det høyeste, var det ikke annet enn en stor mosefly. Der sat
 
 Da han hadde gått en stund, ble han trøtt og satte seg til å hvile igjen.
 
-Da han så opp, så var det en fattigmann der igjen, men han var enda større og styggere enn den første, og da gutten riktig fikk se hvor stor og styg og lang han var, satte han i å skrike.
+Da han så opp, så var det en fattigmann der igjen, men han var enda større og stygggere enn den første, og da gutten riktig fikk se hvor stor og stygg og lang han var, satte han i å skrike.
 
 «Vær ikke redd for meg, jeg gjør deg ikke noe. Jeg ber bare om en skilling i Guds navn,» sa fattigmanna.
 
@@ -52,7 +54,7 @@ Da han så opp, så var det en fattigmann der igjen, men han var enda større og
 
 «Ja, så får du få den da,» sa gutten.
 
-Så gikk han en stund igjen til han ble trøtt, da satte han seg å hvile, og da han vel hadde satt seg, kom det til ham en fattigmann igjen. Men han var så stor og styg og lang at gutten så oppetter og oppetter, til han så like til himmels, og da han riktig fikk se hvor stor og styg og fillet han var, satte han i å skrike.
+Så gikk han en stund igjen til han ble trøtt, da satte han seg for å hvile, og da han vel hadde satt seg, kom det til ham en fattigmann igjen. Men han var så stor og stygg og lang at gutten så oppetter og oppetter, til han så like til himmels, og da han riktig fikk se hvor stor og stygg og fillet han var, satte han i å skrike.
 
 «Vær ikke redd for meg du, gutten min,» sa han. «Jeg gjør deg ikke noe, for jeg er bare en fattigmann som ber om en skilling i Guds navn.»
 
@@ -61,6 +63,8 @@ Så gikk han en stund igjen til han ble trøtt, da satte han seg å hvile, og da
 «Ja, jeg har ingen skilling jeg, og større kropp og mindre klær, så det er verre for meg enn for deg,» sa fattigmanna.
 
 Så fikk han få skillinga da, sa Veslefrikk, det var ingen råd for det. For så hadde hver sin, og han hadde ingen.
+
+![Den siste skillinga](./vmf3.png)
 
 «Ja, siden du har slikt et godt hjertelag at du har gitt bort alt det du eide,» sa fattigmanna, «så skal jeg gi deg et ønske for hver skilling.» Det var den samme fattigmanna som hadde fått dem alle tre. Han hadde bare skiftet skikkelse for hver gang, så gutten ikke kunne kjenne ham igjen.
 
@@ -72,9 +76,11 @@ Så fikk han få skillinga da, sa Veslefrikk, det var ingen råd for det. For s�
 
 «Det skulle han få, men det var et skrøpelig ønske,» sa fattigmanna. «Du får ønske bedre for den siste skillinga.»
 
+![En børse som treffer alt](./vmf2.png)
+
 «Jeg har alltid hatt lyst til å være i lag med folk som var snille og godhjertede,» sa Veslefrikk, «så fikk jeg det som jeg ønsker, ville jeg ha det så at ingen kan nekte meg det første jeg ber om.»
 
-«Det ønsket var ikke så skrøpelig,» sa fattigmanna, og så strok han bort imellom haugene, så han ikke så ham mer, og gutten la seg til å sove, og neste dagen kom han ned av fjellet med fela og børsa si.
+«Det ønsket var ikke så skrøpelig,» sa fattigmanna, og så strøk han bort mellom haugene, så gutten ikke så ham mer, og gutten la seg til å sove, og neste dagen kom han ned av fjellet med fela og børsa si.
 
 Først gikk han til landhandleren og ba om klær, og på en bondegård ba han om hest, og på en annen ba han om slede, og et sted ba han om finmut[^2], og det var ikke nei å få for ham. Om det var aldri så store gniere, måtte de gi ham det han ba om.
 
@@ -86,27 +92,31 @@ Da han hadde reist et stykke, møtte han lensmanna som han hadde tjent hos.
 
 «God dag,» sa lensmanna. «Har jeg vært din husbond?» spurte han.
 
-«Ja, kommer du ikke i hu det at jeg tjente hos deg i tre år for tre skilling?» sa Veslefrikk.
+«Ja, husker du ikke at jeg tjente hos deg i tre år for tre skilling?» sa Veslefrikk.
 
 «Gud bevares, hvor du er kommet deg i en fart da,» sa lensmanna. «Hvordan har det gått til at du er blitt sånn storkar?»
 
 «Å, det var nå så det,» sa Veslen.
 
-«Er du så vellustig at du farer med fele også?» sa lensmanna.
+«Er du så glad i moro at du farer med fele også?» sa lensmanna.
 
-«Ja, jeg har alltid hatt lyst til å få folk til å danse,» sa gutten, «men det gjeveste jeg har, er denne børsa,» sa han, «for det faller mest alt det jeg peker på med den, om det er aldri så langt borte. Ser du den skjæra som sitter i grana der borte?» sa han. «Hva setter du at jeg kniper den, her vi står?» sa han.
+«Ja, jeg har alltid hatt lyst til å få folk til å danse,» sa gutten, «men det gjeveste jeg har, er denne børsa,» sa han, «for det faller mest alt det jeg peker på med den, om det er aldri så langt borte. Ser du den skjæra som sitter i grana der borte?» sa han. «Hva vedder du på at jeg ikke kniper den, her vi står?» sa han.
+
+![Ser du den skjæra?](./vmf5.png)
 
 Det ville lensmanna gjerne, om det skulle være, sette hest og gård og hundre daler på han ikke var god for. Men han skulle da sette alle de pengene han hadde på seg, og hente den skulle han når den falt, for han trodde aldri det var mulig å rekke så langt med noen børse.
 
-Men med det samme det smalt, falt skjæra ned i et stort klungrerkjær, og lensmanna strok bort oppi kjæret etter den, og han tok den opp og viste gutten den.
+Men med det samme det smalt, falt skjæra ned i et stort klungerkjerr, og lensmanna strøk bort oppi kjerret etter den, og han tok den opp og viste gutten den.
 
 I det samme satte Veslefrikk til å stryke på fela, og lensmanna tok til å danse, så tornene sled i ham, og gutten spilte, og lensmanna dansa og gråt og ba for seg, til fillene fløy om ham, og han nesten ikke hadde en tråd på seg.
+
+![Lensmanna dansa i kjerret](./vmf4.png)
 
 «Ja, nå tenker jeg du er så fillet som jeg var da jeg reiste av tjenesten hos deg,» sa gutten, «så nå får du slippe med det,» men først måtte lensmanna gi ham det han hadde vedda på at han ikke skulle treffe skjæra.
 
 Da gutten kom til byen, tok han inn på et vertshus. Han spilte, og de som kom dit, dansa, og han levde både lystig og vel. Det var ingen sorg for ham, for ingen kunne si nei til det han ba om.
 
-Men som de stod i den beste leken, kom vekterne og skulle trekke gutten på rådstua, for lensmanna hadde klaga over ham og sagt at han hadde overfalt ham og plyndret ham og nesten tatt livet av ham, og nå skulle han henges. Det var ikke å be for.
+Men som de sto i den beste leken, kom vekterne og skulle dra gutten til rådstua, for lensmanna hadde klaga over ham og sagt at han hadde overfalt ham og plyndret ham og nesten tatt livet av ham, og nå skulle han henges. Det var ikke å be for.
 
 Men Veslefrikk hadde råd for all uråd han, og det var fela.
 
@@ -116,15 +126,17 @@ Så sendte de soldater og vakt i veien, men det gikk ikke bedre med dem enn med 
 
 Til sist så lurte de seg på ham og tok ham mens han sov om natta, og da de hadde fått ham, ble han dømt til at han skulle henges straks, og det bar av sted til galgen med det samme.
 
-Der stimlet sammen en mengde folk som skulle se dette vidunderet, og lensmanna var også med, og han var så sjeleglad fordi han skulle få rett for pengene og skinnet sitt, og få se at de hengte ham. Men det gikk ikke fort, for Veslefrikk var skrøpelig til å gå og skrøpeligere gjorde han seg. Fela og børsa drog han også med seg. Det var ingen god for å få fra ham dem, og da han kom til galgen og skulle klyve opp på stigen, hvilte han for hvert trinn. På det øverste satte han seg og spurte om de kunne nekte ham et ønske, om han ikke kunne få lov til én ting. Han hadde sånn lyst til å låte en låt og leke en lek på fela si før de hengte ham.
+Det stimlet sammen en mengde folk som skulle se dette vidunderet, og lensmanna var også med, og han var så sjeleglad fordi han skulle få rett for pengene og skinnet sitt, og få se at de hengte ham. Men det gikk ikke fort, for Veslefrikk var skrøpelig til å gå og skrøpeligere gjorde han seg. Fela og børsa dro han også med seg. Det var ingen som klarte å få dem fra ham, og da han kom til galgen og skulle klyve opp på stigen, hvilte han for hvert trinn. På det øverste satte han seg og spurte om de kunne nekte ham et ønske, om han ikke kunne få lov til én ting. Han hadde sånn lyst til å låte en låt og leke en lek på fela si før de hengte ham.
 
 «Nei, det var både synd og skam å nekte ham det,» sa de. Det var ikke nei til det han ba om.
 
-Men lensmanna ba for Guds skyld at de ikke skulle la ham få lov til å klunke på en streng, ellers var det ute med dem alle sammen, og skulle gutten ha lov til å spille, måtte de binde ham til birka som stod der.
+Men lensmanna ba for Guds skyld at de ikke skulle la ham få lov til å klunke på en streng, ellers var det ute med dem alle sammen, og skulle gutten ha lov til å spille, måtte de binde ham til birka som sto der.
 
-Veslefrikk var ikke lenge om å få fela til å låte, og alle de som var der, til å danse, både de som gikk på to og fire, både prost og prest og skriver og fut og lensmann og mestermann og hunder og svin. De dansa og lo og skrek om hverandre. Noen dansa til de lå som døde, noen dansa til de falt i svime. Galt gikk det med dem alle, men verst gikk det med lensmanna, for han stod gjordet til birka og dansa og skuret store stykker av ryggen sin på den.
+Veslefrikk var ikke lenge om å få fela til å låte, og alle de som var der, til å danse, både de som gikk på to og fire, både prost og prest og skriver og fut og lensmann og mestermann og hunder og svin. De dansa og lo og skrek om hverandre. Noen dansa til de lå som døde, noen dansa til de falt i svime. Galt gikk det med dem alle, men verst gikk det med lensmanna, for han sto gjordet til birka og dansa og skuret store stykker av ryggen sin på den.
 
-Der var ikke noen som tenkte på å gjøre noe med Veslefrikk, og han fikk gå med børsa og fela si som han ville, og han levde vel alle sine dager, for det var ingen som kunne si nei til det første han ba om.
+![Alle måtte danse](./vmf6.png)
+
+Det var ikke noen som tenkte på å gjøre noe med Veslefrikk, og han fikk gå med børsa og fela si som han ville, og han levde vel alle sine dager, for det var ingen som kunne si nei til det første han ba om.
 
 [^1]: Børse = gevær
 

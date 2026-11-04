@@ -35,7 +35,7 @@ no har du terga meg for sint!_
 
 Trollene gjøv i hop så jord og stein, filler og hår sto som en røyk omkring dem. De remjet og skreik og klorte, de sparket og slo og nøs så skummet valt i store flak i alle retninger. Og slik dreiv de da på både vel og lenge, til Stor-Kvinten måtte gi seg.
 
-— Jamen er du stri å dras med, sa Kvinten og ga jutulen labben til fred og forsoning. — Fra denne dag vil jeg ikke gjøre deg med hverken vondt eller godt, og lykke til da, Vassfjelljutul!
+— Jamen er du stri å dras med, sa Kvinten og ga jutulen labben til fred og forsoning. — Fra denne dag vil jeg ikke gjøre deg med verken vondt eller godt, og lykke til da, Vassfjelljutul!
 
 Dermed ruslet Stor-Kvinten heim til Storheia igjen, både fillete og blodig.
 
@@ -51,13 +51,13 @@ Dermed ruslet Stor-Kvinten heim til Storheia igjen, både fillete og blodig.
 
 — Du har vel det, svarte Vesle-Kvinten og reiste ut i verden med harpen sin for å prøve lykken.
 
-Han krabbet beinvegen opp mot Vassfjellet, satte seg på en stor stein og begynte å klimpre på gullharpen sin. Langt om lenge smalt det i bergveggen, Vassfjelljutulen brøt seg ut av fjellet og ble stående og glo og lytte både vel og lenge.
+Han krabbet snarveien opp mot Vassfjellet, satte seg på en stor stein og begynte å klimpre på gullharpen sin. Langt om lenge smalt det i bergveggen, Vassfjelljutulen brøt seg ut av fjellet og ble stående og glo og lytte både vel og lenge.
 
 — Hvem er du som lager slike vakre toner? spurte jutulen.
 
 — Å, jeg er en foreldreløs stakkar som flyr verden rundt etter spillemannsjobb.
 
-— Nei, jaså, er du det du. Ja, ja, dersom du vil ta til takke med hus og levemåte hos meg, så er du velkommen, sa jutulen.
+— Nei, jaså, er du det du. Ja, ja, hvis du vil ta til takke med hus og levemåte hos meg, så er du velkommen, sa jutulen.
 
 ![Vesle-Kvinten klimpret på gullharpen sin](./gullharpen.png)
 
@@ -77,6 +77,6 @@ Kongsdatteren sprang alt hun orket, og da hun langt om lenge kom til kongsgårde
 
 Kongen ble så glad at han lyste til fest på kirkebakken for hele landet og alt folket. Han sendte også mannskap til Vassfjellet for å leite etter Vesle-Kvinten, men ingen Vesle-Kvint var å se.
 
-Oppe på Storheivarden satt Kvinten og spilte på gullharpen sin, spilte liksom for hele verden og gjorde seg usynlig for alminnelige mennesker. Han ville ikke vite om noe stas, han, selv om han hadde reddet både en og hundre kongsdøtre.
+Oppe på Storheivarden satt Kvinten og spilte på gullharpen sin, spilte liksom for hele verden og gjorde seg usynlig for vanlige mennesker. Han ville ikke vite om noe stas, han, selv om han hadde reddet både en og hundre kongsdøtre.
 
 — Ære, stas og vide spurlag er bra, men bør aldri være målet for en god gjerning, tenkte han og slo videre på gullharpen sin.

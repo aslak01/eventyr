@@ -28,7 +28,7 @@ Høvdingen i vaktflokken red bort til mannkaren og spurte hva han ville.
 
 «Det kan vi ikke,» svarte høvdingen. «Vi må videre og kan ikke stoppe her. Kjøpmennene er langt etter, minst en fjerdedels vei. Men vil du være med dit vi holder middagshvile, kan du få snakke med dem.»
 
-Fremmedkaren svarte ikke. Han tok fram en lang pipe som var bundet fast til salen, og gav seg til å røyke så det gav etter, alt mens han satt og red der ved siden av høvdingen.
+Fremmedkaren svarte ikke. Han tok fram en lang pipe som var bundet fast til salen, og ga seg til å røyke så det ga etter, alt mens han satt og red der ved siden av høvdingen.
 
 Høvdingen visste ikke hva han skulle tenke om mannen, men våget seg ikke til å spørre beint ut om navnet hans heller. Han prøvde å få en samtale i gang, men fremmedkaren svarte så kort at praten døde ut igjen.
 
@@ -58,9 +58,9 @@ Den eldste kjøpmannen svarte som så:
 
 Selim satte seg bort til kjøpmennene og spiste og drakk i lag med dem. Siden kom slavene og bar bort maten, og tente en lang pipe til hver av dem.
 
-Kjøpmennene satt der og røykte og talte lenge ikke et ord. Endelig sa den yngste av dem:
+Kjøpmennene satt der og røykte og sa lenge ikke et ord. Endelig sa den yngste av dem:
 
-«Således har vi nå sittet i tre dager og ikke hatt noe som helst foran oss som kunne få tiden til å gå. - Vet ikke du, fremmedmann, noe vi kunne fordrive tiden med?»
+«Slik har vi nå sittet i tre dager og ikke hatt noe som helst foran oss som kunne få tiden til å gå. - Vet ikke du, fremmedmann, noe vi kunne fordrive tiden med?»
 
 Fremmedkaren svarte:
 
@@ -74,4 +74,4 @@ Kjøpmennene trakk seg nærmere, så de skulle bedre høre.
 
 Og så fortalte Selim Baruch historien om
 
-[^1]: Statsministeren
+[^1]: Vesir: minister hos en sultan eller kalif; storvesiren var den øverste av dem.

@@ -1,22 +1,22 @@
 # Underjordsfolk
 
-Det var en gang en gutt som hette Hans. Verre villstyring fantes ikke i verden; alt skulle han grave i, og i alt skulle han legge nesen sin. Gloøyd var han og hadde slik levendes kjeft, at alt det han så og alt det han sa, blev dobbelt opp og ære være. «Den gutten får syn for sagn,» mente faren.
+Det var en gang en gutt som het Hans. Verre villstyring fantes ikke i verden; alt skulle han grave i, og i alt skulle han legge nesen sin. Gloøyd var han og hadde slik levendes kjeft, at alt det han så og alt det han sa, ble dobbelt opp og ære være. «Den gutten får syn for sagn,» mente faren.
 
-En dag i slåtten foreldrene hans kom fra jordet for å ete dugurd, stod gutten på hodet i vass-såen fremved døren. Det var såvidt det kvakk i ham, da de fikk ham opp.
+En dag i slåtten foreldrene hans kom fra jordet for å ete dugurd, sto gutten på hodet i vass-såen fremved døren. Det var så vidt det kvakk i ham, da de fikk ham opp.
 
-«Hva skulle du der?» skrek faren, han ristet ham så vassregnet stod.
+«Hva skulle du der?» skrek faren, han ristet ham så vassregnet sto.
 
 «Se hva som fantes på bunnen,» sa gutten.
 
-En dag på seteren knekket moren en lus.
+En dag på setra knekket moren en lus.
 
 «Nei, større krøtter skulle du vel aldri ha sett!» sa gutten. «Min felt er stor, og din felt er større; men dette blir skinnfelt større både enn din felt og min felt,» sa han.
 
 «Det er gangjern på gut,» mente moren.
 
-Den som vide farer, får mangt å se, og få for videre enn Hans. Støtt lå han i skog og mark, og jo mere bakvendt han for, dess gildere syntes han det var.
+Den som vide farer, får mangt å se, og få fór videre enn Hans. Støtt lå han i skog og mark, og jo mer bakvendt han fór, desto gildere syntes han det var.
 
-Så var det en dag om høsten, han var kommet på en led som han aldri før hadde sett. Rett som han går, får han se slikt underlig følge komme ridende frem gjennom skogen.
+Så var det en dag om høsten, han var kommet på en led som han aldri før hadde sett. Rett som han går, får han se et slikt underlig følge komme ridende frem gjennom skogen.
 
 Foran red en konge på en gråblisset hest; belte hadde han på hodet og en diger gullkrone kring livet; bakvendt satt han på hesten og holdt i hestehalen der han red.
 
@@ -44,7 +44,7 @@ Dette syntes gutten var morsom kar, og så slo han seg i følge med kongen.
 
 Da de hadde ridd en stund, stanset følget for å puste på.
 
-«Hvorfor sitter du bak fram på gampen?» spurte gutten - han stod med hendene på ryggen og smålo av kongen.
+«Hvorfor sitter du bak fram på gampen?» spurte gutten - han sto med hendene på ryggen og smålo av kongen.
 
 «Jo,» sa kongen. «Å ri seg fram, men se seg bak er en kongelig plikt, men en vanskelig sak,» sa han.
 
@@ -64,9 +64,9 @@ Ja, det mente gutten kongen kunne ha rett i.
 
 Så slo han seg i lag med prinsessen.
 
-«Du er vel gift du, enda så blyg du er,» sa gutten, han stod og støttet seg på salen og stirret på henne.
+«Du er vel gift du, enda så blyg du er,» sa gutten, han sto og støttet seg på salen og stirret på henne.
 
-«Nei,» sa prinsessen. «Barn får vi alle, og jeg har tre, men en er da vel likegodt jomfru for det?» sa hun.
+«Nei,» sa prinsessen. «Barn får vi alle, og jeg har tre, men en er da vel like godt jomfru for det?» sa hun.
 
 Ja, det mente gutten prinsessen kunne ha rett i.
 
@@ -78,9 +78,9 @@ Ja, det mente gutten prinsessen kunne ha rett i.
 
 Så slo han seg i lag med presten.
 
-Rett som de red og red, kom de til en underlig port. Dørstokken var opp og dørkarmen ned, og nøklehullet stod tvers over treet.
+Rett som de red og red, kom de til en underlig port. Dørstokken var opp og dørkarmen ned, og nøkkelhullet sto tvers over treet.
 
-«Steng,» sa presten, for han hadde nøkkelen, og så spratt porten opp. Men innenfor porten var det en underlig dal. Nord var syd og øst var vest, trærne vokste med roten opp, og solen var blek som en måne; kirken stod der med spiret ned, og på himmelen fløt der en sjø.
+«Steng,» sa presten, for han hadde nøkkelen, og så spratt porten opp. Men innenfor porten var det en underlig dal. Nord var sør og øst var vest, trærne vokste med roten opp, og solen var blek som en måne; kirken sto der med spiret ned, og på himmelen fløt det en sjø.
 
 «Kirken står opp og ned,» sa gutten.
 
@@ -110,17 +110,17 @@ Nei, det mente gutten klokkeren kunne ha rett i.
 
 «Men hvorfor sier du da aldri amen? Det er da klokkerens kall,» sa han.
 
-«Jeg sier det samme om alle sammen, og det er da jevngott med ja og amen,» sa klokkeren.
+«Jeg sier det samme om alle sammen, og det er da jevngodt med ja og amen,» sa klokkeren.
 
 Men med det samme klokkeren sa amen, var det borte hele følget like fra kongen til tosken, og da gutten skulle se etter, var det bare noen kusopp som vokste oppover en vei.
 
-Da blev han fælen og la på sprang bent hjem til foreldrene sine. Jo fortere han sprang, dess reddere blev han, og jo reddere han blev, dess fortere sprang han; men da han kom inn i stuen hvor de satt og åt, var han drivende hvit i synet.
+Da ble han redd og la på sprang rett hjem til foreldrene sine. Jo fortere han sprang, desto reddere ble han, og jo reddere han ble, desto fortere sprang han; men da han kom inn i stuen hvor de satt og åt, var han drivende hvit i synet.
 
 «Nei, nå har jeg sett det verste,» sa han.
 
 «Hva for slag?» sa faren, han snudde seg på stolen og la skjeen.
 
-«Kjære, si det,» sa moren, hun stod med grøtsleven i hånden.
+«Kjære, si det,» sa moren, hun sto med grøtsleven i hånden.
 
 ![Ute i soppskogen](./ujf1.png)
 
@@ -130,7 +130,7 @@ Da blev han fælen og la på sprang bent hjem til foreldrene sine. Jo fortere ha
 
 «Nei, fortell det bakvendt,» sa moren.
 
-«Jo,» sa gutten; «rett som jeg gikk i skogen, så kom der et følge ridende.»
+«Jo,» sa gutten; «rett som jeg gikk i skogen, så kom det et følge ridende.»
 
 «Skulle du hørt slikt,» sa moren.
 
@@ -146,17 +146,17 @@ Da blev han fælen og la på sprang bent hjem til foreldrene sine. Jo fortere ha
 
 «Etter henne kom en prest på en svartbotet gris. Bok hadde han i hånden og krage rundt halsen.»
 
-«Spetakel!» sa faren.
+«Spetakkel!» sa faren.
 
-«Rett som de red, kom de til en underlig port. Dørstokken var nederst og dørkarmen øverst, og nøklehullet stod langs etter treet. »Lukk opp,« sa presten, for han hadde nøkkelen.»
+«Rett som de red, kom de til en underlig port. Dørstokken var nederst og dørkarmen øverst, og nøkkelhullet sto på langs etter treet. 'Lukk opp,' sa presten, for han hadde nøkkelen.»
 
 «Verre og verre,» skrek moren.
 
-«Og så sprang porten opp. Men bakom var slik en underlig dal. Nord var nord, og syd var syd, og solen stod oppe på himmelen. Trærne vokste med toppen opp, og elven fløt midt gjennom dalen.»
+«Og så sprang porten opp. Men bakom var slik en underlig dal. Nord var nord, og sør var sør, og solen sto oppe på himmelen. Trærne vokste med toppen opp, og elven fløt midt gjennom dalen.»
 
 «Nei, dette går aldri vel,» sa moren, hun var blek som et lik.
 
-«Midt i dalen stod en kirke med spiret opp, og det sa presten var rett, for fra himmelen var vi kommet, og dit skulle vi fare.»
+«Midt i dalen sto en kirke med spiret opp, og det sa presten var rett, for fra himmelen var vi kommet, og dit skulle vi fare.»
 
 «Nei, det var det verste,» sa faren, han satt der handfallen på stolen.
 
@@ -168,7 +168,7 @@ Da blev han fælen og la på sprang bent hjem til foreldrene sine. Jo fortere ha
 
 «Nei, si det ikke,» sa faren - han datt av stolen.
 
-«Jo, si det da,» sa moren, hun stod der storøyd og skalv.
+«Jo, si det da,» sa moren, hun sto der storøyd og skalv.
 
 «Til slutt kom en tosk som red på en lus, og lusen var ikke større enn så,» sa gutten.
 
