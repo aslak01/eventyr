@@ -39,7 +39,7 @@ jobs:
       # entry against the source content and image settings, and prunes
       # outputs whose source was deleted
       - name: Cache optimized images
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: |
             dist/images
@@ -54,10 +54,10 @@ jobs:
           NODE_ENV: production
 
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ./dist
 
@@ -70,4 +70,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
