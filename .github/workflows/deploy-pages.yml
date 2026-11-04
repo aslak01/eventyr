@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
         with:
           # The commit CI ran on, not whatever master points to now
           ref: ${{ github.event.workflow_run.head_sha || github.sha }}

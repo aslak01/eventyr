@@ -28,13 +28,15 @@ async function getContentHash(filePath: string): Promise<string> {
     .substring(0, 16);
 }
 
-// Output depends on these settings as well as the source image, so a change
-// to any of them invalidates every cache entry
+// Output depends on these settings and the encoder versions as well as the
+// source image, so a change to any of them invalidates every cache entry
 function getSettingsKey(config: GeneratorConfig): string {
   return JSON.stringify({
     sizes: config.imageSizes,
     formats: config.imageFormats,
     quality: QUALITY,
+    sharp: sharp.versions.sharp,
+    vips: sharp.versions.vips,
   });
 }
 

@@ -304,7 +304,7 @@ header nav {
     text-decoration: none;
     border-radius: 4px;
     transition: all 0.2s ease;
-    text-wrap: balanced;
+    text-wrap: balance;
   }
 
   .nav-link:hover {
