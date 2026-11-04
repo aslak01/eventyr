@@ -38,14 +38,11 @@ const defaultConfig: AppConfig = {
       ".jpeg",
       ".webp",
       ".avif",
+      ".svg",
     ],
   },
 };
 
 export function getConfig(): AppConfig {
   return defaultConfig;
-}
-
-export function updateConfig(updates: Partial<AppConfig>): void {
-  Object.assign(defaultConfig, updates);
 }

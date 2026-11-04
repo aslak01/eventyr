@@ -9,7 +9,6 @@ export type Chapter = {
   order: number;
   pdfPath?: string;
   pdfSourcePath?: string;
-  subtitle?: string;
   ageRating?: AgeRating;
 };
 
@@ -60,6 +59,7 @@ export type GeneratorConfig = {
 
 export type ImageCacheEntry = {
   contentHash: string;
+  settingsKey: string;
   sizes: ImageSize[];
   webpPath: string;
   avifPath: string;
@@ -72,7 +72,6 @@ export type ImageCache = Record<string, ImageCacheEntry>;
 export type ChapterLoadParams = {
   chapterDir: string;
   chapterTitle: string;
-  order: number;
   chaptersPath: string;
   bookData: BookData;
   ageRating?: AgeRating;

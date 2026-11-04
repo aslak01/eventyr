@@ -1,3 +1,4 @@
+import { join } from "path";
 import { Marked } from "marked";
 import markedFootnote from "marked-footnote";
 import markedHookFrontmatter from "marked-hook-frontmatter";
@@ -9,7 +10,7 @@ import { processMarkdownImages } from "../image_processing/image-simple";
 import { htmlHead } from "../components/htmlHead";
 import { siteHeaderGenerator } from "../components/siteHeader";
 import { siteFooterGenerator } from "../components/siteFooter";
-import { safeString } from "../utils/strings";
+import { escapeHtml } from "../utils/strings";
 import { headerGenerator } from "../components/header";
 import { templateEngine } from "../utils/template-engine";
 
@@ -18,11 +19,7 @@ export function generateChapterHTML(
   chapter: Chapter,
   optimizedImages: Map<string, OptimizedImage>,
 ): string {
-  const chapterDir = chapter.path.includes(".md")
-    ? chapter.path.substring(0, chapter.path.lastIndexOf("/"))
-    : chapter.path;
-
-  const fullChapterPath = `${book.path}/chapters/${chapterDir}`;
+  const fullChapterPath = join(book.path, "chapters", chapter.path);
 
   const processedContent = processMarkdownImages(
     chapter.content,
@@ -52,24 +49,22 @@ export function generateChapterHTML(
   const { chapters } = book;
   const { order } = chapter;
 
-  const prevChapter = order > 0 ? chapters[order - 1] : undefined;
-
-  const nextChapter =
-    order < chapters.length - 1 ? book.chapters[order + 1] : undefined;
+  const prevChapter = chapters[order - 1];
+  const nextChapter = chapters[order + 1];
 
   const headData = htmlHead(
-    `${safeString(chapter.title)} - ${safeString(book.name)}`,
+    `${escapeHtml(chapter.title)} - ${escapeHtml(book.name)}`,
   );
   const header = headerGenerator(book, chapter);
   const siteHeader = siteHeaderGenerator();
   const siteFooter = siteFooterGenerator();
 
   const prevChapterLink = prevChapter
-    ? `<a href="/${book.slug}/${prevChapter.path}.html" class="nav-link">← ${prevChapter.title.replace(/"/g, "&quot;")}</a>`
+    ? `<a href="/${book.slug}/${prevChapter.path}.html" class="nav-link">← ${escapeHtml(prevChapter.title)}</a>`
     : "<span></span>";
 
   const nextChapterLink = nextChapter
-    ? `<a href="/${book.slug}/${nextChapter.path}.html" class="nav-link">${nextChapter.title.replace(/"/g, "&quot;")} →</a>`
+    ? `<a href="/${book.slug}/${nextChapter.path}.html" class="nav-link">${escapeHtml(nextChapter.title)} →</a>`
     : "<span></span>";
 
   const pdfLink = chapter.pdfPath
@@ -77,7 +72,7 @@ export function generateChapterHTML(
     : "";
 
   const chapterSubtitle = frontmatterData.subtitle
-    ? `<p class="chapter-subtitle">${safeString(frontmatterData.subtitle)}</p>`
+    ? `<p class="chapter-subtitle">${escapeHtml(String(frontmatterData.subtitle))}</p>`
     : "";
 
   return templateEngine.renderWithLayout("chapter.html", {
@@ -90,8 +85,8 @@ export function generateChapterHTML(
     nextChapterLink,
     pdfLink,
     bookUrl: `/${book.slug}/`,
-    bookName: book.name,
-    chapterTitle: safeString(chapter.title),
+    bookName: escapeHtml(book.name),
+    chapterTitle: escapeHtml(chapter.title),
     chapterSubtitle,
   });
 }

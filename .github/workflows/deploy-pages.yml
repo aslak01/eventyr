@@ -1,7 +1,10 @@
 name: Deploy to GitHub Pages
 
+# Deploy only after CI has passed on master
 on:
-  push:
+  workflow_run:
+    workflows: [CI]
+    types: [completed]
     branches: [master]
   workflow_dispatch:
 
@@ -16,72 +19,45 @@ concurrency:
 
 jobs:
   build:
+    if: github.event_name == 'workflow_dispatch' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.event == 'push')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Bun
-        uses: oven-sh/setup-bun@v1
+        uses: actions/checkout@v5
         with:
-          bun-version: latest
+          # The commit CI ran on, not whatever master points to now
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+
+      # Installs the tools pinned in mise.toml
+      - name: Setup mise
+        uses: jdx/mise-action@v5
 
       - name: Install dependencies
-        run: bun install
+        run: bun install --frozen-lockfile
 
-      - name: Create dist directory
-        run: mkdir -p dist
-
+      # Generated images are reused between builds; the generator checks each
+      # entry against the source content and image settings, and prunes
+      # outputs whose source was deleted
       - name: Cache optimized images
         uses: actions/cache@v4
-        id: image-cache
         with:
           path: |
             dist/images
             dist/.image-cache.json
-          key: image-cache-v4-${{ hashFiles('src/lib/books/**/*.{png,jpg,jpeg,gif,svg,webp}') }}
+          key: image-cache-v5-${{ hashFiles('src/lib/books/**/*.png', 'src/lib/books/**/*.jpg', 'src/lib/books/**/*.jpeg', 'src/lib/books/**/*.gif', 'src/lib/books/**/*.svg', 'src/lib/books/**/*.webp') }}
           restore-keys: |
-            image-cache-v4-
-
-      - name: Cache debug info
-        run: |
-          echo "Cache hit: ${{ steps.image-cache.outputs.cache-hit }}"
-          echo "Cache key: image-cache-${{ hashFiles('src/lib/books/**/*.{png,jpg,jpeg,gif,svg,webp}') }}"
-          if [ -f dist/.image-cache.json ]; then
-            echo "Cache file exists, size: $(wc -l < dist/.image-cache.json) lines"
-            echo "Sample cache entries:"
-            head -5 dist/.image-cache.json
-          else
-            echo "No cache file found"
-          fi
-          if [ -d dist/images ]; then
-            echo "Images directory exists, file count: $(find dist/images -name '*.webp' | wc -l)"
-          else
-            echo "No images directory found"
-          fi
+            image-cache-v5-
 
       - name: Build site
         run: bun run build
         env:
           NODE_ENV: production
 
-      - name: Post-build cache verification
-        run: |
-          echo "=== POST-BUILD CACHE VERIFICATION ==="
-          if [ -f dist/.image-cache.json ]; then
-            echo "Cache file exists after build"
-            echo "Cache entries: $(jq '. | length' dist/.image-cache.json)"
-            echo "Sample entry with gitHash:"
-            jq '. | to_entries | .[0].value | {mtime, gitHash}' dist/.image-cache.json
-          else
-            echo "❌ No cache file found after build!"
-          fi
-
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./dist
 

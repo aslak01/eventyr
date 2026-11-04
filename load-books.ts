@@ -1,155 +1,97 @@
 import { join } from "path";
-import { readdir, stat } from "fs/promises";
-import { readFile } from "fs/promises";
+import { readdir, readFile, stat } from "fs/promises";
 
 import type {
-  AgeRating,
   BookData,
   BookInfo,
   Chapter,
   ChapterLoadParams,
-  ChapterMeta,
   GeneratorConfig,
 } from "./src/types/types.ts";
 
 import { getWordCount } from "./src/utils/strings.ts";
 import { logger } from "./src/utils/logger.ts";
-import { isValidBookInfo, isNonEmptyString } from "./src/utils/type-guards.ts";
+import { isValidBookInfo } from "./src/utils/type-guards.ts";
+
+const errorMessage = (error: unknown): string =>
+  error instanceof Error ? error.message : String(error);
+
+async function isDirectory(path: string): Promise<boolean> {
+  try {
+    return (await stat(path)).isDirectory();
+  } catch {
+    return false;
+  }
+}
 
 export async function loadBooks(config: GeneratorConfig): Promise<BookData[]> {
-  if (!config?.booksDir) {
-    logger.error("Books directory not specified in config");
-    return [];
-  }
-
   const booksPath = join(process.cwd(), config.booksDir);
 
+  let bookDirs: string[];
   try {
-    logger.debug("Loading books from directory", { booksPath });
-    const bookDirs = await readdir(booksPath);
-
-    if (!Array.isArray(bookDirs) || bookDirs.length === 0) {
-      logger.info("No book directories found", { booksPath });
-      return [];
-    }
-
-    const bookPromises = bookDirs.map(
-      async (slug): Promise<BookData | null> => {
-        if (!isNonEmptyString(slug)) {
-          logger.warn("Invalid book directory name", { slug });
-          return null;
-        }
-
-        try {
-          return await loadSingleBook(slug, join(booksPath, slug));
-        } catch (error) {
-          const errorMessage =
-            error instanceof Error ? error.message : String(error);
-          logger.error("Failed to load book", { slug, error: errorMessage });
-          return null;
-        }
-      },
-    );
-
-    const results = await Promise.allSettled(bookPromises);
-    const loadedBooks = results
-      .filter(
-        (result): result is PromiseFulfilledResult<BookData> =>
-          result.status === "fulfilled" && result.value !== null,
-      )
-      .map((result) => result.value);
-
-    logger.info("Books loaded successfully", {
-      totalFound: bookDirs.length,
-      totalLoaded: loadedBooks.length,
-    });
-
-    return loadedBooks;
+    bookDirs = await readdir(booksPath);
   } catch (error) {
-    const errorMessage = error instanceof Error ? error.message : String(error);
     logger.warn("Books directory not accessible", {
       booksPath,
-      error: errorMessage,
+      error: errorMessage(error),
     });
     return [];
   }
+
+  const results = await Promise.all(
+    bookDirs.sort().map(async (slug) => {
+      try {
+        return await loadSingleBook(slug, join(booksPath, slug));
+      } catch (error) {
+        logger.error("Failed to load book", {
+          slug,
+          error: errorMessage(error),
+        });
+        return null;
+      }
+    }),
+  );
+  const loadedBooks = results.filter((book): book is BookData => book !== null);
+
+  logger.info("Books loaded successfully", {
+    totalFound: bookDirs.length,
+    totalLoaded: loadedBooks.length,
+  });
+
+  return loadedBooks;
 }
 
 async function loadSingleBook(
   slug: string,
   bookPath: string,
 ): Promise<BookData | null> {
-  if (!isNonEmptyString(slug) || !isNonEmptyString(bookPath)) {
-    logger.error("Invalid parameters for loadSingleBook", { slug, bookPath });
+  if (slug.startsWith(".") || !(await isDirectory(bookPath))) return null;
+
+  // A book without a chapters directory has not been digitised yet
+  if (!(await isDirectory(join(bookPath, "chapters")))) {
+    logger.info("Skipping unpublished book (no chapters directory)", { slug });
     return null;
   }
 
+  const infoPath = join(bookPath, "info.json");
+  let info: unknown;
   try {
-    const bookDirStats = await stat(bookPath);
-    if (!bookDirStats.isDirectory()) {
-      logger.debug("Path is not a directory", { bookPath });
-      return null;
-    }
-
-    const infoPath = join(bookPath, "info.json");
-    let rawInfo: string;
-
-    try {
-      rawInfo = await readFile(infoPath, "utf8");
-    } catch (error) {
-      logger.error("Failed to read info.json", {
-        slug,
-        infoPath,
-        error: error instanceof Error ? error.message : String(error),
-      });
-      return null;
-    }
-
-    let info: unknown;
-    try {
-      info = JSON.parse(rawInfo);
-    } catch (error) {
-      logger.error("Failed to parse info.json", {
-        slug,
-        infoPath,
-        error: error instanceof Error ? error.message : String(error),
-      });
-      return null;
-    }
-
-    if (!isValidBookInfo(info)) {
-      logger.error("Invalid book info structure", { slug, infoPath });
-      return null;
-    }
-
-    const chaptersPath = join(bookPath, "chapters");
-    let chapters: string[];
-
-    try {
-      chapters = await readdir(chaptersPath);
-    } catch (error) {
-      logger.error("Failed to read chapters directory", {
-        slug,
-        chaptersPath,
-        error: error instanceof Error ? error.message : String(error),
-      });
-      return null;
-    }
-
-    if (!Array.isArray(chapters) || chapters.length === 0) {
-      logger.warn("No chapters found for book", { slug, chaptersPath });
-      return null;
-    }
-
-    return await loadBook(info, slug, bookPath);
+    info = JSON.parse(await readFile(infoPath, "utf8"));
   } catch (error) {
-    logger.error("Unexpected error loading book", {
+    logger.error("Failed to read info.json", {
       slug,
-      bookPath,
-      error: error instanceof Error ? error.message : String(error),
+      infoPath,
+      error: errorMessage(error),
     });
     return null;
   }
+
+  if (!isValidBookInfo(info)) {
+    logger.error("Invalid book info structure", { slug, infoPath });
+    return null;
+  }
+
+  return loadBook(info, slug, bookPath);
 }
 
 async function loadBook(
@@ -160,12 +102,8 @@ async function loadBook(
   const { title, author, published, chapter_index } = info;
   logger.debug("Loading book", { title, slug });
 
-  if (!Array.isArray(author) || author.length === 0) {
+  if (author.length === 0) {
     throw new Error(`Book "${title}" has no authors`);
-  }
-
-  if (!chapter_index || typeof chapter_index !== "object") {
-    throw new Error(`Book "${title}" has invalid chapter index`);
   }
 
   const bookData: BookData = {
@@ -178,70 +116,48 @@ async function loadBook(
   };
 
   const chaptersPath = join(bookPath, "chapters");
-  const chapterEntries = Object.entries(chapter_index);
 
-  if (chapterEntries.length === 0) {
-    throw new Error(`No chapters defined for ${title}`);
-  }
-
-  const chapterPromises = chapterEntries.map(
-    async ([chapterDir, chapterEntry], index): Promise<Chapter | null> => {
-      // Handle both string and ChapterMeta formats
+  const results = await Promise.all(
+    Object.entries(chapter_index).map(async ([chapterDir, chapterEntry]) => {
       const chapterTitle =
         typeof chapterEntry === "string" ? chapterEntry : chapterEntry.title;
-      const ageRating: AgeRating | undefined =
+      const ageRating =
         typeof chapterEntry === "object" ? chapterEntry.ageRating : undefined;
-
-      if (!isNonEmptyString(chapterDir) || !isNonEmptyString(chapterTitle)) {
-        logger.warn("Invalid chapter entry", {
-          chapterDir,
-          chapterTitle,
-          bookTitle: title,
-        });
-        return null;
-      }
 
       try {
         return await loadChapter({
           chapterDir,
           chapterTitle,
-          order: index,
           chaptersPath,
           bookData,
           ageRating,
         });
       } catch (error) {
-        const errorMessage =
-          error instanceof Error ? error.message : String(error);
         logger.error("Error loading chapter", {
           chapterTitle,
           chapterDir,
           bookTitle: title,
-          error: errorMessage,
+          error: errorMessage(error),
         });
         return null;
       }
-    },
+    }),
   );
 
-  const chapterResults = await Promise.allSettled(chapterPromises);
-  const loadedChapters = chapterResults
-    .filter(
-      (result): result is PromiseFulfilledResult<Chapter> =>
-        result.status === "fulfilled" && result.value !== null,
-    )
-    .map((result) => result.value);
+  // Number chapters by their position among the chapters that actually loaded,
+  // so prev/next navigation stays correct when an entry is skipped
+  bookData.chapters = results
+    .filter((chapter): chapter is Chapter => chapter !== null)
+    .map((chapter, order) => ({ ...chapter, order }));
 
-  if (loadedChapters.length === 0) {
+  if (bookData.chapters.length === 0) {
     throw new Error(`No valid chapters loaded for book "${title}"`);
   }
-
-  bookData.chapters = loadedChapters;
 
   logger.debug("Book loaded successfully", {
     title,
     slug,
-    chapterCount: loadedChapters.length,
+    chapterCount: bookData.chapters.length,
   });
 
   return bookData;
@@ -250,108 +166,57 @@ async function loadBook(
 async function loadChapter({
   chapterDir,
   chapterTitle,
-  order,
   chaptersPath,
   bookData,
   ageRating,
 }: ChapterLoadParams): Promise<Chapter | null> {
-  if (!isNonEmptyString(chapterDir) || !isNonEmptyString(chapterTitle)) {
-    logger.error("Invalid chapter parameters", { chapterDir, chapterTitle });
-    return null;
-  }
-
   const dir = join(chaptersPath, chapterDir);
 
-  // Skip hidden directories
-  if (chapterDir.startsWith(".")) {
-    logger.debug("Skipping hidden directory", { chapterDir });
-    return null;
-  }
-
-  try {
-    const dirStats = await stat(dir);
-    if (!dirStats.isDirectory()) {
-      logger.debug("Chapter path is not a directory", { dir });
-      return null;
-    }
-
-    const chapterFiles = await readdir(dir);
-    if (!Array.isArray(chapterFiles)) {
-      logger.error("Failed to read chapter directory", { dir });
-      return null;
-    }
-
-    const markdownFiles = chapterFiles.filter(
-      (file) => isNonEmptyString(file) && file.endsWith(".md"),
-    );
-    const pdfFiles = chapterFiles.filter(
-      (file) => isNonEmptyString(file) && file.endsWith(".pdf"),
-    );
-
-    if (markdownFiles.length === 0) {
-      logger.warn("No markdown files found in chapter directory", {
-        dir,
-        chapterTitle,
-        availableFiles: chapterFiles,
-      });
-      return null;
-    }
-
-    const markdownFile = markdownFiles[0];
-    if (!markdownFile) {
-      logger.error("Markdown file is undefined", { dir, chapterTitle });
-      return null;
-    }
-
-    const markdownPath = join(dir, markdownFile);
-    const pdfFile = pdfFiles.length > 0 ? pdfFiles[0] : undefined;
-    const pdfPath = pdfFile ? join(dir, pdfFile) : undefined;
-
-    logger.debug("Loading chapter content", { markdownPath, chapterTitle });
-
-    let fileContent: string;
-    try {
-      fileContent = await Bun.file(markdownPath).text();
-      if (typeof fileContent !== "string") {
-        throw new Error("File content is not a string");
-      }
-    } catch (error) {
-      logger.error("Failed to read chapter content", {
-        markdownPath,
-        chapterTitle,
-        error: error instanceof Error ? error.message : String(error),
-      });
-      return null;
-    }
-
-    const chapter: Chapter = {
-      title: chapterTitle,
-      content: fileContent,
-      path: chapterDir,
-      htmlPath: `/${bookData.slug}/${chapterDir}.html`,
-      wordCount: getWordCount(fileContent),
-      book: bookData.name,
-      bookSlug: bookData.slug,
-      order,
-      pdfPath: pdfPath ? `/${bookData.slug}/${chapterDir}.pdf` : undefined,
-      pdfSourcePath: pdfPath,
-      ageRating,
-    };
-
-    logger.debug("Chapter loaded successfully", {
-      chapterTitle,
-      wordCount: chapter.wordCount,
-      hasPdf: !!pdfPath,
-    });
-
-    return chapter;
-  } catch (error) {
-    logger.error("Error loading chapter", {
-      chapterDir,
-      chapterTitle,
+  if (!(await isDirectory(dir))) {
+    logger.error("Chapter directory not found", {
       dir,
-      error: error instanceof Error ? error.message : String(error),
+      chapterTitle,
+      bookTitle: bookData.name,
     });
     return null;
   }
+
+  // Sort so the chosen file doesn't depend on filesystem ordering
+  const chapterFiles = (await readdir(dir)).sort();
+  const markdownFiles = chapterFiles.filter((file) => file.endsWith(".md"));
+  const pdfFile = chapterFiles.find((file) => file.endsWith(".pdf"));
+
+  const markdownFile = markdownFiles[0];
+  if (!markdownFile) {
+    logger.error("No markdown files found in chapter directory", {
+      dir,
+      chapterTitle,
+      availableFiles: chapterFiles,
+    });
+    return null;
+  }
+  if (markdownFiles.length > 1) {
+    logger.warn("Multiple markdown files in chapter directory, using first", {
+      dir,
+      using: markdownFile,
+      markdownFiles,
+    });
+  }
+
+  const content = await readFile(join(dir, markdownFile), "utf8");
+  const pdfSourcePath = pdfFile ? join(dir, pdfFile) : undefined;
+
+  return {
+    title: chapterTitle,
+    content,
+    path: chapterDir,
+    htmlPath: `/${bookData.slug}/${chapterDir}.html`,
+    wordCount: getWordCount(content),
+    book: bookData.name,
+    bookSlug: bookData.slug,
+    order: 0, // Assigned by loadBook once all chapters have loaded
+    pdfPath: pdfSourcePath ? `/${bookData.slug}/${chapterDir}.pdf` : undefined,
+    pdfSourcePath,
+    ageRating,
+  };
 }

@@ -1,5 +1,5 @@
-import { join, extname, basename } from "path";
-import { readdir, mkdir, copyFile, stat } from "fs/promises";
+import { join, extname, basename, relative } from "path";
+import { readdir, mkdir, copyFile, stat, rm, writeFile } from "fs/promises";
 import { createHash } from "crypto";
 import sharp from "sharp";
 
@@ -8,125 +8,66 @@ import type {
   GeneratorConfig,
   OptimizedImage,
   ImageCache,
+  ImageCacheEntry,
 } from "../types/types";
-import { writeFile } from "fs/promises";
+import { logger } from "../utils/logger";
+import { escapeHtml } from "../utils/strings";
 
-// Get content hash of image file - reliable across all environments
-async function getContentHash(filePath: string): Promise<string | null> {
-  try {
-    const fileBuffer = await Bun.file(filePath).arrayBuffer();
-    const hash = createHash("sha256")
-      .update(new Uint8Array(fileBuffer))
-      .digest("hex");
-    return hash.substring(0, 16); // Use first 16 chars for brevity
-  } catch (error) {
-    console.log(`  ⚠️ Content hash failed for ${basename(filePath)}: ${error}`);
-    return null;
-  }
+const IMAGE_EXTENSIONS = [".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"];
+const QUALITY = 85;
+
+// Paths can reach us in either Unicode form (macOS filenames and markdown
+// written there are often NFD), so all image lookups use NFC keys
+export const imageKey = (path: string): string => path.normalize("NFC");
+
+async function getContentHash(filePath: string): Promise<string> {
+  const fileBuffer = await Bun.file(filePath).arrayBuffer();
+  return createHash("sha256")
+    .update(new Uint8Array(fileBuffer))
+    .digest("hex")
+    .substring(0, 16);
 }
 
-// Check if image needs processing based on content hash
-async function needsProcessing(
-  imagePath: string,
-  cache: ImageCache,
-): Promise<boolean> {
-  const cacheKey = imagePath;
-  const cachedData = cache[cacheKey];
-
-  // If not in cache, needs processing
-  if (!cachedData) {
-    console.log(`  🆕 New image: ${basename(imagePath)}`);
-    return true;
-  }
-
-  try {
-    // Get current content hash
-    const currentContentHash = await getContentHash(imagePath);
-    if (!currentContentHash) {
-      console.log(`  ❌ Could not hash ${basename(imagePath)}, reprocessing`);
-      return true;
-    }
-
-    // Compare content hashes
-    if (currentContentHash === cachedData.contentHash) {
-      // Content unchanged, verify cached files exist
-      const fileChecks = [
-        cachedData.webpPath
-          ? checkFileExists(cachedData.webpPath)
-          : Promise.resolve(false),
-        cachedData.avifPath
-          ? checkFileExists(cachedData.avifPath)
-          : Promise.resolve(false),
-        ...cachedData.sizes.map((size) => checkFileExists(size.path)),
-      ];
-
-      const results = await Promise.all(fileChecks);
-      const hasValidCache = results.some((exists) => exists);
-
-      if (hasValidCache) {
-        console.log(`  💾 Cached: ${basename(imagePath)}`);
-        return false;
-      } else {
-        console.log(
-          `  🔄 Cache files missing for ${basename(imagePath)}, regenerating...`,
-        );
-        return true;
-      }
-    } else {
-      console.log(
-        `  🔄 Content changed for ${basename(imagePath)}, reprocessing`,
-      );
-      return true;
-    }
-  } catch (error) {
-    console.log(
-      `  ❌ Error checking cache for ${basename(imagePath)}: ${error}`,
-    );
-    return true;
-  }
+// Output depends on these settings as well as the source image, so a change
+// to any of them invalidates every cache entry
+function getSettingsKey(config: GeneratorConfig): string {
+  return JSON.stringify({
+    sizes: config.imageSizes,
+    formats: config.imageFormats,
+    quality: QUALITY,
+  });
 }
 
-// Helper function to check if a file exists
-async function checkFileExists(filePath: string): Promise<boolean> {
-  try {
-    // Convert web path back to filesystem path for checking
-    // The filePath comes from cache and starts with /images/ or /eventyr/images/
-    let fsPath: string;
-    if (filePath.startsWith("/images/")) {
-      // Local development path: /images/book/file.webp -> dist/images/book/file.webp
-      fsPath = join("./dist", filePath);
-    } else if (filePath.includes("/images/")) {
-      // Production path: /eventyr/images/book/file.webp -> dist/images/book/file.webp
-      const imagePart = filePath.substring(filePath.indexOf("/images/"));
-      fsPath = join("./dist", imagePart);
-    } else {
-      return false;
-    }
+const webPathToFsPath = (webPath: string, distDir: string): string =>
+  join(distDir, webPath);
 
-    await stat(fsPath);
+async function fileExists(path: string): Promise<boolean> {
+  try {
+    await stat(path);
     return true;
   } catch {
     return false;
   }
 }
 
-// Simple GitHub Actions cache key: just use images hash
-export async function generateCacheKey(): Promise<string> {
-  try {
-    // Get hash of all image files for cache key
-    const { execSync } = await import("child_process");
-    const imageHash = execSync(
-      'find src/lib/books -name "*.png" -o -name "*.jpg" -o -name "*.jpeg" -o -name "*.gif" -o -name "*.svg" -o -name "*.webp" | sort | xargs cat | sha256sum | cut -d" " -f1',
-      {
-        encoding: "utf8",
-        cwd: process.cwd(),
-      },
-    ).trim();
-    return `image-cache-content-${imageHash.substring(0, 16)}`;
-  } catch {
-    // Fallback to timestamp if command fails
-    return `image-cache-content-${Date.now()}`;
+async function isCacheEntryValid(
+  entry: ImageCacheEntry | undefined,
+  contentHash: string,
+  settingsKey: string,
+  distDir: string,
+): Promise<boolean> {
+  if (
+    !entry ||
+    entry.contentHash !== contentHash ||
+    entry.settingsKey !== settingsKey ||
+    entry.sizes.length === 0
+  ) {
+    return false;
   }
+  const exists = await Promise.all(
+    entry.sizes.map((size) => fileExists(webPathToFsPath(size.path, distDir))),
+  );
+  return exists.every(Boolean);
 }
 
 export async function optimizeImages(
@@ -134,158 +75,130 @@ export async function optimizeImages(
   config: GeneratorConfig,
 ): Promise<Map<string, OptimizedImage>> {
   const optimizedImages = new Map<string, OptimizedImage>();
-  const cache = await loadImageCache(config);
-  let cacheUpdated = false;
+  const oldCache = await loadImageCache(config);
+  // Rebuilt from scratch so entries for deleted images are dropped
+  const cache: ImageCache = {};
+  const settingsKey = getSettingsKey(config);
+  let processedCount = 0;
 
-  console.log("🖼️  Optimizing images...");
-  console.log(`📊 Cache loaded with ${Object.keys(cache).length} entries`);
+  logger.info("Optimizing images", {
+    cachedEntries: Object.keys(oldCache).length,
+  });
 
   for (const book of books) {
-    const imageFiles = await findImages(book.path);
+    for (const imagePath of await findImages(book.path)) {
+      const key = imageKey(imagePath);
+      const contentHash = await getContentHash(imagePath);
+      const cached = oldCache[key];
 
-    for (const imagePath of imageFiles) {
-      const needsUpdate = await needsProcessing(imagePath, cache);
-
-      if (needsUpdate) {
-        const optimized = await processImage(imagePath, book.slug, config);
-        if (optimized) {
-          optimizedImages.set(imagePath, optimized);
-
-          // Update cache with content hash
-          const contentHash = await getContentHash(imagePath);
-          if (contentHash) {
-            cache[imagePath] = {
-              contentHash,
-              sizes: optimized.sizes,
-              webpPath: optimized.webpPath,
-              avifPath: optimized.avifPath,
-              width: optimized.width,
-              height: optimized.height,
-            };
-            cacheUpdated = true;
-          }
-
-          console.log(`  ✨ Optimized: ${basename(imagePath)}`);
-        }
+      let optimized: OptimizedImage | null;
+      if (
+        cached &&
+        (await isCacheEntryValid(
+          cached,
+          contentHash,
+          settingsKey,
+          config.distDir,
+        ))
+      ) {
+        logger.debug("Using cached image", { image: basename(imagePath) });
+        optimized = { ...cached, originalPath: imagePath };
       } else {
-        // Use cached data
-        const cachedData = cache[imagePath];
-
-        if (!cachedData) {
-          throw new Error(
-            "weird state achieved, thought there were cached images but didn't find any",
-          );
-        }
-
-        // Check if cache entry needs migration (missing width/height)
-        let width = cachedData.width;
-        let height = cachedData.height;
-
-        if (width === undefined || height === undefined) {
-          // Cache entry needs migration - get dimensions from original image
-          try {
-            const image = sharp(imagePath);
-            const metadata = await image.metadata();
-            width = metadata.width || 0;
-            height = metadata.height || 0;
-
-            // Update cache entry with dimensions
-            cache[imagePath] = {
-              ...cachedData,
-              width,
-              height,
-            };
-            cacheUpdated = true;
-            console.log(
-              `  ✅ Migrated ${basename(imagePath)}: ${width}x${height}`,
-            );
-          } catch (error) {
-            console.warn(
-              `  ⚠️ Could not get dimensions for ${basename(imagePath)}:`,
-              error,
-            );
-            width = 0;
-            height = 0;
-          }
-        } else {
-          console.log(`  💾 Using cached: ${basename(imagePath)}`);
-        }
-
-        optimizedImages.set(imagePath, {
-          originalPath: imagePath,
-          webpPath: cachedData.webpPath,
-          avifPath: cachedData.avifPath,
-          sizes: cachedData.sizes,
-          width,
-          height,
-        });
+        optimized = await processImage(imagePath, book.slug, config);
+        if (!optimized) continue;
+        processedCount++;
+        logger.debug("Optimized image", { image: basename(imagePath) });
       }
+
+      optimizedImages.set(key, optimized);
+      cache[key] = {
+        contentHash,
+        settingsKey,
+        sizes: optimized.sizes,
+        webpPath: optimized.webpPath,
+        avifPath: optimized.avifPath,
+        width: optimized.width,
+        height: optimized.height,
+      };
     }
   }
 
-  // Save cache if updated
-  console.log(
-    `🔧 Debug: cacheUpdated=${cacheUpdated}, cache entries: ${Object.keys(cache).length}`,
-  );
-  if (cacheUpdated) {
-    await saveImageCache(config, cache);
-    console.log("💾 Updated image cache");
-  } else {
-    console.log("⚠️ Cache not updated - no changes made");
-  }
+  const removedCount = await pruneStaleImages(config.distDir, cache);
+  await saveImageCache(config, cache);
+
+  logger.info("Image optimization complete", {
+    images: optimizedImages.size,
+    processed: processedCount,
+    cached: optimizedImages.size - processedCount,
+    staleFilesRemoved: removedCount,
+  });
 
   return optimizedImages;
 }
 
-// Rest of the functions remain the same...
+// Removes generated files whose source image no longer exists, so they
+// aren't deployed (CI restores dist/images from earlier builds)
+async function pruneStaleImages(
+  distDir: string,
+  cache: ImageCache,
+): Promise<number> {
+  const imagesDir = join(distDir, "images");
+  const expected = new Set(
+    Object.values(cache).flatMap((entry) =>
+      entry.sizes.map((size) => imageKey(webPathToFsPath(size.path, distDir))),
+    ),
+  );
+
+  let files: string[];
+  try {
+    files = await readdir(imagesDir, { recursive: true });
+  } catch {
+    return 0;
+  }
+
+  let removed = 0;
+  for (const file of files) {
+    const fsPath = join(imagesDir, file);
+    if (expected.has(imageKey(fsPath))) continue;
+    if (!(await stat(fsPath)).isFile()) continue;
+    await rm(fsPath);
+    logger.debug("Removed stale image", { file: relative(distDir, fsPath) });
+    removed++;
+  }
+  return removed;
+}
+
+async function listImages(dir: string): Promise<string[]> {
+  return (await readdir(dir))
+    .filter((file) => IMAGE_EXTENSIONS.includes(extname(file).toLowerCase()))
+    .sort()
+    .map((file) => join(dir, file));
+}
+
 export async function findImages(bookPath: string): Promise<string[]> {
   const imageFiles: string[] = [];
 
+  // Images in the book root (like front.png)
   try {
-    // First, check for images in the book root directory (like front.png)
-    try {
-      const rootFiles = await readdir(bookPath);
-      for (const file of rootFiles) {
-        const ext = extname(file).toLowerCase();
-        if ([".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"].includes(ext)) {
-          imageFiles.push(join(bookPath, file));
-        }
-      }
-    } catch (error) {
-      // Silently handle missing book root directory
+    imageFiles.push(...(await listImages(bookPath)));
+  } catch {
+    return imageFiles;
+  }
+
+  // Images in chapter directories
+  const chaptersPath = join(bookPath, "chapters");
+  let chapters: string[];
+  try {
+    chapters = (await readdir(chaptersPath)).sort();
+  } catch {
+    return imageFiles;
+  }
+
+  for (const chapter of chapters) {
+    const chapterPath = join(chaptersPath, chapter);
+    if ((await stat(chapterPath)).isDirectory()) {
+      imageFiles.push(...(await listImages(chapterPath)));
     }
-
-    // Then, check for images in chapter directories
-    const chaptersPath = join(bookPath, "chapters");
-    try {
-      const chapters = await readdir(chaptersPath);
-
-      for (const chapter of chapters) {
-        const chapterPath = join(chaptersPath, chapter);
-
-        try {
-          const chapterStat = await stat(chapterPath);
-          if (chapterStat.isDirectory()) {
-            const files = await readdir(chapterPath);
-
-            for (const file of files) {
-              const ext = extname(file).toLowerCase();
-              if (
-                [".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"].includes(ext)
-              ) {
-                imageFiles.push(join(chapterPath, file));
-              }
-            }
-          }
-        } catch (error) {
-          // Silently handle chapter read errors
-        }
-      }
-    } catch (error) {
-      // Silently handle missing chapters directory
-    }
-  } catch (error) {
-    console.error(`Error finding images in ${bookPath}:`, error);
   }
 
   return imageFiles;
@@ -303,63 +216,47 @@ export async function processImage(
   try {
     await mkdir(outputDir, { recursive: true });
 
+    const image = sharp(imagePath);
+    const metadata = await image.metadata();
+    const width = metadata.width || 0;
+    const height = metadata.height || 0;
+
     if (ext === ".svg") {
-      const svgPath = join(outputDir, basename(imagePath));
-      await copyFile(imagePath, svgPath);
-
-      // For SVG files, we need to get dimensions from the file or use defaults
-      let width = 0;
-      let height = 0;
-      try {
-        const image = sharp(imagePath);
-        const metadata = await image.metadata();
-        width = metadata.width || 0;
-        height = metadata.height || 0;
-      } catch (error) {
-        console.warn(
-          `Could not get SVG dimensions for ${basename(imagePath)}:`,
-          error,
-        );
-      }
-
+      // Vector images are served as-is
+      await copyFile(imagePath, join(outputDir, basename(imagePath)));
       return {
         originalPath: imagePath,
-        webpPath: svgPath,
-        avifPath: svgPath,
-        sizes: [
-          {
-            width,
-            path: `/images/${bookSlug}/${basename(imagePath)}`,
-          },
-        ],
+        webpPath: "",
+        avifPath: "",
+        sizes: [{ width, path: `/images/${bookSlug}/${basename(imagePath)}` }],
         width,
         height,
       };
     }
 
-    const image = sharp(imagePath);
-    const metadata = await image.metadata();
+    // Never upscale; an image narrower than every configured size is
+    // still emitted once at its own width
+    const fittingSizes = config.imageSizes.filter((size) => size <= width);
+    const sizes = fittingSizes.length > 0 ? fittingSizes : [width];
 
     const optimized: OptimizedImage = {
       originalPath: imagePath,
       webpPath: "",
       avifPath: "",
       sizes: [],
-      width: metadata.width || 0,
-      height: metadata.height || 0,
+      width,
+      height,
     };
 
-    for (const size of config.imageSizes) {
-      if (!metadata.width || size > metadata.width) continue;
-
+    for (const size of sizes) {
       for (const format of config.imageFormats) {
         const fileName = `${baseName}_${size}w.${format}`;
-        const outputPath = join(outputDir, fileName);
 
         await image
+          .clone()
           .resize(size, null, { withoutEnlargement: true })
-          .toFormat(format, { quality: 85 })
-          .toFile(outputPath);
+          .toFormat(format, { quality: QUALITY })
+          .toFile(join(outputDir, fileName));
 
         const webPath = `/images/${bookSlug}/${fileName}`;
         optimized.sizes.push({ width: size, path: webPath });
@@ -375,9 +272,37 @@ export async function processImage(
 
     return optimized;
   } catch (error) {
-    console.error(`Error processing image ${imagePath}:`, error);
+    logger.error("Error processing image", {
+      imagePath,
+      error: error instanceof Error ? error.message : String(error),
+    });
     return null;
   }
+}
+
+// Height that keeps the image's aspect ratio at the given display width
+export function scaledHeight(image: OptimizedImage, width: number): number {
+  if (!image.width || !image.height) return image.height;
+  return Math.round((width * image.height) / image.width);
+}
+
+// Generate a sizes attribute with breakpoints based on the available widths
+function generateSizes(widths: number[]): string {
+  if (widths.length === 1) {
+    return `${widths[0]}px`;
+  }
+
+  const breakpoints = widths.slice(0, -1).map((width, index) => {
+    const nextWidth = widths[index + 1]!;
+    // Use 2x the current width or next width, whichever is smaller
+    const breakpoint = Math.min(width * 2, nextWidth);
+    return `(max-width: ${breakpoint}px) ${width}px`;
+  });
+
+  // Largest size as the default
+  breakpoints.push(`${widths[widths.length - 1]}px`);
+
+  return breakpoints.join(", ");
 }
 
 export function processMarkdownImages(
@@ -387,91 +312,68 @@ export function processMarkdownImages(
 ): string {
   return content.replace(
     /!\[([^\]]*)\]\(\.\/(.*?\.(png|jpg|jpeg|gif|svg|webp))\s*(?:"([^"]*)")?\)/gi,
-    (match, alt, imagePath, ext, title) => {
-      const fullImagePath = join(chapterPath, imagePath);
-      const optimized = optimizedImages.get(fullImagePath);
-      if (
-        !optimized ||
-        optimized?.sizes?.length < 1 ||
-        !optimized?.sizes[0]?.path
-      ) {
-        console.warn(`No optimized image found for: ${imagePath}`);
+    (match, alt: string, imagePath: string, ext: string, title?: string) => {
+      const optimized = optimizedImages.get(
+        imageKey(join(chapterPath, imagePath)),
+      );
+      const smallest = optimized?.sizes[0];
+      if (!optimized || !smallest) {
+        logger.error("No optimized image found", { imagePath, chapterPath });
         return match;
       }
+
+      const altAttr = `alt="${escapeHtml(alt)}"`;
+      const titleAttr = title ? ` title="${escapeHtml(title)}"` : "";
+
       if (ext.toLowerCase() === "svg") {
-        return `<img src="${optimized.sizes[0].path}" alt="${alt}"${title ? ` title="${title}"` : ""} width="${optimized.sizes[0].width || optimized.width}" height="${optimized.sizes[0].width ? Math.round((optimized.sizes[0].width * optimized.height) / optimized.width) : optimized.height}" />`;
+        const width = smallest.width || optimized.width;
+        return `<img src="${smallest.path}" ${altAttr}${titleAttr} width="${width}" height="${scaledHeight(optimized, width)}" />`;
       }
 
-      // Get all available widths and sort them
-      const availableWidths = optimized.sizes
-        .map((s) => s.width)
-        .filter((w) => w > 0)
-        .sort((a, b) => a - b);
-
-      // Generate dynamic sizes attribute based on actual image dimensions
-      const generateSizes = (widths: number[]): string => {
-        if (widths.length === 1) {
-          return `${widths[0]}px`;
-        }
-
-        // Create breakpoints based on available widths
-        const breakpoints = widths.slice(0, -1).map((width, index) => {
-          const nextWidth = widths[index + 1];
-          if (!nextWidth) {
-            return `${width}px`;
-          }
-          const breakpoint = Math.min(width * 2, nextWidth); // Use 2x the current width or next width, whichever is smaller
-          return `(max-width: ${breakpoint}px) ${width}px`;
-        });
-
-        // Add the largest size as the default
-        breakpoints.push(`${widths[widths.length - 1]}px`);
-
-        return breakpoints.join(", ");
-      };
-
+      const availableWidths = [
+        ...new Set(optimized.sizes.map((s) => s.width).filter((w) => w > 0)),
+      ].sort((a, b) => a - b);
       const sizesAttribute = generateSizes(availableWidths);
 
-      const webpSources = optimized.sizes
-        .filter((s) => s.path.includes(".webp"))
-        .map((s) => `${s.path} ${s.width}w`)
-        .join(", ");
-      const avifSources = optimized.sizes
-        .filter((s) => s.path.includes(".avif"))
-        .map((s) => `${s.path} ${s.width}w`)
-        .join(", ");
-      const jpegSources = optimized.sizes
-        .filter((s) => s.path.includes(".jpeg"))
-        .map((s) => `${s.path} ${s.width}w`)
-        .join(", ");
+      const srcsetFor = (extension: string): string =>
+        optimized.sizes
+          .filter((s) => s.path.endsWith(extension))
+          .map((s) => `${s.path} ${s.width}w`)
+          .join(", ");
+      const avifSources = srcsetFor(".avif");
+      const webpSources = srcsetFor(".webp");
+      const jpegSources = srcsetFor(".jpeg");
+
+      // The <img> is the fallback for browsers without AVIF/WebP support,
+      // so prefer a JPEG for its src
+      const fallback =
+        optimized.sizes.find((s) => s.path.endsWith(".jpeg")) ?? smallest;
 
       return `<picture>
         ${avifSources ? `<source srcset="${avifSources}" type="image/avif" sizes="${sizesAttribute}" />` : ""}
         ${webpSources ? `<source srcset="${webpSources}" type="image/webp" sizes="${sizesAttribute}" />` : ""}
-        <img src="${optimized.sizes[0].path}" srcset="${jpegSources}" alt="${alt}"${title ? ` title="${title}"` : ""} sizes="${sizesAttribute}" width="${optimized.sizes[0].width}" height="${Math.round((optimized.sizes[0].width * optimized.height) / optimized.width)}" />
+        <img src="${fallback.path}"${jpegSources ? ` srcset="${jpegSources}"` : ""} ${altAttr}${titleAttr} sizes="${sizesAttribute}" width="${fallback.width}" height="${scaledHeight(optimized, fallback.width)}" />
       </picture>`;
     },
   );
 }
 
 async function loadImageCache(config: GeneratorConfig): Promise<ImageCache> {
-  const cacheFile = join(config.distDir, ".image-cache.json");
-
   try {
-    // Ensure dist directory exists before trying to read cache
-    await mkdir(config.distDir, { recursive: true });
-    const cacheContent = await Bun.file(cacheFile).text();
-    return JSON.parse(cacheContent);
+    const cacheFile = join(config.distDir, ".image-cache.json");
+    return JSON.parse(await Bun.file(cacheFile).text());
   } catch {
     return {};
   }
 }
 
-// Save image cache to disk
 async function saveImageCache(
   config: GeneratorConfig,
   cache: ImageCache,
 ): Promise<void> {
-  const cacheFile = join(config.distDir, ".image-cache.json");
-  await writeFile(cacheFile, JSON.stringify(cache, null, 2));
+  await mkdir(config.distDir, { recursive: true });
+  await writeFile(
+    join(config.distDir, ".image-cache.json"),
+    JSON.stringify(cache, null, 2),
+  );
 }

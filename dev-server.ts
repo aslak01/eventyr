@@ -7,23 +7,57 @@ import { logger } from "./src/utils/logger.ts";
 import { getConfig } from "./src/utils/config.ts";
 import {
   validatePath,
-  validateBookSlug,
-  validatePdfFilename,
   validateFileExtension,
   ValidationError,
 } from "./src/utils/validation.ts";
-import { isNonEmptyString } from "./src/utils/type-guards.ts";
 
 const config = getConfig();
 
-// Store connected clients for live reload with cleanup
-const clients = new Set<ReadableStreamDefaultController>();
+// Connected live reload clients, each with the keep-alive timer to clear
+// when it disconnects
+const clients = new Map<ReadableStreamDefaultController, Timer>();
 
-const CLIENT_CLEANUP_INTERVAL = 30000;
+const PING_INTERVAL = 30000;
 
-interface ClientConnection {
-  controller: ReadableStreamDefaultController;
-  lastPing: number;
+function removeClient(controller: ReadableStreamDefaultController): void {
+  clearInterval(clients.get(controller));
+  clients.delete(controller);
+}
+
+// Sends an event, dropping the client if its stream has closed
+function sendEvent(
+  controller: ReadableStreamDefaultController,
+  data: string,
+): void {
+  try {
+    controller.enqueue(`data: ${data}\n\n`);
+  } catch {
+    removeClient(controller);
+    logger.debug("Removed disconnected client", { totalClients: clients.size });
+  }
+}
+
+const liveReloadScript = `  <script>
+    console.log('🔄 Live reload enabled');
+    const eventSource = new EventSource('/dev-reload');
+    eventSource.onmessage = function(event) {
+      if (event.data === 'reload') {
+        console.log('🔄 Reloading page...');
+        location.reload();
+      }
+    };
+    eventSource.onerror = function(event) {
+      console.log('❌ Live reload connection lost');
+    };
+  </script>
+</body>`;
+
+async function htmlResponse(file: ReturnType<typeof Bun.file>) {
+  let html = await file.text();
+  if (config.server.enableLiveReload) {
+    html = html.replace("</body>", liveReloadScript);
+  }
+  return new Response(html, { headers: { "Content-Type": "text/html" } });
 }
 
 async function runBuild(): Promise<void> {
@@ -67,21 +101,10 @@ const debouncedBuild = debounce(async () => {
 
     // Notify all connected clients to reload
     logger.debug("Notifying connected clients", { clientCount: clients.size });
-    const disconnectedClients: ReadableStreamDefaultController[] = [];
-
-    for (const client of clients) {
-      try {
-        client.enqueue("data: reload\n\n");
-      } catch (error) {
-        logger.debug("Client disconnected during notification", {
-          error: error instanceof Error ? error.message : String(error),
-        });
-        disconnectedClients.push(client);
-      }
+    // Copy the keys, since sendEvent may remove clients mid-iteration
+    for (const client of Array.from(clients.keys())) {
+      sendEvent(client, "reload");
     }
-
-    // Clean up disconnected clients
-    disconnectedClients.forEach((client) => clients.delete(client));
   } catch (error) {
     const errorMessage = error instanceof Error ? error.message : String(error);
     logger.error("Build failed", { error: errorMessage });
@@ -122,32 +145,6 @@ config.server.watchPaths.forEach((path) => {
   });
 });
 
-// Periodic client cleanup
-setInterval(() => {
-  const now = Date.now();
-  const staleClients: ReadableStreamDefaultController[] = [];
-
-  for (const client of clients) {
-    try {
-      client.enqueue("data: ping\n\n");
-    } catch {
-      staleClients.push(client);
-    }
-  }
-
-  staleClients.forEach((client) => {
-    clients.delete(client);
-    logger.debug("Removed stale client connection");
-  });
-
-  if (staleClients.length > 0) {
-    logger.debug("Client cleanup completed", {
-      removedCount: staleClients.length,
-      activeCount: clients.size,
-    });
-  }
-}, CLIENT_CLEANUP_INTERVAL);
-
 // Initial build
 logger.info("Running initial build");
 try {
@@ -176,31 +173,22 @@ serve({
           return new Response("Live reload disabled", { status: 404 });
         }
 
+        let streamController: ReadableStreamDefaultController;
         return new Response(
           new ReadableStream({
             start(controller) {
-              clients.add(controller);
-              controller.enqueue("data: connected\n\n");
+              streamController = controller;
+              clients.set(
+                controller,
+                setInterval(() => sendEvent(controller, "ping"), PING_INTERVAL),
+              );
+              sendEvent(controller, "connected");
               logger.debug("Client connected for live reload", {
                 totalClients: clients.size,
               });
-
-              // Keep connection alive with periodic pings
-              const interval = setInterval(() => {
-                try {
-                  controller.enqueue("data: ping\n\n");
-                } catch (error) {
-                  clearInterval(interval);
-                  clients.delete(controller);
-                  logger.debug("Client disconnected during ping", {
-                    error:
-                      error instanceof Error ? error.message : String(error),
-                  });
-                }
-              }, 30000);
             },
             cancel() {
-              clients.delete(this as any);
+              removeClient(streamController);
               logger.debug("Client connection cancelled", {
                 totalClients: clients.size,
               });
@@ -231,58 +219,6 @@ serve({
         throw error;
       }
 
-      // Handle PDF requests by serving directly from the books directory
-      if (path.endsWith(".pdf")) {
-        try {
-          const segments = path.split("/").filter(Boolean);
-          if (segments.length === 2) {
-            const [bookSlug, pdfFilename] = segments;
-
-            if (!isNonEmptyString(bookSlug) || !isNonEmptyString(pdfFilename)) {
-              return new Response("Bad Request", { status: 400 });
-            }
-
-            // Validate inputs
-            validateBookSlug(bookSlug);
-            validatePdfFilename(pdfFilename);
-
-            const chapterName = pdfFilename.replace(".pdf", "");
-            const baseBooksDir = join(import.meta.dir, "src/lib/books");
-            const pdfPath = validatePath(
-              join(bookSlug, "chapters", chapterName, pdfFilename),
-              baseBooksDir,
-            );
-
-            const pdfFile = Bun.file(pdfPath);
-            if (await pdfFile.exists()) {
-              logger.debug("Serving PDF", {
-                path: pdfPath,
-                bookSlug,
-                filename: pdfFilename,
-              });
-              return new Response(pdfFile, {
-                headers: {
-                  "Content-Type": "application/pdf",
-                  "Content-Disposition": `inline; filename="${pdfFilename}"`,
-                },
-              });
-            } else {
-              logger.debug("PDF not found", { path: pdfPath });
-            }
-          }
-        } catch (error) {
-          if (error instanceof ValidationError) {
-            logger.warn("Invalid PDF request", { path, error: error.message });
-            return new Response("Bad Request", { status: 400 });
-          }
-          logger.error("Error serving PDF", {
-            path,
-            error: error instanceof Error ? error.message : String(error),
-          });
-          return new Response("Internal Server Error", { status: 500 });
-        }
-      }
-
       // Handle directory requests
       if (path.endsWith("/")) {
         path = path + "index.html";
@@ -309,87 +245,17 @@ serve({
       const file = Bun.file(filePath);
 
       if (await file.exists()) {
-        let response = new Response(file);
-
-        // Inject live reload script into HTML responses
-        if (path.endsWith(".html") && config.server.enableLiveReload) {
-          try {
-            const html = await file.text();
-            const htmlWithLiveReload = html.replace(
-              "</body>",
-              `  <script>
-    console.log('🔄 Live reload enabled');
-    const eventSource = new EventSource('/dev-reload');
-    eventSource.onmessage = function(event) {
-      if (event.data === 'reload') {
-        console.log('🔄 Reloading page...');
-        location.reload();
-      }
-    };
-    eventSource.onerror = function(event) {
-      console.log('❌ Live reload connection lost');
-    };
-  </script>
-</body>`,
-            );
-            response = new Response(htmlWithLiveReload, {
-              headers: {
-                "Content-Type": "text/html",
-              },
-            });
-          } catch (error) {
-            logger.error("Error injecting live reload script", {
-              path,
-              error: error instanceof Error ? error.message : String(error),
-            });
-            // Serve original file if injection fails
-          }
-        }
-
         logger.debug("File served successfully", { path });
-        return response;
+        return path.endsWith(".html") ? htmlResponse(file) : new Response(file);
       }
 
       logger.debug("File not found", { path });
 
       // Fallback to index.html for SPA routing
-      const indexFile = Bun.file(join(import.meta.dir, "dist", "index.html"));
+      const indexFile = Bun.file(join(distDir, "index.html"));
       if (await indexFile.exists()) {
         logger.debug("Serving fallback index.html");
-        try {
-          const html = await indexFile.text();
-          let htmlContent = html;
-
-          if (config.server.enableLiveReload) {
-            htmlContent = html.replace(
-              "</body>",
-              `  <script>
-    console.log('🔄 Live reload enabled');
-    const eventSource = new EventSource('/dev-reload');
-    eventSource.onmessage = function(event) {
-      if (event.data === 'reload') {
-        console.log('🔄 Reloading page...');
-        location.reload();
-      }
-    };
-    eventSource.onerror = function(event) {
-      console.log('❌ Live reload connection lost');
-    };
-  </script>
-</body>`,
-            );
-          }
-
-          return new Response(htmlContent, {
-            headers: {
-              "Content-Type": "text/html",
-            },
-          });
-        } catch (error) {
-          logger.error("Error serving fallback index.html", {
-            error: error instanceof Error ? error.message : String(error),
-          });
-        }
+        return htmlResponse(indexFile);
       }
 
       return new Response("Not Found", { status: 404 });

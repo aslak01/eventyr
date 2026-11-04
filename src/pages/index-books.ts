@@ -24,7 +24,6 @@ export function generateBooksIndexHTML(
     siteFooter,
     bookCount: books.length,
     bookCountText: books.length !== 1 ? "bøker" : "bok",
-    bookCountPlural: books.length !== 1 ? "e" : "",
     booksHtml,
   });
 }

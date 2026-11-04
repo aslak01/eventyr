@@ -1,5 +1,6 @@
 import { test, expect, describe, beforeEach, afterEach } from "bun:test";
 import { loadBooks } from "./load-books.ts";
+import { logger } from "./src/utils/logger.ts";
 import type { GeneratorConfig } from "./src/types/types.ts";
 import { writeFileSync, mkdirSync, rmSync } from "fs";
 import { join } from "path";
@@ -220,7 +221,7 @@ describe("loadBooks", () => {
 
     // Create invalid book (missing info.json)
     const invalidBookDir = join(testBooksDir, "invalid-book");
-    mkdirSync(invalidBookDir, { recursive: true });
+    mkdirSync(join(invalidBookDir, "chapters"), { recursive: true });
 
     // Create a file that looks like a book directory but isn't
     writeFileSync(join(testBooksDir, "not-a-directory.txt"), "not a directory");
@@ -270,5 +271,66 @@ describe("loadBooks", () => {
     const chapter = book.chapters[0];
     if (!chapter) throw new Error("Expected chapter to exist");
     expect(chapter.title).toBe("Valid Chapter");
+  });
+
+  test("numbers chapters by loaded position when an entry is missing", async () => {
+    const bookDir = join(testBooksDir, "gappy-book");
+    for (const dir of ["first", "third"]) {
+      mkdirSync(join(bookDir, "chapters", dir), { recursive: true });
+      writeFileSync(join(bookDir, "chapters", dir, `${dir}.md`), "Text");
+    }
+    writeFileSync(
+      join(bookDir, "info.json"),
+      JSON.stringify({
+        title: "Gappy Book",
+        author: ["Author"],
+        published: 2023,
+        illustrator: [],
+        chapter_index: { first: "First", second: "Second", third: "Third" },
+      }),
+    );
+
+    const errorsBefore = logger.errorCount;
+    const [book] = await loadBooks(testConfig);
+
+    expect(book!.chapters.map((c) => [c.path, c.order])).toEqual([
+      ["first", 0],
+      ["third", 1],
+    ]);
+    // The missing chapter is reported as an error so the build fails
+    expect(logger.errorCount - errorsBefore).toBe(1);
+  });
+
+  test("skips books without a chapters directory without an error", async () => {
+    const bookDir = join(testBooksDir, "unpublished-book");
+    mkdirSync(bookDir, { recursive: true });
+    writeFileSync(
+      join(bookDir, "info.json"),
+      JSON.stringify({ title: "Unpublished", author: ["A"], published: 1916 }),
+    );
+
+    const errorsBefore = logger.errorCount;
+    expect(await loadBooks(testConfig)).toEqual([]);
+    expect(logger.errorCount - errorsBefore).toBe(0);
+  });
+
+  test("picks markdown files deterministically", async () => {
+    const chapterDir = join(testBooksDir, "multi-md-book", "chapters", "ch");
+    mkdirSync(chapterDir, { recursive: true });
+    writeFileSync(join(chapterDir, "b.md"), "Second file");
+    writeFileSync(join(chapterDir, "a.md"), "First file");
+    writeFileSync(
+      join(testBooksDir, "multi-md-book", "info.json"),
+      JSON.stringify({
+        title: "Multi",
+        author: ["A"],
+        published: 2023,
+        illustrator: [],
+        chapter_index: { ch: "Chapter" },
+      }),
+    );
+
+    const [book] = await loadBooks(testConfig);
+    expect(book!.chapters[0]!.content).toBe("First file");
   });
 });

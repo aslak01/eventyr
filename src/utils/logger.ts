@@ -17,6 +17,9 @@ export interface Logger {
 }
 
 class ConsoleLogger implements Logger {
+  // Total errors logged, so callers can fail after reporting every problem
+  errorCount = 0;
+
   constructor(private minLevel: LogLevel = LogLevel.INFO) {}
 
   private formatMessage(
@@ -73,6 +76,7 @@ class ConsoleLogger implements Logger {
   }
 
   error(message: string, context?: LogContext): void {
+    this.errorCount++;
     if (this.shouldLog(LogLevel.ERROR)) {
       console.error(this.formatMessage("ERROR", message, context));
     }

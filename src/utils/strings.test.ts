@@ -1,49 +1,25 @@
 import { test, expect, describe } from "bun:test";
-import { safeString, joinAuthors, getWordCount } from "./strings.ts";
+import { escapeHtml, getWordCount } from "./strings.ts";
 
-describe("safeString", () => {
+describe("escapeHtml", () => {
   test("escapes double quotes", () => {
-    expect(safeString('Hello "world"')).toBe("Hello &quot;world&quot;");
+    expect(escapeHtml('Hello "world"')).toBe("Hello &quot;world&quot;");
   });
 
-  test("returns unchanged string with no quotes", () => {
-    expect(safeString("Hello world")).toBe("Hello world");
+  test("escapes ampersands and angle brackets", () => {
+    expect(escapeHtml("Per & Pål <i>")).toBe("Per &amp; Pål &lt;i&gt;");
+  });
+
+  test("does not double-escape when ampersand comes first", () => {
+    expect(escapeHtml('"&"')).toBe("&quot;&amp;&quot;");
+  });
+
+  test("returns unchanged string with no special characters", () => {
+    expect(escapeHtml("Hello world")).toBe("Hello world");
   });
 
   test("handles empty string", () => {
-    expect(safeString("")).toBe("");
-  });
-
-  test("handles multiple quotes", () => {
-    expect(safeString('"Hello" "world" "test"')).toBe(
-      "&quot;Hello&quot; &quot;world&quot; &quot;test&quot;",
-    );
-  });
-});
-
-describe("joinAuthors", () => {
-  test("returns single author unchanged", () => {
-    expect(joinAuthors(["John Doe"])).toBe("John Doe");
-  });
-
-  test("returns empty string for empty array", () => {
-    expect(joinAuthors([])).toBe("");
-  });
-
-  test("joins two authors with 'og'", () => {
-    expect(joinAuthors(["John Doe", "Jane Smith"])).toBe(
-      "John Doe og Jane Smith",
-    );
-  });
-
-  test("joins three authors with comma and 'og'", () => {
-    expect(joinAuthors(["John", "Jane", "Bob"])).toBe("John, Jane og Bob");
-  });
-
-  test("joins four authors correctly", () => {
-    expect(joinAuthors(["John", "Jane", "Bob", "Alice"])).toBe(
-      "John, Jane, Bob og Alice",
-    );
+    expect(escapeHtml("")).toBe("");
   });
 });
 

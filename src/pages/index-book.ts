@@ -4,20 +4,25 @@ import { siteFooterGenerator } from "../components/siteFooter";
 import { sortableTableGenerator } from "../components/sortableTable";
 import type { BookData } from "../types/types";
 import { templateEngine } from "../utils/template-engine";
+import { escapeHtml } from "../utils/strings";
 
 export function generateBookIndexHTML(book: BookData): string {
-  const headData = htmlHead(`${book.name}`, ["sortable"], ["sortable.min"]);
+  const headData = htmlHead(
+    escapeHtml(book.name),
+    ["sortable"],
+    ["sortable.min"],
+  );
 
   const columns = [{ title: "Tittel" }, { title: "Ord" }];
 
   const chaptersHtml = sortableTableGenerator(
     columns,
-    Object.values(book.chapters),
+    book.chapters,
     (chapter) => `
 <tr>
 <td>
 <a href="/${book.slug}/${chapter.path}.html">
-    ${chapter.title}
+    ${escapeHtml(chapter.title)}
 </a>
 </td>
 <td>${chapter.wordCount}</td>
@@ -32,9 +37,8 @@ export function generateBookIndexHTML(book: BookData): string {
     ...headData,
     siteHeader,
     siteFooter,
-    bookName: book.name.replace(/[-_]/g, " "),
+    bookName: escapeHtml(book.name),
     chapterCount: book.chapters.length,
-    chapterCountPlural: Object.values(book.chapters).length !== 1 ? "s" : "",
     chaptersHtml,
     homeUrl: "/",
   });

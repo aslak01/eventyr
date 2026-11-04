@@ -4,12 +4,12 @@ import { siteFooterGenerator } from "../components/siteFooter";
 import { sortableTableGenerator } from "../components/sortableTable";
 import type { BookData } from "../types/types";
 import { templateEngine } from "../utils/template-engine";
+import { escapeHtml } from "../utils/strings";
 
 export function generateMainIndexHTML(books: BookData[]): string {
   const headData = htmlHead(`Eventyr`, ["sortable"], ["sortable.min"]);
   const tales = books
-    .map((book) => book.chapters)
-    .flat()
+    .flatMap((book) => book.chapters)
     .sort((a, b) => a.wordCount - b.wordCount);
 
   const columns = [
@@ -25,12 +25,12 @@ export function generateMainIndexHTML(books: BookData[]): string {
     (tale) => `
 <tr>
 <td>
-<a href="${String(tale.htmlPath)}">
-    ${tale.title}
+<a href="${tale.htmlPath}">
+    ${escapeHtml(tale.title)}
 </a>
 </td>
 <td class="Bok">
-<a href="/${tale.bookSlug}/">${tale.book}</a>
+<a href="/${tale.bookSlug}/">${escapeHtml(tale.book)}</a>
 </td>
 <td class="age-rating">${tale.ageRating ? `${tale.ageRating}+` : "-"}</td>
 <td class="wordcount">${tale.wordCount}</td>
@@ -47,7 +47,6 @@ export function generateMainIndexHTML(books: BookData[]): string {
     siteFooter,
     bookCount: books.length,
     bookCountText: books.length !== 1 ? "bøker" : "bok",
-    bookCountPlural: books.length !== 1 ? "e" : "",
     booksUrl: "/books/",
     talesHtml,
   });

@@ -1,3 +1,5 @@
 {
-  "oxc/approx-constant": "warn"
+  "rules": {
+    "approx-constant": "warn"
+  }
 }

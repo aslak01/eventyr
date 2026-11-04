@@ -1,7 +1,14 @@
 import { test, expect, describe, beforeEach, afterEach } from "bun:test";
 import { optimizeImages } from "./image-simple.ts";
 import type { BookData, GeneratorConfig, ImageCache } from "../types/types.ts";
-import { writeFileSync, mkdirSync, rmSync, copyFileSync } from "fs";
+import {
+  writeFileSync,
+  mkdirSync,
+  rmSync,
+  copyFileSync,
+  existsSync,
+  statSync,
+} from "fs";
 import { join } from "path";
 
 const testDir = "test-image-cache";
@@ -251,52 +258,58 @@ describe("Image Caching", () => {
     });
   });
 
-  describe("Cache Migration", () => {
-    test("migrates cache entries missing width/height", async () => {
-      const bookDir = join(testDir, "migration-book");
-      const imagePath = join(bookDir, "migrate.png");
+  describe("Cache Invalidation", () => {
+    const makeBook = (): BookData[] => {
+      const bookDir = join(testDir, "settings-book");
       mkdirSync(bookDir, { recursive: true });
-      copyFileSync("test-fixtures/test-image-400x300.png", imagePath);
-
-      const books: BookData[] = [
+      copyFileSync(
+        "test-fixtures/test-image-400x300.png",
+        join(bookDir, "img.png"),
+      );
+      return [
         {
-          name: "Migration Book",
-          slug: "migration-book",
+          name: "Settings Book",
+          slug: "settings-book",
           path: bookDir,
           chapters: [],
           author: ["Author"],
           published: 2023,
         },
       ];
+    };
 
-      // Create cache file missing width/height (simulating old cache format)
-      const cacheFilePath = join(testConfig.distDir, ".image-cache.json");
-      const oldCache: ImageCache = {};
-      oldCache[imagePath] = {
-        contentHash: "fake-hash-12345678",
-        sizes: [
-          { width: 400, path: "/images/migration-book/migrate_400w.webp" },
-        ],
-        webpPath: "/images/migration-book/migrate_400w.webp",
-        avifPath: "/images/migration-book/migrate_400w.avif",
-        // Missing width and height properties
-      } as any;
-
-      writeFileSync(cacheFilePath, JSON.stringify(oldCache, null, 2));
-
-      // Run optimization - should migrate cache entry
+    test("reprocesses images when image settings change", async () => {
+      const books = makeBook();
       await optimizeImages(books, testConfig);
 
-      const migratedCache: ImageCache = JSON.parse(
-        await Bun.file(cacheFilePath).text(),
-      );
-      const migratedEntry = migratedCache[imagePath];
+      const result = await optimizeImages(books, {
+        ...testConfig,
+        imageFormats: ["avif"],
+      });
+      const image = [...result.values()][0]!;
 
-      expect(migratedEntry).toBeDefined();
-      if (migratedEntry) {
-        expect(migratedEntry.width).toBe(400);
-        expect(migratedEntry.height).toBe(300);
-      }
+      expect(image.sizes.every((size) => size.path.endsWith(".avif"))).toBe(
+        true,
+      );
+      expect(
+        existsSync(
+          join(testConfig.distDir, "images/settings-book/img_400w.avif"),
+        ),
+      ).toBe(true);
+    });
+
+    test("reprocesses when any generated file is missing", async () => {
+      const books = makeBook();
+      await optimizeImages(books, testConfig);
+
+      const missing = join(
+        testConfig.distDir,
+        "images/settings-book/img_400w.jpeg",
+      );
+      rmSync(missing);
+      await optimizeImages(books, testConfig);
+
+      expect(existsSync(missing)).toBe(true);
     });
   });
 
@@ -331,18 +344,18 @@ describe("Image Caching", () => {
       ];
 
       // First run - should process all images
-      const start1 = Date.now();
       const result1 = await optimizeImages(books, testConfig);
-      const time1 = Date.now() - start1;
-
       expect(result1.size).toBe(3);
 
-      // Second run - should use cache (should be faster, but we can't easily test timing)
-      const start2 = Date.now();
-      const result2 = await optimizeImages(books, testConfig);
-      const time2 = Date.now() - start2;
+      const outputs = Array.from(result1.values()).flatMap((image) =>
+        image.sizes.map((size) => join(testConfig.distDir, size.path)),
+      );
+      const mtimes = outputs.map((path) => statSync(path).mtimeMs);
 
+      // Second run - should use cache and leave generated files untouched
+      const result2 = await optimizeImages(books, testConfig);
       expect(result2.size).toBe(3);
+      expect(outputs.map((path) => statSync(path).mtimeMs)).toEqual(mtimes);
 
       // Both runs should return the same optimized images
       expect(Array.from(result1.keys()).sort()).toEqual(
@@ -474,8 +487,15 @@ describe("Image Caching", () => {
       const result = await optimizeImages(books, testConfig);
       expect(result.size).toBe(1);
 
-      // Note: The current implementation doesn't clean up unused cache entries
-      // This is a potential enhancement but not critical for functionality
+      const cache: ImageCache = JSON.parse(
+        await Bun.file(cacheFilePath).text(),
+      );
+      expect(Object.keys(cache)).toEqual([image1Path]);
+
+      // Generated files for the deleted image are removed from dist
+      const imagesDir = join(testConfig.distDir, "images/cleanup-book");
+      expect(existsSync(join(imagesDir, "delete_400w.webp"))).toBe(false);
+      expect(existsSync(join(imagesDir, "keep_400w.webp"))).toBe(true);
     });
   });
 });

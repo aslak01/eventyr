@@ -6,10 +6,10 @@ Conversion Optical Character Recognition scan originals and then from Danish/ear
 
 The project uses Bun to prerender markdown into html, and to optimise images for speedy load times.
 
-To run locally:
+To run locally (the Bun version is pinned in `mise.toml`):
 
 ```bash
-bun install && bun run dev
+mise install && bun install && bun run dev
 ```
 
 ## Contributing

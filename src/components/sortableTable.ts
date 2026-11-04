@@ -4,14 +4,10 @@ interface TableColumn {
   title: string;
 }
 
-interface TableRow {
-  [key: string]: string | number;
-}
-
-export function sortableTableGenerator(
+export function sortableTableGenerator<Row>(
   columns: TableColumn[],
-  rows: TableRow[],
-  rowRenderer: (row: TableRow) => string,
+  rows: Row[],
+  rowRenderer: (row: Row) => string,
 ): string {
   const tableHeaders = columns
     .map((column) => `<th class="${column.title}">${column.title}</th>`)

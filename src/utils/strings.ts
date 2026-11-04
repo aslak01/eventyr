@@ -1,12 +1,10 @@
-export const safeString = (string: string): string =>
-  string.replace(/"/g, "&quot;");
-
-export function joinAuthors(authors: string[]): string {
-  const { length } = authors;
-  if (length <= 1) return authors[0] || "";
-  if (length === 2) return authors.join(" og ");
-  return `${authors.slice(0, -1).join(", ")} og ${authors[length - 1]}`;
-}
+// Escapes text for use in HTML element content and double-quoted attributes
+export const escapeHtml = (string: string): string =>
+  string
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
 
 export function getWordCount(text: string): number {
   if (!text?.trim()) return 0;

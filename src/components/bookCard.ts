@@ -1,57 +1,49 @@
+import { join } from "path";
+
 import type { BookData, OptimizedImage } from "../types/types";
 import { templateEngine } from "../utils/template-engine";
-import { safeString } from "../utils/strings";
-import { isNonEmptyString } from "../utils/type-guards";
+import { escapeHtml } from "../utils/strings";
+import { imageKey, scaledHeight } from "../image_processing/image-simple";
 
 export function bookCardGenerator(
   book: BookData,
   optimizedImages: Map<string, OptimizedImage>,
 ): string {
-  if (!book?.path || !book?.name || !book?.slug) {
-    throw new Error("Invalid book data provided to bookCardGenerator");
-  }
-
-  const frontImagePath = `${book.path}/front.png`;
-  const frontImage = optimizedImages.get(frontImagePath);
+  const frontImage = optimizedImages.get(
+    imageKey(join(book.path, "front.png")),
+  );
+  // The <img> is the fallback for browsers without AVIF/WebP support
+  const firstSize =
+    frontImage?.sizes.find((size) => size.path.endsWith(".jpeg")) ??
+    frontImage?.sizes[0];
 
   let imageHtml: string;
-  if (
-    frontImage &&
-    frontImage.sizes &&
-    Array.isArray(frontImage.sizes) &&
-    frontImage.sizes.length > 0
-  ) {
-    const firstSize = frontImage.sizes[0];
-    const imgSrc = firstSize?.path || frontImage.originalPath || "";
-    const imgWidth = firstSize?.width || frontImage.width || 200;
-    const imgHeight = Math.round(
-      (imgWidth * (frontImage.height || 300)) / (frontImage.width || 200),
-    );
+  if (frontImage && firstSize) {
+    const sources = [
+      [frontImage.avifPath, "image/avif"],
+      [frontImage.webpPath, "image/webp"],
+    ]
+      .filter(([path]) => path)
+      .map(
+        ([path, type]) =>
+          `<source srcset="${escapeHtml(path!)}" type="${type}">`,
+      )
+      .join("\n         ");
 
     imageHtml = `<picture>
-         <source srcset="${safeString(frontImage.avifPath || "")}" type="image/avif">
-         <source srcset="${safeString(frontImage.webpPath || "")}" type="image/webp">
-         <img src="${safeString(imgSrc)}" alt="${safeString(book.name)} cover" class="book-cover" width="${imgWidth}" height="${imgHeight}">
+         ${sources}
+         <img src="${escapeHtml(firstSize.path)}" alt="${escapeHtml(book.name)} cover" class="book-cover" width="${firstSize.width}" height="${scaledHeight(frontImage, firstSize.width)}">
        </picture>`;
   } else {
     imageHtml = `<div class="book-cover-placeholder">📖</div>`;
   }
 
-  let authors: string;
-  if (Array.isArray(book.author) && book.author.length > 0) {
-    authors = book.author.filter(isNonEmptyString).join(", ");
-  } else {
-    authors = "Unknown Author";
-  }
-
-  const chapterCount = Array.isArray(book.chapters) ? book.chapters.length : 0;
-
   return templateEngine.render("book-card.html", {
-    bookUrl: `/${safeString(book.slug)}/`,
+    bookUrl: `/${escapeHtml(book.slug)}/`,
     imageHtml,
-    bookName: safeString(book.name),
-    authors: safeString(authors),
-    published: book.published || 0,
-    chapterCount,
+    bookName: escapeHtml(book.name),
+    authors: escapeHtml(book.author.join(", ")),
+    published: book.published,
+    chapterCount: book.chapters.length,
   });
 }

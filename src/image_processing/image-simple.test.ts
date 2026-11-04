@@ -4,14 +4,13 @@ import {
   processImage,
   processMarkdownImages,
   optimizeImages,
-  generateCacheKey,
 } from "./image-simple.ts";
 import type {
   BookData,
   GeneratorConfig,
   OptimizedImage,
 } from "../types/types.ts";
-import { writeFileSync, mkdirSync, rmSync, copyFileSync } from "fs";
+import { writeFileSync, mkdirSync, rmSync, copyFileSync, existsSync } from "fs";
 import { join } from "path";
 
 const testDir = "test-image-processing";
@@ -150,9 +149,10 @@ describe("Image Processing", () => {
       const result = await processImage(imagePath, "test-book", testConfig);
 
       expect(result).toBeTruthy();
-      expect(result!.webpPath).toContain(".svg");
-      expect(result!.avifPath).toContain(".svg");
+      expect(result!.webpPath).toBe("");
+      expect(result!.avifPath).toBe("");
       expect(result!.sizes).toHaveLength(1);
+      expect(result!.sizes[0]!.path).toBe("/images/test-book/test.svg");
       expect(result!.width).toBe(100);
       expect(result!.height).toBe(100);
     });
@@ -170,7 +170,25 @@ describe("Image Processing", () => {
 
       expect(result).toBeTruthy();
       // Should only process 100px size (not 300 or 500)
-      expect(result!.sizes.length).toBeLessThan(6); // Less than 3 sizes × 2 formats
+      expect(result!.sizes.map((size) => size.width)).toEqual([100, 100]);
+    });
+
+    test("emits images narrower than every size at their own width", async () => {
+      const imagePath = join(testDir, "tiny.gif");
+      copyFileSync("test-fixtures/test-image-200x150.gif", imagePath);
+
+      const result = await processImage(imagePath, "test-book", {
+        ...testConfig,
+        imageSizes: [400, 800],
+      });
+
+      expect(result!.sizes).toEqual([
+        { width: 200, path: "/images/test-book/tiny_200w.webp" },
+        { width: 200, path: "/images/test-book/tiny_200w.jpeg" },
+      ]);
+      expect(
+        existsSync(join(testConfig.distDir, "images/test-book/tiny_200w.jpeg")),
+      ).toBe(true);
     });
 
     test("returns null for invalid image path", async () => {
@@ -193,7 +211,7 @@ describe("Image Processing", () => {
       try {
         const stats = await fs.stat(outputDir);
         expect(stats.isDirectory()).toBe(true);
-      } catch (error) {
+      } catch {
         throw new Error(`Output directory ${outputDir} was not created`);
       }
     });
@@ -237,6 +255,47 @@ describe("Image Processing", () => {
       expect(result).toContain('alt="Alt text"');
       expect(result).toContain("webp");
       expect(result).toContain("avif");
+    });
+
+    test("uses a JPEG as the fallback src with a deduplicated sizes list", () => {
+      const result = processMarkdownImages(
+        "![Alt](./test.png)",
+        createOptimizedImageMap(),
+        join(testDir, "chapter"),
+      );
+
+      expect(result).toContain('<img src="/images/book/test_200w.jpeg"');
+      expect(result).toContain('sizes="(max-width: 400px) 200px, 400px"');
+      expect(result).toContain('width="200" height="150"');
+    });
+
+    test("escapes alt and title text", () => {
+      const result = processMarkdownImages(
+        '![Per & Pål <3](./test.png "Høna & hanen")',
+        createOptimizedImageMap(),
+        join(testDir, "chapter"),
+      );
+
+      expect(result).toContain('alt="Per &amp; Pål &lt;3"');
+      expect(result).toContain('title="Høna &amp; hanen"');
+    });
+
+    test("matches image names regardless of Unicode normalization", () => {
+      const nfcName = "kongsg\u00e5rd.png";
+      const nfdName = "kongsga\u030ard.png";
+      const map = createOptimizedImageMap();
+      map.set(
+        join(testDir, "chapter", nfcName),
+        map.get(join(testDir, "chapter", "test.png"))!,
+      );
+
+      const result = processMarkdownImages(
+        `![Gården](./${nfdName})`,
+        map,
+        join(testDir, "chapter"),
+      );
+
+      expect(result).toContain("<picture>");
     });
 
     test("handles image with title attribute", () => {
@@ -318,24 +377,6 @@ describe("Image Processing", () => {
 
       // Should contain two picture elements
       expect((result.match(/<picture>/g) || []).length).toBe(2);
-    });
-  });
-
-  describe("generateCacheKey", () => {
-    test("generates consistent cache key", async () => {
-      const key1 = await generateCacheKey();
-      const key2 = await generateCacheKey();
-
-      expect(key1).toBe(key2);
-      expect(key1).toContain("image-cache-content-");
-    });
-
-    test("cache key changes when images change", async () => {
-      // This test would require actually modifying image files
-      // and running the cache key generation again.
-      // For now, just verify the key format
-      const key = await generateCacheKey();
-      expect(key).toMatch(/^image-cache-content-[a-f0-9]+$/);
     });
   });
 
