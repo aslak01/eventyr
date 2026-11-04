@@ -4,7 +4,7 @@ Det lakket så langt på året at det tok til å knipe med kakemjølet i Storhei
 
 — Skal vi ikke sveltefores, så er det jamen på tide at jeg rusler til kverna med kornet, sa Stor-Kvinten.
 
-— Jaha, gryntet Gull, det er hverken for tidlig eller for seint det, snuppen min!
+— Jaha, gryntet Gull, det er verken for tidlig eller for seint det, snuppen min!
 
 Stor-Kvinten slang kornsekken på ryggen og la av sted alt han var kar til. Det var en riktig varm solskinnsdag tidlig på høsten dette, derfor måtte han da også bli både tørst og svett. Da han hadde fartet slik en stund, kom han borti et bergskar hvor et lite kildespring rant og rislet så vakkert fra ei sprung i fjellet.
 
@@ -18,9 +18,9 @@ Stor-Kvinten slang kornsekken på ryggen og la av sted alt han var kar til. Det 
 
 Da han kom til kvernhuset, tømte han kornet opp i kverna, men da det kom til stykket ville ikke kverna gå. Han både maste og raste, men like lite hjalp det, og til slutt ble han så harm og heit at han tok kornet med seg og ruslet heimover til Storheia igjen.
 
-![Det var ei tung bør, men etter som han hadde vært motig på tyngre saker før, så var han ikke kleinere karen no heller.](./tung-bør.png)
+![Det var ei tung bør, men etter som han hadde vært motig på tyngre saker før, så var han ikke kleinere karen nå heller.](./tung-bør.png)
 
-— Jeg får ikke kverna til å male det fordømte kornet, ikke så mye som et eneste korn heller engang, skrek han. Så no blir vi pent nødt til å sveltefore oss likevel.
+— Jeg får ikke kverna til å male det fordømte kornet, ikke så mye som et eneste korn heller engang, skrek han. Så nå blir vi pent nødt til å sveltefore oss likevel.
 
 Brødknipa i Storheia ble større og større for hver dag som gikk, og da de siste kakebleiene gikk i trollene, ble de sittende der i nøden og vente på døden.
 
@@ -28,7 +28,7 @@ Da begynte Vesle-Kvinten å røre på seg.
 
 — Nei, sa han, det lindrer ikke nøden å vente på døden, derfor gir jeg meg avsted med kornet. Enten blir det salt, eller så blir det galt — og verre enn galt kan det nå aldri bli!
 
-Så muslet da Vesle-Kvinten avgårde. Det var en tung bør, men ettersom han hadde greid tyngre saker før, så var han ikke kleinere karen no heller. Men det var riktig en strålende solskinnsdag dette og, derfor ble han ordentlig tørst da han fikk se dette kildespringet som rislet og rant så vakkert fra springen i fjellet.
+Så muslet da Vesle-Kvinten avgårde. Det var en tung bør, men ettersom han hadde greid tyngre saker før, så var han ikke kleinere karen nå heller. Men det var riktig en strålende solskinnsdag dette og, derfor ble han ordentlig tørst da han fikk se dette kildespringet som rislet og rant så vakkert fra springen i fjellet.
 
 — Det var jamen et svinehell, så tørst som jeg er, sa han og ga seg til å drikke av kilden. Men da han ble så passelig utørst, begynte kilden å jamre seg.
 
@@ -46,9 +46,9 @@ Så laget han seg en dugelig hakke av eineren og ga seg til å grave et nytt lei
 
 Ingenting er så sant som det en kilde kan få sagt, tenkte Vesle-Kvinten. Han takket for visdom og godt hjertelag, og så ruslet han til kverna med kornet.
 
-Han hadde ikke før fått kornet i kverna før vatnet dreiv hjulet og hjulet dreiv steinen og steinen malte kornet så mjølet føyk omkring ham. Da mjølet var ferdig og han fikk det i sekken, ruslet han heimover til Storheia, kvit som en baker over hele kroppen.
+Han hadde ikke før fått kornet i kverna før vatnet dreiv hjulet og hjulet dreiv steinen og steinen malte kornet så mjølet føyk omkring ham. Da mjølet var ferdig og han fikk det i sekken, ruslet han heimover til Storheia, hvit som en baker over hele kroppen.
 
-Da Stor-Kvinten fikk se denne kvite skikkelsen komme stavrende oppetter fjellet, flirte han og ropte:
+Da Stor-Kvinten fikk se denne hvite skikkelsen komme stavrende oppetter fjellet, flirte han og ropte:
 
 — Jeg trur så sant du har vært på snøfonna jeg, gutt!
 

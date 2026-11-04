@@ -4,13 +4,13 @@ subtitle: En historie
 
 # Vriomvrang
 
-Det var en gang et par folk som bodde på en gård midt i brede bygden. De hadde fullt opp av alt, både buskap på bås, sau i skjul, hest på stall, høne og hund og gris og alt det som godt er. Men noe skal det alltid være, og disse folkene hadde en sønn som rent blev et ordsprog i bygden.
+Det var en gang et par folk som bodde på en gård midt i brede bygden. De hadde fullt opp av alt, både buskap på bås, sau i skjul, hest på stall, høne og hund og gris og alt det som godt er. Men noe skal det alltid være, og disse folkene hadde en sønn som rent ble et ordtak i bygden.
 
-Bad de ham om ett, så gjorde han noe annet, sa noen ett, fikk han snudd det til noe annet; verre blev han, jo mere han voks, og til slutt var gutten så vederstyggelig vrang at de kalte ham for Vriom-vrang i bygden. Faren og moren gjorde alt som stod i menneskes makt for å få gutten rett som skikkelig folk, men alt var fåfengt, og verre og verre blev han.
+Ba de ham om ett, så gjorde han noe annet, sa noen ett, fikk han snudd det til noe annet; verre ble han, jo mer han vokste, og til slutt var gutten så vederstyggelig vrang at de kalte ham for Vriom-vrang i bygden. Faren og moren gjorde alt som sto i menneskes makt for å få gutten rett som skikkelig folk, men alt var fåfengt, og verre og verre ble han.
 
-Så var det en dag moren holdt på å kjerne smør, og rømmen var nettop som frakest.
+Så var det en dag moren holdt på å kjerne smør, og rømmen var nettopp som frakest.
 
-«Få jeg lite da,» sa Vriom-vrang - han stakk hele hånden nedi kjernen og slikket så det suste.
+«Få meg litt da,» sa Vriom-vrang - han stakk hele hånden nedi kjernen og slikket så det suste.
 
 «Vil du la bli, din villstyring, ellers så skal jeg gi deg,» sa moren.
 
@@ -26,9 +26,9 @@ Så var det en dag moren holdt på å kjerne smør, og rømmen var nettop som fr
 
 ![Kjerne rømme](./vov1.png)
 
-Så var det en gang i våronnen gutten stod og så på at far hans kjørte gjødsel.
+Så var det en gang i våronnen gutten sto og så på at far hans kjørte gjødsel.
 
-«Stå ikke der og kop,» sa faren. «Gakk sta og spenn for en hest og kjør gjødsel du som jeg, en lyt legge seg i, den som bonde skal bli,» sa han.
+«Stå ikke der og kop,» sa faren. «Gå av sted og spenn for en hest og kjør gjødsel du som jeg, en må legge seg i, den som bonde skal bli,» sa han.
 
 Ja, gutten gikk.
 
@@ -46,13 +46,13 @@ Men da begynte faren å jamre og bære seg.
 
 «Ja, når ikke du vet det, så vet ikke jeg det,» svarte Vriom-vrang.
 
-«Å, du kunne bare gjøre som far din, du, så blev det nok folk av deg,» sa moren.
+«Å, du kunne bare gjøre som far din, du, så ble det nok folk av deg,» sa moren.
 
 Dagen etter skulle faren stikke en gris, og moren skulle holde blodtrauet.
 
-Da de vel hadde stukket grisen, fikk de høre det skrek så ilt borti grishuset.
+Da de vel hadde stukket grisen, fikk de høre det skrek så stygt borti grishuset.
 
-De i vei ut for å se hva som var på ferd, og da de kom til grishuset fikk de se sønnen, som nettop hadde stukket den andre grisen.
+De i vei ut for å se hva som var på ferde, og da de kom til grishuset, fikk de se sønnen, som nettopp hadde stukket den andre grisen.
 
 «Men kors i all verdens navn, hva er det du gjør, du da?» sa faren.
 
@@ -60,7 +60,7 @@ De i vei ut for å se hva som var på ferd, og da de kom til grishuset fikk de s
 
 Men da skjønte både faren og moren, at denne gutten måtte både til doktor og prest, om han skulle bli som annet folk; men først ville de nå prøve med skolemesteren.
 
-Ja, så ga de seg i vei en dag til skolestuen, der skolemesteren bodde og spurte om han hadde råd for en vrien gutt.
+Ja, så ga de seg i vei en dag til skolestuen, der skolemesteren bodde, og spurte om han hadde råd for en vrien gutt.
 
 Jo, det mente skolemesteren han nok hadde, når han bare fikk boken frem og brillene på.
 
@@ -68,7 +68,7 @@ Jo, det mente skolemesteren han nok hadde, når han bare fikk boken frem og bril
 
 «De siste,» svarte Vriom-vrang.
 
-«Hvorav vet du det?» spurte skolemesteren; han visste hverken ut eller inn.
+«Hvordan vet du det?» spurte skolemesteren; han visste verken ut eller inn.
 
 «Jo, de siste skal bli de første og de første de siste,» sa Vriom-vrang.
 
@@ -76,7 +76,7 @@ Jo, det mente skolemesteren han nok hadde, når han bare fikk boken frem og bril
 
 «Nei, det er galt så rett det er,» sa Vriom-vrang.
 
-Men da skjønte foreldrene, at her måtte der doktor til om gutten skulle bli rett som annet folk.
+Men da skjønte foreldrene, at her måtte det doktor til om gutten skulle bli rett som annet folk.
 
 Ja, så ga de seg da i vei en dag til doktoren, og spurte om han hadde råd for en vrien gutt.
 
@@ -108,7 +108,7 @@ Fjorten dager etter kom doktoren kjørende innom gården for å se til gutten.
 
 «Hvor er medisinen?» spurte doktoren.
 
-«Her,» sa Vriom-vrang; han drog hele flasken frem fra skapet.
+«Her,» sa Vriom-vrang; han dro hele flasken frem fra skapet.
 
 «Men du skulle jo ta den inn,» sa doktoren.
 
@@ -120,9 +120,9 @@ Moren rundt og rundt; men hun fant ingen skje.
 
 «Doktoren sa jeg skulle ta skjeene ut,» sa Vriom-vrang.
 
-Men da skjønte foreldrene, at her måtte der prest til om gutten skulle bli rett som annet folk.
+Men da skjønte foreldrene, at her måtte det prest til om gutten skulle bli rett som annet folk.
 
-Så drog de da i vei nordover til prestegården der presten bodde, og spurte om han hadde råd for en vrien gutt.
+Så dro de da i vei nordover til prestegården der presten bodde, og spurte om han hadde råd for en vrien gutt.
 
 Jo, det mente presten han nok hadde, når han bare fikk formane gutten.
 
@@ -132,15 +132,15 @@ Jo, det mente presten han nok hadde, når han bare fikk formane gutten.
 
 «Du går like lukt i fordervelsen,» sa presten; sinnet tok ham.
 
-«Nei, kjære er det her?» ropte gutten; han så på foreldrene sine.
+«Nei, kjære, er det her?» ropte gutten; han så på foreldrene sine.
 
 «Vend om, mens det enda er tid,» skrek presten; han var sprutende rød i ansiktet.
 
 Da snudde gutten og sprang.
 
-Men det skjønte foreldrene hans, at der skulle noe annet enn både doktor og prest til, skulle gutten bli rett som annet folk.
+Men det skjønte foreldrene hans, at det skulle noe annet enn både doktor og prest til, skulle gutten bli rett som annet folk.
 
-Så drog de da i vei til lensmannen og spurte om han ikke skulle ha råd for en vrien gutt.
+Så dro de da i vei til lensmannen og spurte om han ikke skulle ha råd for en vrien gutt.
 
 Jo, det mente lensmannen han nok hadde, når han bare fikk satt på ham håndjernene sine.
 
@@ -148,7 +148,7 @@ Jo, det mente lensmannen han nok hadde, når han bare fikk satt på ham håndjer
 
 «Ja, både låven og stalltrevet,» svarte Vriom-vrang.
 
-Da blev lensmannen sint.
+Da ble lensmannen sint.
 
 «Hit med hendene!» skrek han og holdt håndjernene frem.
 
@@ -172,7 +172,7 @@ Gutten fikk tak i hendene til mor sin og holdt dem frem for lensmannen.
 
 Men da skjønte foreldrene at det nok skulle noe annet til enn både doktor og prest og lensmann, skulle gutten deres bli rett som annet skikkelig folk.
 
-Så drog de til mestermann og spurte om han trodde han visste noen levendes råd for en vrien gutt.
+Så dro de til mestermann og spurte om han trodde han visste noen levendes råd for en vrien gutt.
 
 Jo, det mente mestermann han nok skulle greie, når han bare fikk bakbundet ham og vist ham øksen sin.
 
@@ -180,9 +180,9 @@ Jo, det mente mestermann han nok skulle greie, når han bare fikk bakbundet ham 
 
 «Jeg trodde hendene satt på armene, jeg,» sa Vriom-vrang.
 
-Da blev mestermann flyvende sint.
+Da ble mestermann flyvende sint.
 
-«Nå er din siste time kommet,» skrek han og drog frem øksen sin.
+«Nå er din siste time kommet,» skrek han og dro frem øksen sin.
 
 «Ja, er den kommet, så kommer den ikke da,» svarte Vriom-vrang.
 
@@ -194,29 +194,29 @@ Da blev mestermann flyvende sint.
 
 «Det er galt, så rett det er,» svarte gutten.
 
-Da blev mestermann fra seg selv.
+Da ble mestermann fra seg selv.
 
 «Nå er du ferdig du også,» skrek han og løftet øksen mot gutten.
 
 «Ja, er jeg ferdig, så går jeg da,» sa gutten, og så gikk han.
 
-Men det skjønte foreldrene hans, at der skulle noe annet til enn både doktor og prest og lensmann og mestermann skulle gutten deres bli rett som annet skikkelig folk.
+Men det skjønte foreldrene hans, at det skulle noe annet til enn både doktor og prest og lensmann og mestermann, skulle gutten deres bli rett som annet skikkelig folk.
 
 Rett som de gikk hjemover fra mestermannen med gutten og ikke visste sin arme råd, møtte de en jente på veien.
 
-«God kveld,» sa jenten; hun skottet bort på gutten der hun stod. Og så spurte hun hva de for i for ærend.
+«God kveld,» sa jenten; hun skottet bort på gutten der hun sto. Og så spurte hun hva slags ærend de var ute i.
 
-Jo, foreldrene fortalte at de hadde slik en vrien gutt som som aldri ville si som annet folk sa, og aldri gjøre det annet folk gjorde, og så spurte de jenten om hun visste noen som hadde råd for slikt. For nå hadde de vært både hos skolemester og doktor og prest og lensmann og mestermann med; men det blev verre og ikke likere med gutten.
+Jo, foreldrene fortalte at de hadde slik en vrien gutt som aldri ville si som annet folk sa, og aldri gjøre det annet folk gjorde, og så spurte de jenten om hun visste noen som hadde råd for slikt. For nå hadde de vært både hos skolemester og doktor og prest og lensmann og mestermann med; men det ble verre og ikke likere med gutten.
 
 Jo, jenten mente hun nok visste råd, når hun bare fikk gjøre som hun ville.
 
-«Er det du som er vill?» spurte hun; hun la armen kringom halsen på gutten.
+«Er det du som er vill?» spurte hun; hun la armen rundt halsen på gutten.
 
 «Det er ikke jeg som er vill; det er jeg som vil,» svarte Vriom-vrang - han kjente seg så underlig vek og begynte så smått å skjelve.
 
 «Hva er det du vil?» spurte jenten; hun la kinnet sitt inn til guttens kinn.
 
-«Det du vil,» svarte gutten - han sa det samme som jenten. Og så tok han henne lint kring livet.
+«Det du vil,» svarte gutten - han sa det samme som jenten. Og så tok han henne lint rundt livet.
 
 «Du er nok gutten sin, du,» lo jenten; hun forsøkte å fri seg.
 
@@ -224,8 +224,8 @@ Jo, jenten mente hun nok visste råd, når hun bare fikk gjøre som hun ville.
 
 «Da vil du det som jeg vil,» sa jenten.
 
-«Nei, da vil du det som jeg vil,» svarte Vriom-vrang; han sa det samme som jenten annen gang.
+«Nei, da vil du det som jeg vil,» svarte Vriom-vrang; han sa det samme som jenten for andre gang.
 
-Men da skjønte foreldrene hans at nå blev det snart folk av Vriom-vrang; for nå sa han det samme som annet folk sa, og gjorde det samme som annet folk gjorde.
+Men da skjønte foreldrene hans at nå ble det snart folk av Vriom-vrang; for nå sa han det samme som annet folk sa, og gjorde det samme som annet folk gjorde.
 
 Så giftet de gutten med jenten.

@@ -6,7 +6,7 @@ Det så ut som denne fløytingen aldri ville ta ende heller, haren dreiv på og 
 
 Da syntes den gamle musekongen det gikk for vidt med galskapen, og ønsket at det snart måtte bli slutt på leiken. For musekongen var en forsiktig fyr og holdt seg klokelig i skjul under den gamle einerroten. Her holdt han et våkent øye med begivenhetenes gang. Og her kunne han også se at både hoggormen, snoken og ugla slo ned i danseleiren og åt den ene musen etter den andre. Til slutt bestemte den seg for å springe bort til haren og klage sin nød. Den pusset gullkronen og børstet purpurkappen, tok sitt septer, og dermed la den av sted.
 
-— Kjære, snille hare, du som er så grovelig pen og snill, ikke har jeg imot hverken deg eller fløyten din, men dess mer du spiller, jo flere mus kommer det bort for meg. Og skal du klemme på slik, blir jeg snart alene mus i riket! Å jeg sørger meg nesten ihjel!
+— Kjære, snille hare, du som er så grovelig pen og snill, ikke har jeg noe imot verken deg eller fløyten din, men jo mer du spiller, jo flere mus kommer det bort for meg. Og skal du klemme på slik, blir jeg snart alene mus i riket! Å jeg sørger meg nesten ihjel!
 
 Men haren sa som det var, den kunne ikke tenke seg å leve uten å spille på fløyten, og en er seg selv nærmest, mente den.
 
@@ -24,13 +24,13 @@ I kveldingen krøp haren ut av hiet sitt og satte seg som vanlig på stubben og 
 
 Da det var gjort, sa den:
 
-— Så får dere ha takk for meg begge to da! Den lo så kjeften nesten ville revne på den. Og no er det min tur til å ha det godt på mine gamle dager, for når jeg blåser i fløyten, så har jeg plenti med levemåte i all evighet!
+— Så får dere ha takk for meg begge to da! Den lo så kjeften nesten ville revne på den. Og nå er det min tur til å ha det godt på mine gamle dager, for når jeg blåser i fløyten, så har jeg plenti med levemåte i all evighet!
 
 Musekongen ruslet videre sin veg, den pep så ynkelig og klaget sin nød bare verre. Da den hadde gått slik en stund, råkte den borti en liten, rund og veslevoksen kar som gikk og sparket alene i raksten. Det var Vesle-Kvinten.
 
 — Men i all verden hva er det du låter så sårt over da, musekonge? spurte han.
 
-Musekongen fortalte den sørgelige tilstand. Og der som det skulle drive på slik, ble han nok snart alene mus i riket! Å, den sørget seg nesten ihjel.
+Musekongen fortalte den sørgelige tilstand. Og hvis det skulle fortsette slik, ble han nok snart alene mus i riket! Å, den sørget seg nesten ihjel.
 
 — Nei, men har du hørt noe så grovelig stygt da, sa Vesle-Kvinten og spyttet einerrotkvae lang veg av bare forargelse. Å nei, Mikkel er lur han, og den som er lur er sjelden ærlig! Du får gå i forkjøpet du og ta teften på reverompa, så skal jeg sannelig vise den hvor Kvistingjutulen fant Vintervatnet, jeg!
 

@@ -4,7 +4,7 @@ Stor-Kvinten hadde fått slik ukristelig tannverk at det var reint kvisamt å v�
 
 Så en dag ble det riktig storgalt: Stor-Kvinten lå på brisken og remjet og skreik så det ljomet i Storheia. Både Gull og Vesle-Kvinten trodde så visst at de hadde mistet det vesle vettet de hadde igjen, så de kom seg ikke til hverken med stell eller levemåte den dagen. Da sa Gull til Vesle-Kvinten:
 
-— Nå får du ta far din med deg, gutt, og gå ut i verden og søke lægeråd.
+— Nå får du ta far din med deg, gutt, og gå ut i verden og søke legeråd.
 
 — Så får jeg vel gjøre det da, sa Vesle-Kvinten. Han puttet noen kakebleier i nisteskreppa og belaget seg riktig på langfart. — Kom nå, far min, sa han, så får vi vel saktens endskap på tannverken din.
 
@@ -34,7 +34,7 @@ Vesle-Kvinten og Stor-Kvinten tasset videre. Som det led på råkte de borti sel
 
 Da Stor-Kvinten hørte det, satte han seg jamrende på en rotstubbe og slo gapet sitt på vid vegg.
 
-— Dette blir nok bare leiken det, sa bamsen og dro fram en diger tang som var mye digre enn den andre. Bjørnen tok spenntak og til å bryte av alle krefter. Stor-Kvinten skrek og bar seg med et slikt ukristelig mål at han kunne skremme både dyr og troll ut av sitt gode skinn.
+— Dette blir nok bare leiken det, sa bamsen og dro fram en diger tang som var mye digrere enn den andre. Bjørnen tok spenntak og til å bryte av alle krefter. Stor-Kvinten skrek og bar seg med et slikt ukristelig mål at han kunne skremme både dyr og troll ut av sitt gode skinn.
 
 — Det var rot som satt det, sa bamsen, og ikke skjønner jeg hva slags fanteri dette kan være, for jo mer jeg bryter, jo mer sitter den fast.
 
@@ -42,7 +42,7 @@ Da bamsen så at det var helt uråd, visste han ikke bedre enn han måtte gi seg
 
 — Du må nok til en større og sterkere kar enn meg, sa han til slutt.
 
-Dermed labbet trollene avsted igjen. Men de hadde ikke ruslet så langt før de gikk seg beint på det digre Løftetrollet, og han kunne ikke annet enn le da han fikk se Stor-Kvinten gå slik og bære seg, og det bare for tannverk. Men da han fikk høre at både reven og bamsen hadde brukt kreftene sine til ingen nytte, lo han så det knaket i kjakeleddene.
+Dermed labbet trollene av sted igjen. Men de hadde ikke ruslet så langt før de gikk seg beint på det digre Løftetrollet, og han kunne ikke annet enn le da han fikk se Stor-Kvinten gå slik og bære seg, og det bare for tannverk. Men da han fikk høre at både reven og bamsen hadde brukt kreftene sine til ingen nytte, lo han så det knaket i kjakeleddene.
 
 Endelig skulle da Løftetrollet legge kreftene til han også, men det gikk ikke bedre med ham enn de andre.
 
@@ -50,20 +50,20 @@ Endelig skulle da Løftetrollet legge kreftene til han også, men det gikk ikke 
 
 Men hvem skulle det være? Større og sterkere troll enn Løftetrollet var ikke å spørre hverken på denne eller andre siden av landegrensen. Derfor var det så visst ingen annen råd for Stor-Kvinten enn at han pent måtte finne seg i lagnaden og trekkes med tannverken likevel.
 
-Nå gikk Vesle-Kvinten der og grublet på nye utveger. Og en vakker dag som tannverken grasserte som aller verst i Storheia, sto han og grov et stort hol i jorda like ved skogbrynet. Han grov så jøsset føyk om ørene på ham både natt og dag. Ja, han blåste både i levemåten og kvileøkta, for no skulle han begrave selve tannverken i Storheia. Da han langt om lenge syntes å ha gjort godt arbeid med gravingen, dekket han hola til med kvister og mose, slik at ingen kunne merke noe fanteri.
+Nå gikk Vesle-Kvinten der og grublet på nye utveier. Og en vakker dag som tannverken grasserte som aller verst i Storheia, sto han og grov et stort hol i jorda like ved skogbrynet. Han grov så jøsset føyk om ørene på ham både natt og dag. Ja, han blåste både i levemåten og kvileøkta, for nå skulle han begrave selve tannverken i Storheia. Da han langt om lenge syntes å ha gjort godt arbeid med gravingen, dekket han hola til med kvister og mose, slik at ingen kunne merke noe fanteri.
 
-Så la han i veg og hentet far sin, han Stor-Kvinten. No skulle tannverken få langreis.
+Så la han i vei og hentet far sin, han Stor-Kvinten. Nå skulle tannverken få langreis.
 
-— No er det visst best du slår opp gapet ditt, far, sa Vesle-Kvinten, han surret et digert reip med blåknute om tannhjerket og gjorde fast den andre enden i sju kjempefuruer.
+— Nå er det visst best du slår opp gapet ditt, far, sa Vesle-Kvinten, han surret et digert reip med blåknute om tannhjerket og gjorde fast den andre enden i sju kjempefuruer.
 
 — Ser du den rotstubben der borte? spurte han.
 
 — Jøss da, svarte Stor-Kvinten, om jeg ser mer enn dårlig, så ser jeg vel den skulle jeg mene.
 
-— No må du gå og sette deg på denne stubben da, så kommer nok saktens jeg etterpå.
+— Nå må du gå og sette deg på denne stubben da, så kommer nok saktens jeg etterpå.
 
 Stor-Kvinten så gjorde. Men mange skrittene hadde han ikke tatt før han sank gjennom jorda og ble borte. Det både smalt og knaket i de sju furuene som holdt reipet, og da Vesle-Kvinten krøp ned i hola etter far sin, var han ikke lenger kar om å berge latteren. Der hang den ukristelige trolltannen og dinglet over hodet på Stor-Kvinten.
 
 Fra den dagen ble det også endskap på tannverken i Storheia.
 
-Men nede på Vintervassmyra ble tannen begravd. Og dersom du en sommerdag kommer farende over myra, og dersom du ser en ensom, diger tørrfuru som likner en trolljeksel, ja, så skal du vite: Dette er grava til tannverken i Storheia.
+Men nede på Vintervassmyra ble tannen begravd. Og hvis du en sommerdag kommer farende over myra, og hvis du ser en ensom, diger tørrfuru som likner en trolljeksel, ja, så skal du vite: Dette er grava til tannverken i Storheia.

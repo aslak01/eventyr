@@ -1,6 +1,6 @@
 # Gutten som gikk til nordavinden for å kreve melet tilbake
 
-Det var engang en gammel kone som hadde en sønn, og fordi hun var meget gammel og skrøpelig, så skulle gutten, sønnen hennes, gå til stabburet for henne for å hente grovmel til middag.
+Det var engang en gammel kone som hadde en sønn, og fordi hun var svært gammel og skrøpelig, så skulle gutten, sønnen hennes, gå til stabburet for henne for å hente grovmel til middag.
 
 ![Melet!](./gsgtnv1.png)
 
@@ -16,13 +16,13 @@ Han la av sted, men veien var lang, og han gikk og han gikk, og så kom han ende
 
 «God dag,» svarte nordavinden – han var grov i målet – «og selv takk for sist. Hva vil du?» sa han.
 
-«Å,» sa gutten, «jeg vil nok be deg om du vil være så snill å la meg få igjen det melet du tok fra meg på stabburstrappa. For lite har vi, og når du skal fare slik og ta det lille vi har, så blir det ikke annet enn sveltihjel.»
+«Å,» sa gutten, «jeg vil nok be deg om du vil være så snill å la meg få igjen det melet du tok fra meg på stabburstrappa. For lite har vi, og når du skal fare slik og ta det lille vi har, så blir det ikke annet enn å svelte i hjel.»
 
-«Jeg har ikke noe mel,» sa nordavinden, «men siden du er så nødig, skal du få en duk som skaffer deg alt hva du kan ønske når du bare sier: 'Duk, bre deg ut og dekk opp med alle slags kostelige retter!'»
+«Jeg har ikke noe mel,» sa nordavinden, «men siden du er så nødig, skal du få en duk som skaffer deg alt du kan ønske når du bare sier: 'Duk, bre deg ut og dekk opp med alle slags kostelige retter!'»
 
 Det var gutten vel fornøyd med.
 
-Men da veien var så lang at han ikke kunne nå hjem om dagen, gikk han inn til en gjestgiver på veien, og da de som var der skulle til å spise til aftens, la han duken på et bord som stod i kroken, og sa: «Duk, bre deg ut og dekk opp med alle slags kostelige retter!»
+Men da veien var så lang at han ikke kunne nå hjem om dagen, gikk han inn til en gjestgiver på veien, og da de som var der skulle til å spise til aftens, la han duken på et bord som sto i kroken, og sa: «Duk, bre deg ut og dekk opp med alle slags kostelige retter!»
 
 ![Duk](./gsgtnv2.png)
 
@@ -32,7 +32,7 @@ Det var ikke stor jobb med steking og koking, med duking og dekking, med henting
 
 Da det led ut på natta, da alle sov, tok hun guttens duk og la en annen i stedet, som var akkurat likedan som den han hadde fått av nordavinden, men som ikke kunne dekke opp med havrelefse engang.
 
-Da gutten våknet, tok han duken sin og gikk av sted med, og den dagen kom han hjem til mora.
+Da gutten våknet, tok han duken sin og gikk av sted med den, og den dagen kom han hjem til mora.
 
 «Nå,» sa han, «har jeg vært hos nordavinden, det var en skikkelig mann, for han ga meg denne duken, og når jeg bare sier til den: 'Duk, bre deg ut og dekk opp med alle slags kostelige retter!' så får jeg all den maten jeg kan ønske meg.»
 
@@ -42,7 +42,7 @@ Gutten skyndte seg, satte frem et bord, la duken på det og sa: «Duk, bre deg u
 
 ![Vanlig duk](./gsgtnv3.png)
 
-«Der blir ikke annen råd enn jeg får gå til nordavinden igjen da,» sa gutten, og la av sted.
+«Det blir ikke annen råd enn at jeg får gå til nordavinden igjen da,» sa gutten, og la av sted.
 
 Ut på ettermiddagen kom han dit hvor nordavinden bodde.
 
@@ -56,7 +56,7 @@ Ut på ettermiddagen kom han dit hvor nordavinden bodde.
 
 Den syntes gutten godt om. Men da det var så langt hjem at han ikke kunne rekke dit den dagen, så tok han igjen nattekvarter hos gjestgiveren.
 
-Før han forlangte noe, prøvde han bukken, for han ville se om det var sant hva nordavinden hadde sagt, og det var riktig nok. Men da gjestgiveren så dette, syntes han det var en god bukk, og da gutten vel var falt i søvn, så tok han en annen som ikke lagde gullpenger, og satte den der i stedet.
+Før han forlangte noe, prøvde han bukken, for han ville se om det var sant det nordavinden hadde sagt, og det var det. Men da gjestgiveren så dette, syntes han det var en god bukk, og da gutten vel var falt i søvn, så tok han en annen som ikke lagde gullpenger, og satte den der i stedet.
 
 Morgenen etter gikk gutten av sted, og da han kom hjem til mora, sa han: «Nordavinden er en snill mann allikevel. Nå ga han meg en bukk som kan gjøre gullpenger, bare jeg sier: 'Min bukk, gjør penger!'»
 
@@ -72,12 +72,12 @@ Han gikk da igjen til nordavinden og sa at bukken ikke dugde til noe, og at han 
 
 «Ja, nå har jeg ikke noe annet å gi deg,» sa nordavinden, «enn den gamle kjeppen som står borte i kroken. Men den er slik at når du sier: 'Min kjepp, slå på!' så slår den, helt til du sier: 'Min kjepp, stille!'»
 
-Da veien igjen var lang, så gikk gutten også inn til gjestgiveren den kvelden. Men fordi han kunne skjønne hvordan det var gått med duken og bukken, så la han seg straks til å snorke på benken og lot som han sov.
+Da veien igjen var lang, så gikk gutten også inn til gjestgiveren den kvelden. Men fordi han kunne skjønne hvordan det hadde gått med duken og bukken, så la han seg straks til å snorke på benken og lot som han sov.
 
-Gjestgiveren, som kunne skjønne at kjeppen dugde til noe spesielt, fant en annen kjepp som lignet den, og ville bytte den med gutten sin kjepp siden han hørte at gutten snorket. Men i det samme gjestgiveren skulle ta stokken, ropte gutten: «Min kjepp, slå på!» og kjeppen tok til å banke gjestgiveren, så han hoppet både over bord og benker og ropte og skrek: «Å, Herregud! Å, Herregud! Gjør kjeppen rolig, ellers slår den meg i hjel! Du skal få igjen både duken og bukken.»
+Gjestgiveren, som kunne skjønne at kjeppen dugde til noe spesielt, fant en annen kjepp som lignet den, og ville bytte den med kjeppen til gutten da han hørte at gutten snorket. Men i det samme gjestgiveren skulle ta stokken, ropte gutten: «Min kjepp, slå på!» og kjeppen tok til å banke gjestgiveren, så han hoppet både over bord og benker og ropte og skrek: «Å, Herregud! Å, Herregud! Gjør kjeppen rolig, ellers slår den meg i hjel! Du skal få igjen både duken og bukken.»
 
 ![Stokk som slår](./gsgtnv6.png)
 
-Da gutten syntes gjestgiveren hadde fått nok, sa han: «Min kjepp, stille!» tok duken og puttet i lomma og kjeppen i hånda, bant en snor om horna på bukken, og gikk hjem med alt.
+Da gutten syntes gjestgiveren hadde fått nok, sa han: «Min kjepp, stille!» tok duken og puttet i lomma og kjeppen i hånda, bandt en snor om horna på bukken, og gikk hjem med alt.
 
 Det var god erstatning for melet!

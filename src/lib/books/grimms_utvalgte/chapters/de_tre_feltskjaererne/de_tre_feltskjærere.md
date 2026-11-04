@@ -6,7 +6,7 @@ Tre feltskjærere[^1] reiste omkring i verden. De hadde stått ut sin læretid o
 
 «Jasså,» sa verten, «så vis meg hva dere kan for noe.»
 
-Den første sa at han ville skjære sin hånd av og i morgen tidlig sette den på igjen, og den skulle bli like så god som før. Den andre sa han ville rive sitt hjerte ut og i morgen tidlig atter sette det inn igjen. Den tredje sa han ville stikke sine øyne ut og i morgen atter sette dem inn igjen.
+Den første sa at han ville skjære sin hånd av og i morgen tidlig sette den på igjen, og den skulle bli like så god som før. Den andre sa han ville rive sitt hjerte ut og i morgen tidlig sette det inn igjen. Den tredje sa han ville stikke sine øyne ut og i morgen sette dem inn igjen.
 
 De hadde en salve, og det de smørte den på, det grodde sammen igjen. Flasken med den i, bar de bestandig på seg. De skar da hånd, hjerte og øyne ut, slik som de hadde sagt, la alt sammen på en tallerken og ga den til verten. Verten ga den til en pike som skulle sette den i et skap og gjemme den godt. Men piken hadde en hemmelig kjæreste som var soldat.
 
@@ -30,7 +30,7 @@ Da ga piken ham en skarp kniv, og han gikk og skar den høyre hånden av tyven o
 
 Da feltskjærerne sto opp om morgenen, sa de til piken at hun skulle bringe dem tallerkenen med hånden, hjertet og øynene. Hun hentet den i skapet, og den første satte tyvehånden på, smurte den med salve, og straks var den vokst fast. Den andre satte katteøynene inn og den tredje svinehjertet.
 
-Verten sto og så på, han beundret deres kunst og sa at han aldri hadde sett maken, og han lovet at han skulle rose og berømme dem for alle mennesker. Så betalte de for sitt opphold og drog videre.
+Verten sto og så på, han beundret deres kunst og sa at han aldri hadde sett maken, og han lovet at han skulle rose og berømme dem for alle mennesker. Så betalte de for sitt opphold og dro videre.
 
 Mens de vandret videre, ble den som hadde fått svinehjertet ikke hos de andre, men løp hen og rotet hvor enn det var en pytt eller pøl, akkurat som grisene. De andre ville hindre ham, men det hjalp ikke, han rev seg løs og løp dit hvor det var mest søle.
 
@@ -50,6 +50,6 @@ Da sa han: «Det er noe galt med oss, vi har ikke fått tilbake det som er vårt
 
 Neste morgen bega de seg på veien og sa til verten at de hadde ikke fått sitt tilbake, den ene hadde fått en tyvehånd, den andre katteøyne og den tredje svinehjerte. Verten sa at det måtte være pikens skyld og ville rope på henne, men da hun hadde sett de tre komme, løpte hun sin vei gjennom bakporten og kom ikke tilbake.
 
-Da sa de tre at han skulle gi dem mange penger ellers ville de brenne huset hans ned. Han ga da alt det han hadde og kunne skaffe til veie, og de drog avsted med det. Det var nok for alle deres levedager, men de hadde nok allikevel heller villet ha sine egne varer tilbake.
+Da sa de tre at han skulle gi dem mange penger ellers ville de brenne huset hans ned. Han ga da alt det han hadde og kunne skaffe til veie, og de dro avsted med det. Det var nok for alle deres levedager, men de hadde nok allikevel heller villet ha sine egne varer tilbake.
 
 [^1]: Feltskjærere kaltes de som gjorde bartskjærtjeneste ved hæren og flåten.

@@ -6,7 +6,7 @@ Det var engang en hare som var ute og gikk i det grønne. «Å hurra, hei og hop
 
 Så kom det en rev luskende.
 
-«God dag, god dag!» sa haren. «Jeg er så glad i dag, for det jeg har vært gift, skal du vite,» sa han.
+«God dag, god dag!» sa haren. «Jeg er så glad i dag, for jeg har vært gift, skal du vite,» sa han.
 
 «Det var vel det da,» sa reven.
 

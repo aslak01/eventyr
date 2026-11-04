@@ -40,7 +40,7 @@ Han så lenge på skriften, og ropte til slutt:
 
 «Det er latin, herre, eller du kan henge meg opp!»
 
-«Så si hva der står!» ba kalifen.
+«Så si hva det står!» ba kalifen.
 
 Selim leste:
 
@@ -86,7 +86,7 @@ De to nye storkene skyndte seg bort til de to andre, og det var ikke lite annet 
 
 «Jeg sier takk, men jeg har ingen matlyst i dag. Jeg kommer i et annet ærend, jeg. Far skal ha gjestebud i kveld, og jeg skal danse for gjestene. Nå ville jeg bare øve meg litt på forhånd.»
 
-Den unge storkejomfruen gjorde nå de løyeste trinn og kast utover marken. Kalifen og viseren så forundret på henne. Men da hun gav seg til å stå på en fot og flaske med vingene i saktmodig takt, da var de ikke gode til å holde seg lenger. De satte i en latter så de holdt på å miste pusten.
+Den unge storkejomfruen gjorde nå de løyeste trinn og kast utover marken. Kalifen og viseren så forundret på henne. Men da hun ga seg til å stå på en fot og flaske med vingene i saktmodig takt, da var de ikke gode til å holde seg lenger. De satte i en latter så de holdt på å miste pusten.
 
 Kalifen var den første som kom til seg selv igjen.
 
@@ -110,7 +110,7 @@ Hvem hadde hørt gjette at en kalif kunne bli til stork? Og enda om folk trudde 
 
 Dag etter dag snek de seg omkring og sultet mest i hjel; for ormer og paddor kunne de ikke spise, og røtter hadde de vondt for å få i seg med de lange nebbene.
 
-Eneste tidsfordriv de hadde i dette sørgelige livet var å fly opp på et hustak i byen og se hva som der gikk for seg.
+Eneste tidsfordriv de hadde i dette sørgelige livet var å fly opp på et hustak i byen og se hva som foregikk der.
 
 En dag var det stort røre i byen. Gjennom alle gater dro et druselig følge. - De slo på trommer og bleste i trompeter. Fremst i følget red en mann på en god hest. Selv var han overlessen grumt kledd og hadde en mengde tjenere omkring seg.
 
@@ -186,7 +186,7 @@ Storkene var noe flatøret og så på hverandre. Så gjorde kalifen tegn til vis
 
 «Ung og vakker,» sukket kalifen. «Det er nettopp saken. Hvem garanterer for at hun er ung og vakker. Dette blir da rett å kjøpe katt i sekk.»
 
-De sto der således en stund og kranglet om dette. Men da kalifen skjønte at viseren heller ville være stork alle sine dager enn å gifte seg med ugla, måtte han selv til enda så uhyggelig han syntes det var.
+De sto der slik en stund og kranglet om dette. Men da kalifen skjønte at viseren heller ville være stork alle sine dager enn å gifte seg med ugla, måtte han selv til enda så uhyggelig han syntes det var.
 
 Ugla ble ikke lite glad. Hun sa de ikke kunne ha kommet på en bedre tid; for det var nettopp denne natten trollmannen pleide å holde laget sitt.
 
@@ -226,7 +226,7 @@ Det var kattugler! Kalifen ble så betatt av henne med en gang at han ropte:
 
 «Det er en stor lykke at jeg har vært stork!»
 
-Alle tre i følge gav seg nå på veien til Bagdad. Som godt var fant kalifen i lommen sin en full pengepung. I den første landsbyen de kom til, kjøpte han hest og vogn, så det sto ikke lenge på før de var framme.
+Alle tre i følge ga seg nå på veien til Bagdad. Som godt var fant kalifen i lommen sin en full pengepung. I den første landsbyen de kom til, kjøpte han hest og vogn, så det sto ikke lenge på før de var framme.
 
 Her i Bagdad ble folk storlig forbauset da de fikk se kalifen igjen. De hadde ment at han var død, og nå ble de både glade og lykkelige da den avholdte herren deres kom tilbake.
 
@@ -248,7 +248,7 @@ Det var de alle enige om. Teltene ble tatt ned, og karavanen ruslet av sted i re
 
 De kom lenge om lenge til et godt hvilested, slo teltene opp og hvilte seg.
 
-Framandmannen var de snille mot og så oppmerksom mot ham som var han beste vennen deres. Den ene ga ham dyner, den andre overtrekk, en tredje lånte ham slaver. Han fikk det i det hele så godt som hadde han vært hjemme.
+Fremmedkaren var de snille mot og så oppmerksomme mot ham som var han beste vennen deres. Den ene ga ham dyner, den andre overtrekk, en tredje lånte ham slaver. Han fikk det i det hele så godt som hadde han vært hjemme.
 
 Det led langt på dag da de våknet, og de ble alle enige om at her ville de være til ut på kvelden. Da de hadde spist, trakk de seg nærmere sammen, og den yngste kjøpmannen sa til den eldste:
 

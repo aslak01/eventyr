@@ -1,10 +1,10 @@
 # Vesle-Kvinten og dragen
 
-Det var en gang en stor og stygg drage som var så umåtelig glupsk og gjerrig av seg at den aldri fikk samlet i store nok lader. Den røvet med seg hopetall med jorddverger og haugbukker som den puttet inn i den digre hulen sin i Vassfjellet. Og var de først kommet dit inn, så var det sannelig ingen lett sak å komme derfra mere. For utafor hulen lå dragen og passet på som en smed og unte seg ikke søvnen engang. Og kom det noen farende forbi, så ble de bare kastet inn i hulen de og. Mang en jorddverg og haugbukk prøvde på mange vis å komme dragen til livs for å redde folket sitt, men jo oftere de kom, jo kvikkere gikk det for seg med å få dem i hullet.
+Det var en gang en stor og stygg drage som var så umåtelig glupsk og gjerrig av seg at den aldri fikk samlet i store nok lader. Den røvet med seg hopetall med jorddverger og haugbukker som den puttet inn i den digre hulen sin i Vassfjellet. Og var de først kommet dit inn, så var det sannelig ingen lett sak å komme seg derfra igjen. For utafor hulen lå dragen og passet på som en smed og unte seg ikke søvnen engang. Og kom det noen farende forbi, så ble de bare kastet inn i hulen de og. Mang en jorddverg og haugbukk prøvde på mange vis å komme dragen til livs for å redde folket sitt, men jo oftere de kom, jo kvikkere gikk det for seg med å få dem i hullet.
 
 Stor-Kvinten i Storheia, som hver eneste høst leide jorddvergene og haugbukkene til slåttekarer, kom denne gangen aldeles i beit. Han visste ikke sin arme og syndige råd hvor han skulle ta slåttehjelpen fra. Til syvende og sist bestemte han seg for å lage seg en diger lanse av den største grana i Storheia for å gi seg i kamp med dragen.
 
-Etterpå fikk han kjerringa si, hu Gull, til å erte ham opp, så han ble så sint som et uvær, og dermed salet han den svarte hesten sin og raste avsted så varmen gøyv under hovene. Da han kom til dragen, ropte han:
+Etterpå fikk han kjerringa si, hu Gull, til å erte ham opp, så han ble så sint som et uvær, og dermed salet han den svarte hesten sin og raste av sted så varmen gøyv under hovene. Da han kom til dragen, ropte han:
 
 > Jeg vil kjøre deg i steiner sju.  
 > Øie meg jeg er terga!  
@@ -31,11 +31,11 @@ Oppe i Storheia gikk Gull og Vesle-Kvinten og ventet på at gubben sjøl skulle 
 
 Dragen åpnet kjeften sin og spyttet varme ut i luften, og da Gull fikk se det, rente hun på den med sverdet. Men det dugde ikke stort det heller, det gikk tvert av, og kjerringa føyk som på ei vindbyge lukt inn i hulen.
 
-No gikk Vesle-Kvinten og dreiv i ensomhet omkring i Storheia aldri så lenge, men til slutt ble han engstelig for at foreldrene kunne være ille farne, og derfor måtte han og ut og prøve lykken. Han ruslet avgårde, og som reisekamerat tok han med seg en smellfeit gris.
+No gikk Vesle-Kvinten og dreiv i ensomhet omkring i Storheia aldri så lenge, men til slutt ble han engstelig for at foreldrene kunne være ille farne, og derfor måtte han og ut og prøve lykken. Han ruslet av gårde, og som reisekamerat tok han med seg en smellfeit gris.
 
 Da han langt om lenge kom fram til dragen, gikk han helt bort til den, klappet den på kinnet og sa:
 
-— Kjære, snille drage! Jeg kommer for å takke deg for alle dine velgjerninger. Du har ryddet bort alle mine fiender, derfor er jeg den gladeste gutten i verden, aldri har jeg hatt det så godt i hele mitt liv. Nå kan jeg både sove og ete i fred for hele verden. Ta denne grisen som takk for hjelp og bistand! Og dersom du vil, skal du få en slik gris hver eneste dag så lenge jeg lever og har helse til å rusle.
+— Kjære, snille drage! Jeg kommer for å takke deg for alle dine velgjerninger. Du har ryddet bort alle mine fiender, derfor er jeg den gladeste gutten i verden, aldri har jeg hatt det så godt i hele mitt liv. Nå kan jeg både sove og ete i fred for hele verden. Ta denne grisen som takk for hjelp og bistand! Og hvis du vil, skal du få en slik gris hver eneste dag så lenge jeg lever og har helse til å rusle.
 
 Dragen ble så mild og blank i øynene med det samme, det var første gangen den hadde hørt at troll hadde godhet for den.
 

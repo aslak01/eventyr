@@ -2,7 +2,7 @@
 
 ![Hanen, gjøken og århanen](./fugl.png)
 
-Hanen, gjøken og århanen hadde engang kjøpt ku sammen. Da det ikke var råd å dele den, og de ikke kunde bli forlikt om å løse hverandre ut, blev de enig om, at den som våknet først om morgenen, skulde ha kua. Så våknet hanen først.
+Hanen, gjøken og århanen hadde engang kjøpt ku sammen. Da det ikke var råd å dele den, og de ikke kunne bli forlikt om å løse hverandre ut, ble de enige om at den som våknet først om morgenen, skulle ha kua. Så våknet hanen først.
 
 «Nå er kua mi!
 Nå er kua mi!» sa hanen.
@@ -17,4 +17,4 @@ Da han gol, våknet århanen.
 «Kjære mine brødre, del
 som rett er og skjel,
 rett er og skjel! Tsio, tsi!» sa århanen. Kan du
-så si meg, hvem som burde ha kua?
+så si meg hvem som burde ha kua?

@@ -8,7 +8,7 @@ Det var engang en mann som skulle reise til skogs etter ved. Så møtte han en b
 
 «Å trøste og bære meg heller!» sa mannen, «det finnes ikke vedpinnen hjemme; du får da la meg kjøre hjem et lass ved, ellers fryser vi rent i hjel; jeg skal komme igjen med hesten til deg i morgen.»
 
-Ja, det skulle han få lov til, det ble de forlikt om, men dersom han ikke kom igjen, så skulle han miste alle sauene sine til sommeren, sa bjørnen.
+Ja, det skulle han få lov til, det ble de forlikt om, men hvis han ikke kom igjen, så skulle han miste alle sauene sine til sommeren, sa bjørnen.
 
 Mannen fikk veden på og ruslet hjemetter, men han var ikke mye glad i det forliket, det kan en nok vite. Så møtte han en rev.
 
@@ -20,13 +20,13 @@ Mannen fikk veden på og ruslet hjemetter, men han var ikke mye glad i det forli
 
 Ja, det lovte han, og det skulle han holde også, sa mannen.
 
-«Når du kommer til bjørnen med hesten i morgen,» sa reven, «så skal jeg kaue[^*] oppe i ura her jeg, og når så bjørnen spør hva det er, skal du si det er Per Skytter, som er den beste skytteren i verden, — og siden får du hjelpe deg selv.»
+«Når du kommer til bjørnen med hesten i morgen,» sa reven, «så skal jeg kaue[^1] oppe i ura her jeg, og når så bjørnen spør hva det er, skal du si det er Per Skytter, som er den beste skytteren i verden, — og siden får du hjelpe deg selv.»
 
 Den neste dagen reiste mannen ut, og da han traff bjørnen, begynte det å kaue oppe i ura.
 
 «Tsju, hva er det?» sa bjørnen.
 
-«Å, det er han Per Skytter, som er den beste skytteren i verden,» sa mannen; «jeg kjenner ham på målet[^**],» sa han.
+«Å, det er han Per Skytter, som er den beste skytteren i verden,» sa mannen; «jeg kjenner ham på målet[^2],» sa han.
 
 «Har du sett noen bjørn her, Erik?» ropte det borti skogen.
 
@@ -36,7 +36,7 @@ Den neste dagen reiste mannen ut, og da han traff bjørnen, begynte det å kaue 
 
 «Hva er det som står ved sleda di da?» ropte det borti skogen.
 
-«Si det er en gammel tyrilåg[^***],» hvisket bjørnen.
+«Si det er en gammel tyrilåg[^3],» hvisket bjørnen.
 
 «Å, det er bare en gammel tyrilåg,» sa Erik.
 
@@ -50,7 +50,7 @@ Den neste dagen reiste mannen ut, og da han traff bjørnen, begynte det å kaue 
 
 «Si du hjelper deg selv, og bind meg fast du,» sa bjørnen.
 
-«Nei takk, jeg hjelper meg nok selv,» sa mannen, og gav seg til å binde bjørnen fast med alle de repene han hadde, så den ikke kunne bevege på en labb engang.
+«Nei takk, jeg hjelper meg nok selv,» sa mannen, og ga seg til å binde bjørnen fast med alle de repene han hadde, så den ikke kunne bevege på en labb engang.
 
 «Slike tyristubber pleier vi hugge øksa i hos oss, når vi har bundet dem fast,» ropte det borti skogen; «for så styrer vi bedre i de store bakkene,» sa det.
 
@@ -68,7 +68,7 @@ Ja, det lovte mannen, og takket for hjelpa. Da han hadde satt inn hesten, gikk h
 
 «Det skulle pokker gi den tyvereven noen bukk,» sa kjerringa. «Hesten har vi jo, og bjørnen attåpå, og reven har visst stjålet flere gjess fra oss enn bukken er verd, og har han ikke gjort det, så kan han gjøre det,» sa hun. «Nei, ta et par av de sinteste bikkjene i sekken din og slipp etter ham du, så blir vi kanskje kvitt den tyveradden,» sa kjerringa.
 
-Det syntes mannen var et godt råd, og tok to sinte røde hunder, puttet dem i sekken, og drog avsted med dem.
+Det syntes mannen var et godt råd, og han tok to sinte røde hunder, puttet dem i sekken og dro av sted med dem.
 
 «Har du bukken?» sa reven.
 
@@ -78,8 +78,8 @@ Det syntes mannen var et godt råd, og tok to sinte røde hunder, puttet dem i s
 
 ![Illustrasjon](./vgil2.png)
 
-[^*]: Kaue: rope, skrike
+[^1]: Kaue: rope, skrike
 
-[^**]: Målet: stemmen, måten å snakke på
+[^2]: Målet: stemmen, måten å snakke på
 
-[^***]: Tyrilåg: gammel trevirke, tømmerstokk
+[^3]: Tyrilåg: gammel, kvaefull furustokk som ligger på bakken

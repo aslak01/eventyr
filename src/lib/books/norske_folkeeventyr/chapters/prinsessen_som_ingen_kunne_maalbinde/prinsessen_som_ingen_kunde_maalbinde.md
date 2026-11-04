@@ -2,13 +2,13 @@
 
 ![Illustrasjon](./psikm1.png)
 
-Det var engang en konge; han hadde en datter som var så vrien og vrang i ord, at ingen kunne målbinde henne, og derfor lovte han ut at den som kunne gjøre det, skulle få prinsessen til ekte, og halve kongeriket til.
+Det var engang en konge; han hadde en datter som var så vrien og vrang i ord, at ingen kunne målbinde henne, og derfor lovet han at den som kunne gjøre det, skulle få prinsessen til ekte, og halve kongeriket til.
 
-Det var nok av dem som ville prøve seg, skal jeg tro, for det er ikke hver dag en kan få en kongsdatter og et halvt rike til giveendes[^*]. Grinden til kongsgården sto ikke noen stund, de kom i flokk og følge fra øst og vest, både ridende og gående. Men det var ingen som kunne ordbinde prinsessen. Til sist satte kongen ut, at de som prøvde seg, men ikke kunne, de skulle sviemerkes på begge ørene med det store sviejernet hans — han ville ikke ha det rennet[^**] i gården sin til ingenting.
+Det var nok av dem som ville prøve seg, skal jeg tro, for det er ikke hver dag en kan få en kongsdatter og et halvt rike til giveendes[^1]. Grinda til kongsgården sto ikke stille en eneste stund, de kom i flokk og følge fra øst og vest, både ridende og gående. Men det var ingen som kunne ordbinde prinsessen. Til sist satte kongen ut, at de som prøvde seg, men ikke kunne, de skulle sviemerkes på begge ørene med det store sviejernet hans — han ville ikke ha det rennet[^2] i gården sin til ingenting.
 
 Så var det tre brødre også som hadde fått spurt om prinsessen, og da de ikke hadde det for rart hjemme, ville de ut og friste lykka, og se om de kunne vinne kongsdatteren og det halve riket. De var venner og nokså vel forlikte, og derfor gikk de sammen alle tre.
 
-Da de var kommet et stykke på veien, fant Askeladden en død skjærunge[^***].
+Da de var kommet et stykke på veien, fant Askeladden en død skjærunge[^3].
 
 «Jeg fant, jeg fant!» ropte han.
 
@@ -44,7 +44,7 @@ Da de hadde gått litt til, fant han et skålsbrot; det tok han også opp.
 
 «Å, jeg har slikt å gjøre, jeg har slikt å føre, så fører jeg vel det,» svarte Askeladden.
 
-Da de var kommet litt lengre, fant han et kroket bukkehorn, og like efter fant han make til det.
+Da de var kommet litt lengre, fant han et kroket bukkehorn, og like etter fant han make til det.
 
 «Jeg fant, jeg fant, gutter!» ropte han.
 
@@ -56,13 +56,13 @@ Da de var kommet litt lengre, fant han et kroket bukkehorn, og like efter fant h
 
 «Nei, jeg har slikt å gjøre, jeg har slikt å føre, så fører jeg vel dem,» sa Askeladden.
 
-Om litt igjen fant han en bleie.
+Om litt igjen fant han en kile.
 
 «Nei, gutter, jeg fant, jeg fant!» ropte han.
 
 «Det var svare til finding på deg! Hva fant du nå igjen?» sa de to eldste.
 
-«Jeg fant en bleie,» svarte han.
+«Jeg fant en kile,» svarte han.
 
 «Å kast den! Hva gjør du med den?» sa de.
 
@@ -92,15 +92,15 @@ Så la de inn til kongsdatteren. Først den eldste.
 
 «Det er varmere i glohaugen,» svarte prinsessen; der lå sviejernet ferdig og ventet. Da han så det, gikk det i stå for ham med én gang, og så var det ute med ham.
 
-Det gikk ikke likere med den mellomste.
+Det gikk ikke bedre med den mellomste.
 
 «God dag,» sa han.
 
 «God dag igjen,» sa hun og vrikket på seg.
 
-«Det er fælt heit her,» sa han.
+«Det er fælt hett her,» sa han.
 
-«Det er heidere i glohaugen,» svarte hun. Dermed mistet han også mål og mele, — og så var det frem med jernet igjen.
+«Det er hetere i glohaugen,» svarte hun. Dermed mistet han også mål og mele, — og så var det frem med jernet igjen.
 
 Så kom Askeladden.
 
@@ -110,7 +110,7 @@ Så kom Askeladden.
 
 «Det var da godt og varmt her,» sa Askeladden.
 
-«Det er varmere i glohaugen,» svarte hun; hun ble ikke blidere for det den tredje kom.
+«Det er varmere i glohaugen,» svarte hun; hun ble ikke blidere for at den tredje kom.
 
 «Det var råd å få stekt skjæren min der da?» spurte han.
 
@@ -118,13 +118,13 @@ Så kom Askeladden.
 
 «Å det har ingen nød, jeg slår om denne vidjespendingen,» svarte gutten.
 
-«Den er for rum,» sa hun.
+«Den er for vid,» sa hun.
 
-«Jeg driver en bleie,» sa gutten, og tok frem bleien.
+«Jeg driver i en kile,» sa gutten, og tok fram kilen.
 
 «Fettet renner av henne,» sa kongsdatteren.
 
-«Jeg holder under dette,» svarte gutten, han syntes frem skålsbrottet.
+«Jeg holder under dette,» svarte gutten, og viste fram skålsbrottet.
 
 «Du er så kroket i ord du,» sa prinsessen.
 
@@ -136,7 +136,7 @@ Så kom Askeladden.
 
 «Jeg mener du er utgått for å målbinde meg du, jeg?» sa hun.
 
-«Nei, jeg er ikke utgått, men den er utgått den,» svarte gutten, og drog frem skosålen.
+«Nei, jeg er ikke utgått, men den er utgått den,» svarte gutten, og dro fram skosålen.
 
 Så var prinsessen målbundet.
 
@@ -144,8 +144,8 @@ Så var prinsessen målbundet.
 
 ![Illustrasjon](./psikm2.png)
 
-[^*]: Giveendes: gratis
+[^1]: Giveendes: gratis
 
-[^**]: Rennet: løpt omkring
+[^2]: Rennet: løpt omkring
 
-[^***]: Skjærunge: skjære (fugl)
+[^3]: Skjærunge: ung skjære (fugl)
